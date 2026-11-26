@@ -1,0 +1,3021 @@
+{
+ "seed": 20261012,
+ "design": "probability sample stratified on report (fixed allocation per report) x claim type (proportional within report, largest remainder); pool = six reports not used in development; excludes the 20 pilot claims and stray claim types; no stratification on framework scores (R3.4 commitment)",
+ "pool_size": 822,
+ "allocation": {
+  "ADVANC": 9,
+  "CPN": 7,
+  "IVL": 9,
+  "PTT": 8,
+  "PTTGC": 9,
+  "SCC": 8
+ },
+ "strata": {
+  "ADVANC|commitment": {
+   "N": 83,
+   "n": 4,
+   "w": 20.75
+  },
+  "ADVANC|achievement": {
+   "N": 44,
+   "n": 2,
+   "w": 22.0
+  },
+  "ADVANC|metric": {
+   "N": 24,
+   "n": 1,
+   "w": 24.0
+  },
+  "ADVANC|policy": {
+   "N": 10,
+   "n": 1,
+   "w": 10.0
+  },
+  "ADVANC|alignment": {
+   "N": 8,
+   "n": 1,
+   "w": 8.0
+  },
+  "CPN|commitment": {
+   "N": 40,
+   "n": 4,
+   "w": 10.0
+  },
+  "CPN|achievement": {
+   "N": 12,
+   "n": 1,
+   "w": 12.0
+  },
+  "CPN|policy": {
+   "N": 6,
+   "n": 1,
+   "w": 6.0
+  },
+  "CPN|alignment": {
+   "N": 4,
+   "n": 1,
+   "w": 4.0
+  },
+  "IVL|commitment": {
+   "N": 83,
+   "n": 3,
+   "w": 27.666666666666668
+  },
+  "IVL|achievement": {
+   "N": 52,
+   "n": 2,
+   "w": 26.0
+  },
+  "IVL|metric": {
+   "N": 53,
+   "n": 2,
+   "w": 26.5
+  },
+  "IVL|policy": {
+   "N": 19,
+   "n": 1,
+   "w": 19.0
+  },
+  "IVL|alignment": {
+   "N": 15,
+   "n": 1,
+   "w": 15.0
+  },
+  "PTT|commitment": {
+   "N": 69,
+   "n": 5,
+   "w": 13.8
+  },
+  "PTT|achievement": {
+   "N": 10,
+   "n": 1,
+   "w": 10.0
+  },
+  "PTT|metric": {
+   "N": 14,
+   "n": 1,
+   "w": 14.0
+  },
+  "PTT|policy": {
+   "N": 6,
+   "n": 1,
+   "w": 6.0
+  },
+  "PTTGC|commitment": {
+   "N": 72,
+   "n": 5,
+   "w": 14.4
+  },
+  "PTTGC|achievement": {
+   "N": 39,
+   "n": 2,
+   "w": 19.5
+  },
+  "PTTGC|metric": {
+   "N": 16,
+   "n": 1,
+   "w": 16.0
+  },
+  "PTTGC|policy": {
+   "N": 11,
+   "n": 1,
+   "w": 11.0
+  },
+  "SCC|commitment": {
+   "N": 69,
+   "n": 4,
+   "w": 17.25
+  },
+  "SCC|achievement": {
+   "N": 24,
+   "n": 2,
+   "w": 12.0
+  },
+  "SCC|metric": {
+   "N": 11,
+   "n": 1,
+   "w": 11.0
+  },
+  "SCC|policy": {
+   "N": 13,
+   "n": 1,
+   "w": 13.0
+  }
+ },
+ "claims": [
+  {
+   "uid": "advanc-2024-SR-en::CLM-0070",
+   "company": "ADVANC",
+   "sector": "Telecommunications",
+   "report": "advanc-2024-SR-en",
+   "page": 600,
+   "section": "Employee Development and Well-being",
+   "claim_type": "commitment",
+   "claim_text": "AIS pledges to offer a variety of learning channels to maximize learning efficiency through online courses, virtual classes, and workshops.",
+   "sdg_targets": "4.3, 4.4, 9.5, 9.c",
+   "pack": [
+    [
+     "X1",
+     "cross-section",
+     "Sustainability Report 2024",
+     46,
+     "<a id='a91b10dc-3fc8-4a54-8836-9cf2bf8d6122'></a>\n\nAIS pledges to offer a variety of learning channels to maximize learning efficiency through online courses, virtual classes, and workshops. As part of the effort, AIS has developed the LearnDi learning platform and ReadDi online library to support lifelong learning that can be conducted anytime and from anywhere. Also, the Company provides access to learning platforms from other key institutions to open up diverse learning opportunities for employees."
+    ],
+    [
+     "X2",
+     "cross-section",
+     "Data Privacy and Security",
+     480,
+     "AIS provides online training courses through the self-access LearnDi platform to educate its employees on current practices relating to cybersecurity, data privacy, and the Company's measures to respond to cyberthreats."
+    ],
+    [
+     "X3",
+     "cross-section",
+     "Sustainability Report 2024",
+     65,
+     "<a id='139e3536-3fe3-450e-8c81-b9e90a3c274e'></a>\n\n*   **Digital Learning Platform**\nAIS has collaborated with a network of educational partners both locally and internationally to offer over 100 courses for the general public, including topics such as building business readiness, technology literacy, business management, self-development, knowledge for creating jobs and income. Over 117,884 individuals have already enrolled."
+    ],
+    [
+     "S1",
+     "same-section",
+     "Employee Development and Well-being",
+     600,
+     "AIS Academy is established to serve as a learning center to offer knowledge in technology and innovations and promote integrated capability development including functional skills, technical skills, and soft skills."
+    ],
+    [
+     "S2",
+     "same-section",
+     "Employee Development and Well-being",
+     600,
+     "AIS has developed the LearnDi learning platform and ReadDi online library to support lifelong learning that can be conducted anytime and from anywhere."
+    ]
+   ],
+   "flags": [],
+   "stratum": "ADVANC|commitment",
+   "weight": 20.75,
+   "v7": {
+    "S": 2,
+    "M": 0,
+    "T": 0,
+    "E": 1,
+    "C": 3,
+    "tier": "partially_substantive"
+   }
+  },
+  {
+   "uid": "advanc-2024-SR-en::CLM-0064",
+   "company": "ADVANC",
+   "sector": "Telecommunications",
+   "report": "advanc-2024-SR-en",
+   "page": 600,
+   "section": "Employee Development and Well-being",
+   "claim_type": "commitment",
+   "claim_text": "Remuneration including a base salary and bonus is based on the above-mentioned appraisal results. The criteria for performance-related pay are set forth to ensure fairness for all employees and reflect both individual KPIs and corporate KPIs.",
+   "sdg_targets": "10.3, 10.4, 8.5, 8.8",
+   "pack": [
+    [
+     "X1",
+     "cross-section",
+     "Sustainability Report 2024",
+     46,
+     "<a id='11af0a5f-a0e4-425a-a94e-8d2b59e4d659'></a>\n\nRemuneration including a base salary and bonus is based on the above-mentioned appraisal results. The criteria for performance-related pay are set forth to ensure fairness for all employees and reflect both individual KPIs and corporate KPIs. Each year, the Company ensures that the compensation remains competitive and comparable to market rate, aligning with prevailing economic conditions to provide an appropriate and sufficient living wage."
+    ],
+    [
+     "X2",
+     "cross-section",
+     "Sustainability Report 2024",
+     46,
+     "<a id='93082b5b-5b0c-4ffb-94b9-034a8185940b'></a>\n\nPerformance Appraisal and Remuneration and Benefits\n\nThe performance appraisal is conducted twice a year, comprising the following four aspects:\n\n1.  **Individual KPIs:** Performance appraisal aligns with corporate objectives and is against the objectives jointly predetermined between the supervisor and employee. The appraisal is also based on comparative ranking between peers with the same positions and responsibilities to ensure fairness.\n2.  **Leadership Competency:** The capability assessment covers aspects such as strategic thinking, a vision to create impact, and the ability to foster relationships with stakeholders.\n3.  **Culture and Business Ethics:** the behavioral assessment based on the culture of Fit Fun Fair on physical and mental fitness to ensure employees conduct work with happiness and efficiency, with adherence to ethics and impartiality.\n4.  **Behavioral Assessment from Constructive Feedback:** the 360 Degree Evaluation involves feedback from an employee's subordinates, colleagues within the same team, and cross-functional teams."
+    ],
+    [
+     "X3",
+     "cross-section",
+     "Sustainability Report 2024",
+     47,
+     "<a id='dd89982f-aa4a-48af-b957-64fdda2ee4d6'></a>\n\nFurthermore, an individual development plan (IDP), predetermined by the employee, supervisor, and HR officer, is incorporated into the employee performance appraisal. The IDP is tied to a competency-based career model for each career category. The assessment result is used to enhance both proactive and technical skills for each employee and empower them to chart a career path following their skill sets and the Company's business direction."
+    ],
+    [
+     "S1",
+     "same-section",
+     "Employee Development and Well-being",
+     600,
+     "Each year, the Company ensures that the compensation remains competitive and comparable to market rate, aligning with prevailing economic conditions to provide an appropriate and sufficient living wage."
+    ]
+   ],
+   "flags": [
+    "Only 1 of 2 target same-section references met the similarity threshold (0.35)."
+   ],
+   "stratum": "ADVANC|commitment",
+   "weight": 20.75,
+   "v7": {
+    "S": 1,
+    "M": 0,
+    "T": 1,
+    "E": 1,
+    "C": 3,
+    "tier": "partially_substantive"
+   }
+  },
+  {
+   "uid": "advanc-2024-SR-en::CLM-0028",
+   "company": "ADVANC",
+   "sector": "Telecommunications",
+   "report": "advanc-2024-SR-en",
+   "page": 122,
+   "section": "Validation",
+   "claim_type": "commitment",
+   "claim_text": "Integrate these significant issues into both short-term and long-term business plans to mitigate risks, expand business opportunities, adapt to future changes, and ensure business continuity.",
+   "sdg_targets": "12.2, 12.6, 8.2, 8.3, 8.4, 9.1, 9.2, 9.4",
+   "pack": [
+    [
+     "X1",
+     "cross-section",
+     "Sustainability Report 2024",
+     10,
+     "<a id='7790e6a9-7d08-4721-ac0d-272d9307a013'></a>\n\nReport significant issues to senior executives for approval and present them to the Sustainability Development Committee and the Board of Directors for endorsement. Integrate these significant issues into both short-term and long-term business plans to mitigate risks, expand business opportunities, adapt to future changes, and ensure business continuity. Additionally, disclose this information in the Sustainability Development Report and on the company's website."
+    ],
+    [
+     "X2",
+     "cross-section",
+     "Sustainability Report 2024",
+     44,
+     "<a id='55de8c27-0131-45f4-ab97-c0cdc3ccff94'></a>\n\n# Impacts on Business Operations\n\nTo ensure efficiency and adaptability in the face of evolving challenges, it is imperative for organizations to prioritize initiatives that support employee development. To ensure efficiency and adaptability in the face of evolving challenges, it is imperative for organizations to prioritize initiatives that support employee development. These include equipping employees with knowledge of emerging technologies, fostering a culture of lifelong learning, and implementing effective strategies for attracting and retaining talented individuals. Given the competitive demand for highly skilled professionals, the risk of talent attrition to more attractive opportunities remains a significant challenge. Consequently, an organization needs to cultivate an environment that supports continuous skill enhancement and career paths to strengthen employee loyalty in the long term."
+    ],
+    [
+     "X3",
+     "cross-section",
+     "Sustainability Report 2024",
+     9,
+     "<a id='51379825-f263-4b80-b761-d80a8b9765b1'></a>\n\n- **Internally**\nOrganized meetings with executives and top management to collect opinions and receive guidance on short- and long-term material topics which must be consistent with the risk issues of the organization. In addition, operational plans, goals, and strategies are created in accordance with crucial sustainability-related issues.\n- **Externally**\nCollected views from stakeholders including customers, regulatory bodies, community and society, corporate customers, partners, shareholders, and investors, via face-to-face discussions and by phone to uncover prioritized topics and expectations for AIS as well as to set operational guidelines for effectively responding to stakeholders."
+    ],
+    [
+     "S1",
+     "same-section",
+     "Validation",
+     122,
+     "Report significant issues to senior executives for approval and present them to the Sustainability Development Committee and the Board of Directors for endorsement."
+    ]
+   ],
+   "flags": [
+    "Only 1 of 2 target same-section references met the similarity threshold (0.35)."
+   ],
+   "stratum": "ADVANC|commitment",
+   "weight": 20.75,
+   "v7": {
+    "S": 1,
+    "M": 0,
+    "T": 0,
+    "E": 1,
+    "C": 3,
+    "tier": "partially_substantive"
+   }
+  },
+  {
+   "uid": "advanc-2024-SR-en::CLM-0076",
+   "company": "ADVANC",
+   "sector": "Telecommunications",
+   "report": "advanc-2024-SR-en",
+   "page": 600,
+   "section": "Occupational Health, Safety, and Workplace Environment Operations",
+   "claim_type": "commitment",
+   "claim_text": "Offer training and preparedness for emergencies to raise employees’ awareness about workplace risks and emergency response.",
+   "sdg_targets": "3.d, 8.8",
+   "pack": [
+    [
+     "X1",
+     "cross-section",
+     "Sustainability Report 2024",
+     47,
+     "<a id='a1785c6e-c354-498c-b9e6-6855a22650fc'></a>\n\n## Occupational health, safety, and workplace environment operations\n* Conduct risk assessment and safety audit on a regular basis to prevent and improve conditions that fail to meet the standards.\n* Provide personal protective equipment for employees potentially exposed to hazards.\n* Offer training and preparedness for emergencies to raise employees' awareness about workplace risks and emergency response.\n* Reinforce a safety culture in the workplace to minimize accidents and enhance work efficiency."
+    ],
+    [
+     "X2",
+     "cross-section",
+     "Sustainability Report 2024",
+     36,
+     "<a id='f2e212bd-38ae-41ef-88d4-82b890f49001'></a>\n\nAwareness raising and training\n\n*   Continuously promote awareness of personal data protection among all employees, and business partners to ensure their compliance with newly introduced laws, rules, and regulations through online courses and activities. Employees will be educated on data classification, organizational data protection tools, and provided opportunities to engage with both internal and external experts for knowledge exchange. Additionally, regular email communication will deliver essential information to employees, with content aligned with the Thai Personal Data Protection Act and best practices for safeguarding personal and sensitive company data.\n*   Promote the principles of \"Privacy by design\" and \"Privacy by default\" for responsible product and service design among employees to ensure personal data protection and enhance cybersecurity."
+    ],
+    [
+     "X3",
+     "cross-section",
+     "Sustainability Report 2024",
+     48,
+     "<a id='0f12c771-461b-43aa-b09b-eee9f420c3d7'></a>\n\n**Operational efforts to treat all employees with care and respect**\n\n*   Provide knowledge and training on supporting diversity and accepting differences among employees in the Company\n*   Offer opportunities for all employees to develop different functional and technical skills\n*   Carry out projects to allow employees to exchange ideas to develop innovations, take part in driving the organization, and receive equal opportunity to advance in their careers\n*   Provide an ethics assessment test for employees regularly"
+    ],
+    [
+     "S1",
+     "same-section",
+     "Occupational Health, Safety, and Workplace Environment Operations",
+     600,
+     "Provide personal protective equipment for employees potentially exposed to hazards."
+    ],
+    [
+     "S2",
+     "same-section",
+     "Occupational Health, Safety, and Workplace Environment Operations",
+     600,
+     "Reinforce a safety culture in the workplace to minimize accidents and enhance work efficiency."
+    ]
+   ],
+   "flags": [],
+   "stratum": "ADVANC|commitment",
+   "weight": 20.75,
+   "v7": {
+    "S": 1,
+    "M": 0,
+    "T": 1,
+    "E": 1,
+    "C": 3,
+    "tier": "partially_substantive"
+   }
+  },
+  {
+   "uid": "advanc-2024-SR-en::CLM-0115",
+   "company": "ADVANC",
+   "sector": "Telecommunications",
+   "report": "advanc-2024-SR-en",
+   "page": 960,
+   "section": "Digital Wellness and Cybersecurity Initiatives",
+   "claim_type": "achievement",
+   "claim_text": "Created a digital health check tool that enables individuals to self-evaluate their capability to handle cyber threats effectively.",
+   "sdg_targets": "3.d, 4.4, 4.7, 9.5, 9.b",
+   "pack": [
+    [
+     "X1",
+     "cross-section",
+     "Opportunities, Challenges, and Impacts",
+     968,
+     "Created a digital health check tool that enables individuals to self-evaluate their capability to handle cyber threats effectively."
+    ],
+    [
+     "X2",
+     "cross-section",
+     "Promote Digital Inclusion",
+     0,
+     "Created a Digital Health Check tool for individuals to self-evaluate their digital skills."
+    ],
+    [
+     "X3",
+     "cross-section",
+     "Sustainability Report 2024",
+     76,
+     "<a id='bc19ee94-9946-419c-8d2c-6423c558c9bf'></a>\n\nDigital Health Check\n\nAIS has developed the Digital Health Check tool to analyze and assess the digital skills of Thais. In addition to reporting results, the tool also provides personalized learning recommendations to enhance their digital skills with Aunjai Cyber Curriculum to safeguard themselves against cyber threats."
+    ],
+    [
+     "S1",
+     "same-section",
+     "Digital Wellness and Cybersecurity Initiatives",
+     960,
+     "Presented a survey result of 50,965 people on the Thailand Cyber Wellness Index which found that overall Thais’ knowledge about digital usage was at a fundamental level with the lowest score in cybersecurity skills."
+    ],
+    [
+     "S2",
+     "same-section",
+     "Digital Wellness and Cybersecurity Initiatives",
+     960,
+     "Launched the Secure Net+ Protected by MSIG service, offering protection and alerts against various cyber threats by blocking high-risk websites."
+    ]
+   ],
+   "flags": [],
+   "stratum": "ADVANC|achievement",
+   "weight": 22.0,
+   "v7": {
+    "S": 2,
+    "M": 0,
+    "T": 1,
+    "E": 1,
+    "C": 3,
+    "tier": "partially_substantive"
+   }
+  },
+  {
+   "uid": "advanc-2024-SR-en::CLM-0144",
+   "company": "ADVANC",
+   "sector": "Telecommunications",
+   "report": "advanc-2024-SR-en",
+   "page": 1200,
+   "section": "Management Approach",
+   "claim_type": "achievement",
+   "claim_text": "Manage utilization and procure high energy-efficient equipment in Data Centers and Switching Centers, enabling AIS to achieve a saving of 380 MWh/Year and a reduction of 190 tCO₂e.",
+   "sdg_targets": "13.2, 7.3, 9.4",
+   "pack": [
+    [
+     "X1",
+     "cross-section",
+     "Sustainability Report 2024",
+     85,
+     "<a id='91a9b94d-922e-4e86-b84e-183bc69a5b7b'></a>\n\nPromoting Energy Efficiency\n\n* Adopted AI in processing and analyzing network utilization to manage signal and energy use according to customers' usage to deliver solid quality and energy efficiency. The efforts resulted in reducing 31,936 MWh/Year in electricity use and 15,965 tCO₂e in greenhouse gas emissions.\n* Manage utilization and procure high energy-efficient equipment in Data Centers and Switching Centers, enabling AIS to achieve a saving of 380 MWh/Year and a reduction of 190 tCO₂e."
+    ],
+    [
+     "X2",
+     "cross-section",
+     "Sustainability Report 2024",
+     85,
+     "<a id='f03fb81c-ab5e-4cf2-bca7-1f867c50a3a0'></a>\n\n## Action within Our Operation\n\nDespite its energy usage increasing due to network expansion and growing demand for data, AIS has been able to limit its GHG emission intensity relative to the amount of data consumption, underlining the efficiency of its network's design and utilization while also promoting a higher proportion of renewable energy. In 2024, the Company increased energy consumption from renewable sources to 3.06% of the total energy use from 2.25% in 2023."
+    ],
+    [
+     "X3",
+     "cross-section",
+     "Sustainability Report 2024",
+     83,
+     "<a id='0a11fad2-fc17-4a6a-8c4f-725699652bf0'></a>\n\n* AIS acquisition of TTTBB, a home internet service provider, led to adjustments in 2024 greenhouse gas emissions reporting to include TTTBB's activities.\n* AIS increased the use of electricity renewable sources. In 2024, AIS installed 4,560 additional solar panels and signed long-term Power Purchase Agreements (PPAs) with Gulf Energy Development. Combined with existing operations, these efforts increased renewable electricity consumption to 51,917 MWh, reducing greenhouse gas emissions by approximately 25,953 tCO₂e per year.\n* Network's energy efficiency was improved using AI to analyze consumers' behavior to maximize efficiency of the network. Additionally, proper allocation and planning of network equipment has been conducted to reducing unnecessary electricity consumption. These efforts contributed to a reduction in energy use and resulting in greenhouse gas emissions reduction by 16,155 tCO₂e per year.\n* To collaborate with business partners, AIS initiated engagement with significant suppliers on various key aspects related to management approach and the climate change targets in cooperation with the significant suppliers, representing 64% of the total procurement expenditures.\n* Disclose climate-related data through Carbon Disclosure Project (CDP) with B rating (Management Level)."
+    ],
+    [
+     "S1",
+     "same-section",
+     "Management Approach",
+     1200,
+     "These efforts enabled AIS to generate a total of 51,917 MWh of electricity from renewable sources, and reducing GHG emissions by 25,953 tCO₂e per year."
+    ],
+    [
+     "S2",
+     "same-section",
+     "Management Approach",
+     1200,
+     "AIS has been able to limit its GHG emission intensity relative to the amount of data consumption, underlining the efficiency of its network’s design and utilization while also promoting a higher proportion of renewable energy."
+    ]
+   ],
+   "flags": [],
+   "stratum": "ADVANC|achievement",
+   "weight": 22.0,
+   "v7": {
+    "S": 3,
+    "M": 2,
+    "T": 2,
+    "E": 1,
+    "C": 3,
+    "tier": "substantive"
+   }
+  },
+  {
+   "uid": "advanc-2024-SR-en::CLM-0186",
+   "company": "ADVANC",
+   "sector": "Telecommunications",
+   "report": "advanc-2024-SR-en",
+   "page": 1560,
+   "section": "SASB Index",
+   "claim_type": "metric",
+   "claim_text": "Total energy consumed: 6099.420 Gigajoules (GJ)",
+   "sdg_targets": "12.2, 12.6, 13.2, 7.3",
+   "pack": [
+    [
+     "X1",
+     "cross-section",
+     "Sustainability Report 2024",
+     89,
+     "<a id='d4f568d4-db36-408d-8148-e19cc848a533'></a>\n\n<table id=\"89-1\">\n<tr><td id=\"89-2\">Topic</td><td id=\"89-3\">Unit</td><td id=\"89-4\">2021</td><td id=\"89-5\">2022</td><td id=\"89-6\">2023</td><td id=\"89-7\">2024*</td></tr>\n<tr><td id=\"89-8\" colspan=\"6\">GHG Emission¹</td></tr>\n<tr><td id=\"89-9\">Total GHG emissions (Scope 1 and 2)</td><td id=\"89-a\">tCO₂e</td><td id=\"89-b\">645,321</td><td id=\"89-c\">675,497</td><td id=\"89-d\">704,264</td><td id=\"89-e\">798,881</td></tr>\n<tr><td id=\"89-f\">Direct GHG emissions (Scope 1)²</td><td id=\"89-g\">tCO₂e</td><td id=\"89-h\">8,931</td><td id=\"89-i\">7,411</td><td id=\"89-j\">9,351</td><td id=\"89-k\">30,349</td></tr>\n<tr><td id=\"89-l\">Indirect GHG emissions (Scope 2)³</td><td id=\"89-m\">tCO₂e</td><td id=\"89-n\">636,390</td><td id=\"89-o\">668,086</td><td id=\"89-p\">694,913</td><td id=\"89-q\">768,532</td></tr>\n<tr><td id=\"89-r\">Indirect GHG emissions (Scope 3)4</td><td id=\"89-s\">tCO₂e</td><td id=\"89-t\">132,6145</td><td id=\"89-u\">456,5386</td><td id=\"89-v\">414,2056</td><td id=\"89-w\">729,1074</td></tr>\n<tr><td id=\"89-x\">GHG Intensity7</td><td id=\"89-y\">tCO₂e per Terabyte</td><td id=\"89-z\">0.080</td><td id=\"89-A\">0.064</td><td id=\"89-B\">0.056</td><td id=\"89-C\">0.018</td></tr>\n<tr><td id=\"89-D\" colspan=\"6\">Energy</td></tr>\n<tr><td id=\"89-E\" rowspan=\"2\">Total Energy Consumption</td><td id=\"89-F\">MWh</td><td id=\"89-G\">1,318,495</td><td id=\"89-H\">1,394,989</td><td id=\"89-I\">1,456,351</td><td id=\"89-J\">1,694,283</td></tr>\n<tr><td id=\"89-K\">Terajoule</td><td id=\"89-L\">4,747</td><td id=\"89-M\">5,022</td><td id=\"89-N\">5,243</td><td id=\"89-O\">6,099</td></tr>\n<tr><td id=\"89-P\" rowspan=\"2\">Total non-renewable energy consumption</td><td id=\"89-Q\">MWh</td><td id=\"89-R\">1,302,213</td><td id=\"89-S\">1,370,796</td><td id=\"89-T\">1,423,592</td><td id=\"89-U\">1,642,366</td></tr>\n<tr><td id=\"89-V\">Terajoule</td><td id=\"89-W\">4,688</td><td id=\"89-X\">4,935</td><td id=\"89-Y\">5,125</td><td id=\"89-Z\">5,913</td></tr>\n<tr><td id=\"89-10\" rowspan=\"2\">Direct energy consumption: Fuel and other²</td><td id=\"89-11\">MWh</td><td id=\"89-12\">29,178</td><td id=\"89-13\">34,356</td><td id=\"89-14\">33,488</td><td id=\"89-15\">104,994</td></tr>\n<tr><td id=\"89-16\">Terajoule</td><td id=\"89-17\">105</td><td id=\"89-18\">124</td><td id=\"89-19\">121</td><td id=\"89-1a\">378</td></tr>\n<tr><td id=\"89-1b\" rowspan=\"2\">Indirect energy consumption: Electricity³</td><td id=\"89-1c\">MWh</td><td id=\"89-1d\">1,273,035</td><td id=\"89-1e\">1,336,440</td><td id=\"89-1f\">1,390,104</td><td id=\"89-1g\">1,537,372</td></tr>\n<tr><td id=\"89-1h\">Terajoule</td><td id=\"89-1i\">4,583</td><td id=\"89-1j\">4,811</td><td id=\"89-1k\">5,004</td><td id=\"89-1l\">5,535</td></tr>\n<tr><td id=\"89-1m\" rowspan=\"2\">Energy from renewable sources⁸</td><td id=\"89-1n\">MWh</td><td id=\"89-1o\">16,282</td><td id=\"89-1p\">24,193</td><td id=\"89-1q\">32,759</td><td id=\"89-1r\">51,917</td></tr>\n<tr><td id=\"89-1s\">Terajoule</td><td id=\"89-1t\">59</td><td id=\"89-1u\">87</td><td id=\"89-1v\">118</td><td id=\"89-1w\">187</td></tr>\n<tr><td id=\"89-1x\">Percentage of total energy consumption from\nrenewable sources</td><td id=\"89-1y\">% Total Energy\nConsumption</td><td id=\"89-1z\">1.23</td><td id=\"89-1A\">1.73</td><td id=\"89-1B\">2.25</td><td id=\"89-1C\">3.06</td></tr>\n<tr><td id=\"89-1D\">Power Usage Effectiveness (PUE) at Data\nCenters</td><td id=\"89-1E\">Unit</td><td id=\"89-1F\">1.51</td><td id=\"89-1G\">1.505</td><td id=\"89-1H\">1.502</td><td id=\"89-1I\">1.58**</td></tr>\n<tr><td id=\"89-1J\">Energy consumption in data centers</td><td id=\"89-1K\">MWh</td><td id=\"89-1L\">77,261</td><td id=\"89-1M\">83,851</td><td id=\"89-1N\">89,629</td><td id=\"89-1O\">117,214</td></tr>\n<tr><td id=\"89-1P\">Percentage of energy from renewable sources used in data centers</td><td id=\"89-1Q\">% total electricity consumption in data centers</td><td id=\"89-1R\">1.57</td><td id=\"89-1S\">1.74</td><td id=\"89-1T\">1.69</td><td id=\"89-1U\">1.30</td></tr>\n<tr><td id=\"89-1V\">Energy cost</td><td id=\"89-1W\">Million baht</td><td id=\"89-1X\">5,138</td><td id=\"89-1Y\">5,798</td><td id=\"89-1Z\">6,877</td><td id=\"89-20\">7,628</td></tr>\n</table>"
+    ],
+    [
+     "X2",
+     "cross-section",
+     "Act on Climate",
+     0,
+     "Total alternative energy implemented at 13,414 sites."
+    ],
+    [
+     "X3",
+     "cross-section",
+     "Climate Action",
+     1169,
+     "These efforts increased renewable electricity consumption to 51,917 MWh, reducing greenhouse gas emissions by approximately 25,953 tCO₂e per year."
+    ],
+    [
+     "S1",
+     "same-section",
+     "SASB Index",
+     1560,
+     "Percentage grid Electricity: 91%"
+    ],
+    [
+     "S2",
+     "same-section",
+     "SASB Index",
+     1560,
+     "4,555 Petabytes"
+    ]
+   ],
+   "flags": [],
+   "stratum": "ADVANC|metric",
+   "weight": 24.0,
+   "v7": {
+    "S": 2,
+    "M": 2,
+    "T": 2,
+    "E": 1,
+    "C": 1,
+    "tier": "partially_substantive"
+   }
+  },
+  {
+   "uid": "advanc-2024-SR-en::CLM-0162",
+   "company": "ADVANC",
+   "sector": "Telecommunications",
+   "report": "advanc-2024-SR-en",
+   "page": 1320,
+   "section": "Green Procurement",
+   "claim_type": "policy",
+   "claim_text": "AIS has established the Green Procurement policy emphasizing environmental, social, and governance (ESG) principles.",
+   "sdg_targets": "12.6, 12.7, 13.2, 16.6, 16.7, 16.b",
+   "pack": [
+    [
+     "X1",
+     "cross-section",
+     "Sustainability Report 2024",
+     92,
+     "<a id='32309e49-3d77-4d01-81c7-f7c93b8ea7c0'></a>\n\n# Green Procurement\n\nAIS has established the Green Procurement policy emphsizing environmental, social, and governance (ESG) principles. The policy aims to optimize resource and energy efficiency, reduce GHG emissions, minimize waste and pollutants, eliminate hazardous substances, and promote sustainable waste management. Key initiatives include:\n\n* Avoiding single-use disposable products and encouraging reusable or long-lasting raw materials and packaging\n* Prioritizing energy-efficient products and those utilizing clean technologies or renewable energy\n* Supporting products and services that conserve water and avoid releasing harmful or irritating substances"
+    ],
+    [
+     "X2",
+     "cross-section",
+     "Sustainability Report 2024",
+     92,
+     "<a id='a4b93191-33ce-414b-a574-01e7656b0363'></a>\n\nThe Company is dedicated to educating the relevant departments on green procurement criteria and regulations as well as raising awareness of biodiversity protection, natural resource conservation, and deforestation prevention. AIS aims to implement this policy equitably across all departments and throughout the business value chain, establishing it as a code of conduct for all operations."
+    ],
+    [
+     "X3",
+     "cross-section",
+     "Sustainability Report 2024",
+     86,
+     "<a id='1453f076-a457-4791-bb54-ba0bb38486a5'></a>\n\n## Business Partner Engagement\n\nAIS gives importance to raising awareness and educating its suppliers on climate change. As part of its efforts, the Company has engaged with its significant suppliers on issues related to managing and achieving the climate change targets. Discussions covered a range of topics, including the urgency and current impacts of the changing weather patterns, methodologies for collecting and calculating GHG emissions in compliance with international standards, programs dedicated to GHG emission reduction as well as AIS's short- and long-term targets for mitigating the impacts of GHG emissions. In 2024, AIS engaged with 16 significant suppliers, accounting for 64% of the total procurement expenditures."
+    ],
+    [
+     "S1",
+     "same-section",
+     "Green Procurement",
+     1320,
+     "AIS aims to implement this policy equitably across all departments and throughout the business value chain, establishing it as a code of conduct for all operations."
+    ]
+   ],
+   "flags": [
+    "Only 1 of 2 target same-section references met the similarity threshold (0.35)."
+   ],
+   "stratum": "ADVANC|policy",
+   "weight": 10.0,
+   "v7": {
+    "S": 1,
+    "M": 0,
+    "T": 0,
+    "E": 1,
+    "C": 1,
+    "tier": "symbolic"
+   }
+  },
+  {
+   "uid": "advanc-2024-SR-en::CLM-0173",
+   "company": "ADVANC",
+   "sector": "Telecommunications",
+   "report": "advanc-2024-SR-en",
+   "page": 1471,
+   "section": "Environmental Data",
+   "claim_type": "alignment",
+   "claim_text": "GHG data collection and consolidation are prepared by the operational control approach. The GHG accounting is calculated by the reference method of the Thailand Greenhouse Gas Management Organization (TGO) version AR5, it is in accordance with the Fifth Assessment Report: AR5 of the International Panel on Climate Change (IPCC).",
+   "sdg_targets": "13.2",
+   "pack": [
+    [
+     "X1",
+     "cross-section",
+     "Sustainability Report 2024",
+     102,
+     "<a id='2940e532-9d6f-48ed-adf6-e4f9b0445372'></a>\n\n# Greenhouse Gas Emission\nThis report is covered GHG emissions in scope 1, scope 2, and scope 3 (see page 90).\n\n1. GHG data collection and consolidation are prepared by the operational control approach. The GHG accounting is calculated by the reference method of the Thailand Greenhouse Gas Management Organization (TGO) version AR5, it is in accordance with the Fifth Assessment Report: AR5 of the International Panel on Climate Change (IPCC).\n2. The sources of direct GHG emissions (Scope 1) come from the burning of fuels, vehicles, power generators, coolant leakage, and carbon dioxide-type fire extinguishers. For the direct energy consumption from the burning of fuels, it is calculated by the reference method of the Department of Alternative Energy Development and Efficiency (DEDE).\n3. The source of indirect GHG emissions (Scope 2) comes from electricity used in the business, of which a significant proportion is from the network operations. The data is reported in term of megawatt hours, referred to the Metropolitan and Provincial Electricity Authorities. In addition, in 2021, the Global Warming Potential (GWP) factors used in the calculations were updated. The reference was changed from the Thailand Grid Mix Electricity LCI 2009 database to the Thai National LCI Database, TIISMTEC-NSTDA, AR5 (with TGO electricity 2016–2018).\n4. The source of indirect GHG emissions (Scope 3) comes from other indirect greenhouse gas emissions that are beyond our control. In 2024, the Company reported Scope 3 emissions across 11 categories: purchased goods and services, capital goods, fuel- and energy-related activities not included in Scope 1 or 2, upstream transportation and distribution, waste generated in operations, business travel, employee commuting, upstream leased assets, use of sold products, end-of-life treatment of sold products, and downstream leased assets. These reported emissions have been independently verified by a third-party auditor, ensuring accuracy and reflecting the expanded reporting scope for more comprehensive coverage.\n5. In 2021, it was the first assessment of GHG emissions (Scope 3) and comprised three categories: capital goods, employee commuting, and the use of sold products.\n6. From 2022 to 2023, GHG emissions (Scope 3) comprised four categories: purchased goods and services, capital goods, employee commuting, and the use of sold products.\n7. GHG Intensity is the ratio of GHG emissions per data traffic generated during the reported year. The indicator is widely used in the telecommunication industry to gauge the efficiency of the emission by stating how much GHG is emitted for use of data traffic. In 2024, the unit of the indicator has been changed from tCO₂e per terabit to tCO₂e per terabyte."
+    ],
+    [
+     "X2",
+     "cross-section",
+     "Climate Action",
+     1169,
+     "Reduce GHG emissions intensity as calculated from the ratio of direct (GHG scope 1) and indirect emissions (GHG scope 2) to data traffic, by 25% by 2030 compared to the 2024 baseline."
+    ],
+    [
+     "X3",
+     "cross-section",
+     "Sustainability Report 2024",
+     89,
+     "<a id='d4f568d4-db36-408d-8148-e19cc848a533'></a>\n\n<table id=\"89-1\">\n<tr><td id=\"89-2\">Topic</td><td id=\"89-3\">Unit</td><td id=\"89-4\">2021</td><td id=\"89-5\">2022</td><td id=\"89-6\">2023</td><td id=\"89-7\">2024*</td></tr>\n<tr><td id=\"89-8\" colspan=\"6\">GHG Emission¹</td></tr>\n<tr><td id=\"89-9\">Total GHG emissions (Scope 1 and 2)</td><td id=\"89-a\">tCO₂e</td><td id=\"89-b\">645,321</td><td id=\"89-c\">675,497</td><td id=\"89-d\">704,264</td><td id=\"89-e\">798,881</td></tr>\n<tr><td id=\"89-f\">Direct GHG emissions (Scope 1)²</td><td id=\"89-g\">tCO₂e</td><td id=\"89-h\">8,931</td><td id=\"89-i\">7,411</td><td id=\"89-j\">9,351</td><td id=\"89-k\">30,349</td></tr>\n<tr><td id=\"89-l\">Indirect GHG emissions (Scope 2)³</td><td id=\"89-m\">tCO₂e</td><td id=\"89-n\">636,390</td><td id=\"89-o\">668,086</td><td id=\"89-p\">694,913</td><td id=\"89-q\">768,532</td></tr>\n<tr><td id=\"89-r\">Indirect GHG emissions (Scope 3)4</td><td id=\"89-s\">tCO₂e</td><td id=\"89-t\">132,6145</td><td id=\"89-u\">456,5386</td><td id=\"89-v\">414,2056</td><td id=\"89-w\">729,1074</td></tr>\n<tr><td id=\"89-x\">GHG Intensity7</td><td id=\"89-y\">tCO₂e per Terabyte</td><td id=\"89-z\">0.080</td><td id=\"89-A\">0.064</td><td id=\"89-B\">0.056</td><td id=\"89-C\">0.018</td></tr>\n<tr><td id=\"89-D\" colspan=\"6\">Energy</td></tr>\n<tr><td id=\"89-E\" rowspan=\"2\">Total Energy Consumption</td><td id=\"89-F\">MWh</td><td id=\"89-G\">1,318,495</td><td id=\"89-H\">1,394,989</td><td id=\"89-I\">1,456,351</td><td id=\"89-J\">1,694,283</td></tr>\n<tr><td id=\"89-K\">Terajoule</td><td id=\"89-L\">4,747</td><td id=\"89-M\">5,022</td><td id=\"89-N\">5,243</td><td id=\"89-O\">6,099</td></tr>\n<tr><td id=\"89-P\" rowspan=\"2\">Total non-renewable energy consumption</td><td id=\"89-Q\">MWh</td><td id=\"89-R\">1,302,213</td><td id=\"89-S\">1,370,796</td><td id=\"89-T\">1,423,592</td><td id=\"89-U\">1,642,366</td></tr>\n<tr><td id=\"89-V\">Terajoule</td><td id=\"89-W\">4,688</td><td id=\"89-X\">4,935</td><td id=\"89-Y\">5,125</td><td id=\"89-Z\">5,913</td></tr>\n<tr><td id=\"89-10\" rowspan=\"2\">Direct energy consumption: Fuel and other²</td><td id=\"89-11\">MWh</td><td id=\"89-12\">29,178</td><td id=\"89-13\">34,356</td><td id=\"89-14\">33,488</td><td id=\"89-15\">104,994</td></tr>\n<tr><td id=\"89-16\">Terajoule</td><td id=\"89-17\">105</td><td id=\"89-18\">124</td><td id=\"89-19\">121</td><td id=\"89-1a\">378</td></tr>\n<tr><td id=\"89-1b\" rowspan=\"2\">Indirect energy consumption: Electricity³</td><td id=\"89-1c\">MWh</td><td id=\"89-1d\">1,273,035</td><td id=\"89-1e\">1,336,440</td><td id=\"89-1f\">1,390,104</td><td id=\"89-1g\">1,537,372</td></tr>\n<tr><td id=\"89-1h\">Terajoule</td><td id=\"89-1i\">4,583</td><td id=\"89-1j\">4,811</td><td id=\"89-1k\">5,004</td><td id=\"89-1l\">5,535</td></tr>\n<tr><td id=\"89-1m\" rowspan=\"2\">Energy from renewable sources⁸</td><td id=\"89-1n\">MWh</td><td id=\"89-1o\">16,282</td><td id=\"89-1p\">24,193</td><td id=\"89-1q\">32,759</td><td id=\"89-1r\">51,917</td></tr>\n<tr><td id=\"89-1s\">Terajoule</td><td id=\"89-1t\">59</td><td id=\"89-1u\">87</td><td id=\"89-1v\">118</td><td id=\"89-1w\">187</td></tr>\n<tr><td id=\"89-1x\">Percentage of total energy consumption from\nrenewable sources</td><td id=\"89-1y\">% Total Energy\nConsumption</td><td id=\"89-1z\">1.23</td><td id=\"89-1A\">1.73</td><td id=\"89-1B\">2.25</td><td id=\"89-1C\">3.06</td></tr>\n<tr><td id=\"89-1D\">Power Usage Effectiveness (PUE) at Data\nCenters</td><td id=\"89-1E\">Unit</td><td id=\"89-1F\">1.51</td><td id=\"89-1G\">1.505</td><td id=\"89-1H\">1.502</td><td id=\"89-1I\">1.58**</td></tr>\n<tr><td id=\"89-1J\">Energy consumption in data centers</td><td id=\"89-1K\">MWh</td><td id=\"89-1L\">77,261</td><td id=\"89-1M\">83,851</td><td id=\"89-1N\">89,629</td><td id=\"89-1O\">117,214</td></tr>\n<tr><td id=\"89-1P\">Percentage of energy from renewable sources used in data centers</td><td id=\"89-1Q\">% total electricity consumption in data centers</td><td id=\"89-1R\">1.57</td><td id=\"89-1S\">1.74</td><td id=\"89-1T\">1.69</td><td id=\"89-1U\">1.30</td></tr>\n<tr><td id=\"89-1V\">Energy cost</td><td id=\"89-1W\">Million baht</td><td id=\"89-1X\">5,138</td><td id=\"89-1Y\">5,798</td><td id=\"89-1Z\">6,877</td><td id=\"89-20\">7,628</td></tr>\n</table>"
+    ],
+    [
+     "S1",
+     "same-section",
+     "Environmental Data",
+     1471,
+     "These reported emissions have been independently verified by a third-party auditor, ensuring accuracy and reflecting the expanded reporting scope for more comprehensive coverage."
+    ]
+   ],
+   "flags": [
+    "Only 1 of 2 target same-section references met the similarity threshold (0.35)."
+   ],
+   "stratum": "ADVANC|alignment",
+   "weight": 8.0,
+   "v7": {
+    "S": 2,
+    "M": 0,
+    "T": 0,
+    "E": 3,
+    "C": 3,
+    "tier": "partially_substantive"
+   }
+  },
+  {
+   "uid": "CPN-2024-OR+SR-EN::CLM-0017",
+   "company": "CPN",
+   "sector": "Real Estate",
+   "report": "CPN-2024-OR+SR-EN",
+   "page": 99,
+   "section": "Report of the Risk Policy Committee",
+   "claim_type": "commitment",
+   "claim_text": "Effective risk management is a cornerstone of good corporate governance. It plays a critical role in supporting the achievement of Central Pattana’s objectives and goals while also increasing our awareness of potential threats.",
+   "sdg_targets": "16.6, 16.7, 8.10, 8.2, 8.3",
+   "pack": [
+    [
+     "X1",
+     "cross-section",
+     "Message from the Board of Directors",
+     11,
+     "<a id='53e20b8b-5c18-40ab-9b64-a11b743b599a'></a>\n\nEffective risk management is a cornerstone of\ngood corporate governance. It plays a critical\nrole in supporting the achievement of Central\nPattana's objectives and goals while also\nincreasing our awareness of potential threats.\nOur scope of risk management covers key risk\ncategories including the risks affecting businesses\nunder Central Pattana, which encompass\nstrategic, financial, operational, compliance,\nsustainability and emerging risks. With a strong"
+    ],
+    [
+     "X2",
+     "cross-section",
+     "Report of the Audit and Corporate Governance Committee",
+     65,
+     "<a id='bcfa9e76-cbaf-47d3-ad7a-da7b43761fc3'></a>\n\nEffective risk management is\na cornerstone of good corporate\ngovernance. It plays a critical role\nin supporting the achievement\nof Central Pattana's objectives\nand goals,"
+    ],
+    [
+     "X3",
+     "cross-section",
+     "Report of the Audit and Corporate Governance Committee",
+     65,
+     "<a id='8f476014-8a72-4e1f-bdd7-dd8e1531489a'></a>\n\n## 2.1 Risk Management Policy and Plan\n\nWe have established an enterprise-wide risk management policy, embedding a strong risk culture at every level. The Risk Policy Committee is responsible for reviewing and providing recommendations on the Company's risk policies, strategies and risk management framework, with regular reporting to the Board of Directors. At Central Pattana, the Risk Management Committee oversees key risks through designated risk owners at both the management and operational levels. These risk owners are responsible for identifying key risks, assessing their likelihood and impact, and developing measures to prevent, control and manage risks that could affect our objectives and operations. The Risk Management Committee continuously monitors, analyzes and manages portfolio and key risks across multiple levels of the organization. It also monitor developments, megatrends and evolving internal and external risk factors. This comprehensive approach ensures the effective execution of our strategic objectives, goals and plans."
+    ],
+    [
+     "S1",
+     "same-section",
+     "Report of the Risk Policy Committee",
+     99,
+     "Our scope of risk management covers key risk categories including the risks affecting businesses under Central Pattana, which encompass strategic, financial, operational, compliance, sustainability and emerging risks."
+    ],
+    [
+     "S2",
+     "same-section",
+     "Report of the Risk Policy Committee",
+     100,
+     "Approved Central Pattana’s risk profile, key risk indicators and key risk exposure, and reviewed risk response plans proposed by risk owners."
+    ]
+   ],
+   "flags": [],
+   "stratum": "CPN|commitment",
+   "weight": 10.0,
+   "v7": {
+    "S": 1,
+    "M": 0,
+    "T": 0,
+    "E": 1,
+    "C": 3,
+    "tier": "partially_substantive"
+   }
+  },
+  {
+   "uid": "CPN-2024-OR+SR-EN::CLM-0069",
+   "company": "CPN",
+   "sector": "Real Estate",
+   "report": "CPN-2024-OR+SR-EN",
+   "page": 168,
+   "section": "Sustainability Management: Economic and Governance",
+   "claim_type": "commitment",
+   "claim_text": "Conduct quarterly reviews and monitoring of key risks, with plans developed accordingly.",
+   "sdg_targets": "16.6, 16.7, 16.a",
+   "pack": [
+    [
+     "X1",
+     "cross-section",
+     "Report of the Risk Policy Committee",
+     100,
+     "Carried out an annual review of our key risks by using a comprehensive, multidimensional approach to identify, assess and monitor key risks and consider appropriate risk response plans."
+    ],
+    [
+     "X2",
+     "cross-section",
+     "Message from the Board of Directors",
+     12,
+     "<a id='56f1c4a7-b79a-4efb-853b-b4c504f103c0'></a>\n\n1. Carried out an annual review of our key risks by using a comprehensive, multidimensional approach to identify, assess and monitor key risks and consider appropriate risk response plans. The review examined external factors including global and domestic economic conditions, market competition, evolving consumer behavior, technological disruptions and regulatory"
+    ],
+    [
+     "X3",
+     "cross-section",
+     "Risk Management Policy and Plan",
+     539,
+     "The Risk Management Committee continuously monitors, analyzes and manages portfolio and key risks across multiple levels of the organization."
+    ],
+    [
+     "S1",
+     "same-section",
+     "Sustainability Management: Economic and Governance",
+     168,
+     "Corporate governance policies have been established to ensure transparency, accountability and fairness in key activities and/or those with risks of non-compliance with laws, ethics and the Code of Conduct."
+    ]
+   ],
+   "flags": [
+    "Only 1 of 2 target same-section references met the similarity threshold (0.35)."
+   ],
+   "stratum": "CPN|commitment",
+   "weight": 10.0,
+   "v7": {
+    "S": 1,
+    "M": 0,
+    "T": 3,
+    "E": 1,
+    "C": 1,
+    "tier": "partially_substantive"
+   }
+  },
+  {
+   "uid": "CPN-2024-OR+SR-EN::CLM-0049",
+   "company": "CPN",
+   "sector": "Real Estate",
+   "report": "CPN-2024-OR+SR-EN",
+   "page": 143,
+   "section": "Sustainability Management: Social",
+   "claim_type": "commitment",
+   "claim_text": "Build partnerships for sustainability through Green Partnership, a project which aims to reduce energy consumption and divert waste from landfills.",
+   "sdg_targets": "12.2, 12.5, 12.6, 17.16, 17.17, 7.3, 7.a",
+   "pack": [
+    [
+     "X1",
+     "cross-section",
+     "Board of Directors",
+     144,
+     "<a id='9d778ad9-d79c-4be0-8131-1993c8b40ba2'></a>\n\n2. To strengthen sustainability partnerships, we invited\ntenants committed to reducing their carbon footprint\nto join the Green Partnership project, which is a\ncollaboration between tenants, Central shopping centers\nand the Department of Climate Change and Environment\n(DCCE). At the event, Dr. Phirun Saiyasitpanich, the\nhead of the DCCE, presided over the ceremony and"
+    ],
+    [
+     "X2",
+     "cross-section",
+     "Board of Directors",
+     130,
+     "<a id='0fb0f47f-57c1-45d7-802c-7720b9044258'></a>\n\n5) Engage public and private sector partners, agencies,\norganizations and networks in waste management and\nthe circular economy. Key partnerships include:\n* \"Green Shelter\" In partnership with the Princess Pa\nFoundation, the Thai Red Cross Society and Tetra\nPak (Thailand), we collect empty, clean beverage\ncartons for recycling into construction materials,\nwhich are then used to build homes for those in need\nof shelter due to natural disasters or other urgent\ncircumstances.\n* \"Mai Tay Rum\" initiative with the Bangkok Metropolitan\nAdministration We have committed to advancing food\nwaste segregation across Central shopping centers"
+    ],
+    [
+     "X3",
+     "cross-section",
+     "Management Discussion and Analysis",
+     1580,
+     "CPN joined forces with 165 partner brands and a total of 2,250 stores under the Green Partnership initiative, aiming to collectively reduce greenhouse gas emissions by over 700 tons of CO₂ equivalent per year."
+    ],
+    [
+     "S1",
+     "same-section",
+     "Sustainability Management: Social",
+     143,
+     "Build partnerships for sustainability through Green Partnership, a project which aims to reduce energy consumption and divert waste from landfills."
+    ],
+    [
+     "S2",
+     "same-section",
+     "Sustainability Management: Social",
+     144,
+     "Developing plans to enhance the quality of life for office tenant employees, aligning with green building standards."
+    ]
+   ],
+   "flags": [],
+   "stratum": "CPN|commitment",
+   "weight": 10.0,
+   "v7": {
+    "S": 2,
+    "M": 0,
+    "T": 0,
+    "E": 1,
+    "C": 3,
+    "tier": "partially_substantive"
+   }
+  },
+  {
+   "uid": "CPN-2024-OR+SR-EN::CLM-0028",
+   "company": "CPN",
+   "sector": "Real Estate",
+   "report": "CPN-2024-OR+SR-EN",
+   "page": 22,
+   "section": "Business Policy and Business Overview",
+   "claim_type": "commitment",
+   "claim_text": "Central Phuket has expanded its luxury brand retail space by four times over the next two years. This expansion supports the government’s strategic plan to develop Phuket into more than just a tourist city, but into a “Top Destination for Global Jetsetters,” catering to a vast number of tourists and high purchasing power.",
+   "sdg_targets": "8.1, 8.2, 8.3, 8.9, 9.1, 9.2",
+   "pack": [
+    [
+     "X1",
+     "cross-section",
+     "Message from the Board of Directors",
+     21,
+     "<a id='48333510-2887-4f91-90ce-9ed54937bb60'></a>\n\nCentral Phuket\nThe World's Luxury Magnitude\n\nIn 2024, Phuket fully came back to the world's destination after the pandemic of COVID-19, and Central Phuket has also received a great response. To align with the global tourism trend, Central Phuket has expanded its luxury brand retail space by four times over the next two years. This expansion supports the government's strategic plan to develop Phuket into more than just a tourist city, but into a \"Top Destination for Global Jetsetters,\" catering to a vast number of tourists and high purchasing power. In 2024, Central Phuket has more than 10 luxury brands that have already opened at the mall."
+    ],
+    [
+     "X2",
+     "cross-section",
+     "Message from the Board of Directors",
+     31,
+     "<a id='cb1650fe-7396-4f64-b420-831e44db04c4'></a>\n\nThe retail space in Bangkok and its metropolitan area saw a slight increase in 2024, primarily driven by the Phase 1 opening of One Bangkok, which introduced The Parade and The Storeys zones in Q4 2024. However, rental rates and occupancy levels remained stable, in line with modest private consumption growth. Despite this, the continued rise in international tourist arrivals significantly boosted shopping mall foot traffic and tenant sales, particularly in prime locations in Bangkok's central districts and key tourist destinations."
+    ],
+    [
+     "X3",
+     "cross-section",
+     "Message from the Board of Directors",
+     32,
+     "<a id='4d5e9805-4e0e-445e-995d-402474df8193'></a>\n\nIn 2025, Bangkok's retail supply is expected to expand by approximately 0.2 mn sq.m., primarily driven by mixed-use developments, including Central Park (developed by Central Pattana) and The Forestias (HAPPITAT). Looking ahead to 2026, CBRE estimates an additional 0.3 mn sq.m. of retail space, with key contributions from major projects such as Bangkok Mall, One Bangkok (Phase 2), and Asiatique Phase 2."
+    ],
+    [
+     "S1",
+     "same-section",
+     "Business Policy and Business Overview",
+     20,
+     "To be an industry leader with sustainable growth under the Retail-led Mixed-use developer strategy: By accelerating the development of new shopping centers in potential provinces to expand the market and seek new revenue streams, including the expansion in residential, hotel, and office businesses to generate stable turnover and maintain leadership in all industries."
+    ]
+   ],
+   "flags": [
+    "Only 1 of 2 target same-section references met the similarity threshold (0.35)."
+   ],
+   "stratum": "CPN|commitment",
+   "weight": 10.0,
+   "v7": {
+    "S": 2,
+    "M": 2,
+    "T": 3,
+    "E": 1,
+    "C": 3,
+    "tier": "substantive"
+   }
+  },
+  {
+   "uid": "CPN-2024-OR+SR-EN::CLM-0039",
+   "company": "CPN",
+   "sector": "Real Estate",
+   "report": "CPN-2024-OR+SR-EN",
+   "page": 79,
+   "section": "Materiality and Sustainable Development Strategy",
+   "claim_type": "achievement",
+   "claim_text": "We are proud to be featured in the Sustainability Yearbook by S&P Global for the seventh consecutive year, earning a Top 5% S&P Global CSA Score in Real Estate.",
+   "sdg_targets": "11.3, 11.6, 11.b, 12.6, 9.2, 9.4",
+   "pack": [
+    [
+     "X1",
+     "cross-section",
+     "Message from the Board of Directors",
+     29,
+     "<a id='7df4a6b4-21e2-4bb2-b816-bb09e4b14502'></a>\n\nThe Company has been a member of Dow Jones Sustainability Indices (DJSI World) in real estate for seven consecutive years (2018-2024), emerging market (DJSI Emerging Markets) for eleven consecutive years (2014-2024) and a member of S&P Global Sustainability Yearbook for seven consecutive years (2018-2024). The company achieves the highest score ranked no.1 in Social Contribution for its commitment to communities and stakeholders, while also achieving the Top 5 rankings in Climate Change Strategy and Governance."
+    ],
+    [
+     "X2",
+     "cross-section",
+     "Report of the Audit and Corporate Governance Committee",
+     78,
+     "<a id='cc082087-a8ae-41d3-92aa-de4f7b91f179'></a>\n\nCentral Pattana has been listed as a member\nof the Dow Jones Best-in-Class World Indices\n(formerly the Dow Jones Sustainability Indices-\nWorld Index, DJSI World) in the Real Estate\nsector for the seventh consecutive year, and\non the Dow Jones Sustainability-Emerging\nMarkets Index (DJSI Emerging Markets) for\nthe eleventh consecutive year, with the highest\nscore of 84. We are proud to be featured in the\nSustainability Yearbook by S&P Global for the\nseventh consecutive year, earning a Top 5%\nS&P Global CSA Score in Real Estate. We have\nbeen included in the FTSE4Good index series\ncreated by the FTSE Russell, we also have\nreceived a rating of 'BBB' from MSCI ESG, a SET\nESG Rating of 'AAA,' and a 2-star rating from\nGRESB, the global standard for portfolio-level\nsustainability reporting in the real estate sector,\nfor CPNREIT."
+    ],
+    [
+     "X3",
+     "cross-section",
+     "Report of the Audit and Corporate Governance Committee",
+     78,
+     "<a id='9f1c2cf2-48d6-42f1-be5c-e608d683042f'></a>\n\nMember of\nDow Jones\nSustainability Indices\nPowered by the S&P Global CSA\n<::\nS&P Global\n©S&P Global 2023.\nCentral Pattana Public Company\nLimited\nReal Estate Management &\nDevelopment\nTop 5%\nCorporate Sustainability\nAssessment (CSA) 2024 Score\n84/100\nScore date\nFebruary 5, 2023\nFor terms of use, visit www.spglobal.com/yearbook.\n: logo/certificate::>"
+    ],
+    [
+     "S1",
+     "same-section",
+     "Materiality and Sustainable Development Strategy",
+     79,
+     "We have been included in the FTSE4Good index series created by the FTSE Russell, we also have received a rating of ‘BBB’ from MSCI ESG, a SET ESG Rating of ‘AAA,’ and a 2-star rating from GRESB, the global standard for portfolio-level sustainability reporting in the real estate sector, for CPNREIT."
+    ],
+    [
+     "S2",
+     "same-section",
+     "Materiality and Sustainable Development Strategy",
+     79,
+     "Central Pattana has been listed as a member of the Dow Jones Best-in-Class World Indices (formerly the Dow Jones Sustainability Indices-World Index, DJSI World) in the Real Estate sector for the seventh consecutive year, and on the Dow Jones Sustainability-Emerging Markets Index (DJSI Emerging Markets) for the eleventh consecutive year, with the highest score of 84."
+    ]
+   ],
+   "flags": [],
+   "stratum": "CPN|achievement",
+   "weight": 12.0,
+   "v7": {
+    "S": 2,
+    "M": 2,
+    "T": 2,
+    "E": 3,
+    "C": 3,
+    "tier": "substantive"
+   }
+  },
+  {
+   "uid": "CPN-2024-OR+SR-EN::CLM-0065",
+   "company": "CPN",
+   "sector": "Real Estate",
+   "report": "CPN-2024-OR+SR-EN",
+   "page": 168,
+   "section": "Sustainability Management: Economic and Governance",
+   "claim_type": "policy",
+   "claim_text": "Corporate governance policies have been established to ensure transparency, accountability and fairness in key activities and/or those with risks of non-compliance with laws, ethics and the Code of Conduct.",
+   "sdg_targets": "16.5, 16.6",
+   "pack": [
+    [
+     "X1",
+     "cross-section",
+     "Business Structure and Operating Performance",
+     167,
+     "<a id='c3a8dad8-de1c-4650-b2b4-2b227c849594'></a>\n\n## Management Approach\n\n1. Corporate governance policies have been established to ensure transparency, accountability and fairness in key activities and/or those with risks of non-compliance with laws, ethics and the Code of Conduct. In some cases, international guidelines or standards are adopted, while in others, internal departments create handbooks, standards and evaluation frameworks to guide governance practices within the organization."
+    ],
+    [
+     "X2",
+     "cross-section",
+     "Business Structure and Operating Performance",
+     238,
+     "<a id='8c0e876d-4c15-4c16-a130-6facc007ea49'></a>\n\nThe Board has highlighted the importance of corporate governance by stipulating relevant policies and practices in the Handbook and enhanced tangible implementation to build stakeholder trust."
+    ],
+    [
+     "X3",
+     "cross-section",
+     "Business Structure and Operating Performance",
+     204,
+     "<a id='7c87f283-4bb2-4219-8793-f063ccaeb2f6'></a>\n\n6. Corporate Governance Policy"
+    ],
+    [
+     "S1",
+     "same-section",
+     "Sustainability Management: Economic and Governance",
+     168,
+     "Demonstrate commitment to the 10 Principles of the UN Global Compact in the areas of human rights, labor, environment and anti-corruption, through our membership in the UNGC under the Central Group."
+    ],
+    [
+     "S2",
+     "same-section",
+     "Sustainability Management: Economic and Governance",
+     168,
+     "Conduct quarterly reviews and monitoring of key risks, with plans developed accordingly."
+    ]
+   ],
+   "flags": [],
+   "stratum": "CPN|policy",
+   "weight": 6.0,
+   "v7": {
+    "S": 1,
+    "M": 0,
+    "T": 0,
+    "E": 1,
+    "C": 3,
+    "tier": "partially_substantive"
+   }
+  },
+  {
+   "uid": "CPN-2024-OR+SR-EN::CLM-0050",
+   "company": "CPN",
+   "sector": "Real Estate",
+   "report": "CPN-2024-OR+SR-EN",
+   "page": 144,
+   "section": "Sustainability Management: Social",
+   "claim_type": "alignment",
+   "claim_text": "Our tenant services are aligned with ISO 9001 standards. Tenant environmental and waste management processes are established in accordance with ISO 14001, while and tenant safety measures comply with ISO 45001 standards.",
+   "sdg_targets": "12.4, 12.5, 12.6, 3.9, 9.1, 9.4",
+   "pack": [
+    [
+     "X1",
+     "cross-section",
+     "Board of Directors",
+     142,
+     "<a id='f2424172-318e-4b7e-8db8-c064b4b28b33'></a>\n\n3. Establish a standard manual for store openings and standard operating procedures (SOPs) for tenant operations management, covering all stages from pre-opening preparations to ongoing service delivery along with annual operational audits on utility systems, waste management and disposal, and safety and incident management.\n3.1) Our tenant services are aligned with ISO 9001 standards. Tenant environmental and waste management processes are established in accordance with ISO 14001, while and tenant safety measures comply with ISO 45001 standards."
+    ],
+    [
+     "X2",
+     "cross-section",
+     "Management Team",
+     150,
+     "<a id='7571ebcc-c882-4ce6-90b7-d91e3c41c32e'></a>\n\n2. We have adapted the ISO 45001 standard as a framework for our safety management approach. Quality, Security, Occupational Safety, Health and Environment (QSHE) has also been integrated into comprehensive risk management and environmental and safety compliance assessment, covering areas including incidents, safety, fitness for work, resource and infectious diseases. Incidents are recorded in the Smart Property system, which tracks cases involving employees, contractors, tenant staff and customers. This system compiles data to support follow-up on corrective and remediation actions, assess severity levels, identify root causes and develop preventive measures to avoid recurrence. Reports are submitted to the Risk Management Committee and the Risk Policy Committee at least once a year to review and update organization-wide preventive guidelines and plans."
+    ],
+    [
+     "X3",
+     "cross-section",
+     "Board of Directors",
+     143,
+     "<a id='9d6d7947-5de1-4849-921d-613ae340e05f'></a>\n\n7.  Ensure the quality of life for tenant staff and office tenant employees by:\n    7.1) Leveraging the findings from annual operational audits and human rights risk assessments to identify and evaluate risks, using the insights to develop targeted plans that enhance employee well-being.\n    7.2) Developing plans to enhance the quality of life for tenant staff, covering:\n        1) **Health and Safety** - Provide on-site medical rooms accessible to tenant staff, monitor and maintain indoor air quality to meet standards, and install CO2 detectors and MERV 16 air filtration systems, which exceed the legal requirements.\n        2) **Living Conditions** - Provide dedicated rest areas for tenant staff during breaks, staff cafeterias offering high-quality, affordable meals, and, where feasible, designated parking spaces based on availability at each project location.\n    7.3) Developing plans to enhance the quality of life for office tenant employees, aligning with green building standards. These plans address areas including indoor air quality, water quality in restrooms and washing areas and lighting quality through the following measures:\n        1) **Daylighting** Incorporate skylights and sidelights to allow natural light into the building, offering views of the outside environment.\n        2) **Biophilic design** Integrate indoor gardens and use natural or nature-inspired materials such as wood or materials with natural patterns in the interior decor.\n        3) **Accessibility** Ensure building facilities and amenities are accessible to people with disabilities, in compliance with ministerial regulations."
+    ],
+    [
+     "S1",
+     "same-section",
+     "Sustainability Management: Social",
+     144,
+     "Our tenant services are aligned with ISO 9001 standards. Tenant environmental and waste management processes are established in accordance with ISO 14001, while and tenant safety measures comply with ISO 45001 standards."
+    ],
+    [
+     "S2",
+     "same-section",
+     "Sustainability Management: Social",
+     144,
+     "Developing plans to enhance the quality of life for tenant staff, covering Health and Safety - Provide on-site medical rooms accessible to tenant staff, monitor and maintain indoor air quality to meet standards, and install CO2 detectors and MERV 16 air filtration systems, which exceed the legal requirements."
+    ]
+   ],
+   "flags": [],
+   "stratum": "CPN|alignment",
+   "weight": 4.0,
+   "v7": {
+    "S": 2,
+    "M": 0,
+    "T": 0,
+    "E": 1,
+    "C": 3,
+    "tier": "partially_substantive"
+   }
+  },
+  {
+   "uid": "IVL-2024-SR-EN::CLM-0209",
+   "company": "IVL",
+   "sector": "Construction Materials",
+   "report": "IVL-2024-SR-EN",
+   "page": 1846,
+   "section": "Financial Discipline in Action",
+   "claim_type": "commitment",
+   "claim_text": "We are expanding Scope 3 emissions accounting and assurance to cover over nine categories while also evaluating targets for Scope 3 reductions within our supply chain.",
+   "sdg_targets": "12.6, 13.2",
+   "pack": [
+    [
+     "X1",
+     "cross-section",
+     "Introduction and Key Messages",
+     30,
+     "<a id='b827901c-3cee-49f5-a435-8e8901558226'></a>\n\nOur Scope 3 GHG accounting and assurance currently cover\nnine categories, and we are evaluating the development of\nspecific reduction targets for supply chain emissions.\nIn particular, we are working toward setting specific targets\nfor Scope 3 emissions related to \"Purchased Goods and\nServices\" and \"Upstream Transportation and Distribution.\"\nFor Indovinya, there is a firm commitment to reduce absolute\nScope 3 emissions in Category 1 by 15% by 2030 (baseline year\n2022). To achieve this goal, we have outlined a roadmap and\nwill launch targeted projects and build partnerships with\nsuppliers to implement action plans focused on emissions\nreductions in this category."
+    ],
+    [
+     "X2",
+     "cross-section",
+     "Chapter 1: Who We Are",
+     69,
+     "<a id='fd7dc2ce-3cb5-48e7-863d-14a98cff3bea'></a>\n\nThis strategy guides resilient investment planning and ensures\nrisk-informed capital deployment. In parallel, we are expanding\nScope 3 emissions accounting and assurance to cover over\nnine categories while also evaluating targets for Scope 3\nreductions within our supply chain, aligning our financial\nstrategy more closely with our sustainability objectives."
+    ],
+    [
+     "X3",
+     "cross-section",
+     "Introduction and Key Messages",
+     30,
+     "<a id='d98b17e4-7783-43ad-8de8-ceeea9c516fd'></a>\n\nReducing Scope 3 emissions remains a key component of our\nSustainability Strategy, helping to lower the carbon footprint\nof our products through improved sourcing practices and\nlogistics. This includes using local feedstocks, optimizing\nupstream and downstream transportation routes, and\nminimizing operational waste. In 2024, we continued to engage\nsuppliers, conduct ESG assessments, and strengthen internal\ncapabilities. Since 2022, we have evaluated 371 raw material\nsuppliers, with 60% of those reassessed showing improved\nsustainability scores. Internally, we continued to build\nawareness through the Sustainability Academy and e-learning\nplatforms. Externally, we increased product-level life cycle\nassessments to support customers in reducing their own\nScope 3 emissions."
+    ],
+    [
+     "S1",
+     "same-section",
+     "Financial Discipline in Action",
+     1846,
+     "We have integrated decarbonization activities into our annual financial planning and capital allocation to ensure a consistent commitment across our operations."
+    ],
+    [
+     "S2",
+     "same-section",
+     "Financial Discipline in Action",
+     1846,
+     "We sharpened our capital allocation strategy through proactive refinancing, disciplined cash flow management, and selective asset optimization, advancing toward our goal of reducing net debt-to-EBITDA below three times by 2026."
+    ]
+   ],
+   "flags": [],
+   "stratum": "IVL|commitment",
+   "weight": 27.666666666666668,
+   "v7": {
+    "S": 2,
+    "M": 0,
+    "T": 1,
+    "E": 1,
+    "C": 3,
+    "tier": "partially_substantive"
+   }
+  },
+  {
+   "uid": "IVL-2024-SR-EN::CLM-0255",
+   "company": "IVL",
+   "sector": "Construction Materials",
+   "report": "IVL-2024-SR-EN",
+   "page": 2282,
+   "section": "Opportunities for Improvement",
+   "claim_type": "commitment",
+   "claim_text": "Where possible, Indorama Ventures can make provision for the dedicated monitoring of CoD, rather than modelling CoD values",
+   "sdg_targets": "12.4, 12.6, 6.3",
+   "pack": [
+    [
+     "X1",
+     "cross-section",
+     "Chapter 1: Who We Are",
+     86,
+     "<a id='53b7d7af-5c30-481c-98d6-f57ac4bd1b6d'></a>\n\n## Opportunities for Improvement\nThe following are the opportunities for improvement reported to Indorama Ventures. However, they are generally consistent with company's management objectives and programs. Indorama Ventures already identified below topics and Assurance team endorse the same to achieve the Sustainable Goals of organization.\ni. The training hours per year per employee can be increased by setting appropriate target,\nii. The safety checklist and vendor evaluation attributes 10 % weightage for safety parameters, revisiting the same is requested,\niii. Indorama Ventures can evaluate the impact of the introduction of green hydrogen to reduce its scope-1 emissions,\niv. Where possible, Indorama Ventures can make provision for the dedicated monitoring of CoD, rather than modelling CoD values"
+    ],
+    [
+     "X2",
+     "cross-section",
+     "Introduction and Key Messages",
+     23,
+     "<a id='c5beb334-80a4-4c2c-b951-c0854dead2a4'></a>\n\nIn the near-term, Indorama Ventures is focused on optimizing\noperations and enhancing regulatory readiness to meet global\nsustainability requirements. Priorities include improving\noperational efficiency, initiating energy transition projects\n(such as renewable electricity sourcing and coal phase-out),\nand scaling both mechanical and advanced recycling.\nThis period also aligns with the rollout of major regulatory\nframeworks such as the EU Corporate Sustainability Reporting\nDirective (CSRD), the Corporate Sustainability Due Diligence\nDirective (CSDDD), and Extended Producer Responsibility (EPR)\nregulations across Europe, Southeast Asia, and India.\nThese efforts support early progress toward our six-pillar\ndecarbonization strategy."
+    ],
+    [
+     "X3",
+     "cross-section",
+     "Carbon Footprint 2024",
+     2352,
+     "The respective Carbon Footprint was verified by TÜV NORD CERT GmbH in accordance with DIN EN ISO 14064-3: 2020 regarding its correctness and completeness for Indorama Ventures Public Company Ltd."
+    ],
+    [
+     "S1",
+     "same-section",
+     "Opportunities for Improvement",
+     2282,
+     "Indorama Ventures can evaluate the impact of the introduction of green hydrogen to reduce its scope-1 emissions"
+    ]
+   ],
+   "flags": [
+    "Only 1 of 2 target same-section references met the similarity threshold (0.35)."
+   ],
+   "stratum": "IVL|commitment",
+   "weight": 27.666666666666668,
+   "v7": {
+    "S": 1,
+    "M": 0,
+    "T": 0,
+    "E": 1,
+    "C": 1,
+    "tier": "symbolic"
+   }
+  },
+  {
+   "uid": "IVL-2024-SR-EN::CLM-0162",
+   "company": "IVL",
+   "sector": "Construction Materials",
+   "report": "IVL-2024-SR-EN",
+   "page": 1383,
+   "section": "Customer Partnerships for Sustainable Growth",
+   "claim_type": "commitment",
+   "claim_text": "The Customer Satisfaction Study (CSS) is conducted biennially to assess overall customer experience and gather actionable feedback.",
+   "sdg_targets": "12.6, 12.8, 9.1, 9.2",
+   "pack": [
+    [
+     "X1",
+     "cross-section",
+     "Introduction and Key Messages",
+     52,
+     "<a id='6c9359fb-58c9-44c6-8b20-fbe1681811f0'></a>\n\n# Customer Satisfaction Study (CSS)\n\nTo ensure consistent value delivery and maintain customer confidence, Indorama Ventures actively monitors feedback and integrates it into ongoing process improvement efforts. High-performance benchmarks and Key Performance Indicators (KPIs) are regularly reviewed across customer service and product quality functions. The Customer Satisfaction Study (CSS) is conducted biennially to assess overall customer experience and gather actionable feedback. This survey evaluates customer perceptions across the following key areas:"
+    ],
+    [
+     "X2",
+     "cross-section",
+     "Introduction and Key Messages",
+     10,
+     "<a id='0824b2ed-a0e6-4ae9-8083-f9b413474c61'></a>\n\n## Customer Satisfaction Study*\n\n### 84.55%\nCustomer Satisfaction Index (CSI)\n\n### 86.68%\nCustomer Retention Rate (CRR)\n\n### 46\nNet Promoter Score (NPS)\n\n*A formal customer satisfaction study is conducted every other year as part of our group sustainability strategy. The latest study was conducted in 2024."
+    ],
+    [
+     "X3",
+     "cross-section",
+     "Chapter 1: Who We Are",
+     53,
+     "<a id='e69926a5-29ea-4826-9661-0560aad6076a'></a>\n\nResults from the 2024 CSS Survey are presented in the tables below. These findings are shared with senior management and business heads to identify improvement opportunities and strengthen customer relationships. Targeted action plans are developed in coordination with each business segment to sustain long-term satisfaction and engagement."
+    ],
+    [
+     "S1",
+     "same-section",
+     "Customer Partnerships for Sustainable Growth",
+     1383,
+     "Results from the 2024 CSS Survey are presented in the tables below. These findings are shared with senior management and business heads to identify improvement opportunities and strengthen customer relationships."
+    ],
+    [
+     "S2",
+     "same-section",
+     "Customer Partnerships for Sustainable Growth",
+     1383,
+     "Through consistent and proactive engagement with customers via regular interactions and formal satisfaction surveys, we ensure that our product development aligns with customer needs for sustainable solutions."
+    ]
+   ],
+   "flags": [],
+   "stratum": "IVL|commitment",
+   "weight": 27.666666666666668,
+   "v7": {
+    "S": 2,
+    "M": 0,
+    "T": 3,
+    "E": 1,
+    "C": 3,
+    "tier": "partially_substantive"
+   }
+  },
+  {
+   "uid": "IVL-2024-SR-EN::CLM-0094",
+   "company": "IVL",
+   "sector": "Construction Materials",
+   "report": "IVL-2024-SR-EN",
+   "page": 1156,
+   "section": "Environmental, Health, and Safety (EHS) Performance",
+   "claim_type": "achievement",
+   "claim_text": "57 Sustainability Projects across the company, including utilities.",
+   "sdg_targets": "13.1, 13.2, 13.3, 7.1, 7.2, 7.3, 9.1, 9.2, 9.4",
+   "pack": [
+    [
+     "X1",
+     "cross-section",
+     "Introduction and Key Messages",
+     45,
+     "<a id='86b15f40-f436-4dd2-8446-fc3ece15c236'></a>\n\nOutcomes of these projects not only generate tangible benefits for the Company, such as increased output, enhanced sustainability in energy, air, water usage, efficient waste management, improved product and process quality, and stronger cost control, but also empower employees to deepen their knowledge and develop practical skills through hands-on project experience. Knowledge-sharing is driven by monthly sessions, cross-functional conferences, and annual project competitions, supporting sustainable progress. By leveraging data-driven analysis and applying structured problem-solving approaches, employees are equipped to make informed decisions, drive improvement initiatives, and strengthen their leadership capabilities. This dual impact supports both organizational and ESG performance as well as individual professional growth, contributing to a sustainable organization."
+    ],
+    [
+     "X2",
+     "cross-section",
+     "Introduction and Key Messages",
+     17,
+     "<a id='13709227-7bb3-4326-b6da-cc503a4fa652'></a>\n\n## Key Initiatives\nESG is embedded in our manufacturing strategy through operational optimization, renewable energy adoption, and responsible sourcing. Key initiatives included investments in solar panel installations, transitioning from coal to natural gas at select facilities, and strategic closures of underperforming assets to streamline operations. Investments in energy-efficient technologies, such as waste heat and ethylene recovery, delivered significant emissions reductions. We also launched water conservation projects in high-stress regions and expanded our PET plastic recycling capabilities, with new facilities planned in India and Nigeria."
+    ],
+    [
+     "X3",
+     "cross-section",
+     "Introduction and Key Messages",
+     19,
+     "<a id='4b30f0d4-42f7-43f1-b526-53c00f7e5daf'></a>\n\n## Sustainability as a Core Business Driver\nWe are committed to building a sustainable future by investing in circular economy initiatives, expanding recycling infrastructure, and reducing carbon intensity across our operations."
+    ],
+    [
+     "S1",
+     "same-section",
+     "Environmental, Health, and Safety (EHS) Performance",
+     1156,
+     "91 million kWh reduction in energy consumption from 47 projects."
+    ],
+    [
+     "S2",
+     "same-section",
+     "Environmental, Health, and Safety (EHS) Performance",
+     1156,
+     "Outcomes of these projects not only generate tangible benefits for the Company, such as increased output, enhanced sustainability in energy, air, water usage, efficient waste management, improved product and process quality, and stronger cost control, but also empower employees to deepen their knowledge and develop practical skills through hands-on project experience."
+    ]
+   ],
+   "flags": [],
+   "stratum": "IVL|achievement",
+   "weight": 26.0,
+   "v7": {
+    "S": 2,
+    "M": 2,
+    "T": 0,
+    "E": 1,
+    "C": 1,
+    "tier": "partially_substantive"
+   }
+  },
+  {
+   "uid": "IVL-2024-SR-EN::CLM-0139",
+   "company": "IVL",
+   "sector": "Construction Materials",
+   "report": "IVL-2024-SR-EN",
+   "page": 1319,
+   "section": "Responsible and Resilient Supply Chain Management",
+   "claim_type": "achievement",
+   "claim_text": "We have strengthened our management processes by institutionalizing supplier assessments and audits.",
+   "sdg_targets": "12.6, 12.7, 16.5, 16.6, 8.3, 8.8",
+   "pack": [
+    [
+     "X1",
+     "cross-section",
+     "Innovating for a Low-Carbon Future",
+     53,
+     "We are enhancing our supply chain engagement and rigorous ESG assessments."
+    ],
+    [
+     "X2",
+     "cross-section",
+     "Introduction and Key Messages",
+     50,
+     "<a id='e9dbc273-8036-4fa6-b480-62b925b74c78'></a>\n\nWe have strengthened our management processes by institutionalizing supplier assessments and audits. Using a risk-based approach, we classify our suppliers based on their ESG exposure and encourage regular assessments using platforms such as EcoVadis and the Together for Sustainability (TfS) audit framework. These platforms serve as partners in evaluating and benchmarking our suppliers' ESG performance within the chemical industry. We also request our suppliers to disclose their ESG data and policies through these platforms to enhance transparency and support performance monitoring. In line with this approach, we set 2024 targets for supplier assessments and audits: 366 suppliers to be assessed through EcoVadis, and 7 suppliers to undergo onsite third-party audits. By doing so, suppliers can access ESG benchmarks against industry peers and identify opportunities for improvement. We have also expanded our participation in TfS by contributing our own onsite supplier audits to its global library. Additionally, targeted training sessions were conducted to equip buyers with practical tools for sustainable procurement."
+    ],
+    [
+     "X3",
+     "cross-section",
+     "Introduction and Key Messages",
+     51,
+     "<a id='bd173f91-afce-4262-9933-ebe0d18a6940'></a>\n\n# Audit and Risk Monitoring\n\nTo strengthen supplier governance and environmental performance, we evaluate supplier assessments and audits using a range of methods aligned with globally recognized standards, including adherence to the UN Global Compact, International Labour Organization (ILO) guidelines, the Safety & Quality Assessment System (SQAS) by the European Chemical Industry Council (CEFIC), the Responsible Care Global Charter by the International Council of Chemical Associations (ICCA), relevant labor conventions, and following ISO and related standards:"
+    ],
+    [
+     "S1",
+     "same-section",
+     "Responsible and Resilient Supply Chain Management",
+     1320,
+     "We set 2024 targets for supplier assessments and audits: 366 suppliers to be assessed through EcoVadis, and 7 suppliers to undergo onsite third-party audits."
+    ],
+    [
+     "S2",
+     "same-section",
+     "Responsible and Resilient Supply Chain Management",
+     1319,
+     "We are committed to embedding ESG safeguards throughout our operations and broader business network."
+    ]
+   ],
+   "flags": [],
+   "stratum": "IVL|achievement",
+   "weight": 26.0,
+   "v7": {
+    "S": 2,
+    "M": 0,
+    "T": 1,
+    "E": 2,
+    "C": 3,
+    "tier": "partially_substantive"
+   }
+  },
+  {
+   "uid": "IVL-2024-SR-EN::CLM-0048",
+   "company": "IVL",
+   "sector": "Construction Materials",
+   "report": "IVL-2024-SR-EN",
+   "page": 25,
+   "section": "Environmental Performance",
+   "claim_type": "metric",
+   "claim_text": "0.5703 tCO₂e/ton of production Scope 2 intensity*",
+   "sdg_targets": "13.2, 7.3",
+   "pack": [
+    [
+     "X1",
+     "cross-section",
+     "Introduction and Key Messages",
+     11,
+     "<a id='efdb8ad7-76d7-4140-8025-6df4d798daf8'></a>\n\nEnvironment\nGHG Emissions\n0.4673 tCO₂e/ton of production\nScope 1 intensity\n0.5703 tCO₂e/ton of production\nScope 2 intensity*\n1.0377 tCO₂e/ton of production\nScope 1 & 2 intensity*\n* Market-based\nEnergy\n10.24 GJ/ton of production\nIntensity\n3.41%\nRenewable electricity\nWater\n7.62 m³/ton of production\nIntensity\nWaste\n92.51%\nWaste diverted from landfill**\n** Including waste incinerated with\nenergy recovery"
+    ],
+    [
+     "X2",
+     "cross-section",
+     "Introduction and Key Messages",
+     11,
+     "<a id='eca613d0-293a-416d-8c33-fca9d3f6f05e'></a>\n\n<::Environment\nGHG Emissions\n0.3317 tCO₂e/ton of production\nScope 1 intensity\n0.1286 tCO₂e/ton of production\nScope 2 intensity*\n0.4603 tCO₂e/ton of production\nScope 1 & 2 intensity*\n* Market-based\nEnergy\n5.75 GJ/ton of production\nIntensity\n3.06%\nRenewable electricity\nWater\n3.85 m³/ton of production\nIntensity\nWaste\n58.62%\nWaste diverted from landfill**\n** Including waste incinerated with\nenergy recovery\n: environmental metrics::>"
+    ],
+    [
+     "X3",
+     "cross-section",
+     "Introduction and Key Messages",
+     29,
+     "<a id='f9f0c559-ec37-4366-a74f-1007cc72a8f9'></a>\n\nGHG (Scope 1 & 2*)\nIntensity Reduction\n(2020 Baseline)\n\nTargets\n**10%** by 2025 and\n**30%** by 2030\n* Scope 2 intensity (market-based)\n\nPerformance\nIn 2024, we recorded an intensity of\n**0.5855** tCO₂e/ton, showing a **4.49%**\nreduction against the 2025 target."
+    ],
+    [
+     "S1",
+     "same-section",
+     "Environmental Performance",
+     25,
+     "1.0377 tCO₂e/ton of production Scope 1 & 2 intensity**"
+    ],
+    [
+     "S2",
+     "same-section",
+     "Environmental Performance",
+     25,
+     "0.4673 tCO₂e/ton of production Scope 1 intensity"
+    ]
+   ],
+   "flags": [],
+   "stratum": "IVL|metric",
+   "weight": 26.5,
+   "v7": {
+    "S": 2,
+    "M": 2,
+    "T": 0,
+    "E": 1,
+    "C": 3,
+    "tier": "partially_substantive"
+   }
+  },
+  {
+   "uid": "IVL-2024-SR-EN::CLM-0156",
+   "company": "IVL",
+   "sector": "Construction Materials",
+   "report": "IVL-2024-SR-EN",
+   "page": 1330,
+   "section": "Supplier Assessment Metrics",
+   "claim_type": "metric",
+   "claim_text": "0 suppliers with substantial actual/potential negative impacts that were terminated.",
+   "sdg_targets": "12.6, 16.5, 16.6, 8.8",
+   "pack": [
+    [
+     "X1",
+     "cross-section",
+     "Introduction and Key Messages",
+     51,
+     "<a id='d7dff62e-36c7-4f6c-a7c5-206ba7b102fe'></a>\n\n308\nTotal number of\nsuppliers assessed\n\n93.90%\nof unique Critical\nsuppliers assessed\n\n0*\nSuppliers with substantial\nactual/potential negative\nimpacts that were terminated"
+    ],
+    [
+     "X2",
+     "cross-section",
+     "Introduction and Key Messages",
+     51,
+     "<a id='8e3aee07-4384-4c1c-9920-ff1b95621c94'></a>\n\n100%*\nof suppliers with substantial actual/\npotential negative impacts\nwith an agreed corrective action/\nimprovement plan"
+    ],
+    [
+     "X3",
+     "cross-section",
+     "Introduction and Key Messages",
+     51,
+     "<a id='76d94d4f-1da0-4470-9b32-a72ed9575b2d'></a>\n\n47*\nSuppliers assessed with\nsubstantial actual/potential\nnegative impacts"
+    ],
+    [
+     "S1",
+     "same-section",
+     "Supplier Assessment Metrics",
+     1330,
+     "308 total number of suppliers assessed."
+    ],
+    [
+     "S2",
+     "same-section",
+     "Supplier Assessment Metrics",
+     1330,
+     "93.90% of unique critical suppliers assessed."
+    ]
+   ],
+   "flags": [],
+   "stratum": "IVL|metric",
+   "weight": 26.5,
+   "v7": {
+    "S": 2,
+    "M": 2,
+    "T": 0,
+    "E": 1,
+    "C": 3,
+    "tier": "partially_substantive"
+   }
+  },
+  {
+   "uid": "IVL-2024-SR-EN::CLM-0082",
+   "company": "IVL",
+   "sector": "Construction Materials",
+   "report": "IVL-2024-SR-EN",
+   "page": 1066,
+   "section": "Robust Governance",
+   "claim_type": "policy",
+   "claim_text": "Group Employee Assistance Program (EAP) offers confidential counselling and support services for employees and their families to help manage stress, emotional challenges, and mental well-being.",
+   "sdg_targets": "3.4, 3.5, 3.8, 8.5, 8.8",
+   "pack": [
+    [
+     "X1",
+     "cross-section",
+     "Introduction and Key Messages",
+     44,
+     "<a id='3d870601-80dd-4fa4-884d-a42797b85538'></a>\n\nTo help employees plan for financial security, the program offers financial planning resources, including tax strategies, provident fund education, and investment advice through partnerships with financial institutions. Additionally, health-related forums and the Employee Assistance Program (EAP) are available to support emotional and physical well-being, offering guidance on stress management, relationships, and life changes. Employees also benefit from vocational workshops, often integrated into corporate events, and have the opportunity to participate in career coaching sessions through Individual Development Plans (IDP), tailored for personal and post-retirement planning. Furthermore, internal job placement support is available for affected employees, with HR teams coordinating internal and external job search assistance."
+    ],
+    [
+     "X2",
+     "cross-section",
+     "Introduction and Key Messages",
+     43,
+     "<a id='33b64778-677c-4d38-b34d-957ab2dc41f8'></a>\n\nWorkplace Wellness Initiatives\n\n*   **Hybrid Working Policy**\n    We promote flexible work arrangements that support work-life balance, reduce commuting stress,\n    and align with our sustainability goals.\n\n*   **Internal Health and Mental Well-Being Activities**\n    Webinars and awareness sessions are organized to encourage self-care, emotional resilience,\n    and healthy lifestyle habits.\n\n*   **Group Employee Assistance Program (EAP)**\n    Offers confidential counselling and support services for employees and their families to help manage\n    stress, emotional challenges, and mental well-being.\n\n*   **Promoting breastfeeding and Childcare Facilities**\n    Dedicated spaces at key sites provide privacy and support for nursing mothers and childcare needs.\n\n*   **Ergonomics and a Safe Work Environment**\n    Regular workstation assessments are conducted, ergonomic tools such as sit-stand desks are provided,\n    and best-practice training is offered. Remote workers receive home office support, while employees\n    and contractors are also empowered to stop work if safety is compromised.\n\n*   **HIV/AIDS Education and Health Access**\n    We uphold strict non-discrimination and confidentiality policies while providing education, voluntary\n    testing, treatment access, and comprehensive healthcare support for affected employees."
+    ],
+    [
+     "X3",
+     "cross-section",
+     "Introduction and Key Messages",
+     46,
+     "<a id='785826e9-1c4f-4040-9a2e-fe70d2317fd6'></a>\n\nOur approach emphasizes proactive consultation and active participation from management and employee representatives to ensure safety and well-being. We respect and uphold collective bargaining agreements that address employees' health and safety, working conditions, and other workplace considerations. We are also committed to mitigating potential negative health and safety impacts of our products and services on customers and consumers by ensuring product safety. EHS practices are promoted among both employees and contractors through training and the consistent application of global best practices, aimed at raising awareness of EHS management."
+    ],
+    [
+     "S1",
+     "same-section",
+     "Robust Governance",
+     1066,
+     "A comprehensive benefits program is designed to support employee well-being, work-life balance, and family care."
+    ],
+    [
+     "S2",
+     "same-section",
+     "Robust Governance",
+     1066,
+     "We uphold strict non-discrimination and confidentiality policies while providing education, voluntary testing, treatment access, and comprehensive healthcare support for affected employees."
+    ]
+   ],
+   "flags": [],
+   "stratum": "IVL|policy",
+   "weight": 19.0,
+   "v7": {
+    "S": 2,
+    "M": 0,
+    "T": 0,
+    "E": 1,
+    "C": 3,
+    "tier": "partially_substantive"
+   }
+  },
+  {
+   "uid": "IVL-2024-SR-EN::CLM-0056",
+   "company": "IVL",
+   "sector": "Construction Materials",
+   "report": "IVL-2024-SR-EN",
+   "page": 25,
+   "section": "Environmental Performance",
+   "claim_type": "alignment",
+   "claim_text": "Since 2020, we have been a 'Participant' member of the UN Global Compact (UNGC) and Local Network Thailand.",
+   "sdg_targets": "17.16, 17.17",
+   "pack": [
+    [
+     "X1",
+     "cross-section",
+     "Introduction and Key Messages",
+     12,
+     "<a id='afdf7fb1-cef5-4364-9ff0-bf67d65706d9'></a>\n\nUnited Nations\nGlobal Compact\n\nSince 2020, we have been\na \"Participant\" member\nof the UN Global Compact\n(UNGC) and Local Network\nThailand."
+    ],
+    [
+     "X2",
+     "cross-section",
+     "Robust Governance",
+     1524,
+     "In Thailand, we continued our active engagement with the Thai government's Co-Working Group on Plastic Waste Management under the Plastic Management Roadmap Phase 2 (2023-2027)."
+    ],
+    [
+     "X3",
+     "cross-section",
+     "Introduction and Key Messages",
+     14,
+     "<a id='52c2fa98-5800-4b67-8a8c-e178f99ffc06'></a>\n\nTo further align with the 2030 Sustainable Development Agenda, we enhanced our SDG-related practices and reporting in 2024 by integrating an Impact Measurement and Management (IMM) framework. This framework was jointly developed by the Securities and Exchange Commission (SEC) of Thailand and the United Nations Development Programme (UNDP) in Thailand, and published as part of an SDG Guidebook for Thai Listed Companies. It helps companies integrate SDG principles into their existing business practices. With this clarity, we are now better positioned to allocate resources strategically, respond more effectively to stakeholder needs, and build trust through increased transparency."
+    ],
+    [
+     "S1",
+     "same-section",
+     "Environmental Performance",
+     25,
+     "As a signatory to the UN Women’s Empowerment Principles (WEP), we are dedicated to promoting gender equality and empowering women."
+    ],
+    [
+     "S2",
+     "same-section",
+     "Environmental Performance",
+     25,
+     "We are proud of our membership in the World Economic Forum Alliance of CEO Climate Leaders and are committed to achieving ambitious climate actions."
+    ]
+   ],
+   "flags": [],
+   "stratum": "IVL|alignment",
+   "weight": 15.0,
+   "v7": {
+    "S": 2,
+    "M": 0,
+    "T": 2,
+    "E": 1,
+    "C": 3,
+    "tier": "partially_substantive"
+   }
+  },
+  {
+   "uid": "PTT-2024-OR+SR-EN::CLM-0089",
+   "company": "PTT",
+   "sector": "Energy",
+   "report": "PTT-2024-OR+SR-EN",
+   "page": 1231,
+   "section": "Business Operations and Performance",
+   "claim_type": "commitment",
+   "claim_text": "Actively participate in programs to achieve carbon neutrality and Net Zero Emissions.",
+   "sdg_targets": "13.2, 7.2, 7.3",
+   "pack": [
+    [
+     "X1",
+     "cross-section",
+     "Environmental",
+     131,
+     "Reducing greenhouse gas emissions to achieve a Net Zero Emissions target"
+    ],
+    [
+     "X2",
+     "cross-section",
+     "Corporate Governance",
+     59,
+     "<a id='46888dbf-47d3-4b96-a78a-5f8414953a04'></a>\n\n• Establish PTT Group Net Zero Task Force (G-NET) to formulate a well-defined framework for enhancing climate change solutions, setting goals, and implementing actions through various support mechanisms to effectively achieve Net Zero Emissions.\n• Promote the application of carbon pricing mechanisms within the organization by integrating them into investment consideration criteria, ensuring continuous price reviews to be appropriate for the organization's context in order to support projects that reduce greenhouse gas emissions and control the implementation of projects that emit greenhouse gases."
+    ],
+    [
+     "X3",
+     "cross-section",
+     "Corporate Governance",
+     10,
+     "Sustainability: Net Zero by 2050"
+    ],
+    [
+     "S1",
+     "same-section",
+     "Business Operations and Performance",
+     1231,
+     "Assist the government in achieving its Carbon Neutrality goals and take a leadership role in managing climate change in line with applicable laws and regulations."
+    ],
+    [
+     "S2",
+     "same-section",
+     "Business Operations and Performance",
+     1231,
+     "Implement activities that mitigate adverse environmental impacts."
+    ]
+   ],
+   "flags": [],
+   "stratum": "PTT|commitment",
+   "weight": 13.8,
+   "v7": {
+    "S": 1,
+    "M": 0,
+    "T": 0,
+    "E": 1,
+    "C": 3,
+    "tier": "partially_substantive"
+   }
+  },
+  {
+   "uid": "PTT-2024-OR+SR-EN::CLM-0019",
+   "company": "PTT",
+   "sector": "Energy",
+   "report": "PTT-2024-OR+SR-EN",
+   "page": 215,
+   "section": "Message of the Chairman and the CEO",
+   "claim_type": "commitment",
+   "claim_text": "PTT Group aspires to be a leader in driving the organization towards internationally recognized sustainability by incorporating sustainability according to ESG (Environmental, Social and Governance) principles into all business dimensions in a manner suitable for the organization's context.",
+   "sdg_targets": "12.6, 13.2, 16.6, 16.7",
+   "pack": [
+    [
+     "X1",
+     "cross-section",
+     "Corporate Governance",
+     13,
+     "<a id='b64091b7-6d69-4f85-92cc-46b2fc4937ee'></a>\n\nPTT Group aspires to be a leader in driving the organization\ntowards internationally recognized sustainability by\nincorporating sustainability according to ESG (Environmental,\nSocial and Governance) principles into all business\ndimensions in a manner suitable for the organization's\ncontext. This involves creating business growth concurrently\nwith reducing greenhouse gas emissions to achieve its\nNet Zero Emissions target while also promoting the hydrogen\nand carbon capture and storage (CCS) businesses.\nPTT Group's achievement of these initiatives will be critical\nfor both PTT Group and Thailand to reach Net Zero Emissions\ntarget, following the C³ approaches as follows:"
+    ],
+    [
+     "X2",
+     "cross-section",
+     "Corporate Governance",
+     64,
+     "<a id='8d79dc3e-9044-4ef5-b36e-c620e3081399'></a>\n\ncompetitiveness and ensure continuous business growth.\nFor other key sustainability topics, PTT has process owner\nand a management system for continues to strengthen and\nelevate the processes already in place to effectively manage.\nThe goal is to maximize long-term organizational value.\nPTT aims to achieve top-tier ESG Ratings, positioning itself\nwithin the top 5% of its industry group."
+    ],
+    [
+     "X3",
+     "cross-section",
+     "Corporate Governance",
+     82,
+     "<a id='ea81a7c9-f20d-44ea-8a39-759502fde701'></a>\n\nUnder PTT Sustainability Management Framework, PTT focuses on managing its investment portfolio while actively working to reduce greenhouse gas emissions in accordance with established targets. To guide these efforts, the \"C\u0013 Approaches\" have been developed, which include: C1 - Climate-resilience Business, C2 - Carbon-conscious Asset, C3 - Coalition, Co-creation, and Collective Efforts for All. These approaches are embedded within the organization's business plans and operational strategies at the corporate, business unit, and support department levels, including subsidiaries. Furthermore, performance indicators (SE-AM KPIs/ Corporate KPIs) at the corporate and functional levels have been established to drive actionable, results-oriented efforts in alignment with the company's strategic goals, ensuring cohesive action across the organization. Additionally, these sustainability objectives have been integrated into Corporate Risk Profile, with a robust risk management framework designed to mitigate potential impacts. In line with this, PTT has restructured the organization to establish a Senior Executive Vice President (SEVP) Corporate Sustainability, as detailed in the Sustainability Governance Structure section. Besides, a dedicated committee and working groups have been established to develop a comprehensive master plan and action plan for reducing greenhouse gas emissions within PTT Group, ensuring alignment with the set targets and objectives."
+    ],
+    [
+     "S1",
+     "same-section",
+     "Message of the Chairman and the CEO",
+     215,
+     "PTT Group's achievement of these initiatives will be critical for both PTT Group and Thailand to reach Net Zero Emissions target, following the C³ approaches as follows: Climate-Resilience Business, Carbon-Conscious Asset, Coalition, Co-Creation, and Collective Efforts for All."
+    ],
+    [
+     "S2",
+     "same-section",
+     "Message of the Chairman and the CEO",
+     215,
+     "PTT Group prioritizes transformation as a strategy to enhance competitiveness and create continuous returns while achieving sustainable long-term growth, which is implemented through Operational Excellence initiatives to improve operational efficiency and reduce costs across PTT Group, with a target of achieving an EBITDA Uplift of at least THB 30 billion by 2027."
+    ]
+   ],
+   "flags": [],
+   "stratum": "PTT|commitment",
+   "weight": 13.8,
+   "v7": {
+    "S": 1,
+    "M": 0,
+    "T": 0,
+    "E": 1,
+    "C": 3,
+    "tier": "partially_substantive"
+   }
+  },
+  {
+   "uid": "PTT-2024-OR+SR-EN::CLM-0016",
+   "company": "PTT",
+   "sector": "Energy",
+   "report": "PTT-2024-OR+SR-EN",
+   "page": 215,
+   "section": "Message of the Chairman and the CEO",
+   "claim_type": "commitment",
+   "claim_text": "PTT has therefore revisited its vision of 'Together for Sustainable Thailand, Sustainable World', reflecting PTT’s dedication to fostering energy security while balancing growth and sustainability.",
+   "sdg_targets": "13.2, 7.1, 7.2, 8.1, 8.2, 8.4",
+   "pack": [
+    [
+     "X1",
+     "cross-section",
+     "Corporate Governance",
+     12,
+     "<a id='e5764748-f894-4e32-b6d4-9f9a7200875a'></a>\n\nOver the past 3 - 4 years, the world has faced multiple challenges, including economic uncertainty, prolonged geopolitical tensions, volatile global energy and feedstock prices, rapid technological advancements, and climate change, accelerating the global energy transition toward cleaner energy. Simultaneously, there is increasing global emphasis on achieving Net Zero Greenhouse Gas Emissions, alongside evolving policies and regulations, and industry landscape changes in the petrochemical and refining industries. Coupled with PTT's core mission as the national energy company, ensuring energy security for the country while balancing the interests of stakeholders, PTT has therefore revisited its vision of \"Together for Sustainable Thailand, Sustainable World\", reflecting PTT's dedication to fostering energy security while balancing growth and sustainability. Accordingly, the strategic direction has been realigned as follows:"
+    ],
+    [
+     "X2",
+     "cross-section",
+     "Corporate Governance",
+     69,
+     "<a id='ac4e39c3-9f50-4a3e-941e-48fd103ad7f9'></a>\n\nThese issues are central to PTT's role as the national energy\ncompany, committed to ensuring energy security and stability\nfor Thailand, driving economic growth while simultaneously\ncaring for society, communities, and the environment. This\napproach aims to enhance the quality of life for the Thai people,\ncontribute to national development, and balance the interests\nof all stakeholders. It also aligns with PTT Group Direction\nand Strategy, which focuses on energy security, sustainable\nbusiness growth, and achieving Carbon Neutrality by 2040\nand Net Zero Emissions by 2050."
+    ],
+    [
+     "X3",
+     "cross-section",
+     "Corporate Governance",
+     67,
+     "<a id='ea56530a-e443-4b24-bae2-f20588e58686'></a>\n\nTo align with its vision, strategic direction, and its goal of achieving Net Zero greenhouse gas emissions, PTT has defined its position in supporting and engaging with sustainability networks and partners. These partnerships span all relevant sustainability issues and areas where PTT operates, with a shared mission \"to help drive Thailand towards a sustainable, low-carbon future.\" This collaborative approach addresses urgent climate change challenges and supports the country's commitment to carbon neutrality and reducing greenhouse gas emissions. PTT aims to support sustainability networks and alliances with the following objectives:\n1. To develop and promote best practices in sustainability, human rights, and the management of security, safety, occupational health, and the environment (SSHE)."
+    ],
+    [
+     "S1",
+     "same-section",
+     "Message of the Chairman and the CEO",
+     215,
+     "PTT is committed to being a strong organization alongside Thai society, Together for Sustainable Thailand, continuously implementing projects with communities and society."
+    ],
+    [
+     "S2",
+     "same-section",
+     "Message of the Chairman and the CEO",
+     215,
+     "PTT Group's achievement of these initiatives will be critical for both PTT Group and Thailand to reach Net Zero Emissions target, following the C³ approaches as follows: Climate-Resilience Business, Carbon-Conscious Asset, Coalition, Co-Creation, and Collective Efforts for All."
+    ]
+   ],
+   "flags": [],
+   "stratum": "PTT|commitment",
+   "weight": 13.8,
+   "v7": {
+    "S": 1,
+    "M": 0,
+    "T": 0,
+    "E": 1,
+    "C": 3,
+    "tier": "partially_substantive"
+   }
+  },
+  {
+   "uid": "PTT-2024-OR+SR-EN::CLM-0114",
+   "company": "PTT",
+   "sector": "Energy",
+   "report": "PTT-2024-OR+SR-EN",
+   "page": 4558,
+   "section": "Assurance Report",
+   "claim_type": "commitment",
+   "claim_text": "The Report addresses the range of environmental, social and economic issues of concern that PTT Public Company Limited has identified as being of highest material importance.",
+   "sdg_targets": "12.2, 12.4, 12.5, 12.6, 16.6, 16.7, 8.2, 8.3, 8.4",
+   "pack": [
+    [
+     "X1",
+     "cross-section",
+     "Message of the Chairman and the CEO",
+     230,
+     "<a id='9b27d0b5-e14a-472a-af86-eed00134a62d'></a>\n\n**Materiality**\nThe Report addresses the range of environmental, social and economic issues of concern that PTT Public Company Limited has identified as being of highest material importance. The identification of material issues has considered both internal assessments of risks and opportunities to the business, as well as stakeholders' views and concerns. Fourteen material issues identified through stakeholder engagement."
+    ],
+    [
+     "X2",
+     "cross-section",
+     "Corporate Governance",
+     71,
+     "<a id='0ef2a098-8f1a-4e51-84bb-72e1498545b1'></a>\n\n# 4 Prioritize the Most Significant Impacts for Reporting\nThe prioritization of impacts and identification of key sustainability topics is based on the comprehensive analysis of both societal and environmental impacts (Impact Materiality) as well as the financial implications for the organization (Financial Materiality). These identified topics are carefully managed and transparently disclosed in the 56-1 One Report and on PTT Website. The evaluation results undergo thorough review in collaboration with relevant departments and experts. All findings are subject to approval and oversight by Management Level and PTT's Board of Directors, including the Governance Risk Compliance and Sustainability Management Committee, and the Corporate Governance and Sustainability Committee, respectively. In addition, independent experts and external organizations are engaged to audit the process and the outcomes of the materiality assessment, ensuring accuracy, credibility, completeness, and transparency. PTT incorporates feedback from external experts and entities to continuously improve its processes and disclosures."
+    ],
+    [
+     "X3",
+     "cross-section",
+     "Corporate Governance",
+     108,
+     "<a id='0442a615-b9ba-409f-b3fd-b357cf82daa9'></a>\n\n## 4.2 Factors That May Impact Future Operations\n\n### 4.2.1 Factors on Environmental and Social Trends and Impact\n\nPTT identifies impacts, including risks and opportunities arising from the organization's activities, operations, products, and services across the value chain, which may have both positive and negative effects on stakeholders in three dimensions: environmental, social, and governance. This includes not only human rights issues, but also internal and external factors such as trends, directions, and changes in relevant standards and practices. Every year, PTT conducts a comprehensive Materiality Assessment based on the Double Materiality principle to strategically prioritize Material Topics for systematic integrated management within the organization. Previously, PTT has integrated key sustainability issues into its strategic planning and risk assessment procedures. In 2024, one of the sustainability Material Topics is climate change, which has involved risk and opportunity analysis as well as impact assessment in various areas, including finance. This was done through the Climate Scenario Analysis process according to the Recommendation of the Task Force on Climate-related Financial Disclosure (TCFD). The risk analysis during the transition to a low-carbon society period found that, in the medium term by 2030, PTT may be affected by carbon tax imposition and the government's Emission Trading System (ETS). At the same time, there may be positive factors from opportunities to invest in alternative energy or renewable energy businesses and low-carbon businesses. This information has been incorporated into the review of the organization's vision and strategy, clearly reflected in the latest strategic direction, which focuses on enhancing clarity in sustainability across all dimensions by integrating sustainability into every step of business operations. This is combined with managing the investment portfolio"
+    ],
+    [
+     "S1",
+     "same-section",
+     "Assurance Report",
+     4558,
+     "PTT Public Company Limited is responding to those issues it has identified as material and demonstrates this in its policies, objectives, indicators and performance targets."
+    ],
+    [
+     "S2",
+     "same-section",
+     "Assurance Report",
+     4558,
+     "PTT Public Company Limited is monitoring, measuring and accountable for how their actions affect their broader ecosystems."
+    ]
+   ],
+   "flags": [],
+   "stratum": "PTT|commitment",
+   "weight": 13.8,
+   "v7": {
+    "S": 1,
+    "M": 0,
+    "T": 0,
+    "E": 1,
+    "C": 3,
+    "tier": "partially_substantive"
+   }
+  },
+  {
+   "uid": "PTT-2024-OR+SR-EN::CLM-0035",
+   "company": "PTT",
+   "sector": "Energy",
+   "report": "PTT-2024-OR+SR-EN",
+   "page": 979,
+   "section": "Risk Management",
+   "claim_type": "commitment",
+   "claim_text": "Establish a structure and process for supervising risk management and implementing checks and balances in accordance with international standards.",
+   "sdg_targets": "16.5, 16.6, 16.a",
+   "pack": [
+    [
+     "X1",
+     "cross-section",
+     "Business Operations and Performance",
+     991,
+     "Establish a process for overseeing compliance with laws and regulations."
+    ],
+    [
+     "X2",
+     "cross-section",
+     "Corporate Governance",
+     60,
+     "<a id='3b6463ed-bacd-4b87-88be-9fb680c80609'></a>\n\n• Establish a structure and process for supervising risk management and implementing checks and balances in accordance with international standards. This includes setting limits on Value at Risk (VaR) in trade transactions and preparing regular reports summarizing the risk status for presentation to executives and relevant agencies.\n• Monitor the market situation to adjust strategies in response to market conditions, along with enhancing measures to control risks related to trading partners and preventing potential defaults caused by insufficient liquidity in their business operations.\n• Apply technology to exchange market information, enabling faster and more comprehensive monitoring of market situations. This ensures effective control and oversight of PTT and PTT Group, preventing price risks from exceeding appropriate levels."
+    ],
+    [
+     "X3",
+     "cross-section",
+     "Business Operations and Performance",
+     991,
+     "Emphasize the systematic management and control of operational risks by applying advanced technology in line with engineering principles, international standards, and appropriate management tools and systems."
+    ],
+    [
+     "S1",
+     "same-section",
+     "Risk Management",
+     978,
+     "Supervise the risk management process to ensure alignment with PTT Group policy, with PTT executives serving as representatives on the risk management committees of each company."
+    ],
+    [
+     "S2",
+     "same-section",
+     "Risk Management",
+     979,
+     "Monitor the market situation to adjust strategies in response to market conditions, along with enhancing measures to control risks related to trading partners and preventing potential defaults caused by insufficient liquidity in their business operations."
+    ]
+   ],
+   "flags": [],
+   "stratum": "PTT|commitment",
+   "weight": 13.8,
+   "v7": {
+    "S": 1,
+    "M": 0,
+    "T": 0,
+    "E": 1,
+    "C": 3,
+    "tier": "partially_substantive"
+   }
+  },
+  {
+   "uid": "PTT-2024-OR+SR-EN::CLM-0013",
+   "company": "PTT",
+   "sector": "Energy",
+   "report": "PTT-2024-OR+SR-EN",
+   "page": 17,
+   "section": "Awards and Recognition",
+   "claim_type": "achievement",
+   "claim_text": "PTT has been assessed and ranked No. 1 in the Oil & Gas Upstream & Integrated (OGX) industry in S&P Global’s Corporate Sustainability Assessment (CSA) 2024, as recognized Top 1% in The Sustainability Yearbook 2025 and has been listed in Dow Jones Best-in-Class Indices in the World Index and Emerging Markets Index for the 13th consecutive year.",
+   "sdg_targets": "12.6, 13.2, 9.2, 9.4",
+   "pack": [
+    [
+     "X1",
+     "cross-section",
+     "Message of the Chairman and the CEO",
+     215,
+     "PTT has been assessed and ranked No. 1 in the Oil & Gas Upstream & Integrated (OGX) industry in S&P Global Corporate Sustainability Assessment (CSA) 2024, recognized as Top 1%."
+    ],
+    [
+     "X2",
+     "cross-section",
+     "Business Operations and Performance",
+     9,
+     "<a id='ec01170a-d496-4182-8d2f-72ad76b44860'></a>\n\n<::S&P Global\nPTT Public Company Limited\nOil & Gas Upstream & Integrated\nTop 1%\nCorporate Sustainability\nAssessment (CSA) 2024 Score\n81/100\n: award graphic::>\n\nDow Jones Best-in-Class Indices\nPTT has been assessed and ranked No. 1 in the Oil & Gas Upstream & Integrated (OGX) industry in S&P Global's Corporate\nSustainability Assessment (CSA) 2024, as recognized Top 1% in The Sustainability Yearbook 2025 and has been\nlisted in Dow Jones Best-in-Class Indices in the World Index and Emerging Markets Index for the 13th consecutive year."
+    ],
+    [
+     "X3",
+     "cross-section",
+     "Corporate Governance",
+     13,
+     "<a id='40d7ae0a-df33-453e-be06-f6bfae6cb8ac'></a>\n\nDue to its commitment to conducting business with balanced\nsustainability principles, in 2024, PTT garnered over\n60 honorary awards from 27 international and national\ninstitutions. PTT has been assessed and ranked No. 1 in\nthe Oil & Gas Upstream & Integrated (OGX) industry in S&P\nGlobal Corporate Sustainability Assessment (CSA) 2024,\nrecognized as Top 1% and has been listed in Dow Jones\nBest-in-Class Indices in the World Index and Emerging Markets\nIndex for the 13th consecutive year, an international recognition\nof pride which reflects the company's sustainable business\npractices in all dimensions."
+    ],
+    [
+     "S1",
+     "same-section",
+     "Awards and Recognition",
+     17,
+     "PTT Public Company Limited (Oil & Gas Upstream & Integrated sector) is ranked in the top 1% for the Corporate Sustainability Assessment (CSA) 2024 Score."
+    ],
+    [
+     "S2",
+     "same-section",
+     "Awards and Recognition",
+     171,
+     "<a id='71d40546-1fa5-4058-bb4a-0d3a532ace2a'></a>\n\nAwards of Pride\n\nThanks to our firm commitment to operating businesses with CG, social responsibility, and sustainability management for continuous standard enhancement, in 2024, PTT earned extensive acclaim from domestic and international entities, as highlighted below:\n\n*   Ranked as No. 1 in the Oil & Gas Upstream & Integrated (OGX) industry in S&P Global's Corporate Sustainability Assessment (CSA) 2024, as recognized Top 1% and has been listed in Dow Jones Best-in-Class Indices in the World Index and Emerging Markets Index for the 13th consecutive year.\n*   Integrity & Transparency Assessment (ITA) 2024 at the Good level with 95.76 scores from the NACC.\n*   Two SET Awards 2024: Sustainability Awards of Honor for 4 consecutive years and Innovative Company Awards of Honor.\n*   Outstanding Climate Action Leading Organization (CALO) Award at the excellent level in the resource field from Thailand Greenhouse Gas Management Organization (Public Organization).\n*   Carbon Footprint for Organization (CFO) certification and registration covers the scope of direct and indirect greenhouse gas emissions and greenhouse gas absorption from forest planting and maintenance from the Reforestation Project in 2022 (Reforestation carried out since 1994). The certification results were announced in 2024 by Thailand Greenhouse Gas Management Organization (Public Organization)."
+    ]
+   ],
+   "flags": [],
+   "stratum": "PTT|achievement",
+   "weight": 10.0,
+   "v7": {
+    "S": 2,
+    "M": 2,
+    "T": 3,
+    "E": 3,
+    "C": 3,
+    "tier": "substantive"
+   }
+  },
+  {
+   "uid": "PTT-2024-OR+SR-EN::CLM-0054",
+   "company": "PTT",
+   "sector": "Energy",
+   "report": "PTT-2024-OR+SR-EN",
+   "page": 131,
+   "section": "Environmental",
+   "claim_type": "metric",
+   "claim_text": "PTT Group: 41.45 million tons of CO₂ equivalent",
+   "sdg_targets": "13.2",
+   "pack": [
+    [
+     "X1",
+     "cross-section",
+     "Corporate Governance",
+     86,
+     "<a id='04ff0447-42e2-44c6-a840-afe7ab4109dd'></a>\n\nPTT Group's Direct and Indirect Greenhouse Gas Emissions¹, ⁸"
+    ],
+    [
+     "X2",
+     "cross-section",
+     "Corporate Governance",
+     86,
+     "<a id='876cee73-9daf-4ed0-9c57-e1d04945802e'></a>\n\nUnit: Million tons of CO₂ equivalent\n<table id=\"86-1\">\n<tr><td id=\"86-2\">Scope 1 and 2</td><td id=\"86-3\">2021</td><td id=\"86-4\">2022</td><td id=\"86-5\">2023</td><td id=\"86-6\">2024</td></tr>\n<tr><td id=\"86-7\">Direct Greenhouse Gas Emissions (Scope 1)², ³</td><td id=\"86-8\">47.18</td><td id=\"86-9\">45.29</td><td id=\"86-a\">40.32</td><td id=\"86-b\">40.50</td></tr>\n<tr><td id=\"86-c\">Biogenic CO₂ Emissions⁷</td><td id=\"86-d\">N/A</td><td id=\"86-e\">0.004</td><td id=\"86-f\">0.007</td><td id=\"86-g\">0.011</td></tr>\n<tr><td id=\"86-h\">Indirect Greenhouse Gas Emissions (Scope 2) (Location-based)</td><td id=\"86-i\">1.12</td><td id=\"86-j\">0.65</td><td id=\"86-k\">0.86</td><td id=\"86-l\">0.95</td></tr>\n<tr><td id=\"86-m\">Indirect Greenhouse Gas Emissions (Scope 2) (Market-based)², ³</td><td id=\"86-n\">1.46</td><td id=\"86-o\">0.86</td><td id=\"86-p\">0.87</td><td id=\"86-q\">0.95</td></tr>\n<tr><td id=\"86-r\">Scope 32, 3</td><td id=\"86-s\"></td><td id=\"86-t\"></td><td id=\"86-u\"></td><td id=\"86-v\"></td></tr>\n<tr><td id=\"86-w\">Greenhouse Gas Emissions from the Combustion of Fuel Products Sold by PTT and PTT Group (Scope 3)4, 5, 6</td><td id=\"86-x\">113.48</td><td id=\"86-y\">132.13</td><td id=\"86-z\">134.26</td><td id=\"86-A\">132.16</td></tr>\n<tr><td id=\"86-B\">Activities Related to Fuel and Energy9</td><td id=\"86-C\">N/A</td><td id=\"86-D\">N/A</td><td id=\"86-E\">0.05</td><td id=\"86-F\">0.06</td></tr>\n<tr><td id=\"86-G\">Waste Disposal from Production Processes10</td><td id=\"86-H\">N/A</td><td id=\"86-I\">0.04</td><td id=\"86-J\">0.01</td><td id=\"86-K\">0.03</td></tr>\n<tr><td id=\"86-L\">Business Travel11</td><td id=\"86-M\">N/A</td><td id=\"86-N\">0.004</td><td id=\"86-O\">0.01</td><td id=\"86-P\">0.01</td></tr>\n<tr><td id=\"86-Q\">Disposal of Products Sold by PTT Group¹²</td><td id=\"86-R\">N/A</td><td id=\"86-S\">N/A</td><td id=\"86-T\">0.90</td><td id=\"86-U\">0.93</td></tr>\n</table>"
+    ],
+    [
+     "X3",
+     "cross-section",
+     "Corporate Governance",
+     85,
+     "<a id='91ed50fc-0a5d-41e6-b202-46f315605e28'></a>\n\nUnit: Million tons of CO₂ equivalent\n<table id=\"85-1\">\n<tr><td id=\"85-2\">Scope 1, 2 and 3</td><td id=\"85-3\">2021</td><td id=\"85-4\">2022</td><td id=\"85-5\">2023</td><td id=\"85-6\">2024</td></tr>\n<tr><td id=\"85-7\">Direct Greenhouse Gas Emissions (Scope 1)</td><td id=\"85-8\">9.83</td><td id=\"85-9\">9.61</td><td id=\"85-a\">9.83</td><td id=\"85-b\">10.86</td></tr>\n<tr><td id=\"85-c\">Indirect Greenhouse Gas Emissions (Scope 2) - Location-based</td><td id=\"85-d\">0.23</td><td id=\"85-e\">0.22</td><td id=\"85-f\">0.18</td><td id=\"85-g\">0.18</td></tr>\n<tr><td id=\"85-h\">Indirect Greenhouse Gas Emissions (Scope 2) - Market-based</td><td id=\"85-i\">0.28</td><td id=\"85-j\">0.28</td><td id=\"85-k\">0.19</td><td id=\"85-l\">0.20</td></tr>\n<tr><td id=\"85-m\" colspan=\"5\">Other Indirect Greenhouse Gas Emissions (Scope 3)</td></tr>\n<tr><td id=\"85-n\">- Combustion of fuel products sold by PTT</td><td id=\"85-o\">74.02</td><td id=\"85-p\">70.73</td><td id=\"85-q\">73.66</td><td id=\"85-r\">71.54</td></tr>\n<tr><td id=\"85-s\">- Waste disposal from production processes</td><td id=\"85-t\">N/A</td><td id=\"85-u\">N/A</td><td id=\"85-v\">0.0036</td><td id=\"85-w\">0.0056</td></tr>\n<tr><td id=\"85-x\">- Business travel</td><td id=\"85-y\">0.0002</td><td id=\"85-z\">0.0036</td><td id=\"85-A\">0.0032</td><td id=\"85-B\">0.0029</td></tr>\n</table>"
+    ],
+    [
+     "S1",
+     "same-section",
+     "Environmental",
+     131,
+     "PTT: 11.06 million tons of CO₂ equivalent"
+    ],
+    [
+     "S2",
+     "same-section",
+     "Environmental",
+     131,
+     "PTT Group: Reducing greenhouse gas emissions by 15% by 2030 compared to the emissions in 2020*"
+    ]
+   ],
+   "flags": [],
+   "stratum": "PTT|metric",
+   "weight": 14.0,
+   "v7": {
+    "S": 2,
+    "M": 2,
+    "T": 2,
+    "E": 1,
+    "C": 1,
+    "tier": "partially_substantive"
+   }
+  },
+  {
+   "uid": "PTT-2024-OR+SR-EN::CLM-0108",
+   "company": "PTT",
+   "sector": "Energy",
+   "report": "PTT-2024-OR+SR-EN",
+   "page": 2412,
+   "section": "Corporate Governance",
+   "claim_type": "policy",
+   "claim_text": "The Board shall establish an efficient Anti-Fraud and Corruption support system to ensure that the management recognizes and prioritizes Anti-Fraud and Corruption, as well as conforming to such measures.",
+   "sdg_targets": "16.5, 16.6, 16.a",
+   "pack": [
+    [
+     "X1",
+     "cross-section",
+     "Awards and Recognition",
+     160,
+     "<a id='b38c8799-7dc9-440e-b424-453f0f6ddaf2'></a>\n\n(3) Corporate Governance,\nCode of Conduct, and\nAnti-Fraud and Corruption\nActivities"
+    ],
+    [
+     "X2",
+     "cross-section",
+     "Awards and Recognition",
+     160,
+     "<a id='58c417ee-1bac-4d32-98ed-3ddf3e951346'></a>\n\nThe Corporate Governance and Sustainability Committee\nand the Governance Risk Compliance and Sustainability\nManagement Committee (GRCMC) provide oversight and\nmonitor PTT's execution of corporate governance, operational\nrisk management, internal control, and compliance. GRCMC\nserves as PTT's Anti-Fraud and Corruption Operation\nCenter for State Enterprises and is charged with steering\nand implementing plans for corporate governance and\nAnti-fraud and Corruption together with the definition of\ngoals and KPIs approved by the Corporate Governance and\nSustainability Committee and the Board. Besides its constant\nimplementation and development as mentioned under\nSection 6 Corporate Governance on the topic of Anti-Fraud\nand Corruption. In 2024, PTT executed the following\npromotional activities on Corporate Governance, Code of\nConduct, and Anti-fraud and Corruption:"
+    ],
+    [
+     "X3",
+     "cross-section",
+     "Awards and Recognition",
+     161,
+     "<a id='33a50dd9-44b0-4386-a6df-7bfba240815e'></a>\n\nTo this end, Good Governance and Corporate Ethics Department is a center for grievances and whistleblowing, follow-ups of notifications, protection and fairness assurance for whistleblowers concerning corporate corrupt practices, including reports of investigation and punishment to management and relevant committees, apart from notification to related parties. The reports include monthly to CEO & President, quarterly to Governance Risk Compliance and Sustainability Management Committee, and Corporate Governance and Sustainability Committee, and semi-annually to the Audit Committee. This is to supervise and monitor the management of complaints and whistleblowing of corruption to comply with PTT's regulations on Complaints and Whistleblowing, Corruption, Misconduct, and Non-compliance with laws, and organizational regulations. In 2024, a total of 11 complaints were made through whistleblowing channels for fraud and non-compliance. After due consideration under the process, 6 were found to be without grounds for fraud, and 5 were under process."
+    ],
+    [
+     "S1",
+     "same-section",
+     "Corporate Governance",
+     121,
+     "<a id='bf313168-6819-4cac-a844-a2dee0043d95'></a>\n\n10. The Board shall ensure an appropriate system for the selection and appointment of all key management positions under a fair and transparent nomination process.\n11. The Board shall establish an efficient Anti-Fraud and Corruption support system to ensure that the management recognizes and prioritizes Anti-Fraud and Corruption, as well as conforming to such measures."
+    ],
+    [
+     "S2",
+     "same-section",
+     "Corporate Governance",
+     132,
+     "<a id='abc49a1b-b99e-4d45-bbc5-e74d893eaff9'></a>\n\n• Oversight and monitoring of performance:\n  • The Board is to supervise PTT to command an efficient system for Anti-Fraud and Corruption to ensure that management recognizes and values Anti-Fraud and Corruption and abides by Anti-Fraud and Corruption measures.\n  • The Audit Committee assess the efficiency and effectiveness of corporate governance, risk management and internal control processes; financial reporting to ensure its accuracy and credibility, and related operations to guarantee their alignment with the Anti-corruption policies and guidelines of the Thai Private Sector Collective Action against Corruption (CAC), as well as the complaint filing and whistleblowing process.\n  • The Corporate Governance and Sustainability Committee endorses objectives, goals, strategies, and management framework and grants Anti-Fraud and Corruption Policy and implementation directions. The Committee regularly advises, supervises, and monitors related operations, including supporting the implementation of fraud and corruption risk management at the operational level (Process Level) by assessing fraud and corruption risk and reviewing Anti-Fraud and Corruption measures for adequacy and suitability.\n  • Executives establish risk assessment for business processes that may lead to corrupt practices, review the efficiency and effectiveness of internal control processes and measures, and personify proper behavior as well as communicate it to all employees and related parties.\n  • PTT establishes procedures for maintaining auditable documents and records to confirm the accuracy and suitability of financial reports. The internal control of accounting processes and information storage is audited to verify the effectiveness of Anti-Fraud and Corruption processes and ensure that the entry of financial items is well-evidenced for audit."
+    ]
+   ],
+   "flags": [],
+   "stratum": "PTT|policy",
+   "weight": 6.0,
+   "v7": {
+    "S": 1,
+    "M": 0,
+    "T": 0,
+    "E": 1,
+    "C": 3,
+    "tier": "partially_substantive"
+   }
+  },
+  {
+   "uid": "PTTGC-2024-IR-EN::CLM-0135",
+   "company": "PTTGC",
+   "sector": "Energy",
+   "report": "PTTGC-2024-IR-EN",
+   "page": 1226,
+   "section": "Nature-based Solutions",
+   "claim_type": "commitment",
+   "claim_text": "GC has established the goal to offset 1 million tons CO₂ equivalent by 2050 through three approaches, namely 1) Reforestations Projects, covering terrestrial and mangrove forests, 2) Forest Care Projects, and 3) Purchase of Removal Carbon Credits.",
+   "sdg_targets": "13.1, 13.2, 15.1, 15.2, 15.3, 15.b",
+   "pack": [
+    [
+     "X1",
+     "cross-section",
+     "Environmental Performance",
+     114,
+     "GC has also carried out carbon sequestration programs using nature-based solutions through three significant projects: Reforestation Projects (terrestrial and mangrove forests), Forest Care Projects, and the Purchase of Removal Carbon Credits, aiming to offset 1 million tons of CO₂ equivalent by 2050."
+    ],
+    [
+     "X2",
+     "cross-section",
+     "Awards and Recognitions",
+     167,
+     "<a id='aa125950-bc65-4ef0-b74c-59428de3cfd9'></a>\n\nGC has taken action to conserve and restore natural resources in collaboration with government agencies, the private sector and communities as an alternative to carbon storage and carbon credits to offset residual greenhouse gases. GC has established the goal to offset 1 million tons CO₂ equivalent by 2050 through three approaches, namely 1) Reforestations Projects, covering terrestrial and mangrove forests, 2) Forest Care Projects, and 3) Purchase of Removal Carbon Credits. In addition, GC is in the process of exploring other alternatives, such as Wet and Dry Rice Farming. Our efforts have contributed to an increase in biodiversity, in terms of plants, animals and ecosystems, as well as higher income for communities by encouraging community participation in planting, caring, maintaining and restoring forests in project implementation areas."
+    ],
+    [
+     "X3",
+     "cross-section",
+     "Environmental Dimension and Climate Strategy",
+     137,
+     "GC has set a target to reach net zero emissions in Scope 1 and 2 by 2050 through three drivens, namely 1) Efficiency-driven, 2) Portfolio-driven, e.g., investment in High Value-Low Carbon Business, and 3) Compensation-driven."
+    ],
+    [
+     "S1",
+     "same-section",
+     "Nature-based Solutions",
+     1226,
+     "Reforestation in GC Chemical Experience Campus involves executives and employees at GC Chemical Experience Campus engaging in reforestation to contribute to carbon compensation, as part of the drive towards achieving the Net Zero Target."
+    ],
+    [
+     "S2",
+     "same-section",
+     "Nature-based Solutions",
+     1226,
+     "In 2024, GC purchased additional carbon credits from GC Estate Company Limited as an inventory in accordance with GC’s Decarbonization Roadmap."
+    ]
+   ],
+   "flags": [],
+   "stratum": "PTTGC|commitment",
+   "weight": 14.4,
+   "v7": {
+    "S": 3,
+    "M": 2,
+    "T": 2,
+    "E": 1,
+    "C": 3,
+    "tier": "substantive"
+   }
+  },
+  {
+   "uid": "PTTGC-2024-IR-EN::CLM-0108",
+   "company": "PTTGC",
+   "sector": "Energy",
+   "report": "PTTGC-2024-IR-EN",
+   "page": 137,
+   "section": "Environmental Dimension and Climate Strategy",
+   "claim_type": "commitment",
+   "claim_text": "GC is committed to the efficient management of climate change and energy in accordance with the Sustainable Development Goals (SDGs).",
+   "sdg_targets": "13.1, 13.2, 7.3",
+   "pack": [
+    [
+     "X1",
+     "cross-section",
+     "Environmental Performance",
+     112,
+     "GC is committed to the effective management of energy and climate change in pursuit of our Net Zero Target for Scope 1 and 2 by 2050, implementing the Decarbonization Pathway through three approaches."
+    ],
+    [
+     "X2",
+     "cross-section",
+     "Message from The Chairman and The CEO",
+     88,
+     "GC remains committed to maintaining its leadership in sustainability by integrating sustainability approaches into the formulation of our strategic direction and operations, thereby driving the organization forward in alignment with the United Nations Sustainable Development Goals (UN SDGs), simultaneously, balancing its business growth and competitiveness."
+    ],
+    [
+     "X3",
+     "cross-section",
+     "Environmental Performance",
+     136,
+     "<a id='66741060-f191-42b1-912b-4eb255e60125'></a>\n\nCommitment\nความมุ่งมั่น\nGC is committed to the efficient management of climate change and energy in accordance with the Sustainable Development Goals (SDGs). GC has set a target to reach net zero emissions in Scope 1 and 2 by 2050 through three drivens, namely 1) Efficiency-driven, 2) Portfolio-driven, e.g., investment in High Value-Low Carbon Business, and 3) Compensation-driven. GC also aims to explore business ventures by leveraging technological innovations in tandem with building partnerships with all stakeholders to support the transition to an eco-friendly, low-carbon economy."
+    ],
+    [
+     "S1",
+     "same-section",
+     "Environmental Dimension and Climate Strategy",
+     137,
+     "GC has set a target to reach net zero emissions in Scope 1 and 2 by 2050 through three drivens, namely 1) Efficiency-driven, 2) Portfolio-driven, e.g., investment in High Value-Low Carbon Business, and 3) Compensation-driven."
+    ],
+    [
+     "S2",
+     "same-section",
+     "Environmental Dimension and Climate Strategy",
+     137,
+     "GC also aims to explore business ventures by leveraging technological innovations in tandem with building partnerships with all stakeholders to support the transition to an eco-friendly, low-carbon economy."
+    ]
+   ],
+   "flags": [],
+   "stratum": "PTTGC|commitment",
+   "weight": 14.4,
+   "v7": {
+    "S": 2,
+    "M": 0,
+    "T": 2,
+    "E": 1,
+    "C": 3,
+    "tier": "partially_substantive"
+   }
+  },
+  {
+   "uid": "PTTGC-2024-IR-EN::CLM-0126",
+   "company": "PTTGC",
+   "sector": "Energy",
+   "report": "PTTGC-2024-IR-EN",
+   "page": 155,
+   "section": "Strategy and Management",
+   "claim_type": "commitment",
+   "claim_text": "In addition to projects aimed at optimizing production efficiency to conserve energy, GC also focuses on increasing the proportion of renewable energy to support the target and strategy to shift to renewable energy and low-carbon energy.",
+   "sdg_targets": "12.2, 12.6, 13.2, 7.2, 7.3",
+   "pack": [
+    [
+     "X1",
+     "cross-section",
+     "Unmapped",
+     155,
+     "<a id='aaa26768-8637-4739-b7c2-d54a64b704a2'></a>\n\nIn addition to projects aimed at optimizing\nproduction efficiency to conserve energy, GC also\nfocuses on increasing the proportion of renewable\nenergy to support the target and strategy to shift\nto renewable energy and low-carbon energy."
+    ],
+    [
+     "X2",
+     "cross-section",
+     "Environmental Performance",
+     150,
+     "<a id='87ca816e-a6fc-45bf-9eb3-207245eaddd7'></a>\n\nGC has employed energy consumption reduction\nand decarbonization technologies in the\nproduction process. The company has also\nswitched to renewable energy or low-carbon\nenergy to minimize greenhouse gas emissions\nfrom production. Accordingly, all GC plants have\nachieved ISO 50001:2018 energy management\nsystem certification. In this regard, GC has\nimplemented key projects such as Heat Recovery,\nCompressor Efficiency Optimization, and Biogas."
+    ],
+    [
+     "X3",
+     "cross-section",
+     "Environmental Performance",
+     129,
+     "<a id='4eb49b2c-390c-41a2-a05f-2705386fff2e'></a>\n\nIn addition, GC targets to increase the proportion\nof renewable energy utilization to support our\ngoals and strategy to shift to low-carbon energy."
+    ],
+    [
+     "S1",
+     "same-section",
+     "Strategy and Management",
+     154,
+     "GC has optimized compressor efficiency in Olefins 1 Plant by adjusting surge control value in the compressor system to enhance efficiency, cut down on unnecessary energy consumption, and reduce company costs."
+    ],
+    [
+     "S2",
+     "same-section",
+     "Strategy and Management",
+     153,
+     "GC has installed Advanced Gas Path (AGP) at the Gas Turbine Generator (GTG) in the Utility Plant to minimize the GTG’s energy consumption, which has contributed to energy and cost reduction."
+    ]
+   ],
+   "flags": [],
+   "stratum": "PTTGC|commitment",
+   "weight": 14.4,
+   "v7": {
+    "S": 1,
+    "M": 0,
+    "T": 0,
+    "E": 3,
+    "C": 3,
+    "tier": "partially_substantive"
+   }
+  },
+  {
+   "uid": "PTTGC-2024-IR-EN::CLM-0144",
+   "company": "PTTGC",
+   "sector": "Energy",
+   "report": "PTTGC-2024-IR-EN",
+   "page": 168,
+   "section": "Occupational Health and Safety",
+   "claim_type": "commitment",
+   "claim_text": "Collaborating with communities in Rayong province to plant, restore and increase mangrove forests. Expanding the project to Chanthaburi, Trat, Phetchaburi, and Krabi provinces, where planting is ongoing. The project, which is currently in T-VER registration process, aims to promote biodiversity and community economy.",
+   "sdg_targets": "13.1, 13.3, 15.1, 15.2, 15.5, 15.b, 8.3, 8.9",
+   "pack": [
+    [
+     "X1",
+     "cross-section",
+     "Nature-based Solutions",
+     1226,
+     "The Mangrove Planting Project is collaborating with communities in Rayong province to plant, restore and increase mangrove forests, expanding the project to Chanthaburi, Trat, Phetchaburi, and Krabi provinces, where planting is ongoing."
+    ],
+    [
+     "X2",
+     "cross-section",
+     "Nature-based Solutions",
+     1226,
+     "The Eco-forest Rayong Wanarom project is improving eco-forest areas within the Asia Industrial Estate in Rayong province to serve as a learning center on plants and ecosystems while promoting sustainable plantation."
+    ],
+    [
+     "X3",
+     "cross-section",
+     "Awards and Recognitions",
+     168,
+     "<a id='1c689243-7c67-4316-83a1-9ba17bed91d2'></a>\n\nReforestation Project\nโครงการปลูกป่า\n\n<table id=\"168-1\">\n<tr><td id=\"168-2\">Project โครงการ</td><td id=\"168-3\">Details รายละเอียดการดำเนินงาน</td><td id=\"168-4\">Area (rai) พื้นที่โครงการ (ไร่)</td><td id=\"168-5\">Estimated Carbon Sequestration (tons of CO₂ equivalent per year) คาดการณ์ปริมาณ การดูดซับคาร์บอน (ต้นคาร์บอนไดออกไซด์ เทียบเท่าต่อปี)</td><td id=\"168-6\">Equivalent to the Planting of Trees จํานวนต้นไม้ที่ปลูก โดยประมาณ (ตัน)</td></tr>\n<tr><td id=\"168-7\">O Mangrove Planting Project โครงการปลูกป่า ชายเลน</td><td id=\"168-8\">Collaborating with communities in Rayong province to plant, restore and increase mangrove forests. Expanding the project to Chanthaburi, Trat, Phetchaburi, and Krabi provinces, where planting is ongoing. The project, which is currently in T-VER registration process, aims to promote biodiversity and community economy. ร่วมกับชุมชนในจังหวัดระยอง ปลูก ฟื้นฟู และ เพิ่มพื้นที่ป่าชายเลน พร้อมขยายโครงการ สู่จังหวัดจันทบุรี ตราด เพชรบุรี และกระบี่ ซึ่งอยู่ระหว่างการปลูกและขึ้นทะเบียนโครงการ T-VER เพื่อส่งเสริมความหลากหลาย ทางชีวภาพและเศรษฐกิจชุมชน</td><td id=\"168-9\">3,826</td><td id=\"168-a\">~4,456 -7,778¹</td><td id=\"168-b\">2,137,950</td></tr>\n<tr><td id=\"168-c\">O Eco-forest Rayong Wanarom โครงการป่านิเวศ ระยองวนารมย์</td><td id=\"168-d\">Improving eco-forest areas within the Asia Industrial Estate in Rayong province to serve as a learning center on plants and ecosystems while promoting sustainable plantation. พัฒนาพื้นที่ต้นแบบป่านิเวศ (Eco-forest) ภายในนิคมอุตสาหกรรมเอเชีย จังหวัดระยอง เพื่อเป็นแหล่งเรียนรู้ด้านพรรณไม้และระบบนิเวศ พร้อมส่งเสริมการปลูกอย่างยั่งยืน</td><td id=\"168-e\">83</td><td id=\"168-f\">45¹</td><td id=\"168-g\">278,000</td></tr>\n<tr><td id=\"168-h\">O &quot;The More You Plant, the Better&quot; Project by GC x BMA โครงการปลูกต้นไม้ “ยิ่งปลูกยิ่งดี” GC x กทม.</td><td id=\"168-i\">Collaborating with Bangkok Metropolitan Adminstration (BMA) and Kasetsart University to plant trees at On Nut Solid Waste Disposal Center&#x27;s former landfill site to restore it into a green space and develop it into a model in planting forests for carbon credits. ร่วมกับกรุงเทพมหานครและมหาวิทยาลัย เกษตรศาสตร์ปลูกต้นไม้ในพื้นที่กองขยะเก่า ณ ศูนย์กำจัดมูลฝอยอ่อนนุช เพื่อฟื้นฟูเป็นพื้นที่ สีเขียวและพัฒนาเป็นต้นแบบการปลูกป่า เพื่อคาร์บอนเครดิต</td><td id=\"168-j\">55</td><td id=\"168-k\">165¹</td><td id=\"168-l\">45,000</td></tr>\n<tr><td id=\"168-m\">O Reforestation in GC Chemical Experience Campus โครงการปลูกป่าใน พื้นที่สํานักงานระยอง GC Chemical Experience Campus</td><td id=\"168-n\">Executives and employees at GC Chemical Experience Campus have engaged in reforestation to contribute to carbon sequestration, as part of the drive towards achieving the Net Zero Target. ผู้บริหารและพนักงานในพื้นที่สำนักงานระยอง (GC Chemical Experience Campus) ต่างมี ส่วนร่วมในการปลูกป่า ช่วยกักเก็บ คาร์บอนไดออกไซด์ เพื่อเป็น ส่วนหนึ่งในการมุ่งสู่เป้าหมายการปล่อย ก๊าซเรือนกระจกสุทธิเป็นศูนย์ (Net Zero)</td><td id=\"168-o\">11</td><td id=\"168-p\">10¹</td><td id=\"168-q\">4,470</td></tr>\n</table>"
+    ],
+    [
+     "S1",
+     "same-section",
+     "Occupational Health and Safety",
+     168,
+     "Improving eco-forest areas within the Asia Industrial Estate in Rayong province to serve as a learning center on plants and ecosystems while promoting sustainable plantation."
+    ],
+    [
+     "S2",
+     "same-section",
+     "Occupational Health and Safety",
+     169,
+     "Collaborating with Kasetsart University, the Air and Coastal Defense Command, and the Konrakpa Club under Chaklukya-Huai Mahat Community to restore and maintain the watershed forest ecosystem on Huai Mahat Mountain in Rayong province for 10 successive years."
+    ]
+   ],
+   "flags": [],
+   "stratum": "PTTGC|commitment",
+   "weight": 14.4,
+   "v7": {
+    "S": 2,
+    "M": 0,
+    "T": 1,
+    "E": 1,
+    "C": 3,
+    "tier": "partially_substantive"
+   }
+  },
+  {
+   "uid": "PTTGC-2024-IR-EN::CLM-0157",
+   "company": "PTTGC",
+   "sector": "Energy",
+   "report": "PTTGC-2024-IR-EN",
+   "page": 1323,
+   "section": "Safety and Risk Management",
+   "claim_type": "commitment",
+   "claim_text": "GC has conducted a project to enhance knowledge and understanding related to governance process and capability for the Plant PSM Committee in order to create understanding of the Industrial Estate Authority of Thailand’s Process Safety Management (PSM) requirements, which comply with OSHA Standards.",
+   "sdg_targets": "16.6, 16.7, 16.a, 8.8, 9.2, 9.4",
+   "pack": [
+    [
+     "X1",
+     "cross-section",
+     "Awards and Recognitions",
+     183,
+     "<a id='43cce146-53cb-4228-b5c1-4d48e38df72d'></a>\n\nGC has conducted a project to enhance\nknowledge and understanding related to\ngovernance process and capability for the Plant\nPSM Committee in order to create understanding\nof the Industrial Estate Authority of Thailand's\nProcess Safety Management (PSM) requirements,\nwhich comply with OSHA Standards. In this\nregard, the company has defined indicators that\nalign with each operating site in order to ensure\nproper governance and effective implementation."
+    ],
+    [
+     "X2",
+     "cross-section",
+     "Awards and Recognitions",
+     183,
+     "<a id='7149b6fa-f4ab-44a0-8ee6-a30436fba738'></a>\n\nGC continues to develop and elevate safety\nstandards in the production process by\nincorporating technology and innovation. In 2024,\nhighlight projects related to process safety include\nEnhancing Plant PSM Committee Performance,\nOperation Risk Management (ORM) Risk Treatment\nto Prevent LOPC Tier 1, and Align Field Risk\nAssessment (FRA) Good Practices."
+    ],
+    [
+     "X3",
+     "cross-section",
+     "Awards and Recognitions",
+     181,
+     "<a id='e71f736a-59e8-450f-9f4f-450641f48d3b'></a>\n\nGC has established the Quality, Security, Safety, Occupational Health, Environment, and Business Continuity (QSHEB) Policy and adopted standards such as ISO 45001. The company has also developed the Safety Management Direction (2021-2026), which covers Process Safety Management (PSM), Personal Safety Management, Contractor Safety Management (CSM), and Proactive Risk Management, in order to identify hazards and prevent recurring accidents. GC promotes a strong safety culture among employees through B-CAREs while maintaining and reinforcing operational discipline among GC Group employees, contractors, and key suppliers in a bid to reduce accident risks and accomplish corporate goals."
+    ],
+    [
+     "S1",
+     "same-section",
+     "Safety and Risk Management",
+     1322,
+     "GC continues to develop and elevate safety standards in the production process by incorporating technology and innovation."
+    ],
+    [
+     "S2",
+     "same-section",
+     "Safety and Risk Management",
+     1322,
+     "In 2024, highlight projects related to process safety include Enhancing Plant PSM Committee Performance, Operation Risk Management (ORM) Risk Treatment to Prevent LOPC Tier 1, and Align Field Risk Assessment (FRA) Good Practices."
+    ]
+   ],
+   "flags": [],
+   "stratum": "PTTGC|commitment",
+   "weight": 14.4,
+   "v7": {
+    "S": 2,
+    "M": 0,
+    "T": 0,
+    "E": 1,
+    "C": 3,
+    "tier": "partially_substantive"
+   }
+  },
+  {
+   "uid": "PTTGC-2024-IR-EN::CLM-0062",
+   "company": "PTTGC",
+   "sector": "Energy",
+   "report": "PTTGC-2024-IR-EN",
+   "page": 353,
+   "section": "Sustainability Materiality",
+   "claim_type": "achievement",
+   "claim_text": "In 2024, GC conducted an assessment of material topics based on the principle of Double Materiality in accordance with the European Union’s Corporate Sustainability Reporting Directive (CSRD) requirements and in compliance with the European Sustainability Reporting Standards (ESRS).",
+   "sdg_targets": "12.6, 16.6, 16.7",
+   "pack": [
+    [
+     "X1",
+     "cross-section",
+     "Materiality Assessment",
+     360,
+     "In 2024, GC conducted an assessment of material topics based on the principle of Double Materiality in accordance with the European Union’s Corporate Sustainability Reporting Directive (CSRD) requirements and in compliance with the European Sustainability Reporting Standards (ESRS)."
+    ],
+    [
+     "X2",
+     "cross-section",
+     "Sustainability Policy",
+     47,
+     "<a id='4adc10d7-62da-4e79-bc99-5e091e14d834'></a>\n\nIn 2024, GC conducted an assessment of material\ntopics based on the principle of Double Materiality in\naccordance with the European Union's Corporate\nSustainability Reporting Directive (CSRD) requirements\nand in compliance with the European Sustainability\nReporting Standards (ESRS), developed by the\nEuropean Financial Reporting Advisory Group (EFRAG),\nas well as other sustainability indicator, including:"
+    ],
+    [
+     "X3",
+     "cross-section",
+     "Materiality Assessment",
+     360,
+     "GC conducts an annual assessment of material topics, covering Environmental, Social, Governance (ESG) dimensions, using the Double Materiality approach."
+    ],
+    [
+     "S1",
+     "same-section",
+     "Sustainability Materiality",
+     353,
+     "The materiality assessment result is adopted to develop corporate strategies and integrated into the enterprise risk management process to enable appropriate management of sustainability risks."
+    ],
+    [
+     "S2",
+     "same-section",
+     "Sustainability Materiality",
+     353,
+     "The material topics are proposed to the Sustainability Development Committee (SDC) for verification of their consistency with the company’s context, goals and strategies."
+    ]
+   ],
+   "flags": [],
+   "stratum": "PTTGC|achievement",
+   "weight": 19.5,
+   "v7": {
+    "S": 2,
+    "M": 0,
+    "T": 2,
+    "E": 1,
+    "C": 3,
+    "tier": "partially_substantive"
+   }
+  },
+  {
+   "uid": "PTTGC-2024-IR-EN::CLM-0094",
+   "company": "PTTGC",
+   "sector": "Energy",
+   "report": "PTTGC-2024-IR-EN",
+   "page": 960,
+   "section": "Innovation and Technology Development",
+   "claim_type": "achievement",
+   "claim_text": "GC has researched and developed membrane technology for separation in the distillation process, which can better contribute to energy reduction than conventional distillation methods.",
+   "sdg_targets": "12.2, 12.6, 12.a, 7.3, 9.4, 9.5, 9.b",
+   "pack": [
+    [
+     "X1",
+     "cross-section",
+     "Environmental Performance",
+     129,
+     "<a id='3638fc93-4a47-4451-9b4c-f258867d29f4'></a>\n\nGC has researched and developed membrane\ntechnology for separation in the distillation\nprocess, which can better contribute to energy\nreduction than conventional distillation methods.\nGC has continued to develop this technology for\nother specific uses, e.g., olefins separation and\norganic solvent separation. Currently in its trial\nphase, this process is expected to begin its\nimplementation in the Olefins plant by 2026 before\nexpanding to other plants."
+    ],
+    [
+     "X2",
+     "cross-section",
+     "Environmental Performance",
+     128,
+     "<a id='a501a3f6-9ac5-4567-9b76-5c427492ed91'></a>\n\nIn 2024, GC strived to develop eco-friendly\nprocess innovations with enhanced efficiency.\nAccordingly, several major projects were carried\nout, e.g., Advance Membrane Separation\nTechnology to Streamline Separation Efficiency\nin Production Process, Upgrading Light Cracked\nBottom Olefins (LCB OLE) to Raw Pygas/Pygas,\nVisbreaker Unit Optimization Model: Phase 3, and\nBisphenol A (BPA) Tar Cracking for Phenol Reuse.\nThese projects demonstrate GC's commitment to\noptimize resource efficiency and promote\nsustainability in accordance with international\nstandards."
+    ],
+    [
+     "X3",
+     "cross-section",
+     "Awards and Recognitions",
+     174,
+     "<a id='7680c79a-3955-43a1-b02f-c51cdae7b268'></a>\n\nGC has collaborated with leading universities, research institutes and startups to develop carbon capture and utilization technology to minimize GC's carbon footprint and increase new business opportunities by converting captured CO₂ into high-value products using thermochemical and electrochemical processes, such as converting CO₂ into polymer for surface coating and converting CO₂ into chemicals to replace petro-based chemicals. It is expected to have commercial production capacity and reduce CO₂ emissions by approximately 300,000 tons of CO₂ per year."
+    ],
+    [
+     "S1",
+     "same-section",
+     "Innovation and Technology Development",
+     960,
+     "GC has streamlined our production process by using advanced separation technology to remove contaminants, such as sulfur and starch, from Light Cracker Bottom (LCB), which possesses a chemical composition similar to Raw Pyrolysis Gasoline, or Pygas, used as raw material in aromatics production."
+    ],
+    [
+     "S2",
+     "same-section",
+     "Innovation and Technology Development",
+     960,
+     "GC has applied a catalyst to enhance the cracking condition of BPA tar, which is waste generated in BPA production process, to obtain and reuse phenol as raw material in BPA production."
+    ]
+   ],
+   "flags": [],
+   "stratum": "PTTGC|achievement",
+   "weight": 19.5,
+   "v7": {
+    "S": 2,
+    "M": 0,
+    "T": 2,
+    "E": 1,
+    "C": 3,
+    "tier": "partially_substantive"
+   }
+  },
+  {
+   "uid": "PTTGC-2024-IR-EN::CLM-0122",
+   "company": "PTTGC",
+   "sector": "Energy",
+   "report": "PTTGC-2024-IR-EN",
+   "page": 154,
+   "section": "Strategy and Management",
+   "claim_type": "metric",
+   "claim_text": "Reduction of Energy Consumption: 84,328 GJ per year.",
+   "sdg_targets": "12.2, 12.6, 13.2, 7.3",
+   "pack": [
+    [
+     "X1",
+     "cross-section",
+     "Innovation and Technology Development",
+     960,
+     "Estimated annual reduction in energy use: 100,000 GJ per year."
+    ],
+    [
+     "X2",
+     "cross-section",
+     "Innovation and Technology Development",
+     960,
+     "Estimated annual reduction in greenhouse gas emissions: 28,953 tons CO₂ equivalent per year."
+    ],
+    [
+     "X3",
+     "cross-section",
+     "Environmental Performance",
+     112,
+     "In the past year, GC successfully reduced cumulative energy consumption by 2.73 million Gigajoules per year, greenhouse gas emissions by 261,063 tons of CO₂ equivalent, and operational costs by approximately 1,005 million baht."
+    ],
+    [
+     "S1",
+     "same-section",
+     "Strategy and Management",
+     153,
+     "Reduction of Energy Consumption: 60,489 GJ per year."
+    ],
+    [
+     "S2",
+     "same-section",
+     "Strategy and Management",
+     154,
+     "Reduction of GHG Emissions: 3,641 tons of CO₂ equivalent per year."
+    ]
+   ],
+   "flags": [],
+   "stratum": "PTTGC|metric",
+   "weight": 16.0,
+   "v7": {
+    "S": 2,
+    "M": 2,
+    "T": 2,
+    "E": 1,
+    "C": 1,
+    "tier": "partially_substantive"
+   }
+  },
+  {
+   "uid": "PTTGC-2024-IR-EN::CLM-0086",
+   "company": "PTTGC",
+   "sector": "Energy",
+   "report": "PTTGC-2024-IR-EN",
+   "page": 721,
+   "section": "Corporate Governance",
+   "claim_type": "policy",
+   "claim_text": "GC’s Board of Directors is composed of 15 members, namely 14 non-executive directors, 1 executive director, and 9 independent directors in accordance with GC’s Qualifications of Independent Directors and the Notification of the Capital Market Supervisory Board under the Securities and Exchange Commission (SEC).",
+   "sdg_targets": "16.6, 16.7, 5.5",
+   "pack": [
+    [
+     "X1",
+     "cross-section",
+     "Message from The Chairman and The CEO",
+     101,
+     "<a id='0c62abd2-39ca-4ad5-94d0-25dbb604ef25'></a>\n\nGC's Board of Directors is composed of 15\nmembers, namely 14 non-executive directors, 1\nexecutive director, and 9 independent directors\nin accordance with GC's Qualifications of\nIndependent Directors and the Notification of the\nCapital Market Supervisory Board under the\nSecurities and Exchange Commission (SEC). All\nBoard members must be fully qualified and do\nnot possess any prohibited characteristics as\nstipulated by relevant laws and regulations of the\nSecurities and Exchange Commission (SEC) and\nthe Stock Exchange of Thailand (SET). They must\nalso possesss diversified knowledge, expertise,\nskills and experience that are in line with the\nnature of GC's business strategy."
+    ],
+    [
+     "X2",
+     "cross-section",
+     "Message from The Chairman and The CEO",
+     102,
+     "<a id='ad6009ff-1a6f-4163-ad89-f05dc06f720b'></a>\n\nGC nominates and appoints directors on an annual\nbasis (to replace members who are due to retire by\nrotation) under the criteria and procedures for\nnomination and appointment of GC's directors that are\ntransparent and fair. The director nominee must fully\nmeet qualifications and possess no prohibited\ncharacteristics as stipulated by relevant laws, rules and\nregulations. GC also takes into account their\nindependence and conflict of interest, and respects\nthe Board Diversity Policy, which encompasses diversity\nin terms of gender, race and nationality, with no\nrestrictions on gender, race, nationality, skin color,\nethnicity or religion. It also features diveristy of skills,\nknowledge, capabilities, experience and specialization\naccording to the GC Board Skills Matrix, which\ncoincides with the Global Industry Classification\nStandard (GICs) Level 1 Classification, such as\nengineering, energy, petroleum, materials industry,\npetrochemicals and chemicals, economics and finance,\nbusiness management and risk management,\naccounting, laws, security, sustainability, information\ntechnology and cybersecurity."
+    ],
+    [
+     "X3",
+     "cross-section",
+     "Message from The Chairman and The CEO",
+     102,
+     "<a id='b443b513-c4b8-4c19-b6e3-4b8255473666'></a>\n\nIn addition, GC has appointed 7 non-executive directors\nwith practical experiences and educational backgrounds\nthat are in line with the Global Industry Classification\nStandard (GICS) in the Materials Industry sector\n(representing 53.84% of the total number of non-executive\ndirectors."
+    ],
+    [
+     "S1",
+     "same-section",
+     "Corporate Governance",
+     721,
+     "In 2024, GC held 17 Board Meetings to oversee that the company’s business operations strictly comply with laws, objectives, GC’s Articles of Association, and shareholder meeting resolutions."
+    ]
+   ],
+   "flags": [
+    "Only 1 of 2 target same-section references met the similarity threshold (0.35)."
+   ],
+   "stratum": "PTTGC|policy",
+   "weight": 11.0,
+   "v7": {
+    "S": 2,
+    "M": 2,
+    "T": 2,
+    "E": 1,
+    "C": 3,
+    "tier": "substantive"
+   }
+  },
+  {
+   "uid": "SCC-2024-SR-EN::CLM-0083",
+   "company": "SCC",
+   "sector": "Construction Materials",
+   "report": "SCC-2024-SR-EN",
+   "page": 631,
+   "section": "Sustainable Products and Services",
+   "claim_type": "commitment",
+   "claim_text": "66.7% of total revenue from sales of Green Choice-labelled products, services, and solutions by 2030",
+   "sdg_targets": "12.1, 12.6, 13.2, 13.3",
+   "pack": [
+    [
+     "X1",
+     "cross-section",
+     "Sustainability Performance in 2024",
+     37,
+     "<a id='7281fe5a-a24b-4429-8034-aa97fb816c82'></a>\n\n* Net Zero by 2050\n* Achieving near-term targets certified by SBTi to reduce Scope 1 and 2 emissions by 25% by 2030 compared with the base year of 2020 and reduce Scope 3 emissions from fossil fuels sold to external customers by 25% by 2031 compared with the base year of 2021.\n* Decreasing energy consumption by 13% by 2025 compared with BAU at the base year of 2007.\n* Generating 66.7% of total sales revenue from Green Choice products, services, and solutions by 2030.\n* Generating 33.3% of total sales revenue from Green Choice products, services, and solutions that provide direct value to customers by 2030."
+    ],
+    [
+     "X2",
+     "cross-section",
+     "Sustainability Performance in 2024",
+     43,
+     "<a id='bd3a8b62-b217-4227-8135-a110abd5180b'></a>\n\nOutcome\n<table id=\"43-1\">\n<tr><td id=\"43-2\">Our Action</td><td id=\"43-3\">Target</td><td id=\"43-4\">SDG</td><td id=\"43-5\">Strategy</td><td id=\"43-6\">Program</td><td id=\"43-7\">Performance\n2567</td><td id=\"43-8\">Business\nImpact</td><td id=\"43-9\">Externality\nImpact</td></tr>\n<tr><td id=\"43-a\" rowspan=\"4\">Climate Resilience</td><td id=\"43-b\">Net-zero GHG emissions by 2050</td><td id=\"43-c\">Four icons (bar chart, two people, eye, leaf)</td><td id=\"43-d\" rowspan=\"4\">1. Increase the use of biomass fuels and clean energy sources to replace fossil fuels.\n2. Improve or modify processes and equipment for energy efficiency optimization.\n3. Research and develop technologies to achieve net-zero GHG emissions by 2050.\n4. Develop products, services, and solutions that reduce GHG emissions throughout the value chain\n5. Apply economic tools to promote GHG emissions reduction.\n6. Plant and restore terrestrial forests, mangrove forests, and seagrass to serve as carbon sinks and enhance biodiversity.\n7. Organize activities to foster energy conservation and climate change awareness for employees, suppliers, and stakeholders across the value chain.</td><td id=\"43-e\" rowspan=\"3\">- Development of innovations to increase the use of alternative fuels, such RDFs and biomass, in place of fossil fuels\n- Development of low carbon products and industries:\n- SCG Cement and Green Solutions has developed low carbon cement production, reducing coal imports and GHG emissions.\n- Development of advanced technology and Ultra-High Performance Concrete (UHPC) in collaboration with government agencies and private organizations, reducing natural material consumption and GHG emissions from construction materials and processes.</td><td id=\"43-f\">25.48 million\ntCO2e GHG\nemissions</td><td id=\"43-g\" rowspan=\"4\">(four icons)</td><td id=\"43-h\" rowspan=\"4\">(&quot;three icons: sun with house and dollar sign, person wearing mask, gear with lightning bolt&quot;)</td></tr>\n<tr><td id=\"43-i\">25% reduction in Scope 1 and 2 GHG emissions by 2030 compared to 2020 baseline</td><td id=\"43-j\">Four icons (bar chart, two people, eye, leaf)</td><td id=\"43-k\">25.59%</td></tr>\n<tr><td id=\"43-l\">25% reduction in Scope 3 GHG emissions from fossil fuels sold to external customers by 2031 compared to 2021 baseline</td><td id=\"43-m\">Four icons (bar chart, two people, eye, leaf)</td><td id=\"43-n\">20.66%</td></tr>\n<tr><td id=\"43-o\">13% reduction in energy consumption by 2025 compared to BAU baseline in 2007</td><td id=\"43-p\">Four icons (bar chart, two people, eye, leaf)</td><td id=\"43-q\">Smart grid innovation: Implementation of an intelligent electrical grid for efficient and reliable clean energy management\nCollaboration with government agencies to drive grid modernization and develop innovative energy storage systems (heat batteries), such as Rondo for industrial applications, to replace fossil fuel consumption</td><td id=\"43-r\">7.91%</td></tr>\n<tr><td id=\"43-s\" rowspan=\"3\">Sustainable Products\nand Services</td><td id=\"43-t\">66.7% of total revenue from sales of Green Choice-labelled products, services, and solutions by 2030</td><td id=\"43-u\">(three images)</td><td id=\"43-v\" rowspan=\"3\">1. Develop products, services, and solutions that meet consumer needs,\nenhance well-being, and demonstrate environmental responsibility\n(climate resilience &amp; circularity).\n2. Develop business processes throughout the value chain in accordance\nwith international standards.\n3. Utilize innovation in product, service, and solution development\nto create new business opportunities.</td><td id=\"43-w\" rowspan=\"3\">Development of 3 sub-categories of the Green Choice label: energy-saving and global warming mitigation, natural resource conservation and extended product life, and hygiene promotion</td><td id=\"43-x\">54%</td><td id=\"43-y\" rowspan=\"3\">A dollar sign with an arrow pointing into it (icon)</td><td id=\"43-z\" rowspan=\"3\">Two icons, one with sun and globe, another with connected people.</td></tr>\n<tr><td id=\"43-A\">33.3% of total revenue from sales of Green Choice-labelled products, services, and solutions that provide direct customer value by 2030</td><td id=\"43-B\">(three images)</td><td id=\"43-C\">13%</td></tr>\n<tr><td id=\"43-D\">Green Choice-labeled products, services, and solutions</td><td id=\"43-E\">(three images)</td><td id=\"43-F\">309 items</td></tr>\n</table>"
+    ],
+    [
+     "X3",
+     "cross-section",
+     "SCG Net Zero Roadmap 2050",
+     7,
+     "<a id='85014981-b4fe-4ee3-87b7-033e2e0f7b4f'></a>\n\nGovernance & Economic\n\n<::visual content::>\n\n\"Green Choice\"\nProducts and Services\n**54.0**%\nof revenue from sales\n\n<::visual content::>\n\nCarbon Label Certified\n**891**\nitems\n\n<::visual content::>\n\nSuppliers Processed\nthrough ESG Risk\nAssessments\n**100**%\nof suppliers with procurement\nspend over million baht\n\n<::visual content::>\n\n<::visual content::>\n\nResearch and Innovation\nSpending\n**4,847**\nmillion baht\n\n**0.9**%\nof revenue from sale\n\n<::visual content::>\n\nGreen Procurement\nPurchased\n**8,183**\nmillion baht\n\nCircular Economy\nProducts\n**23.0**%\nof revenue from sales\n\n<::visual content::>\n\nHigh Value Added\nProducts and Services\n(HVA)\n**38.0**%\nof revenue from sales\n\n<::visual content::>\n\nESG Investment\n**5,680**\nmillion baht\n\n<::visual content::>\n\nContributions to\nOrganizations\n**36.43**\nmillion baht\n\n<::visual content::>\n\nRecover and Recycle\nthe Used Plastic\n**185,200** tons\n\n<::visual content::>\n\nEmployees Learned\nand Passed Ethics\ne-Testing\n**100**%"
+    ]
+   ],
+   "flags": [
+    "No other material in section 'Sustainable Products and Services' met the similarity threshold (0.35)."
+   ],
+   "stratum": "SCC|commitment",
+   "weight": 17.25,
+   "v7": {
+    "S": 2,
+    "M": 2,
+    "T": 2,
+    "E": 1,
+    "C": 3,
+    "tier": "substantive"
+   }
+  },
+  {
+   "uid": "SCC-2024-SR-EN::CLM-0057",
+   "company": "SCC",
+   "sector": "Construction Materials",
+   "report": "SCC-2024-SR-EN",
+   "page": 511,
+   "section": "Engagement Approach",
+   "claim_type": "commitment",
+   "claim_text": "Collaborating on and supporting projects that promote social sustainability",
+   "sdg_targets": "1.3, 1.4, 1.b, 10.2, 10.3, 11.3, 11.a, 11.b",
+   "pack": [
+    [
+     "X1",
+     "cross-section",
+     "Message from President & CEO",
+     15,
+     "<a id='92942d38-b1a9-4ae9-98ff-c50f299af741'></a>\n\nCollaborative Networks for Sustainability"
+    ],
+    [
+     "X2",
+     "cross-section",
+     "Message from President & CEO",
+     33,
+     "<a id='13a2cfe6-926c-4a24-a6a0-eba3b64775d9'></a>\n\nEngagement Approach\n* Annual opinion panels for operational improvement\n* Collaborating on and supporting projects that promote social sustainability\n* Sharing experience in various forums held by business sectors and academic institutions, such as opening factories for SMEs under Go Together project, allowing them to learn and see real practices of transitioning towards a low-carbon society\n* Raising awareness and promoting participation through various activities, such as ESG Symposium and business visits, to build understanding and promote sustainable development"
+    ],
+    [
+     "X3",
+     "cross-section",
+     "Message from President & CEO",
+     33,
+     "<a id='333cb9ef-fce8-4f48-80a7-1fd71bd3dda2'></a>\n\nIssues Raised during Engagement Activities\n\n* Leveraging SCG's knowledge and expertise to create positive impact on social sustainability\n* Joining hands with other corporate organization and partner network to create significant changes in sustainability\n* Building awareness and educating society on issues in which SCG holds expertise"
+    ],
+    [
+     "S1",
+     "same-section",
+     "Engagement Approach",
+     511,
+     "Working with various network of partners to create efficient mechanisms for driving sustainability in a tangible way"
+    ],
+    [
+     "S2",
+     "same-section",
+     "Engagement Approach",
+     511,
+     "Leveraging SCG’s knowledge and expertise to create positive impact on social sustainability"
+    ]
+   ],
+   "flags": [],
+   "stratum": "SCC|commitment",
+   "weight": 17.25,
+   "v7": {
+    "S": 1,
+    "M": 0,
+    "T": 0,
+    "E": 1,
+    "C": 1,
+    "tier": "symbolic"
+   }
+  },
+  {
+   "uid": "SCC-2024-SR-EN::CLM-0081",
+   "company": "SCC",
+   "sector": "Construction Materials",
+   "report": "SCC-2024-SR-EN",
+   "page": 631,
+   "section": "Climate Resilience",
+   "claim_type": "commitment",
+   "claim_text": "25% reduction in Scope 3 GHG emissions from fossil fuels sold to external customers by 2031 compared to 2021 baseline",
+   "sdg_targets": "12.2, 12.6, 12.c, 13.2",
+   "pack": [
+    [
+     "X1",
+     "cross-section",
+     "Sustainability Performance in 2024",
+     50,
+     "<a id='2cefd440-953b-444c-8f7b-91d78fe32f98'></a>\n\n20.66%\n\nGHG Scope 3 emissions reduction from fossil\nfuel sales to external customers\nTarget: Reduce GHG Scope 3 emissions by\n25% by 2031 compared to the base year 2021"
+    ],
+    [
+     "X2",
+     "cross-section",
+     "Sustainability Performance in 2024",
+     50,
+     "<a id='714e7159-0e1f-49e2-8da4-186d81fe3372'></a>\n\n25.59%\nGHG Scope 1 and 2 emissions reduction in 2024\nTarget: Reduce GHG Scope 1 and 2 emissions by\n25% by 2030 compared to the base year 2020"
+    ],
+    [
+     "X3",
+     "cross-section",
+     "Message from President & CEO",
+     25,
+     "SCG’s near-term SBTI-validated targets to reduce Scope 1 and 2 greenhouse gas emissions by 25% by 2030 compared to the 2020 baseline and to lower Scope 3 greenhouse gas emissions from fossil fuel sales to external customers by at least 25% by 2031 compared to the 2021 baseline."
+    ],
+    [
+     "S1",
+     "same-section",
+     "Climate Resilience",
+     631,
+     "25% reduction in Scope 1 and 2 GHG emissions by 2030 compared to 2020 baseline"
+    ],
+    [
+     "S2",
+     "same-section",
+     "Climate Resilience",
+     631,
+     "Net-zero GHG emissions by 2050"
+    ]
+   ],
+   "flags": [],
+   "stratum": "SCC|commitment",
+   "weight": 17.25,
+   "v7": {
+    "S": 2,
+    "M": 3,
+    "T": 2,
+    "E": 1,
+    "C": 3,
+    "tier": "substantive"
+   }
+  },
+  {
+   "uid": "SCC-2024-SR-EN::CLM-0090",
+   "company": "SCC",
+   "sector": "Construction Materials",
+   "report": "SCC-2024-SR-EN",
+   "page": 872,
+   "section": "Transitioning to a Low-Carbon Industry",
+   "claim_type": "commitment",
+   "claim_text": "The green funding supports the Thai cement and concrete industry’s transition toward its 2050 net-zero GHG emission target.",
+   "sdg_targets": "12.2, 12.6, 12.a, 13.2, 13.a, 9.2, 9.4",
+   "pack": [
+    [
+     "X1",
+     "cross-section",
+     "Sustainability Performance in 2024",
+     54,
+     "<a id='19bd3fe6-5848-4878-b38e-d0b829cd84a6'></a>\n\nFurthermore, SCG has partnered with the Global\nCement and Concrete Association (GCCA)\nto secure green funding from the Canadian\ngovernment. Administered through the United\nNations Industrial Development Organization\n(UNIDO), the green funding supports the Thai\ncement and concrete industry's transition\ntoward its 2050 net-zero GHG emission target."
+    ],
+    [
+     "X2",
+     "cross-section",
+     "Message from President & CEO",
+     24,
+     "<a id='250ba4ec-adc8-44bb-b717-144cb15258e9'></a>\n\n**What risks and challenges are facing SCG in the green transition, and how are they being addressed?**\n\nSCG is faced with constantly evolving regulations at both national and international levels, particularly with regard to the cement industry, which accounts for 8% of global CO2 emissions. To address this, we study world-class operational frameworks through international collaborations and prepare Thailand's cement industry to meet international standards. This includes utilizing alternative materials in cement production, applying circular economy principles, and developing carbon capture, utilization, and storage (CCUS) technology, all of which inform the formulation of our net-zero roadmap as well as the development of low-carbon production processes and preparation for future government policies, such as the Climate Change Act, the emission trading system (ETS), and carbon taxes."
+    ],
+    [
+     "X3",
+     "cross-section",
+     "Sustainability Performance in 2024",
+     54,
+     "<a id='95bdea8c-7760-45b9-904a-057a24f6561e'></a>\n\n# Transitioning to a Low-Carbon Industry\n\nIn 2024, SCG, as a Thai Cement Manufacturers\nAssociation (TCMA) member, in collaboration\nwith the Saraburi Provincial Industrial Council\nand provincial authorities, advanced"
+    ],
+    [
+     "S1",
+     "same-section",
+     "Transitioning to a Low-Carbon Industry",
+     872,
+     "SCG has partnered with the Global Cement and Concrete Association (GCCA) to secure green funding from the Canadian government."
+    ],
+    [
+     "S2",
+     "same-section",
+     "Transitioning to a Low-Carbon Industry",
+     872,
+     "The initiative aims to transform Thai industry toward a low-carbon economy and society through a public-private-people partnership, which represents a significant challenge."
+    ]
+   ],
+   "flags": [],
+   "stratum": "SCC|commitment",
+   "weight": 17.25,
+   "v7": {
+    "S": 2,
+    "M": 0,
+    "T": 2,
+    "E": 1,
+    "C": 3,
+    "tier": "partially_substantive"
+   }
+  },
+  {
+   "uid": "SCC-2024-SR-EN::CLM-0089",
+   "company": "SCC",
+   "sector": "Construction Materials",
+   "report": "SCC-2024-SR-EN",
+   "page": 872,
+   "section": "Transitioning to a Low-Carbon Industry",
+   "claim_type": "achievement",
+   "claim_text": "SCG has partnered with the Global Cement and Concrete Association (GCCA) to secure green funding from the Canadian government.",
+   "sdg_targets": "13.2, 13.a, 9.2, 9.3, 9.4",
+   "pack": [
+    [
+     "X1",
+     "cross-section",
+     "Sustainability Performance in 2024",
+     54,
+     "<a id='19bd3fe6-5848-4878-b38e-d0b829cd84a6'></a>\n\nFurthermore, SCG has partnered with the Global\nCement and Concrete Association (GCCA)\nto secure green funding from the Canadian\ngovernment. Administered through the United\nNations Industrial Development Organization\n(UNIDO), the green funding supports the Thai\ncement and concrete industry's transition\ntoward its 2050 net-zero GHG emission target."
+    ],
+    [
+     "X2",
+     "cross-section",
+     "Biodiversity Preservation and Restoration",
+     899,
+     "SCG Cement and Green Solutions is seeking to strengthen its commitment to improving biodiversity restoration plans for its mining sites to better address current environmental situations and exercise prudent in its management to ensure positive impacts on both the mining sites and surrounding communities in accordance with future targets."
+    ],
+    [
+     "X3",
+     "cross-section",
+     "Sustainability Performance in 2024",
+     53,
+     "<a id='2981c9b0-e75c-4340-b4a5-33ac1f461cfb'></a>\n\n# Elevating Low-Carbon Innovation\n\nSCG's decarbonization strategy extends beyond low-carbon cement. Green loans are utilized to support CO2 reduction initiatives, reinforcing SCG's brand leadership in environmentally friendly products.\n\n*   **Expanding into the Middle East with 3D Printing Mortar**: SCG is the first to develop 3D printing mortar using low-carbon cement, backed by over a decade of patented research. This innovation reduces greenhouse gas emissions by more than 15%. SCG has shifted its business strategy from providing 3D printing construction services to selling 3D printing mortar with technical support, enhancing market opportunities in the Middle East. The first"
+    ],
+    [
+     "S1",
+     "same-section",
+     "Transitioning to a Low-Carbon Industry",
+     872,
+     "The green funding supports the Thai cement and concrete industry’s transition toward its 2050 net-zero GHG emission target."
+    ],
+    [
+     "S2",
+     "same-section",
+     "Transitioning to a Low-Carbon Industry",
+     872,
+     "In 2024, SCG, as a Thai Cement Manufacturers Association (TCMA) member, in collaboration with the Saraburi Provincial Industrial Council and provincial authorities, advanced the Saraburi Sandbox project, a low-carbon city model, by joining the World Economic Forum’s (WEF) Transitioning Industrial Clusters Initiative, marking Thailand’s first such industrial cluster, the third in ASEAN, and the twenty-first globally to do so."
+    ]
+   ],
+   "flags": [],
+   "stratum": "SCC|achievement",
+   "weight": 12.0,
+   "v7": {
+    "S": 2,
+    "M": 0,
+    "T": 2,
+    "E": 1,
+    "C": 3,
+    "tier": "partially_substantive"
+   }
+  },
+  {
+   "uid": "SCC-2024-SR-EN::CLM-0094",
+   "company": "SCC",
+   "sector": "Construction Materials",
+   "report": "SCC-2024-SR-EN",
+   "page": 880,
+   "section": "Advanced Technology Research for Net Zero",
+   "claim_type": "achievement",
+   "claim_text": "SCG has developed Biochar technology as part of its Green Circular Business initiative.",
+   "sdg_targets": "12.2, 12.5, 12.6, 12.a, 13.1, 13.2, 15.1, 15.3",
+   "pack": [
+    [
+     "X1",
+     "cross-section",
+     "Sustainability Performance in 2024",
+     54,
+     "<a id='d58c938a-55e7-4137-9dda-e9da292feb5e'></a>\n\n*   **Hydrogen Production:** SCG researches cost-competitive hydrogen production and its integration with captured carbon dioxide to create high-value-added products.\n*   **Oxyfuel Technology:** SCG is researching oxyfuel technology to reduce GHG emissions in cement production by replacing fossil fuel combustion with pure oxygen. This process increases the combustion temperature, reduces exhaust gases, and simplifies carbon capture. It prepares factories for future integration with high-efficiency carbon capture solutions. Additionally, oxyfuel technology helps reduce other pollutants from air-based combustion, improving the efficiency of alternative fuels such as biomass and reducing reliance on fossil fuels.\n*   **Biochar Carbon Removal:** SCG has developed Biochar technology as part of its Green Circular Business initiative. This process transforms agricultural waste biomass into Biochar, which is used to"
+    ],
+    [
+     "X2",
+     "cross-section",
+     "Performance",
+     1112,
+     "By embedding Circular Economy Principle into business, SCG can increase the amount of recycled materials."
+    ],
+    [
+     "X3",
+     "cross-section",
+     "Infographic Content",
+     391,
+     "SCG's commitment to environmental sustainability through significant financial investment and a broad range of eco-friendly initiatives, including pollution reduction, resource conservation, circular economy promotion, biodiversity restoration, and deforestation reduction."
+    ],
+    [
+     "S1",
+     "same-section",
+     "Advanced Technology Research for Net Zero",
+     880,
+     "SCG received funding from the Japan Carbon Frontier Organization (JCOAL) in 2024 to explore the conversion of agricultural waste into Biochar."
+    ],
+    [
+     "S2",
+     "same-section",
+     "Advanced Technology Research for Net Zero",
+     880,
+     "SCG researches cost-competitive hydrogen production and its integration with captured carbon dioxide to create high-value-added products."
+    ]
+   ],
+   "flags": [],
+   "stratum": "SCC|achievement",
+   "weight": 12.0,
+   "v7": {
+    "S": 2,
+    "M": 0,
+    "T": 2,
+    "E": 1,
+    "C": 1,
+    "tier": "partially_substantive"
+   }
+  },
+  {
+   "uid": "SCC-2024-SR-EN::CLM-0128",
+   "company": "SCC",
+   "sector": "Construction Materials",
+   "report": "SCC-2024-SR-EN",
+   "page": 1112,
+   "section": "Performance",
+   "claim_type": "metric",
+   "claim_text": "Water withdrawn from water-stress area is estimated based on Aqueduct Water Risk Atlas.",
+   "sdg_targets": "15.1, 6.4, 6.5",
+   "pack": [
+    [
+     "X1",
+     "cross-section",
+     "Sustainability Performance in 2024",
+     69,
+     "<a id='5f7e2a4d-9477-4700-954a-42bc833457bd'></a>\n\n\"Water withdrawal\" means quantity of water drawn from various types of external sources namely surface water, groundwater, and other agencies. In terms of category, fresh water means water with less than 1,000 mg/L. of total dissolved solid while \"other waters\" contain over 1,000 mg/L. of total dissolved solid. Water withdrawn from water-stress area is estimated based on Aqueduct Water Risk Atlas."
+    ],
+    [
+     "X2",
+     "cross-section",
+     "Sustainability Performance in 2024",
+     74,
+     "<a id='2cbbc011-120d-4c99-8c40-994ac87683db'></a>\n\n<table id=\"74-1\">\n<tr><td id=\"74-2\">Performance Data</td><td id=\"74-3\">2020</td><td id=\"74-4\">2021(1)</td><td id=\"74-5\">2022</td><td id=\"74-6\">2023</td><td id=\"74-7\">2024</td><td id=\"74-8\">2024 Areas with water stress(2)</td><td id=\"74-9\">GRI Standards</td><td id=\"74-a\">SASB</td></tr>\n<tr><td id=\"74-b\" colspan=\"9\">Water Withdrawal</td></tr>\n<tr><td id=\"74-c\" colspan=\"9\">Water Withdrawal by source (progress bar)</td></tr>\n<tr><td id=\"74-d\">Surface water (Million Cubic Meters)(3)</td><td id=\"74-e\">28.45</td><td id=\"74-f\">50.85</td><td id=\"74-g\">50.25</td><td id=\"74-h\">47.57</td><td id=\"74-i\">49.83</td><td id=\"74-j\">28.24</td><td id=\"74-k\"></td><td id=\"74-l\"></td></tr>\n<tr><td id=\"74-m\">• Freshwater TDS ≤ 1,000 mg/l</td><td id=\"74-n\">28.45</td><td id=\"74-o\">50.85</td><td id=\"74-p\">50.23</td><td id=\"74-q\">47.56</td><td id=\"74-r\">49.83</td><td id=\"74-s\">28.24</td><td id=\"74-t\">GRI 303-3</td><td id=\"74-u\">EM-CM-140a.1</td></tr>\n<tr><td id=\"74-v\">• Other water TDS &gt; 1,000 mg/l</td><td id=\"74-w\">0</td><td id=\"74-x\">0</td><td id=\"74-y\">0.02</td><td id=\"74-z\">0.01</td><td id=\"74-A\">0</td><td id=\"74-B\">0</td><td id=\"74-C\"></td><td id=\"74-D\"></td></tr>\n<tr><td id=\"74-E\">Groundwater (Million Cubic Meters)(3)</td><td id=\"74-F\">38.01</td><td id=\"74-G\">42.31</td><td id=\"74-H\">38.63</td><td id=\"74-I\">36.75</td><td id=\"74-J\">38.99</td><td id=\"74-K\">32.58</td><td id=\"74-L\"></td><td id=\"74-M\"></td></tr>\n<tr><td id=\"74-N\">• Freshwater TDS ≤ 1,000 mg/l</td><td id=\"74-O\">31.38</td><td id=\"74-P\">42.31</td><td id=\"74-Q\">38.63</td><td id=\"74-R\">36.41</td><td id=\"74-S\">38.76</td><td id=\"74-T\">0</td><td id=\"74-U\">GRI 303-3</td><td id=\"74-V\">EM-CM-140a.1</td></tr>\n<tr><td id=\"74-W\">• Other water TDS &gt; 1,000 mg/l</td><td id=\"74-X\">6.63</td><td id=\"74-Y\">0</td><td id=\"74-Z\">0</td><td id=\"74-10\">0.34</td><td id=\"74-11\">0.23</td><td id=\"74-12\">0</td><td id=\"74-13\"></td><td id=\"74-14\"></td></tr>\n<tr><td id=\"74-15\">Third-party water (total) (Million Cubic Meter)(3)</td><td id=\"74-16\">27.83</td><td id=\"74-17\">36.87</td><td id=\"74-18\">31.19</td><td id=\"74-19\">37.92</td><td id=\"74-1a\">30.51</td><td id=\"74-1b\">25.88</td><td id=\"74-1c\"></td><td id=\"74-1d\"></td></tr>\n<tr><td id=\"74-1e\">• Freshwater TDS ≤ 1,000 mg/l</td><td id=\"74-1f\">27.83</td><td id=\"74-1g\">36.87</td><td id=\"74-1h\">31.19</td><td id=\"74-1i\">37.92</td><td id=\"74-1j\">30.51</td><td id=\"74-1k\">0</td><td id=\"74-1l\">GRI 303-3</td><td id=\"74-1m\">EM-CM-140a.1</td></tr>\n<tr><td id=\"74-1n\">• Other water TDS &gt; 1,000 mg/l</td><td id=\"74-1o\">0</td><td id=\"74-1p\">0</td><td id=\"74-1q\">0</td><td id=\"74-1r\">0</td><td id=\"74-1s\">0</td><td id=\"74-1t\">0</td><td id=\"74-1u\"></td><td id=\"74-1v\"></td></tr>\n<tr><td id=\"74-1w\">Total Water Withdrawal (Million Cubic Meters)(3)</td><td id=\"74-1x\">94.29</td><td id=\"74-1y\">130.03</td><td id=\"74-1z\">120.07</td><td id=\"74-1A\">122.17</td><td id=\"74-1B\">119.32</td><td id=\"74-1C\">86.70</td><td id=\"74-1D\">GRI 303-3</td><td id=\"74-1E\"></td></tr>\n<tr><td id=\"74-1F\" colspan=\"5\">Water Withdrawal Reduction compared with (light blue, light green, light blue, light green squares)</td><td id=\"74-1G\"></td><td id=\"74-1H\"></td><td id=\"74-1I\"></td><td id=\"74-1J\"></td></tr>\n<tr><td id=\"74-1K\" rowspan=\"2\">business as usual at the base year of 2022 (Million\nCubic Meters)\n(%)</td><td id=\"74-1L\">–</td><td id=\"74-1M\">–</td><td id=\"74-1N\">–</td><td id=\"74-1O\">-10.07</td><td id=\"74-1P\">-6.04</td><td id=\"74-1Q\">- </td><td id=\"74-1R\">GRI 302-4</td><td id=\"74-1S\"></td></tr>\n<tr><td id=\"74-1T\"></td><td id=\"74-1U\"></td><td id=\"74-1V\"></td><td id=\"74-1W\">-8.98</td><td id=\"74-1X\">-5.33</td><td id=\"74-1Y\"> -</td><td id=\"74-1Z\"></td><td id=\"74-20\"></td></tr>\n<tr><td id=\"74-21\">Recycled Water (Million Cubic Meters)(2)</td><td id=\"74-22\">12.33</td><td id=\"74-23\">17.03</td><td id=\"74-24\">18.50</td><td id=\"74-25\">18.49</td><td id=\"74-26\">17.99</td><td id=\"74-27\"> -</td><td id=\"74-28\"></td><td id=\"74-29\" rowspan=\"2\">EM-CM-140a.1</td></tr>\n<tr><td id=\"74-2a\">(%)</td><td id=\"74-2b\">11.6</td><td id=\"74-2c\">11.9</td><td id=\"74-2d\">13.4</td><td id=\"74-2e\">13.14</td><td id=\"74-2f\">13.10</td><td id=\"74-2g\"> -</td><td id=\"74-2h\"></td></tr>\n</table>"
+    ],
+    [
+     "X3",
+     "cross-section",
+     "Sustainability Performance in 2024",
+     74,
+     "<a id='f6f08e6f-dafd-4f75-971d-4afbd3511bd6'></a>\n\n<::Water Withdrawal: 119.32 Million Cubic Meters\n\nPie chart showing the distribution of water withdrawal:\n- SCGP: 65%\n- SCGC: 19%\n- CGS: 13%\n- SCGD: 2%\n- SL and D&R: 1%\n: chart::>"
+    ]
+   ],
+   "flags": [
+    "No other material in section 'Performance' met the similarity threshold (0.35)."
+   ],
+   "stratum": "SCC|metric",
+   "weight": 11.0,
+   "v7": {
+    "S": 2,
+    "M": 0,
+    "T": 0,
+    "E": 2,
+    "C": 3,
+    "tier": "partially_substantive"
+   }
+  },
+  {
+   "uid": "SCC-2024-SR-EN::CLM-0073",
+   "company": "SCC",
+   "sector": "Construction Materials",
+   "report": "SCC-2024-SR-EN",
+   "page": 631,
+   "section": "Air Quality Management",
+   "claim_type": "policy",
+   "claim_text": "All business units adopt continuous emission monitoring systems (CEMs) instead of spot checks and arrange for verification by external parties.",
+   "sdg_targets": "12.4, 12.6, 13.2, 9.2, 9.4",
+   "pack": [
+    [
+     "X1",
+     "cross-section",
+     "Performance",
+     1112,
+     "SCGC, SCGP, CGS and SCGD measure their air emissions from stack using Continuous Emission Monitoring Systems, CEM."
+    ],
+    [
+     "X2",
+     "cross-section",
+     "Sustainability Performance in 2024",
+     69,
+     "<a id='4d96af0e-af87-49e0-afc1-1c63caf910d0'></a>\n\nIn addition, SCGC, SCGP, CGS and SCGD measure their air emissions from stack using Continuous Emission Monitoring Systems, CEM. Cement Business references measurement to GCCA guideline. (Details in page 82)"
+    ],
+    [
+     "X3",
+     "cross-section",
+     "Sustainability Performance in 2024",
+     75,
+     "<a id='399a4e41-b034-4d8f-a445-c40cf8263d25'></a>\n\nAir Emissions\nThe boundary of air quality data assurance has been expanded to cover operations abroad to gain confidence and ease of strategic, targets and action plan setting."
+    ]
+   ],
+   "flags": [
+    "No other material in section 'Air Quality Management' met the similarity threshold (0.35)."
+   ],
+   "stratum": "SCC|policy",
+   "weight": 13.0,
+   "v7": {
+    "S": 2,
+    "M": 0,
+    "T": 0,
+    "E": 3,
+    "C": 3,
+    "tier": "partially_substantive"
+   }
+  }
+ ]
+}

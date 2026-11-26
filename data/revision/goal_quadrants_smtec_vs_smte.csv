@@ -1,0 +1,18 @@
+goals,freq,SMTEC,SMTE,quad_SMTEC,quad_SMTE,flip
+1,131,1.351,1.046,Q4 low-f low-c,Q4 low-f low-c,False
+2,171,1.404,1.114,Q3 low-f high-c,Q3 low-f high-c,False
+3,656,1.37,1.073,Q2 high-f low-c,Q2 high-f low-c,False
+4,649,1.454,1.162,Q3 low-f high-c,Q3 low-f high-c,False
+5,200,1.291,0.956,Q4 low-f low-c,Q4 low-f low-c,False
+6,319,1.453,1.168,Q3 low-f high-c,Q3 low-f high-c,False
+7,928,1.577,1.33,Q1 high-f high-c,Q1 high-f high-c,False
+8,2130,1.373,1.055,Q2 high-f low-c,Q2 high-f low-c,False
+9,1610,1.379,1.048,Q2 high-f low-c,Q2 high-f low-c,False
+10,364,1.288,0.954,Q4 low-f low-c,Q4 low-f low-c,False
+11,657,1.406,1.1,Q1 high-f high-c,Q1 high-f high-c,False
+12,2628,1.443,1.145,Q1 high-f high-c,Q1 high-f high-c,False
+13,1760,1.526,1.254,Q1 high-f high-c,Q1 high-f high-c,False
+14,197,1.556,1.253,Q3 low-f high-c,Q3 low-f high-c,False
+15,476,1.469,1.175,Q3 low-f high-c,Q3 low-f high-c,False
+16,1230,1.312,0.961,Q2 high-f low-c,Q2 high-f low-c,False
+17,741,1.3,0.97,Q2 high-f low-c,Q2 high-f low-c,False

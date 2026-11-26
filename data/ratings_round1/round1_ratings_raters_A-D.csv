@@ -1,0 +1,241 @@
+rater,claim_id,set,claim_type,phase1_judgement,S,M,T,E,label_S1,label_S2,label_X1,label_X2,label_X3,C_rater
+A,R01,representative,achievement,Partially substantiated,2,1,1,0,Related,Related,Extend,Extend,Related,1
+A,R02,representative,metric,Partially substantiated,1,2,0,2,Related,Related,Extend,Contradicts,Related,1
+A,R03,representative,commitment,Partially substantiated,2,1,0,1,Redundant,Related,Extend,Related,Extend,2
+A,R04,representative,commitment,Partially substantiated,2,2,1,2,Related,Unrelated,Extend,Redundant,Related,1
+A,R05,representative,commitment,Partially substantiated,1,0,0,2,Related,Related,Extend,Extend,Related,2
+A,R06,representative,alignment,Partially substantiated,2,0,0,2,Redundant,Related,Extend,Extend,Related,2
+A,R07,representative,commitment,Unsubstantiated,2,2,1,1,Related,None,Extend,Unrelated,Unrelated,1
+A,R08,representative,achievement,Partially substantiated,2,0,1,0,Extend,Related,Extend,Unrelated,Related,1
+A,R09,representative,metric,Substantiated,2,2,0,2,Related,Related,Related,Extend,Related,1
+A,R10,representative,commitment,Partially substantiated,2,0,0,1,Related,None,Redundant,Extend,Related,1
+A,R11,representative,achievement,Unsubstantiated,2,2,1,1,Related,Related,Redundant,Related,Related,0
+A,R12,representative,alignment,Unsubstantiated,3,0,2,0,Related,Related,Redundant,Related,Related,0
+A,R13,representative,policy,Partially substantiated,2,0,1,0,Extend,None,Extend,Extend,Related,1
+A,R14,representative,achievement,Substantiated,3,2,1,3,Related,Related,Extend,Redundant,Extend,2
+A,R15,representative,metric,Partially substantiated,1,2,0,2,Related,Unrelated,Contradicts,Related,Related,0
+A,R16,representative,metric,Substantiated,2,2,0,1,Related,Related,Redundant,Extend,Extend,1
+A,R17,representative,achievement,Substantiated,3,2,2,3,Redundant,Redundant,Redundant,Extend,Redundant,1
+A,R18,representative,commitment,Partially substantiated,0,1,0,0,Related,Related,Redundant,Redundant,Related,0
+A,R19,representative,policy,Partially substantiated,2,0,0,2,None,None,Extend,Extend,Extend,2
+A,R20,representative,commitment,Partially substantiated,1,0,0,0,Related,Related,Related,Extend,Related,1
+A,R21,representative,commitment,Partially substantiated,1,0,0,0,Extend,Related,Extend,Related,Extend,1
+A,R22,representative,policy,Substantiated,2,0,0,1,Redundant,Extend,Related,Extend,Extend,1
+A,R23,representative,commitment,Substantiated,2,0,1,1,Extend,Related,Redundant,Extend,Extend,2
+A,R24,representative,achievement,Partially substantiated,1,2,0,1,Related,Related,Related,Related,Related,0
+A,R25,representative,alignment,Substantiated,3,0,0,2,Extend,None,Extend,Related,Related,1
+A,R26,representative,commitment,Partially substantiated,3,1,1,1,Related,Extend,Redundant,Extend,Related,1
+A,R27,representative,commitment,Partially substantiated,2,0,2,0,Extend,Related,Extend,Related,Related,1
+A,R28,representative,commitment,Unsubstantiated,0,0,0,0,Related,Related,Related,Redundant,Related,0
+A,R29,representative,commitment,Unsubstantiated,0,0,0,0,Unrelated,None,Redundant,Unrelated,Unrelated,0
+A,R30,representative,policy,Unsubstantiated,3,0,0,0,Related,Related,Extend,Redundant,Related,1
+A,R31,representative,achievement,Partially substantiated,2,0,2,1,Related,Related,Redundant,Redundant,Redundant,0
+A,R32,representative,commitment,Partially substantiated,1,0,1,0,Related,Related,Redundant,Related,Related,0
+A,R33,representative,achievement,Partially substantiated,1,1,1,2,Extend,Related,Related,Extend,Extend,1
+A,R34,representative,policy,Partially substantiated,2,2,0,1,Related,None,Redundant,Related,Contradicts,0
+A,R35,representative,commitment,Substantiated,2,1,1,1,Related,Related,Extend,Related,Extend,2
+A,R36,representative,commitment,Substantiated,2,3,3,3,Related,Related,Extend,Related,Extend,2
+A,R37,representative,metric,Unsubstantiated,1,2,0,1,Related,Related,Related,Related,Related,0
+A,R38,representative,commitment,Partially substantiated,1,0,1,0,Related,None,Related,Related,Related,0
+A,R39,representative,achievement,Partially substantiated,2,0,1,0,Extend,Related,Extend,Related,Related,1
+A,R40,representative,commitment,Partially substantiated,1,0,0,0,Related,Related,Related,Extend,Related,1
+A,R41,representative,policy,Partially substantiated,1,0,1,0,Related,Related,Redundant,Related,Related,0
+A,R42,representative,achievement,Partially substantiated,2,0,1,0,Related,Related,Redundant,Redundant,Extend,1
+A,R43,representative,commitment,Substantiated,2,2,2,1,None,None,Redundant,Extend,Extend,2
+A,R44,representative,commitment,Partially substantiated,3,2,2,1,Extend,Extend,Redundant,Redundant,Related,0
+A,R45,representative,commitment,Partially substantiated,1,1,0,1,Related,Related,Redundant,Extend,Redundant,1
+A,R46,representative,commitment,Partially substantiated,1,1,1,0,Related,None,Redundant,Unrelated,Related,0
+A,R47,representative,metric,Substantiated,2,0,0,2,None,None,Extend,Extend,Related,1
+A,R48,representative,commitment,Unsubstantiated,1,1,0,0,Related,Related,Redundant,Unrelated,Unrelated,0
+A,R49,representative,commitment,Partially substantiated,1,1,0,0,Related,Extend,Extend,Related,Related,1
+A,R50,representative,commitment,Partially substantiated,0,0,0,0,Related,Unrelated,Redundant,Extend,Extend,1
+A,R51,challenge,target,,1,2,0,1,None,None,Unrelated,Extend,Unrelated,1
+A,R52,challenge,alignment,,2,0,0,2,Extend,Related,Redundant,Extend,Unrelated,1
+A,R53,challenge,achievement,,3,2,1,3,Related,Related,Extend,Related,Related,1
+A,R54,challenge,target,,2,2,2,1,Extend,Related,Redundant,Extend,Extend,1
+A,R55,challenge,policy,,2,0,0,2,Related,Related,Redundant,Redundant,Related,0
+A,R56,challenge,target,,1,2,0,1,None,None,Redundant,Unrelated,Related,0
+A,R57,challenge,target,,1,1,0,0,Redundant,Related,Redundant,Redundant,Related,0
+A,R58,challenge,achievement,,3,2,0,3,Related,Extend,Extend,Extend,Extend,2
+A,R59,challenge,alignment,,2,0,0,2,Related,Related,Redundant,Extend,Related,1
+A,R60,challenge,achievement,,2,2,2,1,Extend,Extend,Redundant,Extend,Related,1
+B,R01,representative,achievement,Substantiated,1,1,1,0,Extend,Related,Extend,Extend,Unrelated,1
+B,R02,representative,metric,Substantiated,2,2,0,1,Extend,Related,Extend,Extend,Contradicts,1
+B,R03,representative,commitment,Substantiated,2,1,0,0,Redundant,Unrelated,Extend,Extend,Extend,2
+B,R04,representative,commitment,Partially substantiated,3,1,0,1,Unrelated,Unrelated,Extend,Extend,Extend,2
+B,R05,representative,commitment,Substantiated,2,0,0,2,Extend,Related,Extend,Extend,Extend,2
+B,R06,representative,alignment,Substantiated,2,0,1,3,Redundant,Extend,Extend,Extend,Extend,2
+B,R07,representative,commitment,Substantiated,3,3,3,1,Related,None,Extend,Related,Related,1
+B,R08,representative,achievement,Substantiated,3,0,1,3,Extend,Related,Extend,Unrelated,Extend,1
+B,R09,representative,metric,Partially substantiated,2,2,0,0,Extend,Related,Extend,Extend,Extend,1
+B,R10,representative,commitment,Substantiated,3,0,0,1,Related,None,Extend,Extend,Unrelated,1
+B,R11,representative,achievement,Substantiated,2,2,1,1,Related,Extend,Extend,Related,Related,1
+B,R12,representative,alignment,Substantiated,3,1,3,3,Related,Related,Redundant,Related,Related,0
+B,R13,representative,policy,Substantiated,1,1,1,2,Extend,None,Extend,Extend,Related,1
+B,R14,representative,achievement,Substantiated,3,2,2,3,Extend,Extend,Extend,Extend,Extend,2
+B,R15,representative,metric,Substantiated,2,2,1,1,Extend,Unrelated,Contradicts,Extend,Extend,2
+B,R16,representative,metric,Partially substantiated,3,2,1,2,Extend,Extend,Extend,Extend,Extend,1
+B,R17,representative,achievement,Substantiated,3,3,3,3,Redundant,Extend,Redundant,Extend,Redundant,1
+B,R18,representative,commitment,Substantiated,3,0,0,1,Extend,Extend,Extend,Redundant,Extend,2
+B,R19,representative,policy,Partially substantiated,3,0,0,3,None,None,Extend,Extend,Extend,2
+B,R20,representative,commitment,Partially substantiated,1,0,0,1,Extend,Extend,Extend,Extend,Extend,2
+B,R21,representative,commitment,Substantiated,1,0,0,1,Extend,Extend,Extend,Extend,Extend,2
+B,R22,representative,policy,Substantiated,1,0,0,3,Extend,Extend,Extend,Extend,Extend,1
+B,R23,representative,commitment,Substantiated,2,0,3,3,Extend,Extend,Extend,Extend,Extend,2
+B,R24,representative,achievement,Substantiated,1,2,1,1,Related,Extend,Extend,Extend,Extend,1
+B,R25,representative,alignment,Substantiated,2,0,0,3,Extend,None,Extend,Extend,Extend,2
+B,R26,representative,commitment,Substantiated,3,1,1,3,Related,Related,Extend,Related,Extend,1
+B,R27,representative,commitment,Substantiated,3,1,1,3,Extend,Extend,Extend,Extend,Related,2
+B,R28,representative,commitment,Substantiated,1,0,0,0,Related,Related,Related,Redundant,Related,0
+B,R29,representative,commitment,Partially substantiated,1,0,0,0,Unrelated,None,Extend,Unrelated,Unrelated,1
+B,R30,representative,policy,Substantiated,3,0,1,1,Extend,Extend,Extend,Extend,Extend,1
+B,R31,representative,achievement,Substantiated,3,1,2,3,Extend,Extend,Redundant,Extend,Extend,2
+B,R32,representative,commitment,Substantiated,3,1,0,1,Extend,Extend,Extend,Extend,Extend,1
+B,R33,representative,achievement,Substantiated,1,1,1,3,Extend,Related,Redundant,Extend,Extend,1
+B,R34,representative,policy,Substantiated,3,2,2,3,Related,None,Extend,Extend,Contradicts,1
+B,R35,representative,commitment,Substantiated,3,1,0,3,Extend,Extend,Redundant,Extend,Extend,2
+B,R36,representative,commitment,Substantiated,3,2,3,3,Related,Related,Extend,Related,Related,1
+B,R37,representative,metric,Partially substantiated,2,2,0,1,Contradicts,Related,Extend,Related,Contradicts,1
+B,R38,representative,commitment,Substantiated,1,0,3,1,Related,None,Contradicts,Contradicts,Extend,1
+B,R39,representative,achievement,Substantiated,3,1,1,1,Extend,Related,Extend,Extend,Extend,3
+B,R40,representative,commitment,Substantiated,1,0,1,2,Extend,Extend,Extend,Extend,Extend,2
+B,R41,representative,policy,Substantiated,3,1,1,2,Related,Extend,Extend,Extend,Extend,1
+B,R42,representative,achievement,Substantiated,2,1,0,1,Extend,Related,Redundant,Redundant,Extend,1
+B,R43,representative,commitment,Substantiated,3,3,3,1,None,None,Extend,Extend,Extend,2
+B,R44,representative,commitment,Substantiated,2,3,3,0,Extend,Extend,Redundant,Extend,Related,1
+B,R45,representative,commitment,Substantiated,1,1,0,3,Extend,Extend,Redundant,Extend,Redundant,1
+B,R46,representative,commitment,Substantiated,1,0,0,2,Extend,None,Extend,Related,Extend,1
+B,R47,representative,metric,Substantiated,3,0,1,3,None,None,Extend,Extend,Related,1
+B,R48,representative,commitment,Substantiated,1,0,0,0,Extend,Extend,Extend,Unrelated,Unrelated,1
+B,R49,representative,commitment,Substantiated,2,0,0,1,Extend,Extend,Extend,Extend,Extend,2
+B,R50,representative,commitment,Substantiated,1,0,0,2,Extend,Unrelated,Extend,Extend,Extend,1
+B,R51,challenge,target,,0,2,0,0,None,None,Unrelated,Extend,Unrelated,1
+B,R52,challenge,alignment,,2,1,1,3,Extend,Extend,Extend,Extend,Unrelated,1
+B,R53,challenge,achievement,,2,1,1,3,Unrelated,Related,Extend,Unrelated,Unrelated,1
+B,R54,challenge,target,,0,3,2,0,Extend,Related,Extend,Extend,Extend,1
+B,R55,challenge,policy,,3,0,1,1,Extend,Extend,Redundant,Extend,Extend,2
+B,R56,challenge,target,,1,3,1,1,None,None,Extend,Extend,Extend,3
+B,R57,challenge,target,,2,0,0,1,Redundant,Extend,Extend,Extend,Related,1
+B,R58,challenge,achievement,,2,2,0,3,Related,Related,Related,Extend,Extend,2
+B,R59,challenge,alignment,,2,0,0,1,Extend,Extend,Extend,Extend,Related,2
+B,R60,challenge,achievement,,3,2,2,1,Extend,Extend,Extend,Extend,Extend,3
+C,R01,representative,achievement,Partially substantiated,2,1,2,1,Extend,Extend,Extend,Extend,Extend,2
+C,R02,representative,metric,Substantiated,2,3,3,2,Extend,Extend,Extend,Extend,Extend,1
+C,R03,representative,commitment,Unsubstantiated,3,2,1,2,Redundant,Related,Extend,Extend,Extend,2
+C,R04,representative,commitment,Substantiated,3,3,3,2,Extend,Extend,Extend,Extend,Extend,2
+C,R05,representative,commitment,Partially substantiated,2,3,2,2,Extend,Extend,Extend,Extend,Extend,2
+C,R06,representative,alignment,Partially substantiated,1,2,1,2,Redundant,Extend,Extend,Extend,Extend,2
+C,R07,representative,commitment,Unsubstantiated,1,1,1,1,Extend,None,Extend,Extend,Extend,1
+C,R08,representative,achievement,Partially substantiated,3,2,3,2,Extend,Extend,Extend,Extend,Extend,2
+C,R09,representative,metric,Substantiated,3,3,3,2,Extend,Extend,Extend,Extend,Extend,1
+C,R10,representative,commitment,Partially substantiated,1,1,1,1,Extend,None,Extend,Extend,Extend,1
+C,R11,representative,achievement,Substantiated,3,3,3,3,Extend,Extend,Extend,Extend,Extend,1
+C,R12,representative,alignment,Unsubstantiated,2,1,2,1,Related,Related,Redundant,Extend,Extend,2
+C,R13,representative,policy,Partially substantiated,2,2,2,1,Extend,None,Extend,Extend,Extend,1
+C,R14,representative,achievement,Substantiated,2,2,2,1,Extend,Extend,Extend,Extend,Extend,2
+C,R15,representative,metric,Substantiated,3,3,3,2,Extend,Extend,Extend,Extend,Extend,3
+C,R16,representative,metric,Substantiated,3,2,2,2,Extend,Extend,Extend,Extend,Extend,1
+C,R17,representative,achievement,Substantiated,3,3,2,2,Redundant,Extend,Redundant,Extend,Extend,2
+C,R18,representative,commitment,Partially substantiated,1,1,1,1,Redundant,Extend,Extend,Extend,Extend,2
+C,R19,representative,policy,Partially substantiated,1,1,0,1,None,None,Extend,Extend,Extend,2
+C,R20,representative,commitment,Partially substantiated,1,1,1,1,Extend,Extend,Redundant,Extend,Extend,2
+C,R21,representative,commitment,Unsubstantiated,3,3,3,2,Extend,Extend,Extend,Extend,Extend,2
+C,R22,representative,policy,Partially substantiated,3,2,2,2,Extend,Extend,Related,Extend,Extend,1
+C,R23,representative,commitment,Substantiated,3,2,2,2,Extend,Extend,Extend,Extend,Extend,2
+C,R24,representative,achievement,Partially substantiated,2,2,1,2,Extend,Extend,Extend,Extend,Extend,1
+C,R25,representative,alignment,Substantiated,3,3,3,3,Extend,None,Extend,Extend,Extend,2
+C,R26,representative,commitment,Partially substantiated,3,1,2,1,Related,Extend,Extend,Extend,Extend,1
+C,R27,representative,commitment,Partially substantiated,3,3,3,2,Extend,Extend,Extend,Extend,Extend,2
+C,R28,representative,commitment,Unsubstantiated,1,1,0,0,Redundant,Redundant,Redundant,Extend,Extend,1
+C,R29,representative,commitment,Partially substantiated,3,3,2,3,Extend,None,Extend,Extend,Extend,3
+C,R30,representative,policy,Unsubstantiated,2,1,1,1,Extend,Extend,Extend,Extend,Extend,1
+C,R31,representative,achievement,Partially substantiated,3,1,2,2,Extend,Extend,Extend,Extend,Extend,2
+C,R32,representative,commitment,Unsubstantiated,3,3,3,2,Extend,Extend,Extend,Extend,Extend,1
+C,R33,representative,achievement,Partially substantiated,3,3,3,2,Extend,Extend,Related,Extend,Extend,1
+C,R34,representative,policy,Partially substantiated,2,2,1,2,Related,None,Redundant,Extend,Extend,1
+C,R35,representative,commitment,Substantiated,3,2,2,2,Extend,Extend,Extend,Extend,Extend,2
+C,R36,representative,commitment,Substantiated,3,3,3,2,Extend,Related,Redundant,Extend,Extend,2
+C,R37,representative,metric,Substantiated,3,3,3,2,Related,Extend,Extend,Extend,Extend,2
+C,R38,representative,commitment,Partially substantiated,2,1,1,1,Extend,None,Extend,Extend,Extend,3
+C,R39,representative,achievement,Unsubstantiated,2,1,1,1,Extend,Extend,Extend,Extend,Extend,3
+C,R40,representative,commitment,Unsubstantiated,1,1,1,1,Extend,Extend,Extend,Extend,Related,2
+C,R41,representative,policy,Unsubstantiated,1,1,1,1,Extend,Extend,Extend,Extend,Related,1
+C,R42,representative,achievement,Partially substantiated,2,2,1,2,Extend,Extend,Extend,Extend,Extend,3
+C,R43,representative,commitment,Substantiated,3,3,3,2,None,None,Extend,Extend,Extend,2
+C,R44,representative,commitment,Partially substantiated,3,3,3,2,Redundant,Related,Extend,Extend,Extend,3
+C,R45,representative,commitment,Partially substantiated,2,1,1,1,Extend,Extend,Extend,Extend,Extend,2
+C,R46,representative,commitment,Unsubstantiated,1,1,1,2,Extend,None,Extend,Extend,Extend,1
+C,R47,representative,metric,Substantiated,3,3,3,2,None,None,Extend,Extend,Extend,1
+C,R48,representative,commitment,Partially substantiated,1,1,1,1,Extend,Extend,Extend,Extend,Extend,1
+C,R49,representative,commitment,Partially substantiated,2,2,1,1,Extend,Extend,Extend,Extend,Extend,2
+C,R50,representative,commitment,Partially substantiated,3,3,3,2,Extend,Extend,Extend,Extend,Extend,1
+C,R51,challenge,target,,3,2,2,2,None,None,Extend,Extend,Extend,3
+C,R52,challenge,alignment,,3,3,3,3,Extend,Extend,Extend,Extend,Extend,2
+C,R53,challenge,achievement,,1,1,2,1,Extend,Extend,Extend,Extend,Extend,3
+C,R54,challenge,target,,3,3,3,2,Extend,Extend,Extend,Extend,Extend,1
+C,R55,challenge,policy,,1,1,0,0,Extend,Extend,Redundant,Extend,Extend,2
+C,R56,challenge,target,,3,3,3,2,None,None,Redundant,Extend,Extend,2
+C,R57,challenge,target,,1,1,2,1,Extend,Extend,Extend,Extend,Extend,1
+C,R58,challenge,achievement,,3,3,1,3,Extend,Extend,Extend,Extend,Extend,2
+C,R59,challenge,alignment,,3,3,2,2,Extend,Extend,Extend,Extend,Extend,2
+C,R60,challenge,achievement,,3,3,3,2,Extend,Extend,Extend,Extend,Extend,3
+D,R01,representative,achievement,Substantiated,1,1,1,1,Extend,Extend,Extend,Extend,Extend,2
+D,R02,representative,metric,Unsubstantiated,0,0,0,1,Related,Related,Redundant,Extend,Extend,1
+D,R03,representative,commitment,Partially substantiated,2,1,0,1,Redundant,Related,Extend,Extend,Extend,2
+D,R04,representative,commitment,Substantiated,2,1,1,1,Extend,Unrelated,Extend,Redundant,Extend,1
+D,R05,representative,commitment,Partially substantiated,0,0,0,1,Related,Related,Extend,Extend,Extend,2
+D,R06,representative,alignment,Substantiated,1,0,0,3,Redundant,Extend,Extend,Extend,Extend,2
+D,R07,representative,commitment,Partially substantiated,2,2,2,1,Extend,None,Extend,Unrelated,Unrelated,1
+D,R08,representative,achievement,Partially substantiated,2,1,1,1,Extend,Extend,Extend,Related,Related,1
+D,R09,representative,metric,Substantiated,0,0,0,1,Contradicts,Extend,Related,Extend,Extend,1
+D,R10,representative,commitment,Partially substantiated,0,0,0,1,Extend,None,Redundant,Extend,Extend,1
+D,R11,representative,achievement,Substantiated,3,2,2,1,Extend,Related,Extend,Extend,Extend,1
+D,R12,representative,alignment,Substantiated,0,0,1,3,Extend,Extend,Redundant,Related,Extend,1
+D,R13,representative,policy,Substantiated,1,0,1,1,Extend,None,Extend,Extend,Extend,1
+D,R14,representative,achievement,Substantiated,2,3,3,3,Extend,Extend,Extend,Extend,Related,2
+D,R15,representative,metric,Unsubstantiated,0,0,0,1,Extend,Unrelated,Extend,Extend,Extend,3
+D,R16,representative,metric,Substantiated,2,2,0,1,Extend,Extend,Extend,Related,Contradicts,1
+D,R17,representative,achievement,Substantiated,2,3,3,3,Redundant,Extend,Redundant,Redundant,Extend,1
+D,R18,representative,commitment,Partially substantiated,0,0,0,0,Extend,Related,Redundant,Redundant,Extend,1
+D,R19,representative,policy,Partially substantiated,0,0,0,1,None,None,Extend,Extend,Extend,2
+D,R20,representative,commitment,Unsubstantiated,1,0,0,0,Extend,Extend,Extend,Extend,Extend,2
+D,R21,representative,commitment,Substantiated,0,0,0,1,Extend,Extend,Extend,Related,Extend,1
+D,R22,representative,policy,Substantiated,1,1,0,1,Extend,Extend,Extend,Extend,Extend,1
+D,R23,representative,commitment,Substantiated,0,0,0,1,Extend,Related,Related,Extend,Related,1
+D,R24,representative,achievement,Substantiated,1,0,0,1,Extend,Extend,Extend,Extend,Extend,1
+D,R25,representative,alignment,Substantiated,1,0,0,1,Extend,None,Extend,Extend,Extend,2
+D,R26,representative,commitment,Substantiated,3,1,1,3,Related,Related,Extend,Related,Extend,1
+D,R27,representative,commitment,Substantiated,0,1,2,1,Extend,Extend,Related,Extend,Extend,2
+D,R28,representative,commitment,Unsubstantiated,0,0,0,0,Related,Extend,Redundant,Extend,Related,1
+D,R29,representative,commitment,Substantiated,0,0,0,3,Extend,None,Related,Extend,Extend,2
+D,R30,representative,policy,Partially substantiated,1,1,0,0,Related,Extend,Extend,Extend,Extend,1
+D,R31,representative,achievement,Substantiated,1,0,2,1,Extend,Extend,Redundant,Redundant,Related,0
+D,R32,representative,commitment,Partially substantiated,1,0,1,2,Related,Extend,Extend,Extend,Extend,1
+D,R33,representative,achievement,Substantiated,1,1,1,1,Extend,Related,Related,Extend,Extend,1
+D,R34,representative,policy,Partially substantiated,1,0,0,1,Related,None,Related,Extend,Extend,1
+D,R35,representative,commitment,Substantiated,3,1,1,1,Extend,Extend,Redundant,Extend,Extend,2
+D,R36,representative,commitment,Partially substantiated,3,3,3,1,Extend,Extend,Redundant,Extend,Extend,2
+D,R37,representative,metric,Partially substantiated,1,2,0,1,Redundant,Extend,Related,Extend,Extend,2
+D,R38,representative,commitment,Partially substantiated,0,0,0,1,Extend,None,Related,Extend,Related,1
+D,R39,representative,achievement,Partially substantiated,0,0,1,1,Extend,Extend,Extend,Extend,Extend,3
+D,R40,representative,commitment,Partially substantiated,1,1,0,0,Extend,Extend,Extend,Extend,Extend,2
+D,R41,representative,policy,Partially substantiated,2,1,1,1,Extend,Extend,Extend,Extend,Related,1
+D,R42,representative,achievement,Partially substantiated,1,1,0,1,Extend,Extend,Redundant,Redundant,Redundant,0
+D,R43,representative,commitment,Substantiated,2,2,2,1,None,None,Unrelated,Extend,Extend,2
+D,R44,representative,commitment,Partially substantiated,3,3,3,1,Extend,Extend,Redundant,Extend,Extend,2
+D,R45,representative,commitment,Substantiated,1,1,0,3,Extend,Extend,Related,Extend,Redundant,1
+D,R46,representative,commitment,Partially substantiated,1,1,0,0,Related,None,Related,Extend,Extend,1
+D,R47,representative,metric,Partially substantiated,0,0,0,1,None,None,Unrelated,Extend,Extend,1
+D,R48,representative,commitment,Partially substantiated,0,0,0,1,Extend,Extend,Extend,Unrelated,Unrelated,1
+D,R49,representative,commitment,Substantiated,2,1,0,1,Extend,Related,Extend,Extend,Related,2
+D,R50,representative,commitment,Partially substantiated,1,0,0,1,Extend,Extend,Extend,Extend,Extend,1
+D,R51,challenge,target,,0,2,0,0,None,None,Extend,Extend,Related,2
+D,R52,challenge,alignment,,1,1,0,3,Extend,Unrelated,Extend,Extend,Extend,2
+D,R53,challenge,achievement,,2,1,1,3,Unrelated,Unrelated,Redundant,Unrelated,Related,0
+D,R54,challenge,target,,1,2,2,1,Contradicts,Related,Redundant,Extend,Related,1
+D,R55,challenge,policy,,0,0,0,0,Extend,Extend,Redundant,Extend,Extend,2
+D,R56,challenge,target,,1,2,1,1,None,None,Extend,Extend,Extend,3
+D,R57,challenge,target,,0,1,0,1,Redundant,Related,Related,Extend,Related,1
+D,R58,challenge,achievement,,1,2,0,3,Extend,Extend,Extend,Extend,Extend,2
+D,R59,challenge,alignment,,0,0,0,1,Extend,Related,Extend,Extend,Extend,2
+D,R60,challenge,achievement,,2,2,2,3,Extend,Extend,Extend,Extend,Related,2

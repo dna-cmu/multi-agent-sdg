@@ -1,0 +1,569 @@
+{
+ "seed": 20261020,
+ "design": "purposive challenge set by claim wording; categories and regexes in build_challenge_set.py; framework scores not used in the draw; eligibility rule eligible() applied to non-target categories after the shuffle (21 Oct); reported separately from the representative 50",
+ "quota": {
+  "target": 4,
+  "assurance": 2,
+  "certification": 2,
+  "standard": 2
+ },
+ "pool_size": 772,
+ "claims": [
+  {
+   "uid": "CPN-2024-OR+SR-EN::CLM-0068",
+   "challenge_category": "target",
+   "company": "Central Pattana",
+   "sector": "Real Estate",
+   "report": "CPN-2024-OR+SR-EN",
+   "page": 168,
+   "section": "Sustainability Management: Economic and Governance",
+   "claim_type": "target",
+   "claim_text": "G1 Maintain a 100% complaint resolution rate.",
+   "sdg_targets": "16.3, 16.6, 16.7",
+   "pack": [
+    [
+     "X1",
+     "cross-section",
+     "Business Structure and Operating Performance",
+     167,
+     "<a id='ad8d9321-047f-4e23-88c2-99c5e5da10b5'></a>\n\n## Targets\n\noption G1 Maintain a: [x]\n\n**100%**\n\ncomplaint resolution rate.\n\noption Conduct quarterly: [x]\n\nreviews and monitoring\n\nof key risks,\n\nwith plans developed\n\naccordingly."
+    ],
+    [
+     "X2",
+     "cross-section",
+     "Management Team",
+     146,
+     "<a id='4c0580b0-0fb4-495d-85ff-715da1c54214'></a>\n\nTarget\n\nS3.1 Achieve an employee engagement score of\n80%\nor higher\n\nS3.2 Increase employee productivity rate by\n5%\nfrom 2023\n\nNo disputes concerning unfair employment practices.\n\n100% of employees at all level complete a post-training assessment on the Code of Conduct and receive development aligned with their personalized plans."
+    ],
+    [
+     "X3",
+     "cross-section",
+     "Board of Directors",
+     143,
+     "<a id='9df08abc-b3cd-4f16-b10f-73145142f8fb'></a>\n\nTargets\n\noption S2 Achieve a Tenant Net Promotor Score (NPS) score of 49%: [x]\noption No complaints concerning products or services affecting health and safety or non-compliance with laws and regulations.: [x]"
+    ]
+   ],
+   "flags": [
+    "No other material in section 'Sustainability Management: Economic and Governance' met the similarity threshold (0.35)."
+   ],
+   "v7": {
+    "S": 2,
+    "M": 2,
+    "T": 0,
+    "E": 1,
+    "C": 1,
+    "tier": "partially_substantive"
+   }
+  },
+  {
+   "uid": "CPN-2024-OR+SR-EN::CLM-0073",
+   "challenge_category": "target",
+   "company": "Central Pattana",
+   "sector": "Real Estate",
+   "report": "CPN-2024-OR+SR-EN",
+   "page": 169,
+   "section": "Innovation Management",
+   "claim_type": "target",
+   "claim_text": "18.5% of the total workforce is targeted to participate in the program.",
+   "sdg_targets": "4.3, 4.4, 5.5, 5.a, 8.3, 8.5",
+   "pack": [
+    [
+     "X1",
+     "cross-section",
+     "Code of Business Ethics",
+     193,
+     "In 2024, 98.85% of our personnel completed the e-learning program including the quiz, with 94.38% of executives and 99.08% of employees participating."
+    ],
+    [
+     "X2",
+     "cross-section",
+     "Business Structure and Operating Performance",
+     168,
+     "<a id='f08984d8-788d-4641-ac24-12953db845b8'></a>\n\nTargets\n\noption G2 The Power of Dream innovations yield a 3x return on program investment: [x]\n\nwith 18.5% of the total workforce participating."
+    ],
+    [
+     "X3",
+     "cross-section",
+     "Management Team",
+     149,
+     "<a id='30eb033f-663b-4255-bb4a-8394f3cf5be1'></a>\n\nA total of\n722 employees\nparticipated in these activities."
+    ]
+   ],
+   "flags": [
+    "No other material in section 'Innovation Management' met the similarity threshold (0.35)."
+   ],
+   "v7": {
+    "S": 2,
+    "M": 2,
+    "T": 0,
+    "E": 1,
+    "C": 3,
+    "tier": "partially_substantive"
+   }
+  },
+  {
+   "uid": "advanc-2024-SR-en::CLM-0039",
+   "challenge_category": "target",
+   "company": "Advanced Info Service",
+   "sector": "Telecommunications",
+   "report": "advanc-2024-SR-en",
+   "page": 240,
+   "section": "Drive Digital Economy",
+   "claim_type": "target",
+   "claim_text": "7% of revenue from new digital products and services enabling the digital economy by the year 2027.",
+   "sdg_targets": "8.1, 8.2, 9.2, 9.5, 9.b",
+   "pack": [
+    [
+     "X1",
+     "cross-section",
+     "Sustainability Report 2024",
+     22,
+     "<a id='1cb248c5-4811-4943-afdd-40391fc844a5'></a>\n\nTarget\n7% of revenue from new digital products and services enabling the digital economy by the year 2027."
+    ],
+    [
+     "X2",
+     "cross-section",
+     "Sustainability Report 2024",
+     22,
+     "<a id='96e264f9-9fbd-4020-aadd-c0b9d48b0e78'></a>\n\nKey Highlight in 2024\n\n| Topic                                    | 2022 | 2023 | 2024 | 2027 |\n| :--------------------------------------- | :--- | :--- | :--- | :--- |\n| Revenue from new digital products and services | 4.1  | 4.1  | 3.8  | 7    |"
+    ],
+    [
+     "X3",
+     "cross-section",
+     "Sustainability Report 2024",
+     22,
+     "<a id='d2027afb-688e-4547-a234-7cf0a4d019fd'></a>\n\nRemarks: To achieve the target of developing new digital products and services in response to the growing business following the acquisition of TTTBB, AIS has revised the target revenue from new digital products and services from 8% to 7% of the total revenue from core services by 2027."
+    ],
+    [
+     "S1",
+     "same-section",
+     "Drive Digital Economy",
+     0,
+     "3.8% of revenue is generated from new digital products and services."
+    ],
+    [
+     "S2",
+     "same-section",
+     "Drive Digital Economy",
+     240,
+     "Develop products and services by leveraging digital innovation to improve the quality of life for Thai citizens and strengthen the competitiveness of the business sector"
+    ]
+   ],
+   "flags": [],
+   "v7": {
+    "S": 2,
+    "M": 3,
+    "T": 3,
+    "E": 1,
+    "C": 3,
+    "tier": "substantive"
+   }
+  },
+  {
+   "uid": "advanc-2024-SR-en::CLM-0045",
+   "challenge_category": "target",
+   "company": "Advanced Info Service",
+   "sector": "Telecommunications",
+   "report": "advanc-2024-SR-en",
+   "page": 382,
+   "section": "Cybersecurity and Customer Privacy Protection",
+   "claim_type": "target",
+   "claim_text": "Achieve top-tier cybersecurity and data protection standards, exceeding industry and regional benchmarks.",
+   "sdg_targets": "16.10, 16.6, 16.a, 9.4, 9.5, 9.c",
+   "pack": [
+    [
+     "X1",
+     "cross-section",
+     "Sustainability Report 2024",
+     30,
+     "<a id='e13193dd-d9b7-4585-983d-58c2c2da493a'></a>\n\nTarget\n\n* Maintain the highest cybersecurity and personal data protection standards on par with or surpassing those of other business organizations in the industry and the region\n* Enhance the efficiency of cybersecurity and data privacy measures to defend AIS's significant business value chain"
+    ],
+    [
+     "X2",
+     "cross-section",
+     "Sustainability Report 2024",
+     30,
+     "<a id='8b885cf9-e649-4f62-afff-86c10047eaad'></a>\n\nTarget\n<::Bar chart illustrating security performance against benchmarks. A dashed horizontal line represents a benchmark. On the left, a 'Security Standard' icon (shield with a checkmark) is displayed. Below the benchmark line, two sets of green bar-like structures are labeled 'Region' and 'Industry', indicating performance below the benchmark. To the right, a significantly taller set of green bar-like structures, labeled with the 'AIS' logo below, extends above the benchmark line, signifying performance exceeding the benchmark.\nAchieve top-tier cybersecurity and data protection standards, exceeding industry and regional benchmarks\n: chart::>"
+    ],
+    [
+     "X3",
+     "cross-section",
+     "Sustainability Report 2024",
+     30,
+     "<a id='0c072575-3af5-4e01-a43c-dcad29b71665'></a>\n\nKey Highlight in 2024\n\nGoals achieved\n\n* Assessed risks and monitored performance of third-party service providers with access to the Company's critical data and computer system to ensure cybersecurity standards and customers' personal data protection complied with applicable laws and international standards."
+    ],
+    [
+     "S1",
+     "same-section",
+     "Cybersecurity and Customer Privacy Protection",
+     382,
+     "Maintain the highest cybersecurity and personal data protection standards on par with or surpassing those of other business organizations in the industry and the region"
+    ],
+    [
+     "S2",
+     "same-section",
+     "Cybersecurity and Customer Privacy Protection",
+     382,
+     "Enhance the efficiency of cybersecurity and data privacy measures to defend AIS’s significant business value chain"
+    ]
+   ],
+   "flags": [],
+   "v7": {
+    "S": 1,
+    "M": 0,
+    "T": 0,
+    "E": 1,
+    "C": 3,
+    "tier": "partially_substantive"
+   }
+  },
+  {
+   "uid": "IVL-2024-SR-EN::CLM-0269",
+   "challenge_category": "assurance",
+   "company": "Indorama Ventures",
+   "sector": "Construction Materials",
+   "report": "IVL-2024-SR-EN",
+   "page": 2409,
+   "section": "Data Reporting, Verification, and Report Assurance",
+   "claim_type": "achievement",
+   "claim_text": "100% Reporting Certification and Assurance in accordance with the GRI Standards, <IR> Framework and AA1000AS by an independent auditor.",
+   "sdg_targets": "12.6, 16.10, 16.6",
+   "pack": [
+    [
+     "X1",
+     "cross-section",
+     "Independent Assurance Statement",
+     2259,
+     "The Report is developed based on GRI Standards 2021, IIRC Integrated Reporting (<IR>), and AA1000 Assurance Standard V.3 (Type 1, Moderate Level)."
+    ],
+    [
+     "X2",
+     "cross-section",
+     "Sustainability Report Assurance and GHG Verification",
+     2231,
+     "To ensure compliance with the GRI Standards 2021, IIRC Integrated Reporting (<IR>), and the AA1000 Assurance Standard v3, we engaged TÜV India Private Limited as our independent external auditor."
+    ],
+    [
+     "X3",
+     "cross-section",
+     "Independent Assurance Statement",
+     2259,
+     "The Report was evaluated against the following criteria: adherence to the principles of stakeholder inclusiveness, materiality, responsiveness, completeness, neutrality, relevance, sustainability context, accuracy, reliability, comparability, clarity, and timeliness, as prescribed in the GRI Standards 2021, IIRC Integrated Reporting (<IR>), and AA1000 Assurance Standard V.3 along with AA1000 AccountAbility Principles (2018)."
+    ],
+    [
+     "S1",
+     "same-section",
+     "Data Reporting, Verification, and Report Assurance",
+     2409,
+     "100% GHG Accounting, Verification and Assurance in accordance with ISO 14064-1 and ISO 14064-3 by an independent auditor."
+    ],
+    [
+     "S2",
+     "same-section",
+     "Data Reporting, Verification, and Report Assurance",
+     2409,
+     "This report was prepared in adherence with the Global Reporting Initiative (GRI) standards core option and the International Integrated Reporting Council (IIRC)’s International Integrated Reporting Framework 2021."
+    ]
+   ],
+   "flags": [],
+   "v7": {
+    "S": 2,
+    "M": 2,
+    "T": 0,
+    "E": 3,
+    "C": 3,
+    "tier": "substantive"
+   }
+  },
+  {
+   "uid": "PTTGC-2024-IR-EN::CLM-0066",
+   "challenge_category": "assurance",
+   "company": "PTT Global Chemical",
+   "sector": "Energy",
+   "report": "PTTGC-2024-IR-EN",
+   "page": 353,
+   "section": "Sustainability Materiality",
+   "claim_type": "policy",
+   "claim_text": "Each and every step of the materiality assessment is verified by an independent third party.",
+   "sdg_targets": "12.6, 16.6, 16.7",
+   "pack": [
+    [
+     "X1",
+     "cross-section",
+     "Materiality Assessment",
+     360,
+     "Each and every step of the materiality assessment is verified by an independent third party."
+    ],
+    [
+     "X2",
+     "cross-section",
+     "Sustainability Policy",
+     48,
+     "<a id='ac34f769-78f5-479e-802a-0cbb4e4c3bae'></a>\n\nThe materiality assessment result is adopted to develop corporate strategies and integrated into the enterprise risk management process to enable appropriate management of sustainability risks. Each and every step of the materiality assessment is verified by an independent third party. The process can be summarized into four principal steps as follows:"
+    ],
+    [
+     "X3",
+     "cross-section",
+     "Materiality Assessment",
+     360,
+     "Conduct double materiality assessment covering impact materiality and financial materiality."
+    ],
+    [
+     "S1",
+     "same-section",
+     "Sustainability Materiality",
+     353,
+     "The materiality assessment result is adopted to develop corporate strategies and integrated into the enterprise risk management process to enable appropriate management of sustainability risks."
+    ],
+    [
+     "S2",
+     "same-section",
+     "Sustainability Materiality",
+     353,
+     "GC conducts an annual assessment of material topics, covering Environmental, Social, Governance (ESG) dimensions, using the Double Materiality approach."
+    ]
+   ],
+   "flags": [],
+   "v7": {
+    "S": 2,
+    "M": 0,
+    "T": 0,
+    "E": 3,
+    "C": 3,
+    "tier": "partially_substantive"
+   }
+  },
+  {
+   "uid": "PTTGC-2024-IR-EN::CLM-0050",
+   "challenge_category": "certification",
+   "company": "PTT Global Chemical",
+   "sector": "Energy",
+   "report": "PTTGC-2024-IR-EN",
+   "page": 161,
+   "section": "Awards and Recognitions",
+   "claim_type": "achievement",
+   "claim_text": "GC has obtained “ISCC PLUS”, an international certification that validates sustainability and decarbonization, established by the International Sustainability & Carbon Certification, in five categories.",
+   "sdg_targets": "12.2, 12.4, 12.6, 13.2, 13.3",
+   "pack": [
+    [
+     "X1",
+     "cross-section",
+     "Sustainability Policy",
+     24,
+     "<a id='cd3862a0-5bfe-46cf-a6c0-4c5df8d6635f'></a>\n\n8\nInternational Sustainability & Carbon Certificate\nGC has obtained \"ISCC PLUS\", an international certification that validates sustainability and decarbonization, established by the International Sustainability & Carbon Certification, in five categories, namely REF, OLE2, ARO1, LLDPE and LDPE, HDPE. This certification demonstrates GC's readiness and commitment to support bio-economy and circular economy."
+    ],
+    [
+     "X2",
+     "cross-section",
+     "Governance & Economic Performance",
+     161,
+     "GC also received an 'A' rating, the highest assessment level, in Water Security Management for the fifth consecutive year, and a 'B' rating in Climate Change Management from the Carbon Disclosure Project (CDP)."
+    ],
+    [
+     "X3",
+     "cross-section",
+     "Message from The Chairman and The CEO",
+     88,
+     "GC has attained key achievements in sustainability in 2024."
+    ],
+    [
+     "S1",
+     "same-section",
+     "Awards and Recognitions",
+     161,
+     "GC has achieved a Gold Medal from EcoVadis with “Advance” level scoring in Labor & Human Rights, Ethics, Sustainable Procurement, and Environment, thus placing the company in the Top 5% of the global basic chemical manufacturing industry."
+    ],
+    [
+     "S2",
+     "same-section",
+     "Awards and Recognitions",
+     161,
+     "GC was rated “B” for Climate Change and “A” (Leadership Level) for Water Security by the Carbon Disclosure Project (CDP)."
+    ]
+   ],
+   "flags": [],
+   "v7": {
+    "S": 2,
+    "M": 0,
+    "T": 1,
+    "E": 3,
+    "C": 3,
+    "tier": "partially_substantive"
+   }
+  },
+  {
+   "uid": "IVL-2024-SR-EN::CLM-0189",
+   "challenge_category": "certification",
+   "company": "Indorama Ventures",
+   "sector": "Construction Materials",
+   "report": "IVL-2024-SR-EN",
+   "page": 1808,
+   "section": "Ensuring Integrity and Protection of Data",
+   "claim_type": "alignment",
+   "claim_text": "Our Information Security Management System (ISMS), aligned with the ISO 27001 standard, undergoes internal reviews and external audits to ensure its effectiveness.",
+   "sdg_targets": "16.10, 16.6, 9.4, 9.5",
+   "pack": [
+    [
+     "X1",
+     "cross-section",
+     "Chapter 1: Who We Are",
+     68,
+     "<a id='d13876e9-14f5-4c24-b803-2196694f333b'></a>\n\n## Ensuring Integrity and Protection of Data\n\nProtecting confidentiality, integrity, and availability of data is fundamental to our cybersecurity strategy. We implement strict access controls, encryption protocols, and regular data backup and recovery procedures to safeguard sensitive information across all business units. Our Information Security Management System (ISMS), aligned with the ISO 27001 standard, undergoes internal reviews and external audits to ensure its effectiveness."
+    ],
+    [
+     "X2",
+     "cross-section",
+     "Chapter 1: Who We Are",
+     64,
+     "<a id='e11523ff-8f7d-4067-96dd-c0a5f4d752c3'></a>\n\nTo strengthen our sustainability risk management, we conduct a biannual review of critical risk areas based on defined performance indicators. This includes cause analysis, consequence mapping, and evaluation of risk control plans, followed by the development of supplementary actions to maintain risks at acceptable levels. External audits further strengthen oversight, covering the identified risks, and include certifications such as ISO 45001 (Health and Safety), ISO 27001 (Information Technology), and Energy Management or the Resource and Efficiency Check (REC). Audits are conducted annually by internal teams or third-party experts to ensure continuous improvement."
+    ],
+    [
+     "X3",
+     "cross-section",
+     "Introduction and Key Messages",
+     36,
+     "<a id='739c5210-6331-48c3-b3cd-6baf2a0857f2'></a>\n\n# Environmental Management System (EMS)\n\nWe implement an Environmental Management System (EMS) aligned with ISO 14001 standards to manage environmental responsibilities across our operations. Furthermore, our Environmental, Health and Safety (EHS) team has a comprehensive compliance assurance auditing program, supported by third-party consultants with expertise in the regulatory requirements of the jurisdictions where we operate. The scope of these audits includes both EHS regulatory compliance and alignment with Corporate EHS standards. An audit schedule is maintained and reviewed annually. Each year, between 25 to 30 sites are audited by third-party consultants. Since the program's launch in 2022, 59 sites have been audited. In 2024, 80% of operations were certified, audited, and verified under ISO 14001. An additional 12% of operations, not yet certified, were audited by a third party, bringing total EMS verification and audit coverage to 92%."
+    ],
+    [
+     "S1",
+     "same-section",
+     "Ensuring Integrity and Protection of Data",
+     1822,
+     "As of 2024, 50% of Indorama Ventures' operations are certified under the ISO 27001 standard."
+    ],
+    [
+     "S2",
+     "same-section",
+     "Ensuring Integrity and Protection of Data",
+     1822,
+     "Since 2022, we have partnered with an external vendor to conduct VAPT, including comprehensive system assessments and simulated cyberattacks."
+    ]
+   ],
+   "flags": [],
+   "v7": {
+    "S": 2,
+    "M": 0,
+    "T": 1,
+    "E": 3,
+    "C": 3,
+    "tier": "partially_substantive"
+   }
+  },
+  {
+   "uid": "SCC-2024-SR-EN::CLM-0009",
+   "challenge_category": "standard",
+   "company": "Siam Cement Group",
+   "sector": "Construction Materials",
+   "report": "SCC-2024-SR-EN",
+   "page": 25,
+   "section": "Message from President & CEO",
+   "claim_type": "achievement",
+   "claim_text": "In 2024, SCG successfully reduced greenhouse gas emissions by 25.6%, showing significant progress relative to the SBTi targets.",
+   "sdg_targets": "13.2, 7.3, 9.2, 9.4",
+   "pack": [
+    [
+     "X1",
+     "cross-section",
+     "SCG Net Zero Roadmap 2050",
+     4,
+     "<a id='6e6776fb-4e9e-49a6-8430-bc364165d9f1'></a>\n\nIn 2024, SCG successfully reduced green-\nhouse gas emissions by 25.6%, showing\nsignificant progress relative to the SBTi\ntargets. In addition, the Board of Directors\nappointed an Environmental Sustainability\nDevelopment Committee to oversee and\nsupport initiatives in pursuit of the net-zero\ngoals."
+    ],
+    [
+     "X2",
+     "cross-section",
+     "Sustainability Performance in 2024",
+     50,
+     "<a id='9b2d162f-8b4c-492f-81fb-481642f87dd6'></a>\n\nSCG has established both short-term and long-term greenhouse gas emission reduction targets in accordance with the Paris Agreement to limit global temperature rise to no more than 2 degrees Celsius, with efforts to keep it below 1.5 degrees Celsius by 2050, compared to pre-industrial levels. In 2021, SCG joined the Science Based Target initiative (SBTi), which certifies organizations' targets according to scientific calculation standards. In 2023, SCG received SBTi certification for its near-term targets to reduce GHG Scope 1 and 2 emissions by 25% by 2030 compared to the base year of 2020 and decrease GHG Scope 3 emissions from fossil fuel sales to external customers by at least 25% by 2031, compared to the base year of 2021."
+    ],
+    [
+     "X3",
+     "cross-section",
+     "Strategy & Risk Management",
+     151,
+     "SCG Decor upholds its commitment to achieving its Net Zero goal by 2050, with a short-term goal of reducing absolute Scope 1 and 2 GHG emissions by 25% by 2030 from the 2020 base year."
+    ],
+    [
+     "S1",
+     "same-section",
+     "Message from President & CEO",
+     24,
+     "<a id='aadbe7cc-ff66-4f9e-a775-00e134af3541'></a>\n\nFurthermore, SCG has joined SBTi and received validation\nfor its decarbonization targets: 25% reduction in GHG\nScope 1 and 2 emissions by 2030 compared to 2020\nbaseline, and at least 25% reduction in Scope 3\nemissions from fossil fuel sales to external customers\nby 2031 compared to 2021 baseline. These targets\ndemonstrate our commitment and how our operational\napproach can instill confidence among all stakeholders in\nour capability to achieve the established long-term goals."
+    ],
+    [
+     "S2",
+     "same-section",
+     "Message from President & CEO",
+     25,
+     "SCG’s near-term SBTI-validated targets to reduce Scope 1 and 2 greenhouse gas emissions by 25% by 2030 compared to the 2020 baseline and to lower Scope 3 greenhouse gas emissions from fossil fuel sales to external customers by at least 25% by 2031 compared to the 2021 baseline."
+    ]
+   ],
+   "flags": [],
+   "v7": {
+    "S": 2,
+    "M": 2,
+    "T": 2,
+    "E": 1,
+    "C": 3,
+    "tier": "substantive"
+   }
+  },
+  {
+   "uid": "PTTGC-2024-IR-EN::CLM-0058",
+   "challenge_category": "standard",
+   "company": "PTT Global Chemical",
+   "sector": "Energy",
+   "report": "PTTGC-2024-IR-EN",
+   "page": 212,
+   "section": "About This Report",
+   "claim_type": "alignment",
+   "claim_text": "Furthermore, GC’s disclosure of information is in accordance with the guidelines of the International Financial Reporting Standards (IFRS), namely IFSR S1 (Sustainability-related Disclosures) and IFRS S2 (Climate-related Disclosures), as well as other industry-based metrics.",
+   "sdg_targets": "12.6, 13.2, 13.3, 16.10, 16.6",
+   "pack": [
+    [
+     "X1",
+     "cross-section",
+     "Sustainability Policy",
+     28,
+     "<a id='8110eb3e-d622-4925-b3f7-c22092f13145'></a>\n\nPTT Global Chemical Public Company Limited, or GC, has formulated the Integrated Sustainability Report to communicate corporate strategies, management systems, operational processes, and sustainability performance on issues of significance to GC's business operations and stakeholders from all sectors throughout the year. It also describes GC's progress and performance in supporting the Sustainable Development Goals (SDGs). This report has been prepared in accordance with GRI Standards. It has been reviewed by the Sustainable Development Committee and independent third-party agencies to verify and confirm its completeness, integrity and accuracy. For the Content Index – Essentials Service, GRI Services reviewed that the GRI content index has been presented in a way consistent with the requirements for reporting in accordance with the GRI Standards, and that the information in the index is clearly presented and accessible to the stakeholders. Furthermore, GC's disclosure of information is in accordance with the guidelines of the International Financial Reporting Standards (IFRS), namely IFSR S1 (Sustainability-related Disclosures) and IFRS S2 (Climate-related Disclosures), as well as other industry-based metrics."
+    ],
+    [
+     "X2",
+     "cross-section",
+     "Environmental Performance",
+     141,
+     "<a id='7c64e72b-b511-4e02-aa5c-ec8f1541ee3a'></a>\n\nGC has defined the Energy Management and Climate Strategy in accordance with the guidelines of the International Financial Reporting Standards S2 (IFRS S2) - Climate-related Disclosures, focusing on three areas of operations, namely Efficiency-driven using modern technology, Portfolio-driven to shift towards High Value-Low Carbon Business, and Compensation-driven, in order to achieve the Net Zero Target and expand operations to cover other indirect emissions (Scope 3) across the value chain."
+    ],
+    [
+     "X3",
+     "cross-section",
+     "Environmental Performance",
+     146,
+     "<a id='af98ff51-241a-4edf-b2ce-10d921e72d9e'></a>\n\nUnder GC's climate governance structure,\nthe Corporate Governance and Sustainability\nCommittee and the Risk Management Committee\nare responsible for determining and monitoring the\ndirections of climate change and decarbonization.\nGC has also appointed the Management Committee\nand the Sustainable Development Committee,\nwhich operate at the management level. In this\nregard, operating results are reported to the\nrelevant committees on a quarterly basis."
+    ],
+    [
+     "S1",
+     "same-section",
+     "About This Report",
+     212,
+     "PTT Global Chemical Public Company Limited, or GC, has formulated the Integrated Sustainability Report to communicate corporate strategies, management systems, operational processes, and sustainability performance on issues of significance to GC’s business operations and stakeholders from all sectors throughout the year."
+    ],
+    [
+     "S2",
+     "same-section",
+     "About This Report",
+     212,
+     "It also describes GC’s progress and performance in supporting the Sustainable Development Goals (SDGs)."
+    ]
+   ],
+   "flags": [],
+   "v7": {
+    "S": 1,
+    "M": 0,
+    "T": 0,
+    "E": 1,
+    "C": 3,
+    "tier": "partially_substantive"
+   }
+  }
+ ]
+}

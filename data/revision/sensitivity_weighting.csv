@@ -1,0 +1,6 @@
+,unsub,partial,subst
+equal SMTEC,8.7,68.6,22.8
+C halved,31.0,57.0,12.0
+SMTE (C excluded),43.7,43.2,13.2
+PCA-weighted,45.8,41.9,12.3
+non-compensatory (min of SMTE),71.7,25.5,2.8

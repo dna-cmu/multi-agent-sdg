@@ -1,0 +1,1103 @@
+[
+ {
+  "uid": "IVL-2024-SR-EN::CLM-0037",
+  "selection_reason": "contradiction (C=0)",
+  "company": "IVL",
+  "report": "IVL-2024-SR-EN",
+  "page": 198,
+  "section": "Value Creation",
+  "claim_type": "metric",
+  "claim_text": "2024 Progress: 4.49% reduction in combined GHG (Scope 1&2*) intensity.",
+  "sdg_targets": "12.2, 12.6, 13.2, 7.3",
+  "pack": [
+   {
+    "pid": "X1",
+    "kind": "cross-section",
+    "section": "Introduction and Key Messages",
+    "page": 29,
+    "text": "<a id='f9f0c559-ec37-4366-a74f-1007cc72a8f9'></a>\n\nGHG (Scope 1 & 2*)\nIntensity Reduction\n(2020 Baseline)\n\nTargets\n**10%** by 2025 and\n**30%** by 2030\n* Scope 2 intensity (market-based)\n\nPerformance\nIn 2024, we recorded an intensity of\n**0.5855** tCO₂e/ton, showing a **4.49%**\nreduction against the 2025 target."
+   },
+   {
+    "pid": "X2",
+    "kind": "cross-section",
+    "section": "Innovating for a Low-Carbon Future",
+    "page": 53,
+    "text": "The overall GHG scope 1&2 intensity reduction at the end of 2024 is projected to be 1.09%, with an anticipated reduction of 1.14% by 2025, against a target of a 10% reduction from the 2020 baseline."
+   },
+   {
+    "pid": "X3",
+    "kind": "cross-section",
+    "section": "Introduction and Key Messages",
+    "page": 4,
+    "text": "<a id='afc8bffe-da71-445b-82de-97a5074eee4d'></a>\n\nThe overall GHG scope 1&2 intensity reduction at the end of\n2024 is projected to be 1.09%, with an anticipated reduction\nof 1.14% by 2025, against a target of a 10% reduction from the\n2020 baseline. The 2025 energy and water intensity targets\nmay not be met. By the end of 2024, energy intensity increased\nby over 4% since the 2020 baseline instead of decreasing\nby 5%. Meanwhile, water intensity is projected to reduce\nby 6.8%, which is below the target of a 10% reduction by 2025."
+   },
+   {
+    "pid": "S1",
+    "kind": "same-section",
+    "section": "Value Creation",
+    "page": 198,
+    "text": "2024 Progress: 6.44% reduction."
+   },
+   {
+    "pid": "S2",
+    "kind": "same-section",
+    "section": "Value Creation",
+    "page": 198,
+    "text": "2024 Progress: 4.09% intensity increase."
+   }
+  ],
+  "flags": [],
+  "v7": {
+   "S": 2,
+   "M": 2,
+   "T": 2,
+   "E": 1,
+   "C": 0,
+   "tier": "partially_substantive"
+  }
+ },
+ {
+  "uid": "advanc-2024-SR-en::CLM-0171",
+  "selection_reason": "contradiction (C=0)",
+  "company": "ADVANC",
+  "report": "advanc-2024-SR-en",
+  "page": 1320,
+  "section": "Office Waste Management",
+  "claim_type": "metric",
+  "claim_text": "The campaign led to a reduction in the quantity of e-waste heading to landfills, totaling 98 tons.",
+  "sdg_targets": "11.6, 12.4, 12.5",
+  "pack": [
+   {
+    "pid": "X1",
+    "kind": "cross-section",
+    "section": "Waste Management",
+    "page": 91,
+    "text": "Achieved zero e-waste to landfill by managing business-generated e-waste and implementing end-to-end monitoring from operations to disposal. All electronic waste was fully recycled with no residuals."
+   },
+   {
+    "pid": "X2",
+    "kind": "cross-section",
+    "section": "Waste Management",
+    "page": 91,
+    "text": "Expanded the Thais Say No to E-waste project to 235 organizations, establishing 2,700 drop-off locations nationwide. Collected and responsibly disposed of 171,811 e-waste items with zero landfill impact."
+   },
+   {
+    "pid": "X3",
+    "kind": "cross-section",
+    "section": "Waste Management",
+    "page": 91,
+    "text": "Maintain zero e-waste to landfill"
+   },
+   {
+    "pid": "S1",
+    "kind": "same-section",
+    "section": "Office Waste Management",
+    "page": 1320,
+    "text": "AIS became part of an environmental network involved in a waste separation campaign led by the Department of Environment, Bangkok Metropolitan Administration."
+   },
+   {
+    "pid": "S2",
+    "kind": "same-section",
+    "section": "Office Waste Management",
+    "page": 1320,
+    "text": "AIS encourages efficient waste separation within its offices to streamline recycling efforts."
+   }
+  ],
+  "flags": [],
+  "v7": {
+   "S": 2,
+   "M": 2,
+   "T": 1,
+   "E": 1,
+   "C": 0,
+   "tier": "partially_substantive"
+  }
+ },
+ {
+  "uid": "IVL-2024-SR-EN::CLM-0132",
+  "selection_reason": "unfavourable wording",
+  "company": "IVL",
+  "report": "IVL-2024-SR-EN",
+  "page": 1284,
+  "section": "Human Rights",
+  "claim_type": "metric",
+  "claim_text": "No significant human rights issues or major violations recorded in our operations or supply chain",
+  "sdg_targets": "16.3, 16.6, 16.b, 8.7, 8.8",
+  "pack": [
+   {
+    "pid": "X1",
+    "kind": "cross-section",
+    "section": "Introduction and Key Messages",
+    "page": 49,
+    "text": "<a id='9f58227b-58f8-424e-81b6-766e923a1f19'></a>\n\n<::\n80%\nof raw material suppliers were\nassessed based on human\nrights-related risks\n\nNo\nsuppliers were identified as being\nexposed to risks of incidents of child,\nforced, and compulsory labor\n\nNo\nsuppliers were identified as being\nsusceptible to human rights-related risks\n\nNo\ncomplaints concerning supply chain\nhuman rights were submitted through\nthe grievance reporting system\n: infographic::>"
+   },
+   {
+    "pid": "X2",
+    "kind": "cross-section",
+    "section": "Introduction and Key Messages",
+    "page": 49,
+    "text": "<a id='6477ef83-76e4-4e6f-8151-2ed8709745c2'></a>\n\n## 2024 HIGHLIGHTS\n\n**100%** human rights risk assessments across all manufacturing locations\n\n**100%** human rights declarations signed by business heads and site heads\n\n**No** significant human rights issues or major violations recorded in our operations or supply chain\n\nApproximately **900 employees** participated in **30 onsite and online** Human Rights Policy training sessions.\n\n**Strengthened employee data security and privacy protection** in compliance with Thailand's PDPA (2012) and the EU GDPR"
+   },
+   {
+    "pid": "X3",
+    "kind": "cross-section",
+    "section": "Introduction and Key Messages",
+    "page": 49,
+    "text": "<a id='5a8d00de-cede-48d8-bb96-63933cbeed3b'></a>\n\nFor more comprehensive insights, please refer to the 2024\nHuman Rights Due Diligence Report."
+   },
+   {
+    "pid": "S1",
+    "kind": "same-section",
+    "section": "Human Rights",
+    "page": 1284,
+    "text": "No suppliers were identified as being exposed to risks of incidents of child, forced, and compulsory labor"
+   },
+   {
+    "pid": "S2",
+    "kind": "same-section",
+    "section": "Human Rights",
+    "page": 1284,
+    "text": "100% human rights risk assessments across all manufacturing locations"
+   }
+  ],
+  "flags": [],
+  "v7": {
+   "S": 1,
+   "M": 0,
+   "T": 2,
+   "E": 1,
+   "C": 3,
+   "tier": "partially_substantive"
+  }
+ },
+ {
+  "uid": "PTT-2024-OR+SR-EN::CLM-0074",
+  "selection_reason": "unfavourable wording",
+  "company": "PTT",
+  "report": "PTT-2024-OR+SR-EN",
+  "page": 131,
+  "section": "Governance",
+  "claim_type": "commitment",
+  "claim_text": "Zero non-compliance with the law",
+  "sdg_targets": "16.3, 16.5, 16.6",
+  "pack": [
+   {
+    "pid": "X1",
+    "kind": "cross-section",
+    "section": "Awards and Recognition",
+    "page": 178,
+    "text": "<a id='8454f47f-db47-4875-9563-babd503479ee'></a>\n\nCompliance Department also conducts audits of contract management procedures, supervision of legal compliance and compliance with important laws in collaboration with various units within the organization to ensure that they have appropriate procedures in place to keep them informed and able to comply with the laws related to their operations, as well as finding ways to prevent risks that may be caused by operations that are not in accordance with the laws, regulations or contract management processes that are not properly enforced. Management of non-compliance incidents is also undertaken by collecting, analyzing, reviewing non-compliance cases (if any), and follow-up to improve the operational process and find ways to prevent and reduce the chance of non-compliance recurrence in the future.\nPTT also sets a goal of becoming a Zero Non-Compliance organization by reviewing and setting indicators for measuring results. The annual performance of various departments must comply with laws and regulations by setting up the Corporate KPI: Non-Compliance, which measures the result by not finding any material errors from the complaints (both inside and outside PTT) that are considered fraudulent, malpractice, or misconduct, serious disciplinary action and unlawful acts with final punishment orders or written notices of illegal acts by legal regulators. In 2024, no non-compliance with a significant impact or legal liability to PTT in any way was found."
+   },
+   {
+    "pid": "X2",
+    "kind": "cross-section",
+    "section": "Social",
+    "page": 131,
+    "text": "Human Rights Violation: 0"
+   },
+   {
+    "pid": "X3",
+    "kind": "cross-section",
+    "section": "Corporate Governance",
+    "page": 146,
+    "text": "<a id='05ffc678-5889-4a0f-8614-d98b776e301d'></a>\n\nAdditional information on the management:\n\nRecords have shown no violation of the law within the past 10 years regarding:\n1. Being sentenced for criminal charges except for violations of traffic laws, petty charges, or similar charges\n2. Being sentenced to bankruptcy or having assets controlled\n3. Serving as an executive or an authority in a company or partnership sentenced to bankruptcy or whose assets are controlled."
+   }
+  ],
+  "flags": [
+   "No other material in section 'Governance' met the similarity threshold (0.35)."
+  ],
+  "v7": {
+   "S": 1,
+   "M": 2,
+   "T": 0,
+   "E": 1,
+   "C": 3,
+   "tier": "partially_substantive"
+  }
+ },
+ {
+  "uid": "PTTGC-2024-IR-EN::CLM-0154",
+  "selection_reason": "unfavourable wording",
+  "company": "PTTGC",
+  "report": "PTTGC-2024-IR-EN",
+  "page": 1321,
+  "section": "Safety and Risk Management",
+  "claim_type": "commitment",
+  "claim_text": "Such efforts will eventually transform GC into a Zero ICU (Zero Incident, Zero Complaint, Zero Unplanned Shutdown) organization.",
+  "sdg_targets": "12.5, 12.6, 8.3, 8.5, 8.8, 9.2, 9.4",
+  "pack": [
+   {
+    "pid": "X1",
+    "kind": "cross-section",
+    "section": "Awards and Recognitions",
+    "page": 182,
+    "text": "<a id='364a81db-acd4-4769-9a8a-f89c7be0f1a6'></a>\n\nGC further strengthens B-CAREs safety culture by associating it with the concept of Operational Discipline (OD) to serve as a tool to reinforce the practice of doing it right with discipline. Meanwhile, the company utilizes the Inspirational Leadership Program (ILP) as a mechanism to create Leadership & Commitment to enable workers to understand, remember, and put the concept into practice with ease. Such efforts will eventually transform GC into a Zero ICU (Zero Incident, Zero Complaint, Zero Unplanned Shutdown) organization."
+   },
+   {
+    "pid": "X2",
+    "kind": "cross-section",
+    "section": "Sustainability Policy",
+    "page": 20,
+    "text": "<a id='8f863bb8-8f05-4819-903d-c1e883e2c06d'></a>\n\n- **Safety:** GC strives to become a Zero-Accident organization by fostering a safety culture under the \"B-CARES\" campaign and adopting technology in safety management. As a result, there were no work-related fatalities, safety complaints, or unplanned production stoppages due to accidents in the past year. These achievements have enabled GC to maintain its Safety & Reliability standards in the 1st Quartile."
+   },
+   {
+    "pid": "X3",
+    "kind": "cross-section",
+    "section": "Awards and Recognitions",
+    "page": 178,
+    "text": "<a id='7ebeba04-1ab5-4247-b2db-f94ff7840101'></a>\n\nCommitment\nความมุ่งมั่น\nGC strives to become a Zero Accident Organization by pursuing the Zero ICU target, which comprises Zero Incident, Zero Complaint, and Zero Unplanned Shutdown. Thus, the company adheres to three principles under the B-CARES safety culture, namely follow the rules, have discipline, and place safety first, while emphasizing on operational excellence. Furthermore, GC places priority on the safety of employees, contractors, and stakeholders. Therefore, the company has established a management system in compliance with laws and international standards. At the same time, safety risks are closely monitored and assessed to prevent process safety incidents and prepare for changes."
+   },
+   {
+    "pid": "S1",
+    "kind": "same-section",
+    "section": "Safety and Risk Management",
+    "page": 1322,
+    "text": "GC continues to develop and elevate safety standards in the production process by incorporating technology and innovation."
+   },
+   {
+    "pid": "S2",
+    "kind": "same-section",
+    "section": "Safety and Risk Management",
+    "page": 1321,
+    "text": "GC further strengthens B-CAREs safety culture by associating it with the concept of Operational Discipline (OD) to serve as a tool to reinforce the practice of doing it right with discipline."
+   }
+  ],
+  "flags": [],
+  "v7": {
+   "S": 2,
+   "M": 0,
+   "T": 1,
+   "E": 1,
+   "C": 3,
+   "tier": "partially_substantive"
+  }
+ },
+ {
+  "uid": "IVL-2024-SR-EN::CLM-0240",
+  "selection_reason": "weak evidence pack (absence flag)",
+  "company": "IVL",
+  "report": "IVL-2024-SR-EN",
+  "page": 2230,
+  "section": "Double Materiality Assessment",
+  "claim_type": "alignment",
+  "claim_text": "In 2024, the assessment was conducted in alignment with the EU CSRD and the European Sustainability Reporting Standards (ESRS), and further aligned with key frameworks such as the GRI Standards 2021, IFRS Sustainability Disclosure Standards, and DJSI.",
+  "sdg_targets": "12.6, 17.14, 17.16, 17.17, 17.18",
+  "pack": [
+   {
+    "pid": "X1",
+    "kind": "cross-section",
+    "section": "Introduction and Key Messages",
+    "page": 25,
+    "text": "<a id='7a074224-12c9-4c19-96c4-48033d40256d'></a>\n\nIn 2024, the assessment was conducted in accordance with the European Union Corporate Sustainability Reporting Directive (EU CSRD) and aligned with the European Sustainability Reporting Standards (ESRS), including the Global Reporting Initiative (GRI) Standards 2021, the International Financial Reporting Standards (IFRS) Sustainability Disclosure Standards, and the Dow Jones Sustainability Index (DJSI). It enables us to identify and manage our most significant actual and potential positive or negative impacts on society and the environment (Impact Materiality), as well as sustainability-related risks and opportunities that may affect the Company's performance and enterprise value (Financial Materiality). This enhances our understanding of our responsibilities and role in addressing sustainability challenges from both direct and indirect impacts across our value chain, on stakeholders and the environment, that are critical to long-term sustainability and value creation."
+   },
+   {
+    "pid": "X2",
+    "kind": "cross-section",
+    "section": "Sustainability Leadership in Action",
+    "page": 53,
+    "text": "As sustainability regulations and standards—such as the EU Corporate Sustainability Reporting Directive (CSRD), the EU Taxonomy, and IFRS Standards—reshape global markets, we are proactively aligning our business practices to enhance investor confidence, unlock sustainable financing opportunities, and future-proof our operations."
+   },
+   {
+    "pid": "X3",
+    "kind": "cross-section",
+    "section": "Management Responsibility Statement",
+    "page": 2224,
+    "text": "In alignment with the 2021 Global Reporting Initiative (GRI) Standards, International Financial Reporting Standards (IFRS) S1 and S2, and the Corporate Sustainability Reporting Directive (CSRD), we detail our sustainability initiatives and their links to our financial performance, assessing our position as a sustainable chemical company within the reporting scope."
+   },
+   {
+    "pid": "S1",
+    "kind": "same-section",
+    "section": "Double Materiality Assessment",
+    "page": 2230,
+    "text": "Indorama Ventures conducts biennial materiality assessments, complemented by annual reviews, to identify and prioritize the ESG topics most relevant to our business and stakeholders."
+   }
+  ],
+  "flags": [
+   "Only 1 of 2 target same-section references met the similarity threshold (0.35)."
+  ],
+  "v7": {
+   "S": 1,
+   "M": 0,
+   "T": 2,
+   "E": 1,
+   "C": 3,
+   "tier": "partially_substantive"
+  }
+ },
+ {
+  "uid": "advanc-2024-SR-en::CLM-0116",
+  "selection_reason": "weak evidence pack (absence flag)",
+  "company": "ADVANC",
+  "report": "advanc-2024-SR-en",
+  "page": 960,
+  "section": "Digital Wellness and Cybersecurity Initiatives",
+  "claim_type": "achievement",
+  "claim_text": "Launched the *1185# Aunjai Report End of Scammer service. This service will immediately forward the reported scammer's number to the Central Investigation Bureau for tracking and investigation.",
+  "sdg_targets": "16.3, 16.4, 16.6, 16.a",
+  "pack": [
+   {
+    "pid": "X1",
+    "kind": "cross-section",
+    "section": "Opportunities, Challenges, and Impacts",
+    "page": 968,
+    "text": "Launched the *1185# Aunjai Report End of Scammer service. This service will immediately forward the reported scammer's number to the Central Investigation Bureau for tracking and investigation."
+   },
+   {
+    "pid": "X2",
+    "kind": "cross-section",
+    "section": "Sustainability Report 2024",
+    "page": 77,
+    "text": "<a id='3e0380d4-c8f7-47ad-8f62-da5bc555d9ef'></a>\n\nLaunching Fraud Reporting via \"**1185# Aunjai Report End of Scammer\""
+   },
+   {
+    "pid": "X3",
+    "kind": "cross-section",
+    "section": "Sustainability Report 2024",
+    "page": 77,
+    "text": "<a id='d665d0a8-8948-44fa-b9ff-f2b9c664e34b'></a>\n\nIn response to the widespread issue of call center scams which have caused huge financial losses to people, AIS has developed a Spam Report Center to facilitate the report of a suspicious phone number for investigation. To do so, customers are advised to reporta suspected scam call free of charge by dialing *1185# within 5 minutes after the call ends. The reported number will be forwarded to the Central Investigation Bureau (CIB) for verification. If the suspicious number is confirmed as scammers, it will be promptly blocked, and the customer will receive a formal response. Additionally, law enforcement agencies will proceed with legal action against the offenders."
+   }
+  ],
+  "flags": [
+   "No other material in section 'Digital Wellness and Cybersecurity Initiatives' met the similarity threshold (0.35)."
+  ],
+  "v7": {
+   "S": 2,
+   "M": 0,
+   "T": 1,
+   "E": 1,
+   "C": 3,
+   "tier": "partially_substantive"
+  }
+ },
+ {
+  "uid": "advanc-2024-SR-en::CLM-0174",
+  "selection_reason": "weak evidence pack (absence flag)",
+  "company": "ADVANC",
+  "report": "advanc-2024-SR-en",
+  "page": 1471,
+  "section": "Environmental Data",
+  "claim_type": "achievement",
+  "claim_text": "These reported emissions have been independently verified by a third-party auditor, ensuring accuracy and reflecting the expanded reporting scope for more comprehensive coverage.",
+  "sdg_targets": "12.6, 13.2",
+  "pack": [
+   {
+    "pid": "X1",
+    "kind": "cross-section",
+    "section": "Sustainability Report 2024",
+    "page": 112,
+    "text": "<a id='b8dc9b07-3b51-4a8a-90ac-71f435bb4005'></a>\n\n**SPECIFIED PERFORMANCE INFORMATION AND DISCLOSURES INCLUDED IN SCOPE**\n\n*   Evaluation of content veracity of scrutiny for AIS and scrutiny for subsidiaries, and applicable aspect boundaries outside of the organization covered by this report.\n*   Evaluation of the report against the requirements of Global Reporting Initiative Sustainability Reporting Standards claimed in the GRI content index as material and evaluating that accuracy and reliability of data and information for only the selected datasets listed below:\n    *   GRI 302 - Energy 2016 (302-1 Energy consumption within organization)\n    *   GRI 303 - Water 2018 (303-3 Water withdrawal, 303-4 Water discharge and 303-5 Water Consumption)\n    *   GRI 305 - Emissions 2016 (305-1 Direct (Scope 1) GHG emissions, 305-2 Energy indirect (Scope 2) GHG emissions and 305-3 Other indirect (Scope 3) GHG emissions)"
+   },
+   {
+    "pid": "X2",
+    "kind": "cross-section",
+    "section": "Sustainability Report 2024",
+    "page": 86,
+    "text": "<a id='337796e8-ad2f-4fba-a9ad-42d0d8428369'></a>\n\nWith a relatively large amount of Scope 3 emissions as indicated above, AIS has pledged to reduce Scope 3 emissions continually in cooperation with stakeholders across the business value chain. Examples include the following:"
+   },
+   {
+    "pid": "X3",
+    "kind": "cross-section",
+    "section": "Sustainability Report 2024",
+    "page": 112,
+    "text": "<a id='8ad86165-c1d5-495f-b42b-4165ff7d117f'></a>\n\nSCOPE OF ASSURANCE AND REPORTING CRITERIA\nThe scope of the assurance included evaluation of quality, accuracy and reliability of specified performance information as detailed below and evaluation of adherence to the following reporting criteria:\n* GRI (In Accordance with)"
+   },
+   {
+    "pid": "S1",
+    "kind": "same-section",
+    "section": "Environmental Data",
+    "page": 1471,
+    "text": "GHG data collection and consolidation are prepared by the operational control approach. The GHG accounting is calculated by the reference method of the Thailand Greenhouse Gas Management Organization (TGO) version AR5, it is in accordance with the Fifth Assessment Report: AR5 of the International Panel on Climate Change (IPCC)."
+   }
+  ],
+  "flags": [
+   "Only 1 of 2 target same-section references met the similarity threshold (0.35)."
+  ],
+  "v7": {
+   "S": 2,
+   "M": 0,
+   "T": 0,
+   "E": 3,
+   "C": 1,
+   "tier": "partially_substantive"
+  }
+ },
+ {
+  "uid": "PTTGC-2024-IR-EN::CLM-0019",
+  "selection_reason": "E=3 (named verification)",
+  "company": "PTTGC",
+  "report": "PTTGC-2024-IR-EN",
+  "page": 114,
+  "section": "Environmental Performance",
+  "claim_type": "achievement",
+  "claim_text": "GC has established an integrated used plastic management system through 'GC YOUTURN' in collaboration with partners. Between 2022 and 2024, the 'GC YOUTURN' project, operating in line with the Circular Economy concept, set up 280 used plastic Drop Points and managed over 1,400 tons of plastic waste.",
+  "sdg_targets": "12.2, 12.4, 12.5, 12.6, 14.1, 17.16, 17.17",
+  "pack": [
+   {
+    "pid": "X1",
+    "kind": "cross-section",
+    "section": "Sustainability Policy",
+    "page": 20,
+    "text": "<a id='d94d8f56-fff5-40f2-adca-1c08ca61826e'></a>\n\nGC has established an integrated used plastic management\nsystem through \"GC YOUTURN\" in collaboration with\npartners. Between 2022 and 2024, the \"GC YOUTURN\"\nproject, operating in line with the Circular Economy concept,\nset up 280 used plastic Drop Points and managed over\n1,400 tons of plastic waste."
+   },
+   {
+    "pid": "X2",
+    "kind": "cross-section",
+    "section": "Unmapped",
+    "page": 160,
+    "text": "<a id='4877bb11-b374-4afb-ae19-a0f335096de1'></a>\n\nGC YOUTURN Platform is an integrated used\nplastic management system based on the Circular\nEconomy concept. Certified with BS 8001:2017,\nthe GC YOUTURN Platform has been in operation\nsince 2021. Through this platform, GC has worked\nin collaboration with partners to set up over 280 used\nplastic drop-off points, leading to the management\nof 1,400 tons of plastic waste and a greenhouse\ngas reduction of 1,443 tons of CO2 equivalent."
+   },
+   {
+    "pid": "X3",
+    "kind": "cross-section",
+    "section": "Sustainability Policy",
+    "page": 38,
+    "text": "<a id='7361065e-f5b9-45b2-972a-72288b7c662e'></a>\n\nGC has integrated sustainability into the foundation of its business operations and has made tangible progress in implementing planned initiatives. However, the economic recession has impacted GC's Bio & Circularity businesses, encompassing recycling, bioplastics, oleochemicals, and biofuel/polymers, to varying degrees. Therefore, GC is actively strengthening the competitiveness of its current businesses while also seeking opportunities to create additional value through synergies to maintain its market position for long-term growth and expand its sustainable product portfolio. With respect to decarbonization, GC has continued to carry out its (1) efficiency-driven, (2) portfolio-driven, and (3) compensation-driven strategies and plans as well as review its carbon emissions targets in alignment with its business portfolio management strategies and growth plans. If all initiatives are executed according to plan, GC is expected to be able to meet its target of 20% greenhouse gas reduction by 2030 and will still be able to establish additional measures to achieve its net zero target by 2050 as previously announced."
+   },
+   {
+    "pid": "S1",
+    "kind": "same-section",
+    "section": "Environmental Performance",
+    "page": 125,
+    "text": "<a id='c5121ae2-de6c-4273-aafb-ba46f8c8fad7'></a>\n\nIn the past year, GC has conducted new product R&D projects and upgraded the properties of existing products by collaborating on R&D with customers in the Convertor group as well as manufacturers and brand owners through the Ideation Workshop with strategic customers. In 2024, 80 projects were in the product development phase and 20 products began commercial production. The InnoPlus Solution Center has been established to serve as the focal point for product R&D, from product design, molding, through to testing in line with international production standards, in an effort to cater to customer demands in a comprehensive manner. Examples of key projects include Industrial Stretch Film New Resin, HDPE for Medium Tenacity Monofilament, PCR PET & Virgin PET Dry-blending, as well as other projects with focus on cutting-edge and sustainable innovations. In addition to raising the industry's production standards, these products are also applicable to various industries. Such endeavors reflect GC's commitment to create products that answer to market demands and contribute sustainable positive impacts to the economy, society and environment. GC has also carried out numerous other projects that aim to propose cutting-edge and sustainable innovations."
+   },
+   {
+    "pid": "S2",
+    "kind": "same-section",
+    "section": "Environmental Performance",
+    "page": 127,
+    "text": "<a id='5ad7f2a6-afc1-4244-af5f-4f42cc810f12'></a>\n\nGC has worked in collaboration with Post Consumer\nRecycled Resin PET (PCR PET) companies to provide a\nsolution for customers who demand products containing\n30% PCR PET and pure PET (100%). This project has\nbeen conducted with the objective to support market\nopportunities for PCR PET in Thailand, where consumers\nand customers currently require 20-30% PCR PET in\npackaging materials. GC anticipates that this product\nwill generate a revenue 108 million baht per year.It will\nalso accelerate PCR PET market growth to accommodate\nENVICCO's production capacity expansion and build future\ncooperation with other business sectors."
+   }
+  ],
+  "flags": [],
+  "v7": {
+   "S": 3,
+   "M": 2,
+   "T": 3,
+   "E": 3,
+   "C": 3,
+   "tier": "substantive"
+  }
+ },
+ {
+  "uid": "IVL-2024-SR-EN::CLM-0270",
+  "selection_reason": "E=3 (named verification)",
+  "company": "IVL",
+  "report": "IVL-2024-SR-EN",
+  "page": 2409,
+  "section": "Data Reporting, Verification, and Report Assurance",
+  "claim_type": "achievement",
+  "claim_text": "100% GHG Accounting, Verification and Assurance in accordance with ISO 14064-1 and ISO 14064-3 by an independent auditor.",
+  "sdg_targets": "12.6, 13.2",
+  "pack": [
+   {
+    "pid": "X1",
+    "kind": "cross-section",
+    "section": "Chapter 1: Who We Are",
+    "page": 85,
+    "text": "<a id='034bfe75-c615-45a9-be82-6e8ca71035a5'></a>\n\n## Greenhouse Gas (GHG) Accounting\nWe follow the Greenhouse Gas Protocol on Corporate Accounting and Reporting, developed by the World Resources Institute (WRI) and the World Business Council for Sustainable Development (WBCSD). Our systematic approach to GHG accounting is consistently applied across all our global operations ensuring strict compliance with internationally recognized standards."
+   },
+   {
+    "pid": "X2",
+    "kind": "cross-section",
+    "section": "Chapter 1: Who We Are",
+    "page": 88,
+    "text": "<a id='0f5b5215-1a68-4893-a99f-55765386a00f'></a>\n\nOn the basis of the verification, the greenhouse gas statement is materially correct and a fair representation of greenhouse data and information. Furthermore, it can be confirmed that the greenhouse gas statement has been prepared in accordance with the ISO 14064-1 2019 standard."
+   },
+   {
+    "pid": "X3",
+    "kind": "cross-section",
+    "section": "Our Conclusion",
+    "page": 2296,
+    "text": "TÜV Nord Cert GmbH has verified the information on GHG Scope 1 and 2 emissions in reference to the GHG Protocol, ISO 14064-1, and ISO 14064-3 to ascertain the GHG reporting process in line with standards."
+   },
+   {
+    "pid": "S1",
+    "kind": "same-section",
+    "section": "Data Reporting, Verification, and Report Assurance",
+    "page": 2409,
+    "text": "100% Reporting Certification and Assurance in accordance with the GRI Standards, <IR> Framework and AA1000AS by an independent auditor."
+   },
+   {
+    "pid": "S2",
+    "kind": "same-section",
+    "section": "Data Reporting, Verification, and Report Assurance",
+    "page": 2409,
+    "text": "This report was prepared in adherence with the Global Reporting Initiative (GRI) standards core option and the International Integrated Reporting Council (IIRC)’s International Integrated Reporting Framework 2021."
+   }
+  ],
+  "flags": [],
+  "v7": {
+   "S": 3,
+   "M": 2,
+   "T": 0,
+   "E": 3,
+   "C": 3,
+   "tier": "substantive"
+  }
+ },
+ {
+  "uid": "advanc-2024-SR-en::CLM-0091",
+  "selection_reason": "tier: unsubstantiated",
+  "company": "ADVANC",
+  "report": "advanc-2024-SR-en",
+  "page": 870,
+  "section": "Green Energy Green Network for THAIs",
+  "claim_type": "commitment",
+  "claim_text": "The results of the project will be utilized to develop strategies for expanding to other areas in order to achieve sustainable change.",
+  "sdg_targets": "11.3, 11.a, 11.b, 17.14, 17.16, 17.17, 9.1, 9.2, 9.4, 9.a",
+  "pack": [
+   {
+    "pid": "X1",
+    "kind": "cross-section",
+    "section": "Sustainability Report 2024",
+    "page": 10,
+    "text": "<a id='ef747824-ef2a-46ca-9caa-646392fba369'></a>\n\n## Review\n\nAIS prepared a review process after this report had been publicized to stakeholders so that feedback and recommendations for further sustainability development as well as future reports may be collected."
+   },
+   {
+    "pid": "X2",
+    "kind": "cross-section",
+    "section": "Management Approach",
+    "page": 1200,
+    "text": "Plans are in place to integrate GHG emissions data into the investment decision-making process, as well as in the procurement of products and equipment to appropriately support sustainable GHG emissions reduction efforts."
+   },
+   {
+    "pid": "X3",
+    "kind": "cross-section",
+    "section": "Sustainability Report 2024",
+    "page": 63,
+    "text": "<a id='bfa5d3f9-21f8-4746-a7d1-bac846ddde19'></a>\n\n# Green Energy Green Network for THAIs\n\nAIS, in cooperation with Gulf Energy Development Public Company (Gulf) and Highland Research and Development Institute, has carried out the \"Green Energy Green Network for THAIs\" project to reduce social inequality and improve the quality of life for people in remote areas. Initiated in 2024, the project was dedicated to building a telecom network using solar energy. The network encompassed 6 communities in 5 provinces including Tak, Chiang Mai, Mae Hong Son, Chiang Rai, and Lamphun with a population of 2,954 in 790 households. The project also evaluated social returns (Social Value) across three main dimensions: economic, social, and environmental. In its first year, it created positive impacts for people living in highland areas, enabling them to access electricity from clean energy and basic network connectivity. Communication became more convenient and faster, reducing travel time for sharing information and coordinating between lowland and highland areas. The preliminary social return value related to the reduction of travel expenses for community communication is over 257,000 baht. The results of the project will be utilized to develop strategies for expanding to other areas in order to achieve sustainable change."
+   },
+   {
+    "pid": "S1",
+    "kind": "same-section",
+    "section": "Green Energy Green Network for THAIs",
+    "page": 870,
+    "text": "In its first year, it created positive impacts for people living in highland areas, enabling them to access electricity from clean energy and basic network connectivity."
+   },
+   {
+    "pid": "S2",
+    "kind": "same-section",
+    "section": "Green Energy Green Network for THAIs",
+    "page": 870,
+    "text": "The preliminary social return value related to the reduction of travel expenses for community communication is over 257,000 baht."
+   }
+  ],
+  "flags": [],
+  "v7": {
+   "S": 1,
+   "M": 0,
+   "T": 1,
+   "E": 1,
+   "C": 1,
+   "tier": "symbolic"
+  }
+ },
+ {
+  "uid": "advanc-2024-SR-en::CLM-0166",
+  "selection_reason": "tier: unsubstantiated",
+  "company": "ADVANC",
+  "report": "advanc-2024-SR-en",
+  "page": 1320,
+  "section": "Office Waste Management",
+  "claim_type": "commitment",
+  "claim_text": "AIS encourages efficient waste separation within its offices to streamline recycling efforts.",
+  "sdg_targets": "12.5, 12.6",
+  "pack": [
+   {
+    "pid": "X1",
+    "kind": "cross-section",
+    "section": "Sustainability Report 2024",
+    "page": 93,
+    "text": "<a id='9b4909ba-00f3-4b3c-97a9-c8189a325b89'></a>\n\n## Office Waste Management\n\nAIS encourages efficient waste separation within its offices to streamline recycling efforts. The company emphasizes educating staff on the importance of proper waste separation and disposal to promote environmentally conscious behavior. Additionally, AIS collaborates with business partners to manage and recycle separated waste, supporting a circular economy. This initiative also includes raising awareness among employees and the public, fostering a culture of responsible resource use."
+   },
+   {
+    "pid": "X2",
+    "kind": "cross-section",
+    "section": "Sustainability Report 2024",
+    "page": 4,
+    "text": "<a id='38b9579a-e882-4b2b-be93-655d3d7ede25'></a>\n\nToday's growing reliance on technology has led to a rising tide of e-waste. As AIS' operations also contribute to e-waste, the Company has established a waste management approach that poses minimal environmental impacts with the goal of maintaining zero e-waste to landfills. Over the past year, AIS has continued our commitment to systematically manage and monitor electronic waste from cradle to grave. This includes converting waste into fertilizer and running 'HUB of E-Waste'. As a result, there has been no e-waste residue (non-recyclable or residue) remaining after recycling, and no electronic waste has been disposed of through landfilling."
+   },
+   {
+    "pid": "X3",
+    "kind": "cross-section",
+    "section": "Sustainability Report 2024",
+    "page": 94,
+    "text": "<a id='3b3fe9ef-3991-401d-b650-2b32e37e5157'></a>\n\n# Office Waste Management\n\nAIS has implemented waste segregation by clearly designating distinct containers for four types of waste: 1) general waste, 2) recyclable waste, 3) food waste, and 4) hazardous waste, facilitating the appropriate segregation and disposal of each type."
+   },
+   {
+    "pid": "S1",
+    "kind": "same-section",
+    "section": "Office Waste Management",
+    "page": 1320,
+    "text": "AIS became part of an environmental network involved in a waste separation campaign led by the Department of Environment, Bangkok Metropolitan Administration."
+   },
+   {
+    "pid": "S2",
+    "kind": "same-section",
+    "section": "Office Waste Management",
+    "page": 1320,
+    "text": "AIS Contact Center Development & Training Arena in Nakhon Ratchasima has continued its project to convert food waste into organic fertilizer."
+   }
+  ],
+  "flags": [],
+  "v7": {
+   "S": 1,
+   "M": 0,
+   "T": 0,
+   "E": 1,
+   "C": 1,
+   "tier": "symbolic"
+  }
+ },
+ {
+  "uid": "PTT-2024-OR+SR-EN::CLM-0003",
+  "selection_reason": "tier: unsubstantiated",
+  "company": "PTT",
+  "report": "PTT-2024-OR+SR-EN",
+  "page": 10,
+  "section": "Corporate Governance",
+  "claim_type": "commitment",
+  "claim_text": "Being an organization that Thai society is proud of, by exercising environmental stewardship of internationally accepted standards and enhancing the quality of life for the society and community",
+  "sdg_targets": "11.3, 11.6, 11.b, 12.2, 12.6, 12.8, 15.1, 15.5",
+  "pack": [
+   {
+    "pid": "X1",
+    "kind": "cross-section",
+    "section": "Business Operations and Performance",
+    "page": 2,
+    "text": "<a id='b4777e8e-870f-4d8d-b367-b1ca3b97af13'></a>\n\nSTAKEHOLDERS\nPublic Sector\nEnsuring long-term energy security\nby providing adequate high quality\nenergy supply at fair prices\nto foster economic growth with\nsustainable approach\n\nCommittee & Employees\nSupporting the board of directors to\neffectively govern the organization,\npromoting employees' capability\nbuilding professionally and ensuring\nthat employees' well-being remains\ncompetitive with other leading companies\n\nSuppliers & Partners\nConducting transparent and fair business\npractice with all partners, while promoting\ntrust, good relationship, and strong\ncooperation to expand business capability\nand increase efficiency in long-term\nbusiness partnership\n\nSociety & Communities\nBeing an organization that Thai society\nis proud of, by exercising environmental\nstewardship of internationally accepted\nstandards and enhancing the quality\nof life for the society and community\n\nInvestors\nOperating commercial business\nwith transparency and good\ngovernance to generates\nsustainable growth and returns\n\nCustomers\nEnsuring customers' satisfaction\nand loyalty by delivering\nworld-class quality products\nand services at fair prices"
+   },
+   {
+    "pid": "X2",
+    "kind": "cross-section",
+    "section": "Awards and Recognition",
+    "page": 171,
+    "text": "<a id='71d40546-1fa5-4058-bb4a-0d3a532ace2a'></a>\n\nAwards of Pride\n\nThanks to our firm commitment to operating businesses with CG, social responsibility, and sustainability management for continuous standard enhancement, in 2024, PTT earned extensive acclaim from domestic and international entities, as highlighted below:\n\n*   Ranked as No. 1 in the Oil & Gas Upstream & Integrated (OGX) industry in S&P Global's Corporate Sustainability Assessment (CSA) 2024, as recognized Top 1% and has been listed in Dow Jones Best-in-Class Indices in the World Index and Emerging Markets Index for the 13th consecutive year.\n*   Integrity & Transparency Assessment (ITA) 2024 at the Good level with 95.76 scores from the NACC.\n*   Two SET Awards 2024: Sustainability Awards of Honor for 4 consecutive years and Innovative Company Awards of Honor.\n*   Outstanding Climate Action Leading Organization (CALO) Award at the excellent level in the resource field from Thailand Greenhouse Gas Management Organization (Public Organization).\n*   Carbon Footprint for Organization (CFO) certification and registration covers the scope of direct and indirect greenhouse gas emissions and greenhouse gas absorption from forest planting and maintenance from the Reforestation Project in 2022 (Reforestation carried out since 1994). The certification results were announced in 2024 by Thailand Greenhouse Gas Management Organization (Public Organization)."
+   },
+   {
+    "pid": "X3",
+    "kind": "cross-section",
+    "section": "Awards and Recognition",
+    "page": 171,
+    "text": "<a id='4fd852fd-2f76-4201-ad3b-0fa103f2ecac'></a>\n\nCorporate Social Responsibility and Sustainable Development\n\n*   Supported PTT's social contribution activities aiming for sustainable community development by applying PTT Group's potential and expertise along with building community engagement as a positive contribution to enhance livelihood aiming to increase income and reduce expenses by more than 10%, as well as creating important skills for community self-reliance to achieve sustainability, promoting youth access to quality education to be an important force in driving the country, including raising awareness of environmental conservation for society. Key social projects implemented are as follows:\n    1.  The Strong Community Project brings technology and innovation knowledge to enhance agricultural skills and raise the community's potential to be self-reliant in a sustainable manner.\n    2.  Developing knowledge and inspiring STEM skills by mobilizing PTT Group's strengths and knowledge in science and technology through cooperation with Kamnoetvidya Science Academy and Vidyasirimedhi Institute of Science and Technology.\n    3.  Improving the quality of life of the underprivileged and creating economic opportunities through the operation of Sarn Palung Social Enterprise Company Limited.\n    4.  Promoting a strong environmental community network through the Green Globe Institute and the development and campaign project for the use of vetiver due to the Royal Initiative by expanding the knowledge of natural resource conservation and restoration and linking the national operational network.\n    5.  Natural resource conservation and restoration through reforestation and knowledge dissemination of the Nature Learning Center to cultivate awareness of natural resources and the environment, and to drive the country towards a low-carbon society."
+   },
+   {
+    "pid": "S1",
+    "kind": "same-section",
+    "section": "Corporate Governance",
+    "page": 124,
+    "text": "<a id='e73b555e-890d-4614-a5be-d2e0f4ee7d81'></a>\n\n# Society and Communities\n\nMaintaining an excellent corporate standing in Thai society and being Thai's pride, by exercising environmental stewardship of internationally accepted standards and enhancing the quality of life for the society and community."
+   },
+   {
+    "pid": "S2",
+    "kind": "same-section",
+    "section": "Corporate Governance",
+    "page": 120,
+    "text": "<a id='a2e97764-da6e-40c3-a9ad-fa61a56af5c8'></a>\n\nPTT has integrated corporate governance as part of its vision, mission, and values while remaining committed to its mission to create energy security and stability for the country. This illustrates the potential to drive business growth both domestically and internationally based on the “balanced sustainability” principle across economic, social, environmental, and <::A QR code is displayed with a magnifying glass icon above it. Corporate Governance, Ethical Standards and Code of Business Ethics Handbook\" revision 5\n: image::> governance dimensions, aiming to “Together for Sustainable Thailand, Sustainable World.”"
+   }
+  ],
+  "flags": [],
+  "v7": {
+   "S": 1,
+   "M": 0,
+   "T": 0,
+   "E": 1,
+   "C": 1,
+   "tier": "symbolic"
+  }
+ },
+ {
+  "uid": "SCC-2024-SR-EN::CLM-0013",
+  "selection_reason": "tier: substantiated",
+  "company": "SCC",
+  "report": "SCC-2024-SR-EN",
+  "page": 25,
+  "section": "Message from President & CEO",
+  "claim_type": "achievement",
+  "claim_text": "Accomplishments in 2024 include the promotion of low-carbon cement usage in government construction projects in place of Portland cement, with over 80% substitution rate.",
+  "sdg_targets": "11.3, 11.6, 11.b, 13.2, 9.2, 9.4",
+  "pack": [
+   {
+    "pid": "X1",
+    "kind": "cross-section",
+    "section": "Sustainability Performance in 2024",
+    "page": 37,
+    "text": "<a id='0b6d30e4-5b6d-41ee-9dc8-b418b2183eb6'></a>\n\n- The transition from fossil fuels to clean energy was advanced, with the proportion of alternative energy used increased to 28.59% and renewable energy usage expanded to 292 MW in 2024.\n- Energy efficiency in production processes was optimized, leading to a 7.91% reduction in energy consumption in 2024 (compared with BAU at the base year of 2007).\n- Revenue from sales of Green Choice products, services, and solutions, and which directly delivered value to customers, accounted for 54.0% and 14.3% of total sales revenue, respectively.\n- Low-carbon cement export markets were expanded in 2024, with exports to the United States exceeding 1.3 million tons.\n- Business opportunities for SCG Cleanergy were created via renewable energy trading on smart grids and investment in energy storage, with production expanded for export to international markets.\n- Collaborating with the Global Cement and Concrete Association (GCCA) to obtain green funding from the Canadian government to support the cement and concrete industry's transition to Net Zero by 2050.\n- The MACC (Marginal Abatement Cost Curve) was utilized as a tool for evaluating investment efficiency in decarbonization projects."
+   },
+   {
+    "pid": "X2",
+    "kind": "cross-section",
+    "section": "Sustainability Performance in 2024",
+    "page": 53,
+    "text": "<a id='64b8e639-6ac4-4df5-b18e-5e7156cf5888'></a>\n\n_SCG's low-carbon cement production in 2024 helped reduce GHG emissions._"
+   },
+   {
+    "pid": "X3",
+    "kind": "cross-section",
+    "section": "SCG Net Zero Roadmap 2050",
+    "page": 10,
+    "text": "<a id='5b07ea65-e157-4bb4-908c-7319787f1471'></a>\n\n* SCG continues its development of Low Carbon Cement through innovations in materials science and new production technology standards. Low Carbon Cement Gen II helps reduce greenhouse gas emissions by 15-20% compared to OPC cement. SCG also promotes the use of Low Carbon Cement among all business partner groups. Currently, 87% of traditional cement usage has been replaced with low-carbon cement."
+   },
+   {
+    "pid": "S1",
+    "kind": "same-section",
+    "section": "Message from President & CEO",
+    "page": 15,
+    "text": "<a id='9474d0fe-e88c-4184-880d-73991c74d2ce'></a>\n\nKey Progress on Network\nCollaborations in 2024\n\n1. Technology for Decarbonization: Promoting\ndecarbonization technologies that enhance\nclean energy capabilities:\n\n*   **Unlocking restrictions on clean energy usage:**\n    In collaboration with the Provincial Electricity\n    Authority, The installation of a solar carport\n    system at the Saraburi Provincial Government\n    Center is currently underway using the ESCO\n    Model. It is expected to generate more than\n    412 kilowatts of clean energy, reducing energy\n    costs by 15% or approximately 155,134 THB\n    per year.\n\n*   **Continuous promotion of low-carbon cement\nin government construction projects:** Currently,\n    low-carbon cement is used to replace over 80%\n    of Portland cement in government infrastructure\n    projects, significantly contributing to carbon\n    reduction efforts. This initiative plays a crucial\n    role in enhancing environmental sustainability\n    and supporting Saraburi Province's transition\n    to a low-carbon economy."
+   },
+   {
+    "pid": "S2",
+    "kind": "same-section",
+    "section": "Message from President & CEO",
+    "page": 25,
+    "text": "In 2024, SCG successfully reduced greenhouse gas emissions by 25.6%, showing significant progress relative to the SBTi targets."
+   }
+  ],
+  "flags": [],
+  "v7": {
+   "S": 3,
+   "M": 2,
+   "T": 2,
+   "E": 1,
+   "C": 3,
+   "tier": "substantive"
+  }
+ },
+ {
+  "uid": "advanc-2024-SR-en::CLM-0160",
+  "selection_reason": "tier: substantiated",
+  "company": "ADVANC",
+  "report": "advanc-2024-SR-en",
+  "page": 91,
+  "section": "Waste Management",
+  "claim_type": "achievement",
+  "claim_text": "Awarded WSIS Prize 2024: Action Lines C7 E-Environment at the World Summit on The Information Society (WSIS) for using blockchain technology to manage e-waste via AIS E-Waste+ application.",
+  "sdg_targets": "11.6, 12.4, 12.5, 12.a, 9.4, 9.5, 9.b",
+  "pack": [
+   {
+    "pid": "X1",
+    "kind": "cross-section",
+    "section": "Sustainability Report 2024",
+    "page": 95,
+    "text": "<a id='b4475b28-b6ec-4803-ab61-f965c46a0382'></a>\n\nA Proud Achievement from AIS E-waste+ Application\n\nAIS won the WSIS Prize 2024: Action Lines C7 E-Environment from a cohort of over 2,000 projects at the World Summit on The Information Society (WSIS), jointly organized by International Telecommunication Union (ITU) and the United Nations. The award recognizes AIS's use of blockchain technology to enhance the e-waste management process through the AIS E-Waste+ application. This solution enables the tracking of each piece of e-waste item throughout the entire process, from collection to disposal and recycling, ensuring no waste is sent to landfills."
+   },
+   {
+    "pid": "X2",
+    "kind": "cross-section",
+    "section": "Sustainability Report 2024",
+    "page": 91,
+    "text": "<a id='151d9e36-7ad6-40cc-9ce3-97064b18fe3f'></a>\n\n- Achieved zero e-waste to landfill by managing **business-generated e-waste** and implementing end-to-end monitoring from operations to disposal. All electronic waste was fully recycled with no residuals.\n- Expanded the **Thais Say No to E-waste project to 235 organizations**, establishing 2,700 drop-off locations nationwide. Collected and responsibly disposed of 171,811 e-waste items with zero landfill impact.\n- Collaborated with **PTTGC for a second year** to install drop-off points for plastic and e-waste, supporting the GC YOUTURN project in recycling and promoting a circular economy. Under the Green University initiative, this year's campaign engaged youth and university students, collecting over 1,058,634 waste items.\n- Awarded **WSIS Prize 2024: Action Lines C7 E-Environment** at the World Summit on The Information Society (WSIS) for using blockchain technology to manage e-waste via AIS E-Waste+ application."
+   },
+   {
+    "pid": "X3",
+    "kind": "cross-section",
+    "section": "Sustainability Report 2024",
+    "page": 95,
+    "text": "<a id='99981bad-78e4-4925-aa18-936aa376fbea'></a>\n\n<::เส้นทางความสำเร็จ AIS E-Waste+ สู่เวทีโลก AIS e-waste logo\n\n[Image: A golden trophy with confetti-like elements around it]\n\nปี 2024 โครงการคนไทยไร้ E-Waste ศูนย์กลางการจัดการ\nขยะอิเล็กทรอนิกส์อัจฉริยะด้วย AIS E-Waste+ คว้ารางวัล\nWinner of WSIS Prize 2024\nสาขาสุดยอดเทคโนโลยีเพื่อสิ่งแวดล้อม\n(WSIS Action Lines C7 E-Environment)\nโดย สหภาพโทรคมนาคมระหว่างประเทศ (ITU) และองค์การสหประชาชาติ (UN)\n\n[Image: A visual timeline or process flow with four numbered steps, each with an icon and text, set against a background of stylized buildings and landscapes]\n\n1\nเปิดตัวเมื่อ\nธ.ค. 2022\n\n2\nครั้งแรกของการ\nนำเทคโนโลยี Blockchain\nมาใช้ในการจัดการ\nขยะอิเล็กทรอนิกส์\n\n3\nระบบติดตามขยะ\nE-Waste ทุกชิ้น\nตั้งแต่ต้นทาง ยันปลายทาง\n\n4\nแสดงผล\nCarbon Score\nจากการกำจัด E-Waste\n: infographic::>"
+   },
+   {
+    "pid": "S1",
+    "kind": "same-section",
+    "section": "Waste Management",
+    "page": 91,
+    "text": "Achieved zero e-waste to landfill by managing business-generated e-waste and implementing end-to-end monitoring from operations to disposal. All electronic waste was fully recycled with no residuals."
+   },
+   {
+    "pid": "S2",
+    "kind": "same-section",
+    "section": "Waste Management",
+    "page": 91,
+    "text": "Expanded the Thais Say No to E-waste project to 235 organizations, establishing 2,700 drop-off locations nationwide. Collected and responsibly disposed of 171,811 e-waste items with zero landfill impact."
+   }
+  ],
+  "flags": [],
+  "v7": {
+   "S": 3,
+   "M": 0,
+   "T": 2,
+   "E": 3,
+   "C": 3,
+   "tier": "substantive"
+  }
+ },
+ {
+  "uid": "SCC-2024-SR-EN::CLM-0082",
+  "selection_reason": "tier: substantiated",
+  "company": "SCC",
+  "report": "SCC-2024-SR-EN",
+  "page": 631,
+  "section": "Climate Resilience",
+  "claim_type": "commitment",
+  "claim_text": "13% reduction in energy consumption by 2025 compared to BAU baseline in 2007",
+  "sdg_targets": "13.2, 7.3",
+  "pack": [
+   {
+    "pid": "X1",
+    "kind": "cross-section",
+    "section": "Sustainability Performance in 2024",
+    "page": 50,
+    "text": "<a id='9dc82bb3-615c-4f2f-83f9-207c9350f818'></a>\n\n7.91%\n\nenergy consumption reduction compared to\nBAU baseline in 2007"
+   },
+   {
+    "pid": "X2",
+    "kind": "cross-section",
+    "section": "Sustainability Performance in 2024",
+    "page": 37,
+    "text": "<a id='7281fe5a-a24b-4429-8034-aa97fb816c82'></a>\n\n* Net Zero by 2050\n* Achieving near-term targets certified by SBTi to reduce Scope 1 and 2 emissions by 25% by 2030 compared with the base year of 2020 and reduce Scope 3 emissions from fossil fuels sold to external customers by 25% by 2031 compared with the base year of 2021.\n* Decreasing energy consumption by 13% by 2025 compared with BAU at the base year of 2007.\n* Generating 66.7% of total sales revenue from Green Choice products, services, and solutions by 2030.\n* Generating 33.3% of total sales revenue from Green Choice products, services, and solutions that provide direct value to customers by 2030."
+   },
+   {
+    "pid": "X3",
+    "kind": "cross-section",
+    "section": "Sustainability Performance in 2024",
+    "page": 50,
+    "text": "<a id='714e7159-0e1f-49e2-8da4-186d81fe3372'></a>\n\n25.59%\nGHG Scope 1 and 2 emissions reduction in 2024\nTarget: Reduce GHG Scope 1 and 2 emissions by\n25% by 2030 compared to the base year 2020"
+   },
+   {
+    "pid": "S1",
+    "kind": "same-section",
+    "section": "Climate Resilience",
+    "page": 631,
+    "text": "25% reduction in Scope 1 and 2 GHG emissions by 2030 compared to 2020 baseline"
+   },
+   {
+    "pid": "S2",
+    "kind": "same-section",
+    "section": "Climate Resilience",
+    "page": 631,
+    "text": "25% reduction in Scope 3 GHG emissions from fossil fuels sold to external customers by 2031 compared to 2021 baseline"
+   }
+  ],
+  "flags": [],
+  "v7": {
+   "S": 2,
+   "M": 3,
+   "T": 2,
+   "E": 1,
+   "C": 3,
+   "tier": "substantive"
+  }
+ },
+ {
+  "uid": "IVL-2024-SR-EN::CLM-0040",
+  "selection_reason": "partial, metric/target",
+  "company": "IVL",
+  "report": "IVL-2024-SR-EN",
+  "page": 198,
+  "section": "Value Creation",
+  "claim_type": "metric",
+  "claim_text": "2024 Progress: 71% of process waste diverted from landfill.",
+  "sdg_targets": "11.6, 12.4, 12.5",
+  "pack": [
+   {
+    "pid": "X1",
+    "kind": "cross-section",
+    "section": "Environmental Performance",
+    "page": 25,
+    "text": "92.51% Waste diverted from landfill***"
+   },
+   {
+    "pid": "X2",
+    "kind": "cross-section",
+    "section": "Introduction and Key Messages",
+    "page": 34,
+    "text": "<a id='1017f4fe-0998-4a1f-b2d7-4057457d8664'></a>\n\n## Total Hazardous Waste\n\n<::visual content\n: chart\n\n0.0085\n0.0093\n0.0092\n0.0079\n\n140,010\n156,012\n148,303\n129,155\n\n2021\n2022\n2023\n2024::>\n\nTotal hazardous waste (tons)\nIntensity (tons/ton of production)\n\n## Waste Diverted from Landfill*\n\n### Targets\n**90%** Waste\ndiverted from landfill by 2025\n(This target applies to both types:\nhazardous waste and non-hazardous\nwaste)\n\n### Performance\nIn 2024, **93%** of our hazardous\nwaste was diverted from landfill,\nand **63%** of our non-hazardous\nwaste was diverted from landfill.\n\n* Including waste incinerated with\nenergy recovery"
+   },
+   {
+    "pid": "X3",
+    "kind": "cross-section",
+    "section": "Environmental Performance",
+    "page": 1915,
+    "text": "Recycled PET feedstock consumed / Plastic waste diverted from landfills: 2.6 million tons."
+   },
+   {
+    "pid": "S1",
+    "kind": "same-section",
+    "section": "Value Creation",
+    "page": 198,
+    "text": "2024 Progress: 6.44% reduction."
+   },
+   {
+    "pid": "S2",
+    "kind": "same-section",
+    "section": "Value Creation",
+    "page": 198,
+    "text": "2024 Progress: 396,666 tons post-consumer PET bale input per year, 26.4 billion bottles recycled."
+   }
+  ],
+  "flags": [],
+  "v7": {
+   "S": 2,
+   "M": 2,
+   "T": 2,
+   "E": 1,
+   "C": 0,
+   "tier": "partially_substantive"
+  }
+ },
+ {
+  "uid": "advanc-2024-SR-en::CLM-0090",
+  "selection_reason": "partial, metric/target",
+  "company": "ADVANC",
+  "report": "advanc-2024-SR-en",
+  "page": 870,
+  "section": "Green Energy Green Network for THAIs",
+  "claim_type": "metric",
+  "claim_text": "The preliminary social return value related to the reduction of travel expenses for community communication is over 257,000 baht.",
+  "sdg_targets": "11.2, 11.a, 13.2, 13.3, 9.1, 9.c",
+  "pack": [
+   {
+    "pid": "X1",
+    "kind": "cross-section",
+    "section": "Sustainability Report 2024",
+    "page": 63,
+    "text": "<a id='bfa5d3f9-21f8-4746-a7d1-bac846ddde19'></a>\n\n# Green Energy Green Network for THAIs\n\nAIS, in cooperation with Gulf Energy Development Public Company (Gulf) and Highland Research and Development Institute, has carried out the \"Green Energy Green Network for THAIs\" project to reduce social inequality and improve the quality of life for people in remote areas. Initiated in 2024, the project was dedicated to building a telecom network using solar energy. The network encompassed 6 communities in 5 provinces including Tak, Chiang Mai, Mae Hong Son, Chiang Rai, and Lamphun with a population of 2,954 in 790 households. The project also evaluated social returns (Social Value) across three main dimensions: economic, social, and environmental. In its first year, it created positive impacts for people living in highland areas, enabling them to access electricity from clean energy and basic network connectivity. Communication became more convenient and faster, reducing travel time for sharing information and coordinating between lowland and highland areas. The preliminary social return value related to the reduction of travel expenses for community communication is over 257,000 baht. The results of the project will be utilized to develop strategies for expanding to other areas in order to achieve sustainable change."
+   },
+   {
+    "pid": "X2",
+    "kind": "cross-section",
+    "section": "Sustainability Report 2024",
+    "page": 68,
+    "text": "<a id='743ae8de-4b2d-4e6d-b5ee-0b99ca8f3027'></a>\n\nSince 2011, the project's operations have covered 4,255 places nationwide, involving a total of 752,113 people. In 2024, broadband internet was expanded to 3 schools, Khlong Khrua Wai Wildlife Sanctuary, and Pran Thong Community Digital Center."
+   },
+   {
+    "pid": "X3",
+    "kind": "cross-section",
+    "section": "Promote Digital Inclusion",
+    "page": 0,
+    "text": "Benefiting Thai people across 6 communities in 5 provinces."
+   },
+   {
+    "pid": "S1",
+    "kind": "same-section",
+    "section": "Green Energy Green Network for THAIs",
+    "page": 870,
+    "text": "The results of the project will be utilized to develop strategies for expanding to other areas in order to achieve sustainable change."
+   }
+  ],
+  "flags": [
+   "Only 1 of 2 target same-section references met the similarity threshold (0.35)."
+  ],
+  "v7": {
+   "S": 2,
+   "M": 2,
+   "T": 0,
+   "E": 1,
+   "C": 1,
+   "tier": "partially_substantive"
+  }
+ },
+ {
+  "uid": "IVL-2024-SR-EN::CLM-0120",
+  "selection_reason": "partial, other",
+  "company": "IVL",
+  "report": "IVL-2024-SR-EN",
+  "page": 1281,
+  "section": "Human Rights",
+  "claim_type": "commitment",
+  "claim_text": "We are committed to “Protect, Respect, and Remedy” framework and proactively identifying, addressing, and preventing human rights risks across our operations, while ensuring full compliance with applicable local and international laws.",
+  "sdg_targets": "16.3, 16.6, 16.b, 8.5, 8.7, 8.8",
+  "pack": [
+   {
+    "pid": "X1",
+    "kind": "cross-section",
+    "section": "Introduction and Key Messages",
+    "page": 49,
+    "text": "<a id='e4a5c9b1-99b0-490c-a593-852e79163c0e'></a>\n\n# Protecting Human Rights throughout the Supply Chain\n\nWe maintain a firm and unequivocal stance against all forms of discrimination, bullying, and harassment, as outlined in our Human Rights Policy and Responsible Sourcing Policy. We actively monitor and address any incidents of unfair treatment to promote a safe, respectful, and inclusive work environment. Our commitment also extends to safeguarding the rights of indigenous peoples, ensuring our operations respect their cultural integrity and fundamental rights."
+   },
+   {
+    "pid": "X2",
+    "kind": "cross-section",
+    "section": "Introduction and Key Messages",
+    "page": 49,
+    "text": "<a id='7efe58a9-26ab-4b3a-819a-a28e9f9e80ff'></a>\n\n## Respecting Human Rights Across our Value Chain\n\nAt Indorama Ventures, we uphold the rights and dignity of all individuals. Our commitment is rooted in internationally recognized human rights frameworks, including the Universal Declaration of Human Rights (UDHR), the United Nations Guiding Principles on Business and Human Rights (UNGPs), UN Convention on the Rights of the Child (1989) and the International Labour Organization (ILO)'s Declaration on Fundamental Principles and Rights at Work. As a member of the UN Global Compact and a signatory of the Women's Empowerment Principles (WEPs), we also support the UN OHCHR's Standards of Conduct for Business, which promote non-discrimination and equal treatment for LGBTQI+ individuals. We are committed to \"Protect, Respect, and Remedy\" framework and proactively identifying, addressing, and preventing human rights risks across our operations, while ensuring full compliance with applicable local and international laws. Our Human Rights Policy and Responsible Sourcing Policy extend these expectations to suppliers, subcontractors, and vendors. These principles are integrated into our governance, day-to-day operations, and supplier partnerships, underscoring our belief that ethical conduct is essential to sustainable growth."
+   },
+   {
+    "pid": "X3",
+    "kind": "cross-section",
+    "section": "Introduction and Key Messages",
+    "page": 49,
+    "text": "<a id='e6ce188c-19b6-479c-8e6f-c14d6f7e83bd'></a>\n\nHuman rights principles are integrated into daily operations through site-level policies and comprehensive training programs. The Corporate Governance Policy Awareness Campaign (CGPAC) team conducted 30 onsite and online sessions focused on our Human Rights Policy, reaching approximately 900 employees across both local and international sites. These sessions highlighted the role of employees in preventing human rights violations and explained the reporting channels available for non-compliance."
+   },
+   {
+    "pid": "S1",
+    "kind": "same-section",
+    "section": "Human Rights",
+    "page": 1283,
+    "text": "Indorama Ventures’ Human Rights Due Diligence (HRDD) framework is embedded across our operations, supply chains, and the communities we touch."
+   },
+   {
+    "pid": "S2",
+    "kind": "same-section",
+    "section": "Human Rights",
+    "page": 1281,
+    "text": "At Indorama Ventures, we uphold the rights and dignity of all individuals. Our commitment is rooted in internationally recognized human rights frameworks, including the Universal Declaration of Human Rights (UDHR), the United Nations Guiding Principles on Business and Human Rights (UNGPs), UN Convention on the Rights of the Child (1989) and the International Labour Organization (ILO)’s Declaration on Fundamental Principles and Rights at Work."
+   }
+  ],
+  "flags": [],
+  "v7": {
+   "S": 1,
+   "M": 0,
+   "T": 0,
+   "E": 1,
+   "C": 3,
+   "tier": "partially_substantive"
+  }
+ },
+ {
+  "uid": "PTT-2024-OR+SR-EN::CLM-0002",
+  "selection_reason": "partial, other",
+  "company": "PTT",
+  "report": "PTT-2024-OR+SR-EN",
+  "page": 10,
+  "section": "Corporate Governance",
+  "claim_type": "commitment",
+  "claim_text": "Ensuring long-term energy security by providing adequate high quality energy supply at fair prices to foster economic growth with sustainable approach",
+  "sdg_targets": "12.2, 12.6, 12.c, 7.1, 7.b, 8.1, 8.2, 8.3, 8.4",
+  "pack": [
+   {
+    "pid": "X1",
+    "kind": "cross-section",
+    "section": "Business Operations and Performance",
+    "page": 1231,
+    "text": "Drive the development of future energy solutions, guaranteeing adequate supply while modernizing operational systems."
+   },
+   {
+    "pid": "X2",
+    "kind": "cross-section",
+    "section": "Risk Management",
+    "page": 977,
+    "text": "Seek new natural gas sources and procure additional natural gas from the Gulf of Thailand and the Malaysia-Thailand Joint Development Area to maintain supply and delivery without affecting the electricity sector and the country’s energy security."
+   },
+   {
+    "pid": "X3",
+    "kind": "cross-section",
+    "section": "Business Operations and Performance",
+    "page": 991,
+    "text": "Prepare demand-supply data to efficiently manage energy demand and ensure the procurement of sufficient LNG to meet the country’s needs."
+   },
+   {
+    "pid": "S1",
+    "kind": "same-section",
+    "section": "Corporate Governance",
+    "page": 124,
+    "text": "<a id='60b89f30-d2ba-440d-a439-6c4c0ce12234'></a>\n\nPublic Sector\n\nEnsuring long-term energy security by providing sufficient high-quality energy supply at fair prices to foster economic growth and ensure environmental sustainability."
+   },
+   {
+    "pid": "S2",
+    "kind": "same-section",
+    "section": "Corporate Governance",
+    "page": 18,
+    "text": "<a id='6f61cbef-0a0a-45b4-a11a-5f1be8b099df'></a>\n\nPTT, Thailand's energy\nleader, is committed to\ncreating a sustainable\nfuture by developing\nenergy security along\nwith enhancing\ninternational\ncompetitiveness."
+   }
+  ],
+  "flags": [],
+  "v7": {
+   "S": 1,
+   "M": 0,
+   "T": 0,
+   "E": 1,
+   "C": 3,
+   "tier": "partially_substantive"
+  }
+ }
+]

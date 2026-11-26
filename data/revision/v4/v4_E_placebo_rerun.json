@@ -1,0 +1,3006 @@
+{
+ "note": "exploratory placebo, frozen V4 prompt unchanged, seed 20261110, n=300",
+ "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+ "claims": [
+  {
+   "uid": "TOP-2024-IR-EN::CLM-0039",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "TRUE-2024-SR-EN::CLM-0048",
+   "n_runs": 3,
+   "E_runs": [
+    1,
+    1,
+    2
+   ],
+   "E": 1
+  },
+  {
+   "uid": "KBANK-2024-OR-EN::CLM-0039",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "PTTEP-2024-OR+SR-EN::CLM-0151",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "PTTEP-2024-OR+SR-EN::CLM-0216",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "CRC-2024-SR-EN::CLM-0012",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "SCB-2024-SR-EN::CLM-0294",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "TISCO-2024-SR-EN::CLM-0106",
+   "n_runs": 3,
+   "E_runs": [
+    1,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "BCP-2024-SR-EN::CLM-0118",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "CPALL-2024-SR-EN::CLM-0240",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "BDMS-2024-SR-EN::CLM-0082",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "IVL-2024-SR-EN::CLM-0139",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "GPSC-2024-IR-EN::CLM-0092",
+   "n_runs": 3,
+   "E_runs": [
+    1,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "KBANK-2024-OR-EN::CLM-0059",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "OSP-2024-OR+SR-EN::CLM-0091",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "TRUE-2024-SR-EN::CLM-0154",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    1,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "PTTEP-2024-OR+SR-EN::CLM-0184",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "SCGP-2024-SR-EN::CLM-0057",
+   "n_runs": 3,
+   "E_runs": [
+    1,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "TRUE-2024-SR-EN::CLM-0169",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "KBANK-2024-OR-EN::CLM-0060",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    1,
+    1
+   ],
+   "E": 1
+  },
+  {
+   "uid": "CPF-2024-SR-EN::CLM-0108",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "BEM-2024-SR-EN::CLM-0061",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "SCGP-2024-SR-EN::CLM-0100",
+   "n_runs": 3,
+   "E_runs": [
+    1,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "SCGP-2024-SR-EN::CLM-0280",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "IVL-2024-SR-EN::CLM-0140",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "SCB-2024-SR-EN::CLM-0374",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "PTTGC-2024-IR-EN::CLM-0068",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    1,
+    1
+   ],
+   "E": 1
+  },
+  {
+   "uid": "AWC-2024-SR-EN::CLM-0260",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "DELTA-2024-SR-EN::CLM-0155",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "KTB-2024-SR-EN::CLM-0062",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "advanc-2024-SR-en::CLM-0174",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "BCP-2024-SR-EN::CLM-0011",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "CPF-2024-SR-EN::CLM-0027",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "AOT-2024-OR+SR-EN::CLM-0082",
+   "n_runs": 3,
+   "E_runs": [
+    1,
+    1,
+    2
+   ],
+   "E": 1
+  },
+  {
+   "uid": "BDMS-2024-SR-EN::CLM-0222",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "IVL-2024-SR-EN::CLM-0120",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "AWC-2024-SR-EN::CLM-0287",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "BDMS-2024-SR-EN::CLM-0232",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "TISCO-2024-SR-EN::CLM-0128",
+   "n_runs": 3,
+   "E_runs": [
+    1,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "WHA-2024-SR-EN::CLM-0116",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "BJC-2024-SR-EN::CLM-0163",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "SCC-2024-SR-EN::CLM-0003",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "CPALL-2024-SR-EN::CLM-0324",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    1
+   ],
+   "E": 2
+  },
+  {
+   "uid": "SCGP-2024-SR-EN::CLM-0024",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "CPALL-2024-SR-EN::CLM-0207",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "WHA-2024-SR-EN::CLM-0133",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "TISCO-2024-SR-EN::CLM-0014",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "KBANK-2024-OR-EN::CLM-0013",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "CPF-2024-SR-EN::CLM-0044",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "PTT-2024-OR+SR-EN::CLM-0042",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "SCGP-2024-SR-EN::CLM-0288",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "DELTA-2024-SR-EN::CLM-0037",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "CBG-2024-SR-EN::CLM-0186",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "WHA-2024-SR-EN::CLM-0110",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "AOT-2024-OR+SR-EN::CLM-0061",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "CPALL-2024-SR-EN::CLM-0246",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    1,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "CBG-2024-SR-EN::CLM-0218",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    1
+   ],
+   "E": 2
+  },
+  {
+   "uid": "SCGP-2024-SR-EN::CLM-0101",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "PTT-2024-OR+SR-EN::CLM-0099",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "PTT-2024-OR+SR-EN::CLM-0047",
+   "n_runs": 3,
+   "E_runs": [
+    1,
+    2,
+    1
+   ],
+   "E": 1
+  },
+  {
+   "uid": "PTTGC-2024-IR-EN::CLM-0162",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "WHA-2024-SR-EN::CLM-0277",
+   "n_runs": 3,
+   "E_runs": [
+    1,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "TRUE-2024-SR-EN::CLM-0022",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "BDMS-2024-SR-EN::CLM-0085",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    1
+   ],
+   "E": 2
+  },
+  {
+   "uid": "CRC-2024-SR-EN::CLM-0055",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "DELTA-2024-SR-EN::CLM-0089",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "CBG-2024-SR-EN::CLM-0006",
+   "n_runs": 3,
+   "E_runs": [
+    3,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "WHA-2024-SR-EN::CLM-0208",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "advanc-2024-SR-en::CLM-0155",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "WHA-2024-SR-EN::CLM-0593",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "SCGP-2024-SR-EN::CLM-0275",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "SCGP-2024-SR-EN::CLM-0264",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "SCGP-2024-SR-EN::CLM-0252",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "TISCO-2024-SR-EN::CLM-0257",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    1
+   ],
+   "E": 2
+  },
+  {
+   "uid": "OSP-2024-OR+SR-EN::CLM-0081",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    1
+   ],
+   "E": 2
+  },
+  {
+   "uid": "CPN-2024-OR+SR-EN::CLM-0058",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "BDMS-2024-SR-EN::CLM-0192",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "WHA-2024-SR-EN::CLM-0264",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "WHA-2024-SR-EN::CLM-0452",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "AOT-2024-OR+SR-EN::CLM-0086",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "WHA-2024-SR-EN::CLM-0066",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "PTTGC-2024-IR-EN::CLM-0132",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "AOT-2024-OR+SR-EN::CLM-0063",
+   "n_runs": 3,
+   "E_runs": [
+    1,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "BCP-2024-SR-EN::CLM-0297",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "OSP-2024-OR+SR-EN::CLM-0170",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "TISCO-2024-SR-EN::CLM-0156",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "advanc-2024-SR-en::CLM-0134",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    1
+   ],
+   "E": 2
+  },
+  {
+   "uid": "CPF-2024-SR-EN::CLM-0190",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "BCP-2024-SR-EN::CLM-0123",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "BCP-2024-SR-EN::CLM-0271",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "DELTA-2024-SR-EN::CLM-0152",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "AOT-2024-OR+SR-EN::CLM-0076",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "CPF-2024-SR-EN::CLM-0218",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "CPF-2024-SR-EN::CLM-0255",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "SCGP-2024-SR-EN::CLM-0271",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "CPF-2024-SR-EN::CLM-0096",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "TISCO-2024-SR-EN::CLM-0158",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    1
+   ],
+   "E": 2
+  },
+  {
+   "uid": "WHA-2024-SR-EN::CLM-0417",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "OSP-2024-OR+SR-EN::CLM-0236",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "KTB-2024-SR-EN::CLM-0356",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    1
+   ],
+   "E": 2
+  },
+  {
+   "uid": "advanc-2024-SR-en::CLM-0064",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "CRC-2024-SR-EN::CLM-0151",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "MINT-2024-SR-EN::CLM-0040",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "CRC-2024-SR-EN::CLM-0051",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    1,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "AOT-2024-OR+SR-EN::CLM-0053",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "BCP-2024-SR-EN::CLM-0013",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "PTT-2024-OR+SR-EN::CLM-0076",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    1
+   ],
+   "E": 2
+  },
+  {
+   "uid": "KBANK-2024-OR-EN::CLM-0063",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "DELTA-2024-SR-EN::CLM-0067",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "KTB-2024-SR-EN::CLM-0263",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "BCP-2024-SR-EN::CLM-0294",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "KTB-2024-SR-EN::CLM-0313",
+   "n_runs": 3,
+   "E_runs": [
+    1,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "CBG-2024-SR-EN::CLM-0172",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "CBG-2024-SR-EN::CLM-0149",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "BCP-2024-SR-EN::CLM-0003",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "SCC-2024-SR-EN::CLM-0126",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "PTT-2024-OR+SR-EN::CLM-0093",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "CBG-2024-SR-EN::CLM-0178",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "BCP-2024-SR-EN::CLM-0301",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    1,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "CPF-2024-SR-EN::CLM-0222",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "DELTA-2024-SR-EN::CLM-0104",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "BEM-2024-SR-EN::CLM-0047",
+   "n_runs": 3,
+   "E_runs": [
+    1,
+    2,
+    1
+   ],
+   "E": 1
+  },
+  {
+   "uid": "AOT-2024-OR+SR-EN::CLM-0111",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "SCGP-2024-SR-EN::CLM-0136",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "KTB-2024-SR-EN::CLM-0123",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "TU-2024-SR-EN::CLM-0058",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "KTB-2024-SR-EN::CLM-0083",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "PTT-2024-OR+SR-EN::CLM-0066",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "advanc-2024-SR-en::CLM-0035",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "BCP-2024-SR-EN::CLM-0080",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "KTB-2024-SR-EN::CLM-0365",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "PTT-2024-OR+SR-EN::CLM-0084",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "BDMS-2024-SR-EN::CLM-0095",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "KTB-2024-SR-EN::CLM-0135",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "PTTGC-2024-IR-EN::CLM-0041",
+   "n_runs": 3,
+   "E_runs": [
+    3,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "CRC-2024-SR-EN::CLM-0023",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "advanc-2024-SR-en::CLM-0137",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "WHA-2024-SR-EN::CLM-0420",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "TU-2024-SR-EN::CLM-0024",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    1
+   ],
+   "E": 2
+  },
+  {
+   "uid": "AOT-2024-OR+SR-EN::CLM-0039",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "WHA-2024-SR-EN::CLM-0494",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "AWC-2024-SR-EN::CLM-0241",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    1,
+    1
+   ],
+   "E": 1
+  },
+  {
+   "uid": "CPALL-2024-SR-EN::CLM-0140",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "MINT-2024-SR-EN::CLM-0008",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "PTTGC-2024-IR-EN::CLM-0044",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "AOT-2024-OR+SR-EN::CLM-0036",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "CRC-2024-SR-EN::CLM-0028",
+   "n_runs": 3,
+   "E_runs": [
+    1,
+    1,
+    2
+   ],
+   "E": 1
+  },
+  {
+   "uid": "MINT-2024-SR-EN::CLM-0089",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "CBG-2024-SR-EN::CLM-0114",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "WHA-2024-SR-EN::CLM-0413",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "SCB-2024-SR-EN::CLM-0238",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "PTTGC-2024-IR-EN::CLM-0026",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "DELTA-2024-SR-EN::CLM-0036",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "WHA-2024-SR-EN::CLM-0007",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "WHA-2024-SR-EN::CLM-0519",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "BDMS-2024-SR-EN::CLM-0174",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "TRUE-2024-SR-EN::CLM-0064",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "OSP-2024-OR+SR-EN::CLM-0006",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "CPF-2024-SR-EN::CLM-0165",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "KBANK-2024-OR-EN::CLM-0003",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "TRUE-2024-SR-EN::CLM-0131",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "SCGP-2024-SR-EN::CLM-0094",
+   "n_runs": 3,
+   "E_runs": [
+    1,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "KTB-2024-SR-EN::CLM-0258",
+   "n_runs": 3,
+   "E_runs": [
+    1,
+    2,
+    1
+   ],
+   "E": 1
+  },
+  {
+   "uid": "WHA-2024-SR-EN::CLM-0201",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "TRUE-2024-SR-EN::CLM-0162",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "AOT-2024-OR+SR-EN::CLM-0088",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    1,
+    1
+   ],
+   "E": 1
+  },
+  {
+   "uid": "TU-2024-SR-EN::CLM-0067",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "CPF-2024-SR-EN::CLM-0252",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "BJC-2024-SR-EN::CLM-0081",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "TISCO-2024-SR-EN::CLM-0024",
+   "n_runs": 3,
+   "E_runs": [
+    1,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "DELTA-2024-SR-EN::CLM-0105",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "WHA-2024-SR-EN::CLM-0075",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "OSP-2024-OR+SR-EN::CLM-0072",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "AWC-2024-SR-EN::CLM-0213",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "SCGP-2024-SR-EN::CLM-0053",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "GPSC-2024-IR-EN::CLM-0135",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    3
+   ],
+   "E": 2
+  },
+  {
+   "uid": "CPALL-2024-SR-EN::CLM-0392",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "KTB-2024-SR-EN::CLM-0035",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "KTB-2024-SR-EN::CLM-0244",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "CBG-2024-SR-EN::CLM-0184",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "TOP-2024-IR-EN::CLM-0005",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "SCGP-2024-SR-EN::CLM-0022",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    1
+   ],
+   "E": 2
+  },
+  {
+   "uid": "CPF-2024-SR-EN::CLM-0175",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "CPN-2024-OR+SR-EN::CLM-0079",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "CPF-2024-SR-EN::CLM-0176",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "CBG-2024-SR-EN::CLM-0155",
+   "n_runs": 3,
+   "E_runs": [
+    1,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "WHA-2024-SR-EN::CLM-0073",
+   "n_runs": 3,
+   "E_runs": [
+    1,
+    2,
+    1
+   ],
+   "E": 1
+  },
+  {
+   "uid": "CPALL-2024-SR-EN::CLM-0225",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "TU-2024-SR-EN::CLM-0060",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "BCP-2024-SR-EN::CLM-0032",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "BEM-2024-SR-EN::CLM-0150",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    1,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "SCGP-2024-SR-EN::CLM-0195",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "BEM-2024-SR-EN::CLM-0099",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "TRUE-2024-SR-EN::CLM-0122",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "WHA-2024-SR-EN::CLM-0064",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "SCB-2024-SR-EN::CLM-0361",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "BDMS-2024-SR-EN::CLM-0111",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    1,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "AOT-2024-OR+SR-EN::CLM-0019",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    1,
+    1
+   ],
+   "E": 1
+  },
+  {
+   "uid": "TISCO-2024-SR-EN::CLM-0079",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "BCP-2024-SR-EN::CLM-0035",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "DELTA-2024-SR-EN::CLM-0021",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "TRUE-2024-SR-EN::CLM-0077",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "CRC-2024-SR-EN::CLM-0045",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "PTT-2024-OR+SR-EN::CLM-0113",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "WHA-2024-SR-EN::CLM-0583",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    1,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "KTB-2024-SR-EN::CLM-0186",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "KTB-2024-SR-EN::CLM-0124",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "AWC-2024-SR-EN::CLM-0020",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "TOP-2024-IR-EN::CLM-0102",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "WHA-2024-SR-EN::CLM-0410",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    1
+   ],
+   "E": 2
+  },
+  {
+   "uid": "PTT-2024-OR+SR-EN::CLM-0077",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "PTTGC-2024-IR-EN::CLM-0006",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "BDMS-2024-SR-EN::CLM-0047",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "SCC-2024-SR-EN::CLM-0038",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "advanc-2024-SR-en::CLM-0106",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    1
+   ],
+   "E": 2
+  },
+  {
+   "uid": "AWC-2024-SR-EN::CLM-0250",
+   "n_runs": 3,
+   "E_runs": [
+    1,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "CPALL-2024-SR-EN::CLM-0002",
+   "n_runs": 3,
+   "E_runs": [
+    1,
+    1,
+    2
+   ],
+   "E": 1
+  },
+  {
+   "uid": "PTT-2024-OR+SR-EN::CLM-0064",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "PTTGC-2024-IR-EN::CLM-0040",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    1,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "WHA-2024-SR-EN::CLM-0147",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    3,
+    3
+   ],
+   "E": 3
+  },
+  {
+   "uid": "OSP-2024-OR+SR-EN::CLM-0004",
+   "n_runs": 3,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "E": 1
+  },
+  {
+   "uid": "PTTEP-2024-OR+SR-EN::CLM-0109",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "MINT-2024-SR-EN::CLM-0075",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "KBANK-2024-OR-EN::CLM-0077",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "TRUE-2024-SR-EN::CLM-0081",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "AOT-2024-OR+SR-EN::CLM-0048",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "WHA-2024-SR-EN::CLM-0415",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "MINT-2024-SR-EN::CLM-0072",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "OSP-2024-OR+SR-EN::CLM-0092",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "TU-2024-SR-EN::CLM-0056",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "TISCO-2024-SR-EN::CLM-0081",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "OSP-2024-OR+SR-EN::CLM-0230",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    1
+   ],
+   "E": 2
+  },
+  {
+   "uid": "TU-2024-SR-EN::CLM-0156",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "CBG-2024-SR-EN::CLM-0070",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "BEM-2024-SR-EN::CLM-0039",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "KTB-2024-SR-EN::CLM-0130",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "BEM-2024-SR-EN::CLM-0152",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "CPALL-2024-SR-EN::CLM-0226",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "CPF-2024-SR-EN::CLM-0219",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "KTB-2024-SR-EN::CLM-0202",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "BCP-2024-SR-EN::CLM-0287",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "AWC-2024-SR-EN::CLM-0222",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    1,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "SCB-2024-SR-EN::CLM-0311",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    1
+   ],
+   "E": 2
+  },
+  {
+   "uid": "WHA-2024-SR-EN::CLM-0023",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "OSP-2024-OR+SR-EN::CLM-0079",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "TU-2024-SR-EN::CLM-0153",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "TOP-2024-IR-EN::CLM-0115",
+   "n_runs": 3,
+   "E_runs": [
+    1,
+    2,
+    1
+   ],
+   "E": 1
+  },
+  {
+   "uid": "AWC-2024-SR-EN::CLM-0228",
+   "n_runs": 3,
+   "E_runs": [
+    1,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "SCGP-2024-SR-EN::CLM-0154",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "BDMS-2024-SR-EN::CLM-0016",
+   "n_runs": 3,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "E": 1
+  },
+  {
+   "uid": "TISCO-2024-SR-EN::CLM-0114",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "PTT-2024-OR+SR-EN::CLM-0014",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "BCP-2024-SR-EN::CLM-0038",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "PTTGC-2024-IR-EN::CLM-0048",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "BCP-2024-SR-EN::CLM-0040",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "PTT-2024-OR+SR-EN::CLM-0022",
+   "n_runs": 3,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "E": 1
+  },
+  {
+   "uid": "AWC-2024-SR-EN::CLM-0043",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "IVL-2024-SR-EN::CLM-0194",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "CBG-2024-SR-EN::CLM-0181",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "KBANK-2024-OR-EN::CLM-0049",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    1,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "TRUE-2024-SR-EN::CLM-0143",
+   "n_runs": 3,
+   "E_runs": [
+    1,
+    1,
+    2
+   ],
+   "E": 1
+  },
+  {
+   "uid": "WHA-2024-SR-EN::CLM-0325",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "WHA-2024-SR-EN::CLM-0414",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "AWC-2024-SR-EN::CLM-0254",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "advanc-2024-SR-en::CLM-0086",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "SCGP-2024-SR-EN::CLM-0112",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "TRUE-2024-SR-EN::CLM-0116",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "TISCO-2024-SR-EN::CLM-0247",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "SCC-2024-SR-EN::CLM-0127",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "KTB-2024-SR-EN::CLM-0189",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "WHA-2024-SR-EN::CLM-0238",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "CRC-2024-SR-EN::CLM-0158",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "PTTEP-2024-OR+SR-EN::CLM-0010",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "SCGP-2024-SR-EN::CLM-0261",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "IVL-2024-SR-EN::CLM-0018",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "TOP-2024-IR-EN::CLM-0009",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "SCC-2024-SR-EN::CLM-0007",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "KTB-2024-SR-EN::CLM-0280",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "SCGP-2024-SR-EN::CLM-0285",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "KBANK-2024-OR-EN::CLM-0051",
+   "n_runs": 3,
+   "E_runs": [
+    1,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "OSP-2024-OR+SR-EN::CLM-0220",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "BDMS-2024-SR-EN::CLM-0030",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "IVL-2024-SR-EN::CLM-0157",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "TOP-2024-IR-EN::CLM-0014",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "BCP-2024-SR-EN::CLM-0185",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    1
+   ],
+   "E": 2
+  },
+  {
+   "uid": "CPF-2024-SR-EN::CLM-0242",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "CRC-2024-SR-EN::CLM-0056",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "CPF-2024-SR-EN::CLM-0182",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "OSP-2024-OR+SR-EN::CLM-0269",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "DELTA-2024-SR-EN::CLM-0052",
+   "n_runs": 3,
+   "E_runs": [
+    1,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "OSP-2024-OR+SR-EN::CLM-0198",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "BCP-2024-SR-EN::CLM-0140",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "AOT-2024-OR+SR-EN::CLM-0073",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "SCC-2024-SR-EN::CLM-0072",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "BEM-2024-SR-EN::CLM-0167",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    1,
+    1
+   ],
+   "E": 1
+  },
+  {
+   "uid": "SCB-2024-SR-EN::CLM-0262",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "BEM-2024-SR-EN::CLM-0034",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "CPALL-2024-SR-EN::CLM-0037",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "PTTEP-2024-OR+SR-EN::CLM-0007",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  },
+  {
+   "uid": "BJC-2024-SR-EN::CLM-0080",
+   "n_runs": 3,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2
+  }
+ ]
+}

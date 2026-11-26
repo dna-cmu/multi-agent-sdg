@@ -1,0 +1,90 @@
+{
+  "specificity": {
+    "alpha_ordinal": 0.8984,
+    "alpha_interval": 0.8961,
+    "agreement_rate": 0.8967,
+    "mean_max_deviation": 0.1049
+  },
+  "measurability": {
+    "alpha_ordinal": 0.9816,
+    "alpha_interval": 0.9829,
+    "agreement_rate": 0.9693,
+    "mean_max_deviation": 0.0379
+  },
+  "temporality": {
+    "alpha_ordinal": 0.9461,
+    "alpha_interval": 0.9481,
+    "agreement_rate": 0.95,
+    "mean_max_deviation": 0.0823
+  },
+  "evidence": {
+    "alpha_ordinal": 0.8816,
+    "alpha_interval": 0.8957,
+    "agreement_rate": 0.8757,
+    "mean_max_deviation": 0.1291
+  },
+  "consistency": {
+    "alpha_ordinal": 0.9083,
+    "alpha_interval": 0.9075,
+    "agreement_rate": 0.7918,
+    "mean_max_deviation": 0.222
+  },
+  "overall": {
+    "alpha_ordinal": 0.9574,
+    "alpha_interval": 0.9572,
+    "agreement_rate": 0.8967,
+    "mean_max_deviation": 0.1153
+  },
+  "composite": {
+    "alpha_interval": 0.9601
+  },
+  "per_company": {
+    "Bangkok Dusit Medical Services": {
+      "specificity": 0.8986,
+      "measurability": 0.9643,
+      "temporality": 0.9401,
+      "evidence": 0.883,
+      "consistency": 0.9019,
+      "agreement_rate": 0.8892
+    },
+    "Charoen Pokphand Foods": {
+      "specificity": 0.8877,
+      "measurability": 0.9852,
+      "temporality": 0.9456,
+      "evidence": 0.8458,
+      "consistency": 0.9326,
+      "agreement_rate": 0.8984
+    },
+    "Siam Cement Group": {
+      "specificity": 0.9218,
+      "measurability": 0.9709,
+      "temporality": 0.9554,
+      "evidence": 0.9009,
+      "consistency": 0.8998,
+      "agreement_rate": 0.8906
+    },
+    "Siam Commercial Bank": {
+      "specificity": 0.9011,
+      "measurability": 0.9905,
+      "temporality": 0.925,
+      "evidence": 0.8915,
+      "consistency": 0.8884,
+      "agreement_rate": 0.9013
+    },
+    "True Corporation": {
+      "specificity": 0.8446,
+      "measurability": 0.9939,
+      "temporality": 0.9691,
+      "evidence": 0.8877,
+      "consistency": 0.9044,
+      "agreement_rate": 0.9061
+    }
+  },
+  "metadata": {
+    "total_claims": 1334,
+    "claims_with_3_runs": 1239,
+    "num_reports": 5,
+    "level_of_measurement": "ordinal (0-3 scale)",
+    "num_raters": 3
+  }
+}

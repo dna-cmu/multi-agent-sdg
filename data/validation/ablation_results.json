@@ -1,0 +1,1602 @@
+[
+  {
+    "claim_id": "CLM-0203",
+    "company": "Bangkok Dusit Medical Services",
+    "claim_text": "Review the inspection criteria for suppliers within the quality and safety standards",
+    "full_pipeline": {
+      "specificity": 1,
+      "measurability": 0,
+      "temporality": 0,
+      "evidence": 1,
+      "consistency": 1,
+      "composite": 0.6
+    },
+    "zero_shot": {
+      "specificity": 2,
+      "measurability": 1,
+      "temporality": 2,
+      "evidence": 1,
+      "consistency": 2,
+      "composite": 1.6
+    },
+    "rag_only": {
+      "specificity": 1,
+      "measurability": 0,
+      "temporality": 0,
+      "evidence": 0,
+      "consistency": 1,
+      "composite": 0.4
+    },
+    "full_tier": "symbolic",
+    "zero_shot_tier": "partially_substantive",
+    "rag_only_tier": "symbolic"
+  },
+  {
+    "claim_id": "CLM-0015",
+    "company": "Bangkok Dusit Medical Services",
+    "claim_text": "48 hospitals",
+    "full_pipeline": {
+      "specificity": 0,
+      "measurability": 0,
+      "temporality": 0,
+      "evidence": 0,
+      "consistency": 0,
+      "composite": 0.0
+    },
+    "zero_shot": {
+      "specificity": 2,
+      "measurability": 1,
+      "temporality": 2,
+      "evidence": 1,
+      "consistency": 2,
+      "composite": 1.6
+    },
+    "rag_only": {
+      "specificity": 0,
+      "measurability": 0,
+      "temporality": 0,
+      "evidence": 0,
+      "consistency": 0,
+      "composite": 0.0
+    },
+    "full_tier": "symbolic",
+    "zero_shot_tier": "partially_substantive",
+    "rag_only_tier": "symbolic"
+  },
+  {
+    "claim_id": "CLM-0130",
+    "company": "Bangkok Dusit Medical Services",
+    "claim_text": "BDMS enforces the Procurement Policy to ensure integrity and confidentiality in the procurement process which shall be in line with the regulations to enhance procurement efficiency while fostering Gr",
+    "full_pipeline": {
+      "specificity": 2,
+      "measurability": 0,
+      "temporality": 0,
+      "evidence": 1,
+      "consistency": 3,
+      "composite": 1.2
+    },
+    "zero_shot": {
+      "specificity": 2,
+      "measurability": 1,
+      "temporality": 2,
+      "evidence": 1,
+      "consistency": 2,
+      "composite": 1.6
+    },
+    "rag_only": {
+      "specificity": 2,
+      "measurability": 0,
+      "temporality": 0,
+      "evidence": 1,
+      "consistency": 2,
+      "composite": 1.0
+    },
+    "full_tier": "partially_substantive",
+    "zero_shot_tier": "partially_substantive",
+    "rag_only_tier": "partially_substantive"
+  },
+  {
+    "claim_id": "CLM-0118",
+    "company": "Bangkok Dusit Medical Services",
+    "claim_text": "For Non-Hospital business group, there were some innovation contests held by BDMS Network Hospital Group 7.1 under the activity called 'Innovation Contest BDMS Group 7.1' with the aim to promote susta",
+    "full_pipeline": {
+      "specificity": 2,
+      "measurability": 0,
+      "temporality": 0,
+      "evidence": 1,
+      "consistency": 3,
+      "composite": 1.2
+    },
+    "zero_shot": {
+      "specificity": 2,
+      "measurability": 1,
+      "temporality": 2,
+      "evidence": 1,
+      "consistency": 2,
+      "composite": 1.6
+    },
+    "rag_only": {
+      "specificity": 2,
+      "measurability": 0,
+      "temporality": 0,
+      "evidence": 1,
+      "consistency": 3,
+      "composite": 1.2
+    },
+    "full_tier": "partially_substantive",
+    "zero_shot_tier": "partially_substantive",
+    "rag_only_tier": "partially_substantive"
+  },
+  {
+    "claim_id": "CLM-0112",
+    "company": "Bangkok Dusit Medical Services",
+    "claim_text": "BDMS Innovation Group Contest was held for the first time among BDMS Network Hospital Groups and Subsidiaries with the objectives to encourage and instill innovation for BDMS personnel.",
+    "full_pipeline": {
+      "specificity": 2,
+      "measurability": 0,
+      "temporality": 2,
+      "evidence": 1,
+      "consistency": 3,
+      "composite": 1.6
+    },
+    "zero_shot": {
+      "specificity": 2,
+      "measurability": 1,
+      "temporality": 2,
+      "evidence": 1,
+      "consistency": 2,
+      "composite": 1.6
+    },
+    "rag_only": {
+      "specificity": 2,
+      "measurability": 0,
+      "temporality": 0,
+      "evidence": 1,
+      "consistency": 3,
+      "composite": 1.2
+    },
+    "full_tier": "partially_substantive",
+    "zero_shot_tier": "partially_substantive",
+    "rag_only_tier": "partially_substantive"
+  },
+  {
+    "claim_id": "CLM-0076",
+    "company": "Bangkok Dusit Medical Services",
+    "claim_text": "BDMS realizes the significance of risk management and proceeds into consideration 3 aspects of sustainability: namely, environmental, social and governance (ESG).",
+    "full_pipeline": {
+      "specificity": 1,
+      "measurability": 0,
+      "temporality": 0,
+      "evidence": 1,
+      "consistency": 3,
+      "composite": 1.0
+    },
+    "zero_shot": {
+      "specificity": 1,
+      "measurability": 0,
+      "temporality": 0,
+      "evidence": 0,
+      "consistency": 2,
+      "composite": 0.6
+    },
+    "rag_only": {
+      "specificity": 1,
+      "measurability": 0,
+      "temporality": 0,
+      "evidence": 1,
+      "consistency": 3,
+      "composite": 1.0
+    },
+    "full_tier": "partially_substantive",
+    "zero_shot_tier": "symbolic",
+    "rag_only_tier": "partially_substantive"
+  },
+  {
+    "claim_id": "CLM-0061",
+    "company": "Bangkok Dusit Medical Services",
+    "claim_text": "BDMS provides channels for complaints and suggestions for every stakeholder group, both inside and outside the organization, to report any violations or non-compliance of rules, regulations or any act",
+    "full_pipeline": {
+      "specificity": 2,
+      "measurability": 0,
+      "temporality": 0,
+      "evidence": 2,
+      "consistency": 3,
+      "composite": 1.4
+    },
+    "zero_shot": {
+      "specificity": 2,
+      "measurability": 1,
+      "temporality": 2,
+      "evidence": 1,
+      "consistency": 2,
+      "composite": 1.6
+    },
+    "rag_only": {
+      "specificity": 2,
+      "measurability": 0,
+      "temporality": 0,
+      "evidence": 2,
+      "consistency": 3,
+      "composite": 1.4
+    },
+    "full_tier": "partially_substantive",
+    "zero_shot_tier": "partially_substantive",
+    "rag_only_tier": "partially_substantive"
+  },
+  {
+    "claim_id": "CLM-0252",
+    "company": "Bangkok Dusit Medical Services",
+    "claim_text": "Information disclosure in the report is based on the Core option of the GRI Standards with the date from January 1st to December 31st, 2023.",
+    "full_pipeline": {
+      "specificity": 2,
+      "measurability": 0,
+      "temporality": 2,
+      "evidence": 1,
+      "consistency": 3,
+      "composite": 1.6
+    },
+    "zero_shot": {
+      "specificity": 2,
+      "measurability": 1,
+      "temporality": 2,
+      "evidence": 1,
+      "consistency": 2,
+      "composite": 1.6
+    },
+    "rag_only": {
+      "specificity": 2,
+      "measurability": 0,
+      "temporality": 2,
+      "evidence": 1,
+      "consistency": 3,
+      "composite": 1.6
+    },
+    "full_tier": "partially_substantive",
+    "zero_shot_tier": "partially_substantive",
+    "rag_only_tier": "partially_substantive"
+  },
+  {
+    "claim_id": "CLM-0022",
+    "company": "Bangkok Dusit Medical Services",
+    "claim_text": "Average Employee Training: 57 hours per person per year.",
+    "full_pipeline": {
+      "specificity": 2,
+      "measurability": 2,
+      "temporality": 2,
+      "evidence": 2,
+      "consistency": 3,
+      "composite": 2.2
+    },
+    "zero_shot": {
+      "specificity": 2,
+      "measurability": 1,
+      "temporality": 2,
+      "evidence": 1,
+      "consistency": 2,
+      "composite": 1.6
+    },
+    "rag_only": {
+      "specificity": 2,
+      "measurability": 2,
+      "temporality": 2,
+      "evidence": 1,
+      "consistency": 3,
+      "composite": 2.0
+    },
+    "full_tier": "substantive",
+    "zero_shot_tier": "partially_substantive",
+    "rag_only_tier": "substantive"
+  },
+  {
+    "claim_id": "CLM-0219",
+    "company": "Charoen Pokphand Foods",
+    "claim_text": "The Company pledges to eradicating discrimination and all forms of harassment.",
+    "full_pipeline": {
+      "specificity": 1,
+      "measurability": 0,
+      "temporality": 0,
+      "evidence": 0,
+      "consistency": 1,
+      "composite": 0.4
+    },
+    "zero_shot": {
+      "specificity": 1,
+      "measurability": 0,
+      "temporality": 0,
+      "evidence": 0,
+      "consistency": 2,
+      "composite": 0.6
+    },
+    "rag_only": {
+      "specificity": 1,
+      "measurability": 0,
+      "temporality": 0,
+      "evidence": 0,
+      "consistency": 1,
+      "composite": 0.4
+    },
+    "full_tier": "symbolic",
+    "zero_shot_tier": "symbolic",
+    "rag_only_tier": "symbolic"
+  },
+  {
+    "claim_id": "CLM-0176",
+    "company": "Charoen Pokphand Foods",
+    "claim_text": "Surveying customer satisfaction to utilize findings for the development and improvement of products, services, and the Company’s business operations.",
+    "full_pipeline": {
+      "specificity": 1,
+      "measurability": 0,
+      "temporality": 0,
+      "evidence": 1,
+      "consistency": 1,
+      "composite": 0.6
+    },
+    "zero_shot": {
+      "specificity": 2,
+      "measurability": 1,
+      "temporality": 2,
+      "evidence": 1,
+      "consistency": 2,
+      "composite": 1.6
+    },
+    "rag_only": {
+      "specificity": 1,
+      "measurability": 0,
+      "temporality": 0,
+      "evidence": 1,
+      "consistency": 1,
+      "composite": 0.6
+    },
+    "full_tier": "symbolic",
+    "zero_shot_tier": "partially_substantive",
+    "rag_only_tier": "symbolic"
+  },
+  {
+    "claim_id": "CLM-0019",
+    "company": "Charoen Pokphand Foods",
+    "claim_text": "3,534,958 livelihoods improved in communities connected to the Company’s operations.",
+    "full_pipeline": {
+      "specificity": 1,
+      "measurability": 2,
+      "temporality": 0,
+      "evidence": 2,
+      "consistency": 1,
+      "composite": 1.2
+    },
+    "zero_shot": {
+      "specificity": 2,
+      "measurability": 1,
+      "temporality": 2,
+      "evidence": 1,
+      "consistency": 2,
+      "composite": 1.6
+    },
+    "rag_only": {
+      "specificity": 2,
+      "measurability": 2,
+      "temporality": 2,
+      "evidence": 2,
+      "consistency": 3,
+      "composite": 2.2
+    },
+    "full_tier": "partially_substantive",
+    "zero_shot_tier": "partially_substantive",
+    "rag_only_tier": "substantive"
+  },
+  {
+    "claim_id": "CLM-0043",
+    "company": "Bangkok Dusit Medical Services",
+    "claim_text": "Adjust the guidelines and evaluate the environmental data collection for international standards to lessen the climate change impact while establishing the human rights guidelines.",
+    "full_pipeline": {
+      "specificity": 1,
+      "measurability": 0,
+      "temporality": 0,
+      "evidence": 1,
+      "consistency": 2,
+      "composite": 0.8
+    },
+    "zero_shot": {
+      "specificity": 1,
+      "measurability": 0,
+      "temporality": 0,
+      "evidence": 0,
+      "consistency": 2,
+      "composite": 0.6
+    },
+    "rag_only": {
+      "specificity": 1,
+      "measurability": 0,
+      "temporality": 0,
+      "evidence": 0,
+      "consistency": 1,
+      "composite": 0.4
+    },
+    "full_tier": "symbolic",
+    "zero_shot_tier": "symbolic",
+    "rag_only_tier": "symbolic"
+  },
+  {
+    "claim_id": "CLM-0043",
+    "company": "Charoen Pokphand Foods",
+    "claim_text": "35 million consumers per day reached to healthy foods and beverages",
+    "full_pipeline": {
+      "specificity": 2,
+      "measurability": 2,
+      "temporality": 0,
+      "evidence": 1,
+      "consistency": 1,
+      "composite": 1.2
+    },
+    "zero_shot": {
+      "specificity": 2,
+      "measurability": 1,
+      "temporality": 2,
+      "evidence": 1,
+      "consistency": 2,
+      "composite": 1.6
+    },
+    "rag_only": {
+      "specificity": 1,
+      "measurability": 2,
+      "temporality": 0,
+      "evidence": 1,
+      "consistency": 1,
+      "composite": 1.0
+    },
+    "full_tier": "partially_substantive",
+    "zero_shot_tier": "partially_substantive",
+    "rag_only_tier": "partially_substantive"
+  },
+  {
+    "claim_id": "CLM-0092",
+    "company": "Charoen Pokphand Foods",
+    "claim_text": "The Company established a digital product traceability system for Thailand’s operations to assure product quality and safety for consumers by providing transparent information.",
+    "full_pipeline": {
+      "specificity": 2,
+      "measurability": 0,
+      "temporality": 0,
+      "evidence": 2,
+      "consistency": 3,
+      "composite": 1.4
+    },
+    "zero_shot": {
+      "specificity": 2,
+      "measurability": 1,
+      "temporality": 2,
+      "evidence": 1,
+      "consistency": 2,
+      "composite": 1.6
+    },
+    "rag_only": {
+      "specificity": 2,
+      "measurability": 0,
+      "temporality": 0,
+      "evidence": 1,
+      "consistency": 3,
+      "composite": 1.2
+    },
+    "full_tier": "partially_substantive",
+    "zero_shot_tier": "partially_substantive",
+    "rag_only_tier": "partially_substantive"
+  },
+  {
+    "claim_id": "CLM-0099",
+    "company": "Charoen Pokphand Foods",
+    "claim_text": "This project encouraged employees to become innovators and innovator assistants in total of 1,147 individuals.",
+    "full_pipeline": {
+      "specificity": 2,
+      "measurability": 2,
+      "temporality": 0,
+      "evidence": 1,
+      "consistency": 1,
+      "composite": 1.2
+    },
+    "zero_shot": {
+      "specificity": 2,
+      "measurability": 1,
+      "temporality": 2,
+      "evidence": 1,
+      "consistency": 2,
+      "composite": 1.6
+    },
+    "rag_only": {
+      "specificity": 2,
+      "measurability": 2,
+      "temporality": 0,
+      "evidence": 1,
+      "consistency": 0,
+      "composite": 1.0
+    },
+    "full_tier": "partially_substantive",
+    "zero_shot_tier": "partially_substantive",
+    "rag_only_tier": "partially_substantive"
+  },
+  {
+    "claim_id": "CLM-0205",
+    "company": "Charoen Pokphand Foods",
+    "claim_text": "The Company realizes the importance of respecting stakeholders’ human rights in all aspects, including shareholders, employees, workers and their families, customers, consumers, business partners, com",
+    "full_pipeline": {
+      "specificity": 1,
+      "measurability": 0,
+      "temporality": 0,
+      "evidence": 2,
+      "consistency": 3,
+      "composite": 1.2
+    },
+    "zero_shot": {
+      "specificity": 2,
+      "measurability": 1,
+      "temporality": 2,
+      "evidence": 1,
+      "consistency": 2,
+      "composite": 1.6
+    },
+    "rag_only": {
+      "specificity": 1,
+      "measurability": 0,
+      "temporality": 0,
+      "evidence": 2,
+      "consistency": 3,
+      "composite": 1.2
+    },
+    "full_tier": "partially_substantive",
+    "zero_shot_tier": "partially_substantive",
+    "rag_only_tier": "partially_substantive"
+  },
+  {
+    "claim_id": "CLM-0244",
+    "company": "Charoen Pokphand Foods",
+    "claim_text": "4,777 employees, or 22.5% of the workforce at the standard level, have demonstrated high-level digital skills by passing the required assessment.",
+    "full_pipeline": {
+      "specificity": 2,
+      "measurability": 2,
+      "temporality": 0,
+      "evidence": 1,
+      "consistency": 2,
+      "composite": 1.4
+    },
+    "zero_shot": {
+      "specificity": 2,
+      "measurability": 1,
+      "temporality": 2,
+      "evidence": 1,
+      "consistency": 2,
+      "composite": 1.6
+    },
+    "rag_only": {
+      "specificity": 2,
+      "measurability": 2,
+      "temporality": 2,
+      "evidence": 1,
+      "consistency": 2,
+      "composite": 1.8
+    },
+    "full_tier": "partially_substantive",
+    "zero_shot_tier": "partially_substantive",
+    "rag_only_tier": "partially_substantive"
+  },
+  {
+    "claim_id": "CLM-0005",
+    "company": "Charoen Pokphand Foods",
+    "claim_text": "In 2023, one of important missions is the declaration of Net-zero commitment by 2050 and the Company is 1 of the 7 companies worldwide who enter the pilot projects and recognized as the first food pro",
+    "full_pipeline": {
+      "specificity": 2,
+      "measurability": 0,
+      "temporality": 2,
+      "evidence": 3,
+      "consistency": 3,
+      "composite": 2.0
+    },
+    "zero_shot": {
+      "specificity": 2,
+      "measurability": 1,
+      "temporality": 2,
+      "evidence": 1,
+      "consistency": 2,
+      "composite": 1.6
+    },
+    "rag_only": {
+      "specificity": 2,
+      "measurability": 0,
+      "temporality": 2,
+      "evidence": 3,
+      "consistency": 3,
+      "composite": 2.0
+    },
+    "full_tier": "substantive",
+    "zero_shot_tier": "partially_substantive",
+    "rag_only_tier": "substantive"
+  },
+  {
+    "claim_id": "CLM-0256",
+    "company": "Siam Cement Group",
+    "claim_text": "Total addressable market and share of market for products that reduce energy, water, and/or material impacts during usage and/or production",
+    "full_pipeline": {
+      "specificity": 1,
+      "measurability": 0,
+      "temporality": 0,
+      "evidence": 0,
+      "consistency": 1,
+      "composite": 0.4
+    },
+    "zero_shot": {
+      "specificity": 2,
+      "measurability": 1,
+      "temporality": 2,
+      "evidence": 1,
+      "consistency": 2,
+      "composite": 1.6
+    },
+    "rag_only": {
+      "specificity": 1,
+      "measurability": 0,
+      "temporality": 0,
+      "evidence": 0,
+      "consistency": 1,
+      "composite": 0.4
+    },
+    "full_tier": "symbolic",
+    "zero_shot_tier": "partially_substantive",
+    "rag_only_tier": "symbolic"
+  },
+  {
+    "claim_id": "CLM-0111",
+    "company": "Siam Cement Group",
+    "claim_text": "Apply circular economy principles to enhance resource efficiency, decrease risks of resource shortages, and minimize environmental impacts.",
+    "full_pipeline": {
+      "specificity": 1,
+      "measurability": 0,
+      "temporality": 0,
+      "evidence": 1,
+      "consistency": 2,
+      "composite": 0.8
+    },
+    "zero_shot": {
+      "specificity": 2,
+      "measurability": 1,
+      "temporality": 2,
+      "evidence": 1,
+      "consistency": 2,
+      "composite": 1.6
+    },
+    "rag_only": {
+      "specificity": 1,
+      "measurability": 0,
+      "temporality": 0,
+      "evidence": 1,
+      "consistency": 2,
+      "composite": 0.8
+    },
+    "full_tier": "symbolic",
+    "zero_shot_tier": "partially_substantive",
+    "rag_only_tier": "symbolic"
+  },
+  {
+    "claim_id": "CLM-0254",
+    "company": "Siam Cement Group",
+    "claim_text": "Number of reported cases of silicosis",
+    "full_pipeline": {
+      "specificity": 2,
+      "measurability": 0,
+      "temporality": 0,
+      "evidence": 0,
+      "consistency": 1,
+      "composite": 0.6
+    },
+    "zero_shot": {
+      "specificity": 2,
+      "measurability": 1,
+      "temporality": 2,
+      "evidence": 1,
+      "consistency": 2,
+      "composite": 1.6
+    },
+    "rag_only": {
+      "specificity": 1,
+      "measurability": 0,
+      "temporality": 0,
+      "evidence": 0,
+      "consistency": 1,
+      "composite": 0.4
+    },
+    "full_tier": "symbolic",
+    "zero_shot_tier": "partially_substantive",
+    "rag_only_tier": "symbolic"
+  },
+  {
+    "claim_id": "CLM-0187",
+    "company": "Siam Cement Group",
+    "claim_text": "Proportion of female employees in all management positions by 2025: 30.6% in 2023, target 27%.",
+    "full_pipeline": {
+      "specificity": 2,
+      "measurability": 2,
+      "temporality": 2,
+      "evidence": 1,
+      "consistency": 0,
+      "composite": 1.4
+    },
+    "zero_shot": {
+      "specificity": 2,
+      "measurability": 1,
+      "temporality": 2,
+      "evidence": 1,
+      "consistency": 2,
+      "composite": 1.6
+    },
+    "rag_only": {
+      "specificity": 2,
+      "measurability": 3,
+      "temporality": 2,
+      "evidence": 1,
+      "consistency": 0,
+      "composite": 1.6
+    },
+    "full_tier": "partially_substantive",
+    "zero_shot_tier": "partially_substantive",
+    "rag_only_tier": "partially_substantive"
+  },
+  {
+    "claim_id": "CLM-0102",
+    "company": "Siam Cement Group",
+    "claim_text": "Establish a unified organization-wide risk management framework and carry out human rights due diligence process in all facets in a proactive manner to prevent human rights violation.",
+    "full_pipeline": {
+      "specificity": 2,
+      "measurability": 0,
+      "temporality": 0,
+      "evidence": 2,
+      "consistency": 3,
+      "composite": 1.4
+    },
+    "zero_shot": {
+      "specificity": 2,
+      "measurability": 1,
+      "temporality": 2,
+      "evidence": 1,
+      "consistency": 2,
+      "composite": 1.6
+    },
+    "rag_only": {
+      "specificity": 1,
+      "measurability": 0,
+      "temporality": 0,
+      "evidence": 1,
+      "consistency": 2,
+      "composite": 0.8
+    },
+    "full_tier": "partially_substantive",
+    "zero_shot_tier": "partially_substantive",
+    "rag_only_tier": "symbolic"
+  },
+  {
+    "claim_id": "CLM-0202",
+    "company": "Siam Cement Group",
+    "claim_text": "Management Acceleration Program (MAP-8): Five projects generated, accounting for 71% of all projects created in the program.",
+    "full_pipeline": {
+      "specificity": 2,
+      "measurability": 2,
+      "temporality": 0,
+      "evidence": 1,
+      "consistency": 1,
+      "composite": 1.2
+    },
+    "zero_shot": {
+      "specificity": 2,
+      "measurability": 1,
+      "temporality": 2,
+      "evidence": 1,
+      "consistency": 2,
+      "composite": 1.6
+    },
+    "rag_only": {
+      "specificity": 2,
+      "measurability": 2,
+      "temporality": 0,
+      "evidence": 1,
+      "consistency": 1,
+      "composite": 1.2
+    },
+    "full_tier": "partially_substantive",
+    "zero_shot_tier": "partially_substantive",
+    "rag_only_tier": "partially_substantive"
+  },
+  {
+    "claim_id": "CLM-0127",
+    "company": "Siam Cement Group",
+    "claim_text": "SCG, in collaboration with its partners, including government agencies, private organizations, and the general public, has installed a total of 397 coral homes to restore coral reefs in various areas,",
+    "full_pipeline": {
+      "specificity": 3,
+      "measurability": 2,
+      "temporality": 0,
+      "evidence": 1,
+      "consistency": 3,
+      "composite": 1.8
+    },
+    "zero_shot": {
+      "specificity": 2,
+      "measurability": 1,
+      "temporality": 2,
+      "evidence": 1,
+      "consistency": 2,
+      "composite": 1.6
+    },
+    "rag_only": {
+      "specificity": 3,
+      "measurability": 2,
+      "temporality": 0,
+      "evidence": 1,
+      "consistency": 2,
+      "composite": 1.6
+    },
+    "full_tier": "partially_substantive",
+    "zero_shot_tier": "partially_substantive",
+    "rag_only_tier": "partially_substantive"
+  },
+  {
+    "claim_id": "CLM-0004",
+    "company": "Siam Cement Group",
+    "claim_text": "In 2023, SCG elevated ESG into a national agenda at the ESG Symposium 2023 'Accelerating Changes Towards a Low Carbon Society,' where all government, private, and civil society sectors came together t",
+    "full_pipeline": {
+      "specificity": 2,
+      "measurability": 0,
+      "temporality": 2,
+      "evidence": 1,
+      "consistency": 3,
+      "composite": 1.6
+    },
+    "zero_shot": {
+      "specificity": 2,
+      "measurability": 1,
+      "temporality": 2,
+      "evidence": 1,
+      "consistency": 2,
+      "composite": 1.6
+    },
+    "rag_only": {
+      "specificity": 2,
+      "measurability": 0,
+      "temporality": 2,
+      "evidence": 1,
+      "consistency": 3,
+      "composite": 1.6
+    },
+    "full_tier": "partially_substantive",
+    "zero_shot_tier": "partially_substantive",
+    "rag_only_tier": "partially_substantive"
+  },
+  {
+    "claim_id": "CLM-0040",
+    "company": "Siam Cement Group",
+    "claim_text": "Revenue from Sales of SCG Green Choice Products, Services and Solutions 56.02 %",
+    "full_pipeline": {
+      "specificity": 2,
+      "measurability": 2,
+      "temporality": 2,
+      "evidence": 1,
+      "consistency": 3,
+      "composite": 2.0
+    },
+    "zero_shot": {
+      "specificity": 2,
+      "measurability": 1,
+      "temporality": 2,
+      "evidence": 1,
+      "consistency": 2,
+      "composite": 1.6
+    },
+    "rag_only": {
+      "specificity": 2,
+      "measurability": 2,
+      "temporality": 2,
+      "evidence": 1,
+      "consistency": 3,
+      "composite": 2.0
+    },
+    "full_tier": "substantive",
+    "zero_shot_tier": "partially_substantive",
+    "rag_only_tier": "substantive"
+  },
+  {
+    "claim_id": "CLM-0140",
+    "company": "Siam Cement Group",
+    "claim_text": "SCGC (Chemicals Business) Rayong Olefins Co., Ltd. improved its production process by Machine Learning and Prediction Model to real time optimization. modifying the reactor by Furnace Digitalization I",
+    "full_pipeline": {
+      "specificity": 3,
+      "measurability": 2,
+      "temporality": 2,
+      "evidence": 1,
+      "consistency": 3,
+      "composite": 2.2
+    },
+    "zero_shot": {
+      "specificity": 2,
+      "measurability": 1,
+      "temporality": 2,
+      "evidence": 1,
+      "consistency": 2,
+      "composite": 1.6
+    },
+    "rag_only": {
+      "specificity": 3,
+      "measurability": 2,
+      "temporality": 0,
+      "evidence": 1,
+      "consistency": 3,
+      "composite": 1.8
+    },
+    "full_tier": "substantive",
+    "zero_shot_tier": "partially_substantive",
+    "rag_only_tier": "partially_substantive"
+  },
+  {
+    "claim_id": "CLM-0201",
+    "company": "Siam Commercial Bank",
+    "claim_text": "SCBAM aspires to deliver the best investment solutions and satisfactory returns to clients, while actively contributing to positive social impact.",
+    "full_pipeline": {
+      "specificity": 1,
+      "measurability": 0,
+      "temporality": 0,
+      "evidence": 1,
+      "consistency": 2,
+      "composite": 0.8
+    },
+    "zero_shot": {
+      "specificity": 1,
+      "measurability": 0,
+      "temporality": 0,
+      "evidence": 0,
+      "consistency": 2,
+      "composite": 0.6
+    },
+    "rag_only": {
+      "specificity": 1,
+      "measurability": 0,
+      "temporality": 0,
+      "evidence": 1,
+      "consistency": 2,
+      "composite": 0.8
+    },
+    "full_tier": "symbolic",
+    "zero_shot_tier": "symbolic",
+    "rag_only_tier": "symbolic"
+  },
+  {
+    "claim_id": "CLM-0074",
+    "company": "Siam Commercial Bank",
+    "claim_text": "2,206 employees underwent the training",
+    "full_pipeline": {
+      "specificity": 2,
+      "measurability": 2,
+      "temporality": 0,
+      "evidence": 1,
+      "consistency": 1,
+      "composite": 1.2
+    },
+    "zero_shot": {
+      "specificity": 2,
+      "measurability": 2,
+      "temporality": 2,
+      "evidence": 1,
+      "consistency": 2,
+      "composite": 1.8
+    },
+    "rag_only": {
+      "specificity": 2,
+      "measurability": 2,
+      "temporality": 0,
+      "evidence": 1,
+      "consistency": 1,
+      "composite": 1.2
+    },
+    "full_tier": "partially_substantive",
+    "zero_shot_tier": "partially_substantive",
+    "rag_only_tier": "partially_substantive"
+  },
+  {
+    "claim_id": "CLM-0103",
+    "company": "Siam Commercial Bank",
+    "claim_text": "SCB TikTok Financial Avengers ‘From Zero to Hero’ on TikTok “SCB Thailand” aiming to provide financial knowledge, business strategies and tips, financial-related lifestyle, and economic trends and kno",
+    "full_pipeline": {
+      "specificity": 2,
+      "measurability": 0,
+      "temporality": 0,
+      "evidence": 1,
+      "consistency": 3,
+      "composite": 1.2
+    },
+    "zero_shot": {
+      "specificity": 2,
+      "measurability": 1,
+      "temporality": 2,
+      "evidence": 1,
+      "consistency": 2,
+      "composite": 1.6
+    },
+    "rag_only": {
+      "specificity": 2,
+      "measurability": 0,
+      "temporality": 0,
+      "evidence": 1,
+      "consistency": 3,
+      "composite": 1.2
+    },
+    "full_tier": "partially_substantive",
+    "zero_shot_tier": "partially_substantive",
+    "rag_only_tier": "partially_substantive"
+  },
+  {
+    "claim_id": "CLM-0147",
+    "company": "Siam Commercial Bank",
+    "claim_text": "SCB Challenge aims to nurture the skills of Thai youth and goes beyond competitive activities.",
+    "full_pipeline": {
+      "specificity": 2,
+      "measurability": 0,
+      "temporality": 0,
+      "evidence": 1,
+      "consistency": 3,
+      "composite": 1.2
+    },
+    "zero_shot": {
+      "specificity": 2,
+      "measurability": 1,
+      "temporality": 2,
+      "evidence": 1,
+      "consistency": 2,
+      "composite": 1.6
+    },
+    "rag_only": {
+      "specificity": 2,
+      "measurability": 0,
+      "temporality": 0,
+      "evidence": 1,
+      "consistency": 2,
+      "composite": 1.0
+    },
+    "full_tier": "partially_substantive",
+    "zero_shot_tier": "partially_substantive",
+    "rag_only_tier": "partially_substantive"
+  },
+  {
+    "claim_id": "CLM-0052",
+    "company": "Siam Commercial Bank",
+    "claim_text": "Incorporate climate risk considerations into the end-to-end credit process, including strategy development, credit approval, and customer reviews.",
+    "full_pipeline": {
+      "specificity": 2,
+      "measurability": 0,
+      "temporality": 0,
+      "evidence": 2,
+      "consistency": 3,
+      "composite": 1.4
+    },
+    "zero_shot": {
+      "specificity": 2,
+      "measurability": 1,
+      "temporality": 2,
+      "evidence": 1,
+      "consistency": 2,
+      "composite": 1.6
+    },
+    "rag_only": {
+      "specificity": 2,
+      "measurability": 0,
+      "temporality": 0,
+      "evidence": 2,
+      "consistency": 3,
+      "composite": 1.4
+    },
+    "full_tier": "partially_substantive",
+    "zero_shot_tier": "partially_substantive",
+    "rag_only_tier": "partially_substantive"
+  },
+  {
+    "claim_id": "CLM-0164",
+    "company": "Siam Commercial Bank",
+    "claim_text": "Performance since the project inception: Beneficiary: 7992 households, 22 communities in 17 provinces",
+    "full_pipeline": {
+      "specificity": 2,
+      "measurability": 2,
+      "temporality": 0,
+      "evidence": 2,
+      "consistency": 1,
+      "composite": 1.4
+    },
+    "zero_shot": {
+      "specificity": 2,
+      "measurability": 1,
+      "temporality": 2,
+      "evidence": 1,
+      "consistency": 2,
+      "composite": 1.6
+    },
+    "rag_only": {
+      "specificity": 2,
+      "measurability": 2,
+      "temporality": 0,
+      "evidence": 1,
+      "consistency": 1,
+      "composite": 1.2
+    },
+    "full_tier": "partially_substantive",
+    "zero_shot_tier": "partially_substantive",
+    "rag_only_tier": "partially_substantive"
+  },
+  {
+    "claim_id": "CLM-0020",
+    "company": "Siam Commercial Bank",
+    "claim_text": "Achieved 7% reduction in Scope 1 and 2 against the 2022 baseline.",
+    "full_pipeline": {
+      "specificity": 2,
+      "measurability": 3,
+      "temporality": 2,
+      "evidence": 2,
+      "consistency": 3,
+      "composite": 2.4
+    },
+    "zero_shot": {
+      "specificity": 2,
+      "measurability": 1,
+      "temporality": 2,
+      "evidence": 1,
+      "consistency": 2,
+      "composite": 1.6
+    },
+    "rag_only": {
+      "specificity": 2,
+      "measurability": 3,
+      "temporality": 2,
+      "evidence": 2,
+      "consistency": 3,
+      "composite": 2.4
+    },
+    "full_tier": "substantive",
+    "zero_shot_tier": "partially_substantive",
+    "rag_only_tier": "substantive"
+  },
+  {
+    "claim_id": "CLM-0020",
+    "company": "Charoen Pokphand Foods",
+    "claim_text": "49.4% of key raw materials were traceable.",
+    "full_pipeline": {
+      "specificity": 2,
+      "measurability": 2,
+      "temporality": 0,
+      "evidence": 1,
+      "consistency": 0,
+      "composite": 1.0
+    },
+    "zero_shot": {
+      "specificity": 2,
+      "measurability": 1,
+      "temporality": 2,
+      "evidence": 1,
+      "consistency": 2,
+      "composite": 1.6
+    },
+    "rag_only": {
+      "specificity": 2,
+      "measurability": 2,
+      "temporality": 0,
+      "evidence": 1,
+      "consistency": 0,
+      "composite": 1.0
+    },
+    "full_tier": "partially_substantive",
+    "zero_shot_tier": "partially_substantive",
+    "rag_only_tier": "partially_substantive"
+  },
+  {
+    "claim_id": "CLM-0213",
+    "company": "Siam Commercial Bank",
+    "claim_text": "In 2023, AutoX initiated the solar rooftop installation at 222 Ngern Chaiyo branches—122 of which were funded by AutoX, and another 100 were funded by Chow Energy.",
+    "full_pipeline": {
+      "specificity": 3,
+      "measurability": 2,
+      "temporality": 2,
+      "evidence": 1,
+      "consistency": 3,
+      "composite": 2.2
+    },
+    "zero_shot": {
+      "specificity": 2,
+      "measurability": 1,
+      "temporality": 2,
+      "evidence": 1,
+      "consistency": 2,
+      "composite": 1.6
+    },
+    "rag_only": {
+      "specificity": 3,
+      "measurability": 2,
+      "temporality": 2,
+      "evidence": 1,
+      "consistency": 3,
+      "composite": 2.2
+    },
+    "full_tier": "substantive",
+    "zero_shot_tier": "partially_substantive",
+    "rag_only_tier": "substantive"
+  },
+  {
+    "claim_id": "CLM-0085",
+    "company": "True Corporation",
+    "claim_text": "In 2023, employees underwent individual characteristic assessments with a 100% completion rate.",
+    "full_pipeline": {
+      "specificity": 2,
+      "measurability": 2,
+      "temporality": 2,
+      "evidence": 2,
+      "consistency": 3,
+      "composite": 2.2
+    },
+    "zero_shot": {
+      "specificity": 2,
+      "measurability": 1,
+      "temporality": 2,
+      "evidence": 1,
+      "consistency": 2,
+      "composite": 1.6
+    },
+    "rag_only": {
+      "specificity": 2,
+      "measurability": 2,
+      "temporality": 2,
+      "evidence": 1,
+      "consistency": 3,
+      "composite": 2.0
+    },
+    "full_tier": "substantive",
+    "zero_shot_tier": "partially_substantive",
+    "rag_only_tier": "substantive"
+  },
+  {
+    "claim_id": "CLM-0159",
+    "company": "True Corporation",
+    "claim_text": "The company consistently achieved its target of 100% supplier assessment on ESG criteria via the online system for three consecutive years (2021–2023).",
+    "full_pipeline": {
+      "specificity": 2,
+      "measurability": 2,
+      "temporality": 3,
+      "evidence": 1,
+      "consistency": 2,
+      "composite": 2.0
+    },
+    "zero_shot": {
+      "specificity": 2,
+      "measurability": 1,
+      "temporality": 2,
+      "evidence": 1,
+      "consistency": 2,
+      "composite": 1.6
+    },
+    "rag_only": {
+      "specificity": 2,
+      "measurability": 3,
+      "temporality": 3,
+      "evidence": 1,
+      "consistency": 2,
+      "composite": 2.2
+    },
+    "full_tier": "substantive",
+    "zero_shot_tier": "partially_substantive",
+    "rag_only_tier": "substantive"
+  },
+  {
+    "claim_id": "CLM-0135",
+    "company": "True Corporation",
+    "claim_text": "In 2023, there were 62,925 users and over 6.2 million trees planted across Thailand tracked via WE GROW.",
+    "full_pipeline": {
+      "specificity": 3,
+      "measurability": 2,
+      "temporality": 2,
+      "evidence": 1,
+      "consistency": 0,
+      "composite": 1.6
+    },
+    "zero_shot": {
+      "specificity": 2,
+      "measurability": 1,
+      "temporality": 2,
+      "evidence": 1,
+      "consistency": 2,
+      "composite": 1.6
+    },
+    "rag_only": {
+      "specificity": 3,
+      "measurability": 2,
+      "temporality": 2,
+      "evidence": 1,
+      "consistency": 0,
+      "composite": 1.6
+    },
+    "full_tier": "partially_substantive",
+    "zero_shot_tier": "partially_substantive",
+    "rag_only_tier": "partially_substantive"
+  },
+  {
+    "claim_id": "CLM-0135",
+    "company": "Siam Commercial Bank",
+    "claim_text": "SCBX Group, by SCB 10X, aspires to create long-term value and spearhead future financial innovations under the ‘Moonshot Mission’ to achieve exponential growth.",
+    "full_pipeline": {
+      "specificity": 1,
+      "measurability": 0,
+      "temporality": 0,
+      "evidence": 1,
+      "consistency": 2,
+      "composite": 0.8
+    },
+    "zero_shot": {
+      "specificity": 2,
+      "measurability": 1,
+      "temporality": 2,
+      "evidence": 1,
+      "consistency": 2,
+      "composite": 1.6
+    },
+    "rag_only": {
+      "specificity": 1,
+      "measurability": 0,
+      "temporality": 0,
+      "evidence": 0,
+      "consistency": 1,
+      "composite": 0.4
+    },
+    "full_tier": "symbolic",
+    "zero_shot_tier": "partially_substantive",
+    "rag_only_tier": "symbolic"
+  },
+  {
+    "claim_id": "CLM-0012",
+    "company": "True Corporation",
+    "claim_text": "100% employees participating in digital reskilling and upskilling",
+    "full_pipeline": {
+      "specificity": 2,
+      "measurability": 2,
+      "temporality": 0,
+      "evidence": 1,
+      "consistency": 2,
+      "composite": 1.4
+    },
+    "zero_shot": {
+      "specificity": 2,
+      "measurability": 1,
+      "temporality": 2,
+      "evidence": 1,
+      "consistency": 2,
+      "composite": 1.6
+    },
+    "rag_only": {
+      "specificity": 2,
+      "measurability": 2,
+      "temporality": 0,
+      "evidence": 1,
+      "consistency": 2,
+      "composite": 1.4
+    },
+    "full_tier": "partially_substantive",
+    "zero_shot_tier": "partially_substantive",
+    "rag_only_tier": "partially_substantive"
+  },
+  {
+    "claim_id": "CLM-0049",
+    "company": "True Corporation",
+    "claim_text": "2023 Target: 100% Compliance to PDPA",
+    "full_pipeline": {
+      "specificity": 2,
+      "measurability": 2,
+      "temporality": 2,
+      "evidence": 1,
+      "consistency": 3,
+      "composite": 2.0
+    },
+    "zero_shot": {
+      "specificity": 2,
+      "measurability": 1,
+      "temporality": 2,
+      "evidence": 1,
+      "consistency": 2,
+      "composite": 1.6
+    },
+    "rag_only": {
+      "specificity": 2,
+      "measurability": 0,
+      "temporality": 2,
+      "evidence": 0,
+      "consistency": 1,
+      "composite": 1.0
+    },
+    "full_tier": "substantive",
+    "zero_shot_tier": "partially_substantive",
+    "rag_only_tier": "partially_substantive"
+  },
+  {
+    "claim_id": "CLM-0049",
+    "company": "Siam Commercial Bank",
+    "claim_text": "The assessment outcome enables SCBX and SCB to be mindful of the evolving regulatory landscape and transition risks associated with GHG emission control measures.",
+    "full_pipeline": {
+      "specificity": 1,
+      "measurability": 0,
+      "temporality": 0,
+      "evidence": 2,
+      "consistency": 3,
+      "composite": 1.2
+    },
+    "zero_shot": {
+      "specificity": 2,
+      "measurability": 1,
+      "temporality": 2,
+      "evidence": 1,
+      "consistency": 2,
+      "composite": 1.6
+    },
+    "rag_only": {
+      "specificity": 1,
+      "measurability": 0,
+      "temporality": 0,
+      "evidence": 0,
+      "consistency": 1,
+      "composite": 0.4
+    },
+    "full_tier": "partially_substantive",
+    "zero_shot_tier": "partially_substantive",
+    "rag_only_tier": "symbolic"
+  },
+  {
+    "claim_id": "CLM-0089",
+    "company": "True Corporation",
+    "claim_text": "The Company plans and designs comprehensive and sustainable welfare programs for everyone in the organization, according to the needs of each employee group.",
+    "full_pipeline": {
+      "specificity": 1,
+      "measurability": 0,
+      "temporality": 0,
+      "evidence": 1,
+      "consistency": 2,
+      "composite": 0.8
+    },
+    "zero_shot": {
+      "specificity": 1,
+      "measurability": 0,
+      "temporality": 0,
+      "evidence": 0,
+      "consistency": 2,
+      "composite": 0.6
+    },
+    "rag_only": {
+      "specificity": 1,
+      "measurability": 0,
+      "temporality": 0,
+      "evidence": 1,
+      "consistency": 2,
+      "composite": 0.8
+    },
+    "full_tier": "symbolic",
+    "zero_shot_tier": "symbolic",
+    "rag_only_tier": "symbolic"
+  },
+  {
+    "claim_id": "CLM-0025",
+    "company": "True Corporation",
+    "claim_text": "True has the Code of Conduct in conducting business, guiding our employees to operate responsibly and in compliance with organizational goals, policies, and the requirements of laws, regulations, and ",
+    "full_pipeline": {
+      "specificity": 1,
+      "measurability": 0,
+      "temporality": 0,
+      "evidence": 1,
+      "consistency": 3,
+      "composite": 1.0
+    },
+    "zero_shot": {
+      "specificity": 2,
+      "measurability": 1,
+      "temporality": 2,
+      "evidence": 1,
+      "consistency": 2,
+      "composite": 1.6
+    },
+    "rag_only": {
+      "specificity": 1,
+      "measurability": 0,
+      "temporality": 0,
+      "evidence": 1,
+      "consistency": 3,
+      "composite": 1.0
+    },
+    "full_tier": "partially_substantive",
+    "zero_shot_tier": "partially_substantive",
+    "rag_only_tier": "partially_substantive"
+  },
+  {
+    "claim_id": "CLM-0134",
+    "company": "True Corporation",
+    "claim_text": "The Smart Robot assists in the treatment of thyroid cancer with iodine radiation, designed by integrating human-like qualities with Human-Tech Technology, following the concept of Humanize.",
+    "full_pipeline": {
+      "specificity": 2,
+      "measurability": 0,
+      "temporality": 0,
+      "evidence": 1,
+      "consistency": 0,
+      "composite": 0.6
+    },
+    "zero_shot": {
+      "specificity": 2,
+      "measurability": 1,
+      "temporality": 2,
+      "evidence": 1,
+      "consistency": 2,
+      "composite": 1.6
+    },
+    "rag_only": {
+      "specificity": 1,
+      "measurability": 0,
+      "temporality": 0,
+      "evidence": 0,
+      "consistency": 1,
+      "composite": 0.4
+    },
+    "full_tier": "symbolic",
+    "zero_shot_tier": "partially_substantive",
+    "rag_only_tier": "symbolic"
+  },
+  {
+    "claim_id": "CLM-0090",
+    "company": "True Corporation",
+    "claim_text": "True supports inclusivity and equality for LGBTQ+ employees within the organization by providing specific leave entitlements, including 30 days for gender reassignment surgery, 6 days for wedding cere",
+    "full_pipeline": {
+      "specificity": 3,
+      "measurability": 2,
+      "temporality": 0,
+      "evidence": 2,
+      "consistency": 2,
+      "composite": 1.8
+    },
+    "zero_shot": {
+      "specificity": 2,
+      "measurability": 1,
+      "temporality": 2,
+      "evidence": 1,
+      "consistency": 2,
+      "composite": 1.6
+    },
+    "rag_only": {
+      "specificity": 3,
+      "measurability": 2,
+      "temporality": 0,
+      "evidence": 2,
+      "consistency": 3,
+      "composite": 2.0
+    },
+    "full_tier": "partially_substantive",
+    "zero_shot_tier": "partially_substantive",
+    "rag_only_tier": "substantive"
+  },
+  {
+    "claim_id": "CLM-0110",
+    "company": "True Corporation",
+    "claim_text": "True is creating a network with improved signal quality and coverage.",
+    "full_pipeline": {
+      "specificity": 2,
+      "measurability": 1,
+      "temporality": 0,
+      "evidence": 2,
+      "consistency": 3,
+      "composite": 1.6
+    },
+    "zero_shot": {
+      "specificity": 2,
+      "measurability": 1,
+      "temporality": 2,
+      "evidence": 1,
+      "consistency": 2,
+      "composite": 1.6
+    },
+    "rag_only": {
+      "specificity": 2,
+      "measurability": 1,
+      "temporality": 0,
+      "evidence": 2,
+      "consistency": 3,
+      "composite": 1.6
+    },
+    "full_tier": "partially_substantive",
+    "zero_shot_tier": "partially_substantive",
+    "rag_only_tier": "partially_substantive"
+  }
+]

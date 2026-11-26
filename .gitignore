@@ -1,0 +1,13 @@
+# never release
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+__pycache__/
+*.pyc
+.DS_Store
+~$*
+.~lock*
+*.pdf
+!instrument/forms/*.pdf

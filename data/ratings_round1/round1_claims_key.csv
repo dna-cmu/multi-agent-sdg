@@ -1,0 +1,61 @@
+claim_id,set,challenge_category,uid,company,sector,report,claim_type,stratum,weight
+R01,representative,,PTTGC-2024-IR-EN::CLM-0094,PTTGC,Energy,PTTGC-2024-IR-EN,achievement,PTTGC|achievement,19.5
+R02,representative,,IVL-2024-SR-EN::CLM-0048,IVL,Construction Materials,IVL-2024-SR-EN,metric,IVL|metric,26.5
+R03,representative,,CPN-2024-OR+SR-EN::CLM-0049,CPN,Real Estate,CPN-2024-OR+SR-EN,commitment,CPN|commitment,10.0
+R04,representative,,IVL-2024-SR-EN::CLM-0209,IVL,Construction Materials,IVL-2024-SR-EN,commitment,IVL|commitment,27.667
+R05,representative,,PTT-2024-OR+SR-EN::CLM-0114,PTT,Energy,PTT-2024-OR+SR-EN,commitment,PTT|commitment,13.8
+R06,representative,,CPN-2024-OR+SR-EN::CLM-0050,CPN,Real Estate,CPN-2024-OR+SR-EN,alignment,CPN|alignment,4.0
+R07,representative,,CPN-2024-OR+SR-EN::CLM-0028,CPN,Real Estate,CPN-2024-OR+SR-EN,commitment,CPN|commitment,10.0
+R08,representative,,SCC-2024-SR-EN::CLM-0089,SCC,Construction Materials,SCC-2024-SR-EN,achievement,SCC|achievement,12.0
+R09,representative,,PTT-2024-OR+SR-EN::CLM-0054,PTT,Energy,PTT-2024-OR+SR-EN,metric,PTT|metric,14.0
+R10,representative,,advanc-2024-SR-en::CLM-0064,ADVANC,Telecommunications,advanc-2024-SR-en,commitment,ADVANC|commitment,20.75
+R11,representative,,advanc-2024-SR-en::CLM-0144,ADVANC,Telecommunications,advanc-2024-SR-en,achievement,ADVANC|achievement,22.0
+R12,representative,,IVL-2024-SR-EN::CLM-0056,IVL,Construction Materials,IVL-2024-SR-EN,alignment,IVL|alignment,15.0
+R13,representative,,advanc-2024-SR-en::CLM-0162,ADVANC,Telecommunications,advanc-2024-SR-en,policy,ADVANC|policy,10.0
+R14,representative,,CPN-2024-OR+SR-EN::CLM-0039,CPN,Real Estate,CPN-2024-OR+SR-EN,achievement,CPN|achievement,12.0
+R15,representative,,advanc-2024-SR-en::CLM-0186,ADVANC,Telecommunications,advanc-2024-SR-en,metric,ADVANC|metric,24.0
+R16,representative,,IVL-2024-SR-EN::CLM-0156,IVL,Construction Materials,IVL-2024-SR-EN,metric,IVL|metric,26.5
+R17,representative,,PTT-2024-OR+SR-EN::CLM-0013,PTT,Energy,PTT-2024-OR+SR-EN,achievement,PTT|achievement,10.0
+R18,representative,,CPN-2024-OR+SR-EN::CLM-0017,CPN,Real Estate,CPN-2024-OR+SR-EN,commitment,CPN|commitment,10.0
+R19,representative,,SCC-2024-SR-EN::CLM-0073,SCC,Construction Materials,SCC-2024-SR-EN,policy,SCC|policy,13.0
+R20,representative,,PTT-2024-OR+SR-EN::CLM-0035,PTT,Energy,PTT-2024-OR+SR-EN,commitment,PTT|commitment,13.8
+R21,representative,,PTTGC-2024-IR-EN::CLM-0108,PTTGC,Energy,PTTGC-2024-IR-EN,commitment,PTTGC|commitment,14.4
+R22,representative,,PTT-2024-OR+SR-EN::CLM-0108,PTT,Energy,PTT-2024-OR+SR-EN,policy,PTT|policy,6.0
+R23,representative,,IVL-2024-SR-EN::CLM-0162,IVL,Construction Materials,IVL-2024-SR-EN,commitment,IVL|commitment,27.667
+R24,representative,,IVL-2024-SR-EN::CLM-0094,IVL,Construction Materials,IVL-2024-SR-EN,achievement,IVL|achievement,26.0
+R25,representative,,advanc-2024-SR-en::CLM-0173,ADVANC,Telecommunications,advanc-2024-SR-en,alignment,ADVANC|alignment,8.0
+R26,representative,,PTTGC-2024-IR-EN::CLM-0157,PTTGC,Energy,PTTGC-2024-IR-EN,commitment,PTTGC|commitment,14.4
+R27,representative,,SCC-2024-SR-EN::CLM-0090,SCC,Construction Materials,SCC-2024-SR-EN,commitment,SCC|commitment,17.25
+R28,representative,,SCC-2024-SR-EN::CLM-0057,SCC,Construction Materials,SCC-2024-SR-EN,commitment,SCC|commitment,17.25
+R29,representative,,IVL-2024-SR-EN::CLM-0255,IVL,Construction Materials,IVL-2024-SR-EN,commitment,IVL|commitment,27.667
+R30,representative,,IVL-2024-SR-EN::CLM-0082,IVL,Construction Materials,IVL-2024-SR-EN,policy,IVL|policy,19.0
+R31,representative,,PTTGC-2024-IR-EN::CLM-0062,PTTGC,Energy,PTTGC-2024-IR-EN,achievement,PTTGC|achievement,19.5
+R32,representative,,PTT-2024-OR+SR-EN::CLM-0016,PTT,Energy,PTT-2024-OR+SR-EN,commitment,PTT|commitment,13.8
+R33,representative,,IVL-2024-SR-EN::CLM-0139,IVL,Construction Materials,IVL-2024-SR-EN,achievement,IVL|achievement,26.0
+R34,representative,,PTTGC-2024-IR-EN::CLM-0086,PTTGC,Energy,PTTGC-2024-IR-EN,policy,PTTGC|policy,11.0
+R35,representative,,PTTGC-2024-IR-EN::CLM-0144,PTTGC,Energy,PTTGC-2024-IR-EN,commitment,PTTGC|commitment,14.4
+R36,representative,,SCC-2024-SR-EN::CLM-0081,SCC,Construction Materials,SCC-2024-SR-EN,commitment,SCC|commitment,17.25
+R37,representative,,PTTGC-2024-IR-EN::CLM-0122,PTTGC,Energy,PTTGC-2024-IR-EN,metric,PTTGC|metric,16.0
+R38,representative,,CPN-2024-OR+SR-EN::CLM-0069,CPN,Real Estate,CPN-2024-OR+SR-EN,commitment,CPN|commitment,10.0
+R39,representative,,SCC-2024-SR-EN::CLM-0094,SCC,Construction Materials,SCC-2024-SR-EN,achievement,SCC|achievement,12.0
+R40,representative,,PTT-2024-OR+SR-EN::CLM-0089,PTT,Energy,PTT-2024-OR+SR-EN,commitment,PTT|commitment,13.8
+R41,representative,,CPN-2024-OR+SR-EN::CLM-0065,CPN,Real Estate,CPN-2024-OR+SR-EN,policy,CPN|policy,6.0
+R42,representative,,advanc-2024-SR-en::CLM-0115,ADVANC,Telecommunications,advanc-2024-SR-en,achievement,ADVANC|achievement,22.0
+R43,representative,,SCC-2024-SR-EN::CLM-0083,SCC,Construction Materials,SCC-2024-SR-EN,commitment,SCC|commitment,17.25
+R44,representative,,PTTGC-2024-IR-EN::CLM-0135,PTTGC,Energy,PTTGC-2024-IR-EN,commitment,PTTGC|commitment,14.4
+R45,representative,,PTTGC-2024-IR-EN::CLM-0126,PTTGC,Energy,PTTGC-2024-IR-EN,commitment,PTTGC|commitment,14.4
+R46,representative,,advanc-2024-SR-en::CLM-0028,ADVANC,Telecommunications,advanc-2024-SR-en,commitment,ADVANC|commitment,20.75
+R47,representative,,SCC-2024-SR-EN::CLM-0128,SCC,Construction Materials,SCC-2024-SR-EN,metric,SCC|metric,11.0
+R48,representative,,advanc-2024-SR-en::CLM-0076,ADVANC,Telecommunications,advanc-2024-SR-en,commitment,ADVANC|commitment,20.75
+R49,representative,,advanc-2024-SR-en::CLM-0070,ADVANC,Telecommunications,advanc-2024-SR-en,commitment,ADVANC|commitment,20.75
+R50,representative,,PTT-2024-OR+SR-EN::CLM-0019,PTT,Energy,PTT-2024-OR+SR-EN,commitment,PTT|commitment,13.8
+R51,challenge,target,CPN-2024-OR+SR-EN::CLM-0073,Central Pattana,Real Estate,CPN-2024-OR+SR-EN,target,challenge|target,
+R52,challenge,certification,IVL-2024-SR-EN::CLM-0189,Indorama Ventures,Construction Materials,IVL-2024-SR-EN,alignment,challenge|certification,
+R53,challenge,certification,PTTGC-2024-IR-EN::CLM-0050,PTT Global Chemical,Energy,PTTGC-2024-IR-EN,achievement,challenge|certification,
+R54,challenge,target,advanc-2024-SR-en::CLM-0039,Advanced Info Service,Telecommunications,advanc-2024-SR-en,target,challenge|target,
+R55,challenge,assurance,PTTGC-2024-IR-EN::CLM-0066,PTT Global Chemical,Energy,PTTGC-2024-IR-EN,policy,challenge|assurance,
+R56,challenge,target,CPN-2024-OR+SR-EN::CLM-0068,Central Pattana,Real Estate,CPN-2024-OR+SR-EN,target,challenge|target,
+R57,challenge,target,advanc-2024-SR-en::CLM-0045,Advanced Info Service,Telecommunications,advanc-2024-SR-en,target,challenge|target,
+R58,challenge,assurance,IVL-2024-SR-EN::CLM-0269,Indorama Ventures,Construction Materials,IVL-2024-SR-EN,achievement,challenge|assurance,
+R59,challenge,standard,PTTGC-2024-IR-EN::CLM-0058,PTT Global Chemical,Energy,PTTGC-2024-IR-EN,alignment,challenge|standard,
+R60,challenge,standard,SCC-2024-SR-EN::CLM-0009,Siam Cement Group,Construction Materials,SCC-2024-SR-EN,achievement,challenge|standard,

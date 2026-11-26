@@ -1,0 +1,5490 @@
+{
+ "report": "KBANK-2024-OR-EN",
+ "prompt_version": "V4-2026-10-23",
+ "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+ "retrieval": "V7 chunk-aware (unchanged)",
+ "mock": false,
+ "claims": [
+  {
+   "claim_id": "CLM-0001",
+   "uid": "KBANK-2024-OR-EN::CLM-0001",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Statement of the Board of Directors",
+   "page": 9,
+   "claim_type": "commitment",
+   "sdg_targets": "11.3, 11.a, 11.b, 12.6, 12.8, 8.10, 8.3",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 0,
+   "S_runs": [
+    0,
+    0,
+    0
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 0,
+   "T_runs": [
+    0,
+    0,
+    0
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Redundant",
+    "S2": "Related",
+    "X1": "Related",
+    "X2": "Related",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.2,
+   "SMTE": 0.25,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "unsubstantiated",
+   "rationale": {
+    "S": "The claim is a general statement about the company's dedication to sustainability without specifying any particular action, program, or target area.",
+    "M": "The claim does not include any quantifiable indicators or language of change; it is a plain statement of commitment.",
+    "T": "There is no time reference in the claim, making it impossible to determine when the actions or commitments are expected to occur or be completed.",
+    "E": "The evidence provided is self-reported and mentions adherence to principles and governance, but lacks specific methods of data collection, sources, or external assurance related to the claim."
+   },
+   "label_reason": {
+    "S1": "This passage repeats the claim almost verbatim without adding any new information or details.",
+    "S2": "The passage discusses the bank's operations in line with sustainability principles, but does not provide specific evidence or details directly supporting the claim.",
+    "X1": "This passage is on the same topic of sustainability but does not address the specific claim or provide additional evidence.",
+    "X2": "The passage discusses the bank's sustainable development management but does not provide specific evidence or details directly supporting the claim.",
+    "X3": "The passage outlines the bank's strategy and values related to sustainability but does not provide specific evidence or details directly supporting the claim."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0002",
+   "uid": "KBANK-2024-OR-EN::CLM-0002",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Statement of the Board of Directors",
+   "page": 9,
+   "claim_type": "commitment",
+   "sdg_targets": "8.1, 8.10, 8.2, 8.3, 9.2, 9.4",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 1,
+   "T_runs": [
+    1,
+    1,
+    1
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Redundant",
+    "S2": "Related",
+    "X1": "Related",
+    "X2": "Related",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.6,
+   "SMTE": 0.75,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "unsubstantiated",
+   "rationale": {
+    "S": "The claim names the action of regularly reviewing policies and business goals by the Board but does not specify a named programme, a specific target area, or a defined scope.",
+    "M": "The claim is a plain statement without any quantification or language of change.",
+    "T": "The claim uses the term 'regularly,' which is a vague time reference indicating ongoing action but does not specify any particular time point.",
+    "E": "The evidence provided is self-reported and repeats the claim but does not disclose any method of data collection, source, or standard."
+   },
+   "label_reason": {
+    "S1": "The passage repeats the claim about the Board regularly reviewing policies and business goals without adding new verifiable information.",
+    "S2": "The passage discusses KBank's commitment to sustainable growth and governance, which is related to the claim's context but does not specifically address the Board's review process.",
+    "X1": "The passage discusses risk management, which is related to the broader context of business goals and policies but does not specifically address the Board's review.",
+    "X2": "The passage covers business operations and governance, aligning with the claim's context but not directly addressing the Board's review process.",
+    "X3": "The passage discusses performance-driven initiatives and strategy alignment, which relate to business goals but do not specifically address the Board's review."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0003",
+   "uid": "KBANK-2024-OR-EN::CLM-0003",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Statement of the Board of Directors",
+   "page": 9,
+   "claim_type": "commitment",
+   "sdg_targets": "16.6, 16.7, 8.10, 8.3",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 1,
+   "M_runs": [
+    1,
+    1,
+    1
+   ],
+   "T": 2,
+   "T_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "labels": {
+    "S1": "Redundant",
+    "S2": "Related",
+    "X1": "Extend",
+    "X2": "Redundant",
+    "X3": "Unrelated"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": false,
+    "X3": true
+   },
+   "C": 1,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.4,
+   "SMTE": 1.5,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim names the action of restructuring the Board to promote good corporate governance principles but does not specify a named programme, specific target area, or defined scope.",
+    "M": "The claim uses language that expresses change, such as 'enhance' and 'promote,' but does not provide any numerical indicators or comparators.",
+    "T": "The claim specifies a single time point, 'in 2024,' when the restructuring resolution was made.",
+    "E": "The report provides detailed information on the restructuring actions, such as changes in board composition and revisions to policies, which supports the claim and indicates conformity with international standards."
+   },
+   "label_reason": {
+    "S1": "S1 repeats the claim about restructuring and promoting governance principles but adds no new information.",
+    "S2": "S2 discusses the duties of the Board and their alignment with governance principles but does not specifically address the restructuring claim.",
+    "X1": "X1 provides additional details on the restructuring actions, such as changes to board composition and charter revisions, supporting the claim with verifiable facts.",
+    "X2": "X2 reiterates the restructuring actions and the increase in the ratio of independent directors, providing further support for the claim.",
+    "X3": "X3 discusses performance-driven initiatives and KPIs, which are not related to the claim about board restructuring."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0004",
+   "uid": "KBANK-2024-OR-EN::CLM-0004",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Statement of the Board of Directors",
+   "page": 9,
+   "claim_type": "policy",
+   "sdg_targets": "16.6, 16.7",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 1,
+   "M_runs": [
+    1,
+    1,
+    1
+   ],
+   "T": 2,
+   "T_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Redundant",
+    "S2": "Redundant",
+    "X1": "Redundant",
+    "X2": "Related",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.0,
+   "SMTE": 1.25,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim names the action of restructuring the board by reducing directors and increasing independent directors but does not specify a named programme, a specific target area, or a defined scope.",
+    "M": "The claim uses language of change ('reducing', 'increasing') but does not provide any numerical values or comparators.",
+    "T": "The claim mentions a specific time point, 'in 2024', indicating when the restructuring is resolved to take place.",
+    "E": "The evidence consists of self-reported statements across multiple sections that repeat the claim but do not provide methods of data collection, sources, or external assurance."
+   },
+   "label_reason": {
+    "S1": "S1 repeats the claim about restructuring the board and increasing independent directors, adding no new verifiable information.",
+    "S2": "S2 repeats the claim about the board restructuring without adding any new information.",
+    "X1": "X1 repeats the claim about restructuring the board and increasing the ratio of independent directors, without providing additional details.",
+    "X2": "X2 discusses revisions in charters related to the board restructuring but does not directly address the specific claim about reducing and increasing directors.",
+    "X3": "X3 mentions board restructuring and related governance practices but does not provide specific details about the reduction and increase of directors as stated in the claim."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0006",
+   "uid": "KBANK-2024-OR-EN::CLM-0006",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Statement of the Chief Executive Officer",
+   "page": 35,
+   "claim_type": "commitment",
+   "sdg_targets": "12.6, 17.16, 17.17, 8.1, 8.10, 8.3",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 0,
+   "S_runs": [
+    0,
+    0,
+    0
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 0,
+   "T_runs": [
+    0,
+    0,
+    0
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Related",
+    "X2": "Redundant",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.2,
+   "SMTE": 0.25,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "unsubstantiated",
+   "rationale": {
+    "S": "The claim is a general statement about commitment to sustainable returns for stakeholders, without specifying any particular action, program, or scope.",
+    "M": "The claim does not provide any quantifiable indicators or language of change; it is a plain statement of commitment.",
+    "T": "There is no reference to any specific time frame or period in the claim.",
+    "E": "The evidence provided is self-reported and includes general statements about governance and sustainability efforts, but lacks specific methods of data collection or external assurance related to the claim."
+   },
+   "label_reason": {
+    "S1": "The passage discusses good corporate governance and risk management, which are related to sustainable business practices but do not directly substantiate the claim about sustainable returns for stakeholders.",
+    "S2": "The passage mentions trust and recognition, which are related to stakeholder engagement but do not directly support the claim of generating sustainable returns.",
+    "X1": "The passage discusses the importance of sustainable growth and benefits to stakeholders, which is related to the claim but does not provide specific evidence for sustainable returns.",
+    "X2": "This passage repeats the claim almost verbatim without adding new information or verifiable facts.",
+    "X3": "The passage outlines the bank's sustainable development structure and goals, which are related to the claim but do not provide specific evidence for sustainable returns."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0007",
+   "uid": "KBANK-2024-OR-EN::CLM-0007",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Statement of the Chief Executive Officer",
+   "page": 35,
+   "claim_type": "commitment",
+   "sdg_targets": "13.1, 13.2, 8.2, 8.3, 8.4, 9.2, 9.4",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 0,
+   "S_runs": [
+    0,
+    0,
+    0
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 0,
+   "T_runs": [
+    0,
+    0,
+    0
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Redundant",
+    "X2": "Related",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.2,
+   "SMTE": 0.25,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "unsubstantiated",
+   "rationale": {
+    "S": "The claim is a general statement about striving for sustainable growth and adaptability, without specifying any particular action, program, or scope.",
+    "M": "The claim lacks any quantifiable indicators or language of change, making it a plain statement.",
+    "T": "There is no reference to any time frame or period in the claim, making it timeless.",
+    "E": "The evidence provided is self-reported and mentions alignment with best practices and a climate strategy, but lacks detailed methods of data collection or external assurance."
+   },
+   "label_reason": {
+    "S1": "The passage discusses enhancing operational standards, which is related to sustainable growth but does not directly substantiate the specific claim.",
+    "S2": "The passage mentions implementing a climate strategy, which is related to sustainability but does not directly support the specific claim about driving sectors towards sustainable growth.",
+    "X1": "The passage repeats the claim almost verbatim without adding new information.",
+    "X2": "The passage discusses driving towards sustainable growth, which is related to the claim but does not provide specific evidence or details for the claim.",
+    "X3": "The passage mentions business operations in line with sustainability principles, which relates to the claim's theme but does not substantiate it directly."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0008",
+   "uid": "KBANK-2024-OR-EN::CLM-0008",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Statement of the Chief Executive Officer",
+   "page": 35,
+   "claim_type": "policy",
+   "sdg_targets": "16.5, 16.6, 16.7, 8.10, 8.3",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 0,
+   "T_runs": [
+    0,
+    0,
+    0
+   ],
+   "E": 2,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Extend",
+    "X2": "Extend",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 1,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.8,
+   "SMTE": 0.75,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "unsubstantiated",
+   "rationale": {
+    "S": "The claim names the actions of 'good corporate governance' and 'appropriate risk management' but does not specify a named program, target area, or defined scope.",
+    "M": "The claim is a plain statement without any indicators or language of change.",
+    "T": "There is no reference to time in the claim, making it timeless.",
+    "E": "The evidence provides details on risk management practices and governance structures, including alignment with international standards and board supervision, which supports the claim with verifiable processes."
+   },
+   "label_reason": {
+    "S1": "The passage mentions sustainable returns, which is related to governance but does not directly address the specific claim of corporate governance and risk management.",
+    "S2": "The passage talks about trust and recognition, which are outcomes of good governance but do not directly substantiate the specific claim.",
+    "X1": "This passage provides detailed information on risk management policies and practices, supporting the claim with verifiable facts.",
+    "X2": "This passage extends the claim by detailing the governance structure and risk management processes, which are verifiable.",
+    "X3": "The passage discusses sustainable growth and stakeholder benefits, which relate to governance but do not directly substantiate the specific claim."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0009",
+   "uid": "KBANK-2024-OR-EN::CLM-0009",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Statement of the Chief Executive Officer",
+   "page": 35,
+   "claim_type": "alignment",
+   "sdg_targets": "12.6, 17.14, 17.16, 17.17, 9.1, 9.2, 9.4",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 1,
+   "M_runs": [
+    1,
+    1,
+    1
+   ],
+   "T": 1,
+   "T_runs": [
+    1,
+    1,
+    1
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Related",
+    "X2": "Related",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.8,
+   "SMTE": 1.0,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim identifies an action, 'enhance our operational standards,' but does not specify a named programme, specific location, or defined scope.",
+    "M": "The claim uses the word 'enhance,' which indicates a change but does not provide any numerical data or a baseline for measurement.",
+    "T": "The claim uses 'continuously,' which is a vague time reference indicating an ongoing process without specific time points.",
+    "E": "The passages provide general support for alignment with standards and principles, but do not specify methods of data collection or external assurance related to enhancing operational standards."
+   },
+   "label_reason": {
+    "S1": "The passage mentions alignment with international standards, which is related to the claim but does not provide specific details about enhancing operational standards.",
+    "S2": "The passage discusses driving sustainable growth, which is related to the claim's context but does not directly address enhancing operational standards.",
+    "X1": "The passage discusses adherence to governance principles and risk management, which is related to operational standards but does not directly extend the claim.",
+    "X2": "The passage mentions business operations in line with sustainability principles, which is related to the claim but does not provide specific details about operational standards.",
+    "X3": "The passage mentions revising regulations and procedures, which is related to enhancing operational standards but does not provide specific evidence for the claim."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0010",
+   "uid": "KBANK-2024-OR-EN::CLM-0010",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Statement of the Chief Executive Officer",
+   "page": 35,
+   "claim_type": "commitment",
+   "sdg_targets": "13.2, 13.3, 7.2, 7.3, 9.2, 9.4",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 0,
+   "T_runs": [
+    0,
+    0,
+    0
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Extend",
+    "X2": "Related",
+    "X3": "Extend"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 1,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.6,
+   "SMTE": 0.5,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "unsubstantiated",
+   "rationale": {
+    "S": "The claim names the action of implementing a climate strategy to achieve Net Zero, but it does not specify a named programme, a specific target area, or a defined scope.",
+    "M": "The claim does not include any indicators, numbers, or language of change, making it a plain statement.",
+    "T": "There is no time reference in the claim, neither a specific time point nor a vague time frame.",
+    "E": "The evidence includes self-reported commitments and goals related to Net Zero, but lacks detailed methods of data collection or external assurance."
+   },
+   "label_reason": {
+    "S1": "The passage discusses driving sustainable growth and adapting to challenges, which is related to the broader theme of sustainability but not specific to the claim about the climate strategy.",
+    "S2": "The passage mentions alignment with sustainable development goals and standards, which is related to the claim's context but does not provide specific details about the climate strategy.",
+    "X1": "This passage provides additional information about the formulation of an operational strategy to achieve Net Zero, which supports the claim by detailing collaboration with stakeholders and the development of a Transition Plan.",
+    "X2": "The passage mentions recommendations on Climate Strategy 2025, which is related to the claim but does not provide specific details about the implementation or support for businesses.",
+    "X3": "This passage extends the claim by detailing commitments to Net Zero, including specific targets and financial commitments, which support the claim's context of implementing a climate strategy."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0011",
+   "uid": "KBANK-2024-OR-EN::CLM-0011",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Statement of the Chief Executive Officer",
+   "page": 35,
+   "claim_type": "commitment",
+   "sdg_targets": "10.2, 10.3, 10.5, 4.4, 4.6, 8.10, 8.3",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 1,
+   "T_runs": [
+    1,
+    1,
+    1
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Extend",
+    "X2": "Redundant",
+    "X3": "Extend"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": false
+   },
+   "C": 2,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.0,
+   "SMTE": 0.75,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "unsubstantiated",
+   "rationale": {
+    "S": "The claim names the actions of 'upholding responsible lending practices' and 'fostering financial literacy,' but it does not specify a named program, a specific target area, or a defined scope.",
+    "M": "The claim is a plain statement with no indicators, numbers, or language of change.",
+    "T": "The claim uses the word 'continuously,' which implies an ongoing effort but does not provide a specific time frame or date.",
+    "E": "The evidence provided is self-reported and mentions adherence to principles and practices but lacks detailed methods of data collection, sources, or external assurance."
+   },
+   "label_reason": {
+    "S1": "The passage discusses sustainable returns and stakeholder engagement, which are related to the broader context of responsible business practices but do not address the specific claim about responsible lending and financial literacy.",
+    "S2": "This passage mentions good corporate governance and risk management, which relate to responsible business practices but do not specifically address the claim about responsible lending and financial literacy.",
+    "X1": "This passage extends the claim by mentioning the provision of financial literacy and promotion of financial discipline to all customer segments, which directly supports the claim.",
+    "X2": "This passage repeats the claim almost verbatim, adding no new information or verifiable facts.",
+    "X3": "The passage discusses risk management and responsible lending principles, which are related to the claim but do not specifically address financial literacy or provide verifiable details about the claim."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0013",
+   "uid": "KBANK-2024-OR-EN::CLM-0013",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Statement of the Chief Executive Officer",
+   "page": 35,
+   "claim_type": "achievement",
+   "sdg_targets": "12.6, 17.16, 17.17, 8.10",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 1,
+   "T_runs": [
+    1,
+    1,
+    1
+   ],
+   "E": 2,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Redundant",
+    "X2": "Related",
+    "X3": "Extend"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 1,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.0,
+   "SMTE": 1.0,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim identifies actions such as earning customer trust and receiving recognition, but it does not specify a named program, a specific place, or a defined scope.",
+    "M": "The claim is a plain statement without any indicators or language of change.",
+    "T": "The claim mentions achievements but does not specify any dates or timeframes.",
+    "E": "The evidence includes the mention of KBank's inclusion in the Dow Jones Sustainability Indices, which is a verifiable fact and provides a source for the claim."
+   },
+   "label_reason": {
+    "S1": "The passage discusses KBank's commitment to sustainable business practices, which is related to the claim but does not address the specific achievements mentioned.",
+    "S2": "This passage talks about KBank's corporate governance and risk management, which is related to the broader topic of trust but not directly to the claim's specifics.",
+    "X1": "This passage repeats the claim about earning trust and recognition without adding new information.",
+    "X2": "The passage relates to sustainability efforts but does not address the specific achievements or recognitions mentioned in the claim.",
+    "X3": "This passage provides specific details about KBank's inclusion in the Dow Jones Sustainability Indices, directly supporting the claim."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0014",
+   "uid": "KBANK-2024-OR-EN::CLM-0014",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Steering Business towards Sustainability",
+   "page": 62,
+   "claim_type": "alignment",
+   "sdg_targets": "12.6, 16.6, 16.7, 8.10, 8.3, 8.4",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 0,
+   "T_runs": [
+    0,
+    0,
+    0
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Related",
+    "X2": "Related",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": false,
+    "X2": true,
+    "X3": false
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.4,
+   "SMTE": 0.5,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "unsubstantiated",
+   "rationale": {
+    "S": "The claim names the action of aligning business operations with the principles of a Bank of Sustainability, but it does not specify a named programme, specific location, or defined scope.",
+    "M": "The claim is a plain statement with no indicators, numbers, or language of change.",
+    "T": "There is no time reference in the claim, making it a timeless statement.",
+    "E": "The evidence provided includes self-reported information about adherence to principles and policies but lacks detailed methods of data collection or external assurance."
+   },
+   "label_reason": {
+    "S1": "The passage discusses the importance of sustainable growth and benefits to stakeholders, which is related to the claim's topic but does not provide specific information about the Bank of Sustainability principles.",
+    "S2": "This passage mentions adherence to corporate governance principles and risk management, which are relevant to governance aspects but do not specifically address the Bank of Sustainability principles.",
+    "X1": "While this passage mentions the Bank of Sustainability principles, it does not provide verifiable details specific to the claim, such as data or methods.",
+    "X2": "The passage discusses ESG activities and standards, which are related to the claim's topic but do not directly substantiate the specific claim about the Bank of Sustainability principles.",
+    "X3": "This passage repeats the concept of operating under the Bank of Sustainability principles but does not extend the claim with specific or verifiable information."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0015",
+   "uid": "KBANK-2024-OR-EN::CLM-0015",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Steering Business towards Sustainability",
+   "page": 62,
+   "claim_type": "commitment",
+   "sdg_targets": "4.4, 4.6, 8.10, 8.2, 9.3, 9.5, 9.b",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 0,
+   "T_runs": [
+    0,
+    0,
+    0
+   ],
+   "E": 2,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Extend",
+    "X2": "Extend",
+    "X3": "Extend"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": false
+   },
+   "C": 2,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.0,
+   "SMTE": 0.75,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "unsubstantiated",
+   "rationale": {
+    "S": "The claim names actions such as adhering to governance principles, risk and cost management, and promoting financial literacy, but it does not specify a named program, target area, or defined scope.",
+    "M": "The claim is a plain statement with no indicators, numbers, or language of change.",
+    "T": "There is no time reference in the claim, making it impossible to determine when the actions are or will be taking place.",
+    "E": "The evidence includes references to the Corporate Governance Code and other standards, with details on where to find more information, which indicates a method of data collection or standard conformity."
+   },
+   "label_reason": {
+    "S1": "The passage discusses the bank's alignment with sustainability principles but does not provide specific information on the claim's actions.",
+    "S2": "This passage mentions the importance of sustainable growth but does not address the specifics of the claim.",
+    "X1": "This passage provides additional information on how the bank promotes corporate governance, which supports the claim about adhering to governance principles.",
+    "X2": "The passage details the standards and guidelines that the bank's governance principles align with, supporting the claim about adherence to governance principles.",
+    "X3": "This passage supports the claim by providing information on promoting financial discipline and literacy."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0016",
+   "uid": "KBANK-2024-OR-EN::CLM-0016",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Steering Business towards Sustainability",
+   "page": 62,
+   "claim_type": "commitment",
+   "sdg_targets": "8.10, 8.2, 9.2, 9.3, 9.5",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 1,
+   "M_runs": [
+    1,
+    1,
+    1
+   ],
+   "T": 0,
+   "T_runs": [
+    0,
+    0,
+    0
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Extend",
+    "X2": "Related",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 1,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.8,
+   "SMTE": 0.75,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "unsubstantiated",
+   "rationale": {
+    "S": "The claim mentions collaboration with strategic partners and the use of data analytics to improve products and services, but it lacks a named programme, specific target area, or defined scope.",
+    "M": "The claim uses words that express change, such as 'improve' and 'ensuring easier access,' but it does not provide any numerical indicators.",
+    "T": "The claim does not provide any time reference or period for the actions described.",
+    "E": "The evidence includes descriptions of related activities and initiatives, such as the use of data analytics and AI, but lacks detailed methods of data collection, sources, or external assurance."
+   },
+   "label_reason": {
+    "S1": "The passage discusses the bank's commitment to sustainable growth, which is related to the claim's context but does not address the specific actions or collaborations mentioned in the claim.",
+    "S2": "This passage mentions the bank's alignment with sustainability principles, which is related to the claim's context but does not provide specific details about the claim.",
+    "X1": "This passage provides specific examples of financial innovations and the use of data analytics and AI, which supports the claim about improving products and services through collaboration and technology.",
+    "X2": "The passage discusses risk management improvements and responsible lending, which are related to the broader topic of improving services but do not directly address the claim's specifics about collaboration and data analytics.",
+    "X3": "The passage outlines strategic priorities involving innovation and technology, which relates to the claim's context but does not provide specific evidence for the claim."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0017",
+   "uid": "KBANK-2024-OR-EN::CLM-0017",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Steering Business towards Sustainability",
+   "page": 62,
+   "claim_type": "commitment",
+   "sdg_targets": "17.16, 17.17, 8.1, 8.10, 8.3, 9.2, 9.4",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 0,
+   "S_runs": [
+    0,
+    0,
+    0
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 0,
+   "T_runs": [
+    0,
+    0,
+    0
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Related",
+    "X2": "Related",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.2,
+   "SMTE": 0.25,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "unsubstantiated",
+   "rationale": {
+    "S": "The claim is a general statement about the company's commitment to sustainable growth and stakeholder benefits, without specifying any particular action, program, or scope.",
+    "M": "The claim lacks any quantifiable indicators or language of change, making it a plain statement.",
+    "T": "There is no reference to any time frame or period in the claim, making it timeless.",
+    "E": "The passages provide self-reported commitments and strategies but do not disclose methods of data collection, sources, or standards, thus lacking verifiable evidence."
+   },
+   "label_reason": {
+    "S1": "The passage discusses the principles of sustainability but does not address the specific claim about driving sustainable growth and stakeholder benefits.",
+    "S2": "This passage mentions adherence to governance principles and risk management, which are related to sustainability but do not directly substantiate the claim.",
+    "X1": "The passage reiterates the commitment to sustainable returns for stakeholders, aligning with the claim's theme but not providing specific evidence for it.",
+    "X2": "The passage discusses sustainable growth and governance, which are related to the claim, but it does not provide specific evidence or details to substantiate the claim.",
+    "X3": "This passage mentions the sustainable development management structure, which is related to the claim's theme but does not directly substantiate it."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0018",
+   "uid": "KBANK-2024-OR-EN::CLM-0018",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Statement of the Board of Directors",
+   "page": 360,
+   "claim_type": "commitment",
+   "sdg_targets": "12.6, 17.14, 17.16, 17.17, 8.10, 8.2, 8.3",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 3,
+   "S_runs": [
+    3,
+    3,
+    3
+   ],
+   "M": 1,
+   "M_runs": [
+    1,
+    1,
+    1
+   ],
+   "T": 2,
+   "T_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Redundant",
+    "X2": "Related",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.4,
+   "SMTE": 1.75,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim specifies the action (improved guidelines for KPIs), the named programme (K-Strategy 3+1), and the defined scope (corporate KPIs related to business performance and stakeholder value).",
+    "M": "The claim uses language of change ('improved') but does not provide any numerical indicators or quantifiable measures.",
+    "T": "The claim specifies a single time point, 'In 2024', indicating when the improvement of guidelines occurred.",
+    "E": "The passages provide self-reported information but lack details on data collection methods, sources, or external assurance."
+   },
+   "label_reason": {
+    "S1": "The passage discusses the K-Strategy 3+1 and strategic plans but does not address the specific claim about improving KPIs.",
+    "S2": "The passage mentions plans for performance management in 2025, which is related to KPIs but does not directly support the 2024 claim.",
+    "X1": "This passage repeats the claim about improving KPIs in 2024 under the K-Strategy 3+1 without adding new verifiable information.",
+    "X2": "The passage discusses the K-Strategy 3+1 and sustainable value but does not specifically address the KPI improvements claim.",
+    "X3": "The passage talks about aligning the Corporate Scorecard with the Bank's strategy but does not specifically address the KPI improvements claim."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0019",
+   "uid": "KBANK-2024-OR-EN::CLM-0019",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Statement of the Board of Directors",
+   "page": 360,
+   "claim_type": "commitment",
+   "sdg_targets": "8.10, 8.2, 9.2, 9.4",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 1,
+   "M_runs": [
+    1,
+    1,
+    1
+   ],
+   "T": 2,
+   "T_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Redundant",
+    "X2": "Related",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.0,
+   "SMTE": 1.25,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim identifies actions related to performance management improvements but does not specify a named program, target area, or defined scope.",
+    "M": "The claim uses language of change such as 'develop' and 'improve' but does not provide any numerical indicators or specific metrics.",
+    "T": "The claim specifies a single future time point, 'For 2025,' indicating when the plans are intended to be implemented.",
+    "E": "The passages provide self-reported information and figures but do not disclose methods of data collection or any external assurance or certification."
+   },
+   "label_reason": {
+    "S1": "Discusses improvements in KPIs and alignment with business performance, related to performance management but not directly to the claim's specifics.",
+    "S2": "Mentions strategic plans and operational strategies, which relate to the claim's context but do not specifically address the claim's content.",
+    "X1": "Repeats the claim almost verbatim, adding no new information beyond what is stated in the claim.",
+    "X2": "Describes strategic priorities and productivity improvements, relevant to the claim's context but not directly addressing the claim's specifics.",
+    "X3": "Focuses on human resource management and performance-driven organization, related to the claim's topic but not directly supporting the specific claim."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0020",
+   "uid": "KBANK-2024-OR-EN::CLM-0020",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Statement of the Board of Directors",
+   "page": 360,
+   "claim_type": "achievement",
+   "sdg_targets": "4.4, 8.10, 8.2",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 2,
+   "S_runs": [
+    2,
+    2,
+    2
+   ],
+   "M": 1,
+   "M_runs": [
+    1,
+    1,
+    1
+   ],
+   "T": 1,
+   "T_runs": [
+    1,
+    1,
+    1
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Redundant",
+    "X2": "Related",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.0,
+   "SMTE": 1.25,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim names an integrated personnel capacity development program and specifies the focus areas (wealth advisory, sales support, and customer understanding), but it does not define a specific target area or scope.",
+    "M": "The claim uses language of change ('remarkable growth') but does not provide any numerical data or specific indicators.",
+    "T": "The claim states that a program was implemented and resulted in growth but does not provide any specific time points or dates.",
+    "E": "The evidence provides self-reported figures and descriptions of programs but lacks detailed methods of data collection or external verification."
+   },
+   "label_reason": {
+    "S1": "The passage discusses employee well-being initiatives and HR management systems, which are related to employee development but do not directly address the specific claim about the capacity development program and sales growth.",
+    "S2": "This passage mentions the measurement of employee development success, which is related to the claim's context but does not provide specific evidence for the claim about the program or sales growth.",
+    "X1": "This passage repeats the claim almost verbatim, adding no new verifiable information or details.",
+    "X2": "This passage provides data on mutual fund and bancassurance products but does not directly link these to the personnel capacity development program mentioned in the claim.",
+    "X3": "The passage discusses general employee development initiatives but does not address the specific program or outcomes mentioned in the claim."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0021",
+   "uid": "KBANK-2024-OR-EN::CLM-0021",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Statement of the Board of Directors",
+   "page": 360,
+   "claim_type": "metric",
+   "sdg_targets": "4.4, 8.2, 8.3, 8.5",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 3,
+   "M_runs": [
+    3,
+    3,
+    3
+   ],
+   "T": 1,
+   "T_runs": [
+    1,
+    1,
+    1
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Unrelated",
+    "S2": "Unrelated",
+    "X1": "Redundant",
+    "X2": "Related",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.2,
+   "SMTE": 1.5,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim names the action of measuring employee development success using metrics but does not specify a named program, specific target area, or defined scope.",
+    "M": "The claim includes a KPI with a target of 80 percent and an achievement of 84.67 percent, providing a complete comparator.",
+    "T": "The claim states that a target was achieved but does not provide a specific time reference for when this occurred.",
+    "E": "The claim is self-reported with figures but does not provide a method of data collection, source, or external assurance."
+   },
+   "label_reason": {
+    "S1": "The passage discusses the bank's commitment to sustainable growth and governance but does not relate to employee development metrics.",
+    "S2": "The passage talks about the Board's review of policies and goals but does not address employee development metrics.",
+    "X1": "This passage repeats the claim almost verbatim without adding any new information or verifiable facts.",
+    "X2": "The passage discusses performance-driven organization and KPIs but does not specifically address the claim's metrics or achievement.",
+    "X3": "The passage is about human resource management and employee skills but does not specifically address the claim's metrics or achievement."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0022",
+   "uid": "KBANK-2024-OR-EN::CLM-0022",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Statement of the Board of Directors",
+   "page": 360,
+   "claim_type": "commitment",
+   "sdg_targets": "3.4, 3.8, 4.4, 8.3, 8.5, 8.8",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 1,
+   "T_runs": [
+    1,
+    1,
+    1
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Redundant",
+    "X2": "Related",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.6,
+   "SMTE": 0.75,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "unsubstantiated",
+   "rationale": {
+    "S": "The claim names the actions of promoting mental well-being, providing financial literacy, and implementing HR management system modules, but it does not specify a named program, a specific target area, or a defined scope.",
+    "M": "The claim does not provide any quantifiable indicators or language of change; it is a plain statement of actions taken.",
+    "T": "The claim states that initiatives were 'included,' implying completion, but does not provide a specific date or time frame.",
+    "E": "The evidence provides self-reported achievements and awards but lacks detailed methods of data collection or external assurance."
+   },
+   "label_reason": {
+    "S1": "The passage discusses a personnel capacity development program related to wealth advisory, which is related to financial literacy, but does not directly address the claim's specific initiatives.",
+    "S2": "The passage lists awards related to HR and wellness, which are relevant to the topic but do not directly substantiate the specific initiatives claimed.",
+    "X1": "This passage repeats the claim almost verbatim, adding no new information or verifiable details.",
+    "X2": "The passage discusses capacity development programs but does not address the specific initiatives of mental well-being or HR system modules mentioned in the claim.",
+    "X3": "The passage discusses human resource management and workforce planning, which are related topics, but does not directly address the specific initiatives in the claim."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0023",
+   "uid": "KBANK-2024-OR-EN::CLM-0023",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Statement of the Board of Directors",
+   "page": 360,
+   "claim_type": "metric",
+   "sdg_targets": "8.3, 8.5",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 2,
+   "M_runs": [
+    2,
+    2,
+    2
+   ],
+   "T": 1,
+   "T_runs": [
+    1,
+    1,
+    1
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Redundant",
+    "X2": "Related",
+    "X3": "Unrelated"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.0,
+   "SMTE": 1.25,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim names an action (employment engagement initiatives) but does not specify a named program, a specific location, or a defined scope.",
+    "M": "The claim includes a specific number (78 percent) for the employment engagement score, but it lacks a baseline or target for comparison.",
+    "T": "The claim states that something has been achieved (employment engagement score at 78 percent) but does not provide a specific date or time period.",
+    "E": "The evidence provides self-reported figures and mentions an average score from Gallup, but it does not disclose the method of data collection or provide a source or assurance."
+   },
+   "label_reason": {
+    "S1": "Discusses employee development metrics but does not address the specific employment engagement score or initiatives.",
+    "S2": "Mentions employee well-being initiatives but does not directly address the employment engagement score.",
+    "X1": "Repeats the claim about the employment engagement score and initiatives without adding new information.",
+    "X2": "Mentions employee development metrics but does not specifically address the employment engagement score or initiatives.",
+    "X3": "Focuses on data and AI tools for productivity improvement, unrelated to the employment engagement score or initiatives."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0024",
+   "uid": "KBANK-2024-OR-EN::CLM-0024",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Risk Management",
+   "page": 480,
+   "claim_type": "policy",
+   "sdg_targets": "12.6, 13.2, 8.10, 8.4",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 0,
+   "T_runs": [
+    0,
+    0,
+    0
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Extend",
+    "S2": "Extend",
+    "X1": "Redundant",
+    "X2": "Related",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.4,
+   "SMTE": 0.5,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "unsubstantiated",
+   "rationale": {
+    "S": "The claim specifies the development of policies and guidelines for credit underwriting with environmental and social considerations, but it does not mention a named program, specific target area, or defined scope.",
+    "M": "The claim lacks any quantifiable indicators or language of change, making it a plain statement.",
+    "T": "There is no reference to any time frame or period in the claim.",
+    "E": "The evidence provided is self-reported with some details on guidelines and policies but lacks a method of data collection, source, or external assurance."
+   },
+   "label_reason": {
+    "S1": "This passage provides additional details about the guidelines and policies for project finance requests, which supports the claim about credit underwriting policies.",
+    "S2": "This passage extends the claim by specifying that commercial loan extensions involve an impact assessment on environmental, social, governance, and economic factors.",
+    "X1": "This passage repeats the claim almost verbatim, adding no new information.",
+    "X2": "This passage discusses credit risk management policies and guidelines but does not directly address the specific claim about sector-specific guidelines.",
+    "X3": "This passage is about the bank's overall sustainability principles and structure, which is related to the topic but not specific to the claim about credit underwriting policies."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0025",
+   "uid": "KBANK-2024-OR-EN::CLM-0025",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Risk Management",
+   "page": 480,
+   "claim_type": "policy",
+   "sdg_targets": "12.6, 12.7, 16.4, 16.5, 16.6",
+   "retrieval_flags": [
+    "Only 1 of 2 target same-section references met the similarity threshold (0.35)."
+   ],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 0,
+   "T_runs": [
+    0,
+    0,
+    0
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "None",
+    "X1": "Redundant",
+    "X2": "Unrelated",
+    "X3": "Unrelated"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.4,
+   "SMTE": 0.5,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "unsubstantiated",
+   "rationale": {
+    "S": "The claim names an action, which is not supporting credit applicants or business types on the Exclusion List, but it does not specify a named programme, a specific place, or a defined scope.",
+    "M": "The claim is a plain statement with no quantification or language of change.",
+    "T": "There is no time reference in the claim, making it impossible to assess when this action is or will be implemented.",
+    "E": "The evidence provided is mostly self-reported with no detailed method of collection or external assurance. The claim is repeated in X1, but no additional verifiable information or methodology is provided."
+   },
+   "label_reason": {
+    "S1": "S1 discusses the credit underwriting process and impact assessment, which is related to the claim's topic but does not specifically address the Exclusion List.",
+    "S2": "No passage was retrieved for S2.",
+    "X1": "X1 repeats the claim about not supporting credit applicants on the Exclusion List without adding new information.",
+    "X2": "X2 discusses credit risk analysis and borrower classification, which is not related to the Exclusion List mentioned in the claim.",
+    "X3": "X3 addresses responsible lending guidelines and loan terms, which do not relate to the Exclusion List or the claim."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0026",
+   "uid": "KBANK-2024-OR-EN::CLM-0026",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Risk Management",
+   "page": 480,
+   "claim_type": "policy",
+   "sdg_targets": "12.6, 12.7, 16.6, 16.7, 8.10, 8.3",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 1,
+   "T_runs": [
+    1,
+    1,
+    1
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Redundant",
+    "X2": "Redundant",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.6,
+   "SMTE": 0.75,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "unsubstantiated",
+   "rationale": {
+    "S": "The claim names the action of establishing guidelines and policies for environmental, social, governance, and economic impacts, but it does not specify a named program, a specific location, or a defined scope.",
+    "M": "The claim is a plain statement without any indicators, language of change, or quantification.",
+    "T": "The claim states that guidelines and policies have been established, indicating a completed action, but it does not provide a specific date.",
+    "E": "The evidence provided is self-reported and repeats the claim without detailing the method of data collection or any external assurance."
+   },
+   "label_reason": {
+    "S1": "S1 discusses the development of policies and guidelines for environmental and social impacts, which is related to the claim but does not specifically address the guidelines for large project finance requests.",
+    "S2": "S2 mentions the credit underwriting process with an impact assessment on environmental, social, governance, and economic factors, which is related to the claim but does not directly support the specific claim about guidelines for large project finance.",
+    "X1": "X1 repeats the claim about guidelines and policies for environmental, social, governance, and economic impacts without adding new information.",
+    "X2": "X2 continues from X1 and repeats the claim about monitoring throughout the credit term, adding no new information.",
+    "X3": "X3 discusses recommendations and monitoring related to environmental and social risk management, which is related to the claim but does not directly support the specific claim about guidelines for large project finance."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0027",
+   "uid": "KBANK-2024-OR-EN::CLM-0027",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Risk Management",
+   "page": 480,
+   "claim_type": "policy",
+   "sdg_targets": "12.6, 16.5, 16.6, 16.7, 8.10, 8.3",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 0,
+   "T_runs": [
+    0,
+    0,
+    0
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Redundant",
+    "X2": "Related",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.4,
+   "SMTE": 0.5,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "unsubstantiated",
+   "rationale": {
+    "S": "The claim names the action of conducting a credit underwriting process with an impact assessment on environmental, social, governance, and economic factors, but it does not specify a named program, a specific target area, or a defined scope.",
+    "M": "The claim is a plain statement with no indicators, numbers, or language of change.",
+    "T": "The claim does not provide any time reference or period for when the process is or will be implemented.",
+    "E": "The evidence provided is self-reported and mentions policies and guidelines but does not disclose methods of data collection, sources, or standards that would substantiate the claim."
+   },
+   "label_reason": {
+    "S1": "S1 discusses guidelines and policies for impacts, which is related to the claim's topic but does not specifically address the credit underwriting process for SMEs and corporate customers.",
+    "S2": "S2 mentions the development of policies and guidelines for environmental and social impacts in credit underwriting, which relates to the claim but does not provide specific details about the process for SMEs and corporate customers.",
+    "X1": "X1 repeats the claim almost verbatim without adding any new information or verifiable facts.",
+    "X2": "X2 discusses the credit approval process and risk mitigation but does not specifically address the impact assessment on environmental, social, governance, and economic factors.",
+    "X3": "X3 describes the credit risk assessment and management strategies, which are related to the claim's context but do not directly address the specific impact assessment process mentioned in the claim."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0028",
+   "uid": "KBANK-2024-OR-EN::CLM-0028",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Capital Requirements",
+   "page": 968,
+   "claim_type": "metric",
+   "sdg_targets": "8.10, 9.3",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 2,
+   "S_runs": [
+    2,
+    2,
+    2
+   ],
+   "M": 2,
+   "M_runs": [
+    2,
+    2,
+    2
+   ],
+   "T": 2,
+   "T_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Redundant",
+    "X2": "Extend",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": false,
+    "X3": false
+   },
+   "C": 1,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.8,
+   "SMTE": 2.0,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "substantiated",
+   "rationale": {
+    "S": "The claim names the action (capital funds under Basel III requirements) and provides a defined scope (KASIKORNBANK FINANCIAL CONGLOMERATE), but it does not name a specific programme.",
+    "M": "The claim provides specific numbers for capital funds and their components, but lacks a comparator such as a baseline or target.",
+    "T": "The claim specifies a single time point, 'as of the end of 2024'.",
+    "E": "The evidence includes details on the capital adequacy ratio and compliance with Basel III, indicating conformity with a recognized standard, but lacks external assurance or a named source."
+   },
+   "label_reason": {
+    "S1": "The passage mentions capital levels being above regulatory requirements, which is related to the claim but does not address the specific figures or details in the claim.",
+    "S2": "This passage provides information on the capital adequacy ratio, which is relevant to the claim but does not directly address the specific capital fund figures.",
+    "X1": "This passage repeats the claim almost verbatim, adding no new information.",
+    "X2": "The passage provides additional context on the capital requirements and the approach adopted by the bank, which supports the claim with more detail.",
+    "X3": "This passage gives further details about the components of the financial conglomerate and regulatory requirements, which supports understanding of the claim's context."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0031",
+   "uid": "KBANK-2024-OR-EN::CLM-0031",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Capital Requirements",
+   "page": 968,
+   "claim_type": "commitment",
+   "sdg_targets": "8.10, 9.2, 9.3",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 1,
+   "T_runs": [
+    1,
+    1,
+    1
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Redundant",
+    "X2": "Unrelated",
+    "X3": "Unrelated"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": false,
+    "X3": false
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.6,
+   "SMTE": 0.75,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "unsubstantiated",
+   "rationale": {
+    "S": "The claim names the action of forward-looking capital planning and stress testing, but it does not specify a named program, a specific target area, or a defined scope.",
+    "M": "The claim does not include any quantitative indicators or language of change; it is a plain statement about capital planning and stress testing.",
+    "T": "The claim uses the term 'regularly,' which indicates an ongoing process but does not provide any specific time points or periods.",
+    "E": "The evidence provides figures for capital funds and mentions the Basel III requirements, but does not disclose the method of data collection or any external assurance."
+   },
+   "label_reason": {
+    "S1": "S1 mentions capital levels being above regulatory requirements, which is related to capital adequacy but does not address the specific claim of forward-looking planning and stress testing.",
+    "S2": "S2 provides figures for capital funds under Basel III, which relates to capital adequacy but does not directly support the claim about forward-looking planning and stress testing.",
+    "X1": "X1 repeats the claim almost verbatim without adding any new information or verifiable facts.",
+    "X2": "X2 discusses liquidity risk assessment and analysis, which is not directly related to the claim about capital planning and stress testing.",
+    "X3": "X3 focuses on portfolio management and credit risk, which are not related to the claim about capital adequacy and stress testing."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0033",
+   "uid": "KBANK-2024-OR-EN::CLM-0033",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Corporate Governance",
+   "page": 1052,
+   "claim_type": "alignment",
+   "sdg_targets": "12.6, 16.5, 16.6, 16.7",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 2,
+   "S_runs": [
+    2,
+    2,
+    2
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 0,
+   "T_runs": [
+    0,
+    0,
+    0
+   ],
+   "E": 2,
+   "E_runs": [
+    2,
+    2,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Redundant",
+    "X2": "Extend",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 1,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.0,
+   "SMTE": 1.0,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim names the action of aligning corporate governance principles with specific codes and guidelines, and it defines the scope by referencing the Corporate Governance Code for Listed Companies and other specific frameworks.",
+    "M": "The claim does not contain any quantifiable indicators or language of change; it is a plain statement about alignment with certain standards.",
+    "T": "There is no time reference in the claim; it does not specify when the alignment occurred or over what period it applies.",
+    "E": "The evidence includes references to specific standards and where more information can be found, such as the bank's website, which provides a method of verification and scope."
+   },
+   "label_reason": {
+    "S1": "Discusses the revision of the Corporate Governance Policy but does not specifically address the alignment with the mentioned codes and guidelines.",
+    "S2": "Mentions revisions to charters and policies related to governance but does not directly address the alignment claim.",
+    "X1": "Repeats the claim verbatim without adding further information.",
+    "X2": "Provides additional details about the content and location of the Corporate Governance Principles, supporting the claim with verifiable facts.",
+    "X3": "Mentions the Corporate Governance Report of Thai Listed Companies but does not specifically address the claim about alignment with multiple standards."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0034",
+   "uid": "KBANK-2024-OR-EN::CLM-0034",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Corporate Governance",
+   "page": 1052,
+   "claim_type": "achievement",
+   "sdg_targets": "16.6, 16.7",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 2,
+   "S_runs": [
+    2,
+    2,
+    2
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 2,
+   "T_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Redundant",
+    "X2": "Extend",
+    "X3": "Unrelated"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": false,
+    "X3": true
+   },
+   "C": 1,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.2,
+   "SMTE": 1.25,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim names the action (monitoring and assessing operating results) and specifies the scope (in accordance with the Corporate Governance Policy), but it does not mention a specific programme or project.",
+    "M": "The claim is a plain statement with no quantification or language of change.",
+    "T": "The claim specifies a single time point, 'In 2024,' indicating when the monitoring and assessment took place.",
+    "E": "The evidence provided is self-reported and repeats the claim without additional details on data collection methods or external validation."
+   },
+   "label_reason": {
+    "S1": "Discusses the review and revision of the Corporate Governance Policy, which is related to the claim's context but not the specific action of monitoring and assessing operating results.",
+    "S2": "Mentions the review of the Code of Conduct, which is related to corporate governance but not directly to the monitoring and assessment of operating results.",
+    "X1": "Repeats the claim verbatim without adding any new information.",
+    "X2": "Provides additional context on activities undertaken to promote corporate governance, supporting the claim's context.",
+    "X3": "Focuses on financial information disclosure, which is not related to the claim about monitoring and assessing operating results."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0035",
+   "uid": "KBANK-2024-OR-EN::CLM-0035",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Corporate Governance",
+   "page": 1052,
+   "claim_type": "commitment",
+   "sdg_targets": "16.6, 16.7",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 1,
+   "T_runs": [
+    1,
+    1,
+    1
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Redundant",
+    "X2": "Related",
+    "X3": "Extend"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": false
+   },
+   "C": 1,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.8,
+   "SMTE": 0.75,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "unsubstantiated",
+   "rationale": {
+    "S": "The claim names the action of reviewing and revising the Corporate Governance Policy, but it does not specify a named programme, a specific target area, or a defined scope.",
+    "M": "The claim is a plain statement without any indicators or language of change, such as improvement or enhancement.",
+    "T": "The claim indicates that the action has been done ('was subsequently proposed'), but it does not provide a specific date or time period.",
+    "E": "The evidence consists of self-reported actions, but there is no method of data collection, source, or standard mentioned that would allow verification."
+   },
+   "label_reason": {
+    "S1": "S1 discusses revisions to various charters and policies, which is related to governance but does not address the specific claim about the Corporate Governance Policy.",
+    "S2": "S2 mentions monitoring and assessing operating results in accordance with the Corporate Governance Policy, which is related to governance but not specific to the claim about revising the policy.",
+    "X1": "X1 repeats the claim almost verbatim without adding any new information or verifiable facts.",
+    "X2": "X2 discusses the review of the Code of Conduct, which is related to governance but not directly about the Corporate Governance Policy.",
+    "X3": "X3 provides additional context on activities promoting corporate governance principles, supporting the claim by showing broader governance efforts."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0036",
+   "uid": "KBANK-2024-OR-EN::CLM-0036",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Corporate Governance",
+   "page": 1052,
+   "claim_type": "commitment",
+   "sdg_targets": "16.5, 16.6",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 2,
+   "S_runs": [
+    2,
+    2,
+    2
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 2,
+   "T_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Redundant",
+    "X2": "Extend",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 1,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.2,
+   "SMTE": 1.25,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim specifies the action of reviewing the Code of Conduct and identifies the Board of Directors as the approving body, which provides a defined scope but lacks a named programme.",
+    "M": "The claim does not provide any quantifiable data or language of change; it is a plain statement about the review process.",
+    "T": "The claim mentions a specific time point, 'In 2024,' indicating when the review took place.",
+    "E": "The evidence provided is self-reported and repeats the claim without additional details on the method of data collection or external assurance."
+   },
+   "label_reason": {
+    "S1": "The passage discusses monitoring and assessing operating results, which is related to corporate governance but does not address the specific claim about the Code of Conduct review.",
+    "S2": "This passage discusses revisions to charters and policies related to governance, but it does not specifically address the Code of Conduct review.",
+    "X1": "This passage repeats the claim verbatim without adding any new information.",
+    "X2": "This passage extends the claim by providing additional details about the communication and compliance process related to the revised Code of Conduct.",
+    "X3": "The passage discusses the review of the Corporate Governance Policy, which is related but not specific to the Code of Conduct review."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0037",
+   "uid": "KBANK-2024-OR-EN::CLM-0037",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Corporate Governance",
+   "page": 1052,
+   "claim_type": "commitment",
+   "sdg_targets": "16.5, 16.6, 16.7",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 1,
+   "M_runs": [
+    1,
+    1,
+    1
+   ],
+   "T": 0,
+   "T_runs": [
+    0,
+    0,
+    0
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Redundant",
+    "X2": "Redundant",
+    "X3": "Extend"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": false
+   },
+   "C": 1,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.8,
+   "SMTE": 0.75,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "unsubstantiated",
+   "rationale": {
+    "S": "The claim specifies the action of restructuring the Board and increasing the ratio of independent directors, but it does not name a specific program, target area, or defined scope.",
+    "M": "The claim uses language of change by stating 'decreasing' and 'increasing,' but it does not provide any numerical data or specific comparators.",
+    "T": "The claim does not provide any time reference or period for when the restructuring is to occur.",
+    "E": "The evidence provided repeats the claim and offers some additional context, but it does not disclose specific methods of data collection, sources, or standards, nor is there any external assurance mentioned."
+   },
+   "label_reason": {
+    "S1": "S1 discusses revisions related to the Board restructuring but does not provide specific information about the claim itself.",
+    "S2": "S2 mentions the revision of the Corporate Governance Policy, which is related to the topic but does not address the specific details of the claim.",
+    "X1": "X1 repeats the claim almost verbatim without adding any new information.",
+    "X2": "X2 paraphrases the claim, reiterating the restructuring details without providing additional information.",
+    "X3": "X3 provides additional context by explaining the purpose of the restructuring and mentions the year 2024, which extends the claim with a time reference."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0038",
+   "uid": "KBANK-2024-OR-EN::CLM-0038",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Corporate Governance",
+   "page": 1052,
+   "claim_type": "commitment",
+   "sdg_targets": "16.6, 16.7",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 1,
+   "T_runs": [
+    1,
+    1,
+    0
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Redundant",
+    "X2": "Redundant",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.6,
+   "SMTE": 0.75,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "unsubstantiated",
+   "rationale": {
+    "S": "The claim names specific actions (revising charters and policies) but does not specify a named program, target area, or defined scope.",
+    "M": "The claim lacks any quantifiable indicators or language of change; it is a plain statement of action.",
+    "T": "The claim implies that revisions have been made but does not provide a specific date or time period for these actions.",
+    "E": "The evidence provides self-reported information on the revisions but lacks details on the method of data collection, sources, or external assurance."
+   },
+   "label_reason": {
+    "S1": "The passage discusses the review and revision of the Corporate Governance Policy, which is related to the claim's topic but does not address the specific revisions mentioned in the claim.",
+    "S2": "This passage is about restructuring the Board, which is related to the claim's context but does not directly address the specific revisions in the charters and policies.",
+    "X1": "This passage repeats the claim almost verbatim without adding any new information or verifiable facts.",
+    "X2": "This passage repeats the claim's content about revising charters and policies without providing additional details or evidence.",
+    "X3": "The passage discusses the Human Resources and Remuneration Committee's activities, which are related to the claim, but it does not provide specific details about the revisions mentioned in the claim."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0039",
+   "uid": "KBANK-2024-OR-EN::CLM-0039",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Corporate Governance",
+   "page": 1052,
+   "claim_type": "commitment",
+   "sdg_targets": "16.5, 16.6",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 1,
+   "T_runs": [
+    1,
+    1,
+    1
+   ],
+   "E": 2,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Redundant",
+    "X2": "Related",
+    "X3": "Extend"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 1,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.0,
+   "SMTE": 1.0,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim names the action of revising the Anti-Corruption Policy to comply with CAC minimum requirements, but it does not specify a programme, target area, or defined scope.",
+    "M": "The claim does not include any quantifiable indicators or language of change; it is a plain statement.",
+    "T": "The claim implies that the revision has been done but does not provide a specific date or time frame.",
+    "E": "The evidence includes details about the revision of the Anti-Corruption Policy and its compliance with CAC requirements, specifically mentioning the Thai Private Sector Collective Action Against Corruption, which provides a standard and context for the revision."
+   },
+   "label_reason": {
+    "S1": "Discusses the revision of the Corporate Governance Policy, which is related to governance but not specifically about the Anti-Corruption Policy.",
+    "S2": "Mentions revisions to various charters and policies but does not specifically address the Anti-Corruption Policy.",
+    "X1": "Repeats the claim about revising the Anti-Corruption Policy to comply with CAC requirements without adding new information.",
+    "X2": "Discusses reviewing internal control systems and self-assessment results in compliance with the anti-corruption policy, related to the topic but not the specific claim.",
+    "X3": "Provides additional details about the Anti-Corruption Policy, including its annual review and specific compliance with the Thai Private Sector Collective Action Against Corruption guidelines."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0041",
+   "uid": "KBANK-2024-OR-EN::CLM-0041",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Corporate Governance Policy",
+   "page": 1052,
+   "claim_type": "alignment",
+   "sdg_targets": "12.6, 16.5, 16.6, 16.7",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 2,
+   "S_runs": [
+    3,
+    2,
+    2
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 0,
+   "T_runs": [
+    0,
+    0,
+    0
+   ],
+   "E": 2,
+   "E_runs": [
+    2,
+    1,
+    2
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Redundant",
+    "X2": "Extend",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 1,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.0,
+   "SMTE": 1.0,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim specifies the action of aligning corporate governance principles with several named standards, which provides a defined scope but does not mention a specific program or target area.",
+    "M": "The claim does not include any quantifiable indicators or language of change; it is a plain statement of alignment.",
+    "T": "There is no reference to any time frame or period in the claim.",
+    "E": "The claim mentions specific standards and guidelines, and X2 provides a location where further details can be found, which indicates conformity with standards and provides a source."
+   },
+   "label_reason": {
+    "S1": "The passage discusses revisions to the Corporate Governance Policy, which is related to the claim's topic but does not directly address the specific standards or guidelines mentioned in the claim.",
+    "S2": "This passage relates to governance by discussing revisions to charters, but it does not address the specific alignment with the standards mentioned in the claim.",
+    "X1": "This passage repeats the claim verbatim without adding any new information.",
+    "X2": "The passage extends the claim by providing additional details about the content of the Corporate Governance Principles and where to find them, supporting the claim's alignment with standards.",
+    "X3": "This passage mentions the Corporate Governance Report of Thai Listed Companies but does not directly address the claim's alignment with multiple standards."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0042",
+   "uid": "KBANK-2024-OR-EN::CLM-0042",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Corporate Governance Policy",
+   "page": 1052,
+   "claim_type": "achievement",
+   "sdg_targets": "16.6, 16.7",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 2,
+   "S_runs": [
+    2,
+    2,
+    2
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 2,
+   "T_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    0
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Redundant",
+    "X2": "Redundant",
+    "X3": "Unrelated"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.0,
+   "SMTE": 1.25,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim specifies the action of monitoring and assessing operating results in accordance with the Corporate Governance Policy, which is a defined scope, but it does not name a specific program.",
+    "M": "The claim does not include any quantifiable indicators or language of change.",
+    "T": "The claim specifies the year 2024, providing a specific time point.",
+    "E": "The evidence is self-reported and repeats the claim without providing additional data collection methods, sources, or standards."
+   },
+   "label_reason": {
+    "S1": "The passage discusses the revision of the Corporate Governance Policy, which is related to the claim's topic but does not address the specific action of monitoring and assessing operating results.",
+    "S2": "The passage is about the review of the Code of Conduct, which is related to governance but not directly about monitoring and assessing operating results.",
+    "X1": "This passage repeats the claim verbatim without adding new information.",
+    "X2": "This passage repeats the claim and provides additional context about governance activities, but does not extend the specific claim of monitoring and assessing operating results.",
+    "X3": "The passage discusses financial information disclosure, which is unrelated to the claim about monitoring and assessing operating results in accordance with the Corporate Governance Policy."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0043",
+   "uid": "KBANK-2024-OR-EN::CLM-0043",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Corporate Governance Policy",
+   "page": 1052,
+   "claim_type": "commitment",
+   "sdg_targets": "16.6, 16.7",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 2,
+   "S_runs": [
+    2,
+    2,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 1,
+   "T_runs": [
+    1,
+    1,
+    1
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    0
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Redundant",
+    "X2": "Related",
+    "X3": "Redundant"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": false
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.8,
+   "SMTE": 1.0,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim specifies the action of reviewing and revising the Corporate Governance Policy, and it identifies the Board of Directors as the target group for consideration, thus providing a defined scope.",
+    "M": "The claim does not include any quantifiable indicators or language of change; it is a plain statement about the revision of a policy.",
+    "T": "The claim implies that the revision has been completed but does not specify a date or time period for when this occurred.",
+    "E": "The evidence provided is self-reported and repeats the claim without additional details on data collection methods, sources, or standards."
+   },
+   "label_reason": {
+    "S1": "This passage discusses revisions to other charters and policies but does not specifically address the Corporate Governance Policy revision mentioned in the claim.",
+    "S2": "This passage mentions monitoring and assessing operating results in accordance with the Corporate Governance Policy but does not specifically address the revision process stated in the claim.",
+    "X1": "This passage repeats the claim almost verbatim, adding no new information or verifiable facts.",
+    "X2": "This passage discusses the review of the Code of Conduct, which is related to corporate governance but not the specific policy revision mentioned in the claim.",
+    "X3": "This passage repeats the claim and adds context about other activities but does not provide additional verifiable information specific to the policy revision."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0044",
+   "uid": "KBANK-2024-OR-EN::CLM-0044",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Corporate Governance Policy",
+   "page": 1052,
+   "claim_type": "commitment",
+   "sdg_targets": "16.5, 16.6",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    2,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 2,
+   "T_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Redundant",
+    "X2": "Extend",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 1,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.0,
+   "SMTE": 1.0,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim names the action (review of the Code of Conduct) but does not specify a named programme, a specific location, or a defined scope.",
+    "M": "The claim does not include any quantifiable indicators or language of change.",
+    "T": "The claim specifies a single time point, 'In 2024,' indicating when the review took place.",
+    "E": "The evidence consists of self-reported statements that repeat the claim without providing additional details on data collection methods, sources, or external assurance."
+   },
+   "label_reason": {
+    "S1": "The passage discusses the review of the Corporate Governance Policy, not the Code of Conduct, which is the focus of the claim.",
+    "S2": "The passage mentions monitoring operating results according to the Corporate Governance Policy, not directly related to the Code of Conduct review.",
+    "X1": "This passage repeats the claim word for word without adding new information.",
+    "X2": "This passage provides additional details about the dissemination and acknowledgment process of the revised Code of Conduct, extending the claim.",
+    "X3": "The passage discusses activities related to corporate governance but does not specifically address the review of the Code of Conduct."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0045",
+   "uid": "KBANK-2024-OR-EN::CLM-0045",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Corporate Governance Policy",
+   "page": 1052,
+   "claim_type": "commitment",
+   "sdg_targets": "16.6, 16.7",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 1,
+   "M_runs": [
+    1,
+    1,
+    1
+   ],
+   "T": 0,
+   "T_runs": [
+    0,
+    0,
+    0
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Redundant",
+    "X2": "Redundant",
+    "X3": "Extend"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": false
+   },
+   "C": 1,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.8,
+   "SMTE": 0.75,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "unsubstantiated",
+   "rationale": {
+    "S": "The claim specifies the action of restructuring the Board and increasing the ratio of independent directors, but it does not mention a named programme, specific target area, or defined scope.",
+    "M": "The claim uses language of change ('decreasing', 'increasing') but does not provide any numerical indicators or comparators.",
+    "T": "The claim does not provide any time reference or period for when the restructuring is to occur or has occurred.",
+    "E": "The evidence provides self-reported information about the restructuring and related governance changes, but it lacks details on data collection methods, sources, or external assurance."
+   },
+   "label_reason": {
+    "S1": "S1 discusses revisions in charters and policies related to the Board restructuring but does not directly address the specific claim about the ratio of independent directors.",
+    "S2": "S2 mentions the review and revision of the Corporate Governance Policy, which is related to the topic but does not specifically address the claim about the Board's composition.",
+    "X1": "X1 repeats the claim verbatim without adding any new information.",
+    "X2": "X2 paraphrases the claim about restructuring the Board and increasing the proportion of independent directors, adding no new information.",
+    "X3": "X3 provides additional context about the reasons for restructuring and mentions revisions to regulations and policies, extending the claim with more detail."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0046",
+   "uid": "KBANK-2024-OR-EN::CLM-0046",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Corporate Governance Policy",
+   "page": 1052,
+   "claim_type": "commitment",
+   "sdg_targets": "16.6, 16.7",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 1,
+   "T_runs": [
+    1,
+    1,
+    1
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Redundant",
+    "X2": "Redundant",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.6,
+   "SMTE": 0.75,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "unsubstantiated",
+   "rationale": {
+    "S": "The claim names specific actions such as revising charters and policies but does not specify a named program, target area, or defined scope.",
+    "M": "The claim does not include any quantifiable measures or language of change, making it a plain statement.",
+    "T": "The claim implies that revisions have been made but does not provide specific dates or timeframes.",
+    "E": "The evidence provided is self-reported and repeats the claim but does not disclose methods of data collection or external assurance."
+   },
+   "label_reason": {
+    "S1": "The passage discusses the review and revision of the Corporate Governance Policy, which is related to the claim's topic but does not address the specific actions mentioned in the claim.",
+    "S2": "The passage discusses the restructuring of the Board, which is related to the claim's context but does not address the specific charter revisions mentioned in the claim.",
+    "X1": "The passage repeats the claim verbatim without adding any new information.",
+    "X2": "The passage repeats the claim and adds context about related actions, but does not provide additional verifiable information specific to the claim.",
+    "X3": "The passage discusses the Human Resources and Remuneration Committee's activities, which are related to the claim's topic but do not specifically address the revisions mentioned in the claim."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0047",
+   "uid": "KBANK-2024-OR-EN::CLM-0047",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Corporate Governance Policy",
+   "page": 1052,
+   "claim_type": "commitment",
+   "sdg_targets": "16.5, 16.6",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 1,
+   "T_runs": [
+    1,
+    1,
+    1
+   ],
+   "E": 2,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Redundant",
+    "X2": "Related",
+    "X3": "Extend"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 1,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.0,
+   "SMTE": 1.0,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim names the action of revising the Anti-Corruption Policy to comply with CAC minimum requirements, but it does not specify a named programme, a specific target area, or a defined scope.",
+    "M": "The claim is a plain statement with no quantification or language of change.",
+    "T": "The claim implies that the revision has been done but provides no specific date or time frame.",
+    "E": "The evidence includes details about the revision of the Anti-Corruption Policy and its compliance with CAC guidelines, which provides some context and method of revision, but lacks external assurance or certification."
+   },
+   "label_reason": {
+    "S1": "The passage discusses the revision of the Corporate Governance Policy, which is related to governance but does not specifically address the Anti-Corruption Policy.",
+    "S2": "This passage talks about revisions to various charters and policies for consistency but does not specifically mention the Anti-Corruption Policy.",
+    "X1": "This passage repeats the claim about revising the Anti-Corruption Policy to comply with CAC requirements without adding new information.",
+    "X2": "This passage discusses reviewing internal controls and self-assessment in compliance with the anti-corruption policy, which is related but not specific to the claim.",
+    "X3": "This passage provides additional information about the Anti-Corruption Policy, including its components and annual review, and mentions compliance with CAC guidelines, thereby extending the claim."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0049",
+   "uid": "KBANK-2024-OR-EN::CLM-0049",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Nomination, Development and Performance Assessment of the Board of Directors",
+   "page": 1444,
+   "claim_type": "commitment",
+   "sdg_targets": "16.6, 16.7, 5.5, 8.10, 8.3, 8.5",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 0,
+   "T_runs": [
+    0,
+    0,
+    0
+   ],
+   "E": 2,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Redundant",
+    "X2": "Extend",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 1,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.8,
+   "SMTE": 0.75,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "unsubstantiated",
+   "rationale": {
+    "S": "The claim names the action of selecting and seeking candidates for director positions but does not specify a named programme, specific target area, or defined scope.",
+    "M": "The claim is a plain statement with no indicators or language of change, such as numbers or expressions of improvement or reduction.",
+    "T": "The claim does not provide any time reference or period for the action described.",
+    "E": "The evidence provides details on the process and criteria for director nomination, including the involvement of the Human Resources and Remuneration Committee, but lacks external assurance or certification."
+   },
+   "label_reason": {
+    "S1": "The passage discusses the review of criteria and processes for director nomination, which is related to the claim but does not directly address the specific action of selecting candidates.",
+    "S2": "This passage outlines the qualifications required for board members, which is related to the claim's topic but does not directly support the specific claim about the committee's role in selecting candidates.",
+    "X1": "This passage repeats the claim almost verbatim without adding new information or verifiable facts.",
+    "X2": "This passage provides additional details on the nomination process, including the sources of candidates and considerations for nomination, extending the information in the claim.",
+    "X3": "The passage provides background on the Human Resources and Remuneration Committee but does not directly address the specific claim about selecting candidates for director positions."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0050",
+   "uid": "KBANK-2024-OR-EN::CLM-0050",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Nomination, Development and Performance Assessment of the Board of Directors",
+   "page": 1444,
+   "claim_type": "commitment",
+   "sdg_targets": "16.6, 16.7, 5.5, 8.10, 8.5",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    2
+   ],
+   "M": 2,
+   "M_runs": [
+    2,
+    2,
+    2
+   ],
+   "T": 0,
+   "T_runs": [
+    0,
+    0,
+    0
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Extend",
+    "X1": "Redundant",
+    "X2": "Redundant",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.8,
+   "SMTE": 1.0,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim names specific qualifications and gender composition requirements for the Board of Directors but does not specify a named program, specific target area, or defined scope beyond the Board itself.",
+    "M": "The claim includes a specific number, stating that females should constitute at least 30 percent of all Board members, but lacks a baseline or comparator.",
+    "T": "The claim does not provide any time reference or period for when these requirements should be met.",
+    "E": "The evidence provides some figures and descriptions related to the claim but lacks detailed methods of data collection, sources, or external assurance."
+   },
+   "label_reason": {
+    "S1": "S1 discusses the selection process for Board members, which is related to the claim's topic but does not address the specific qualifications or gender composition stated in the claim.",
+    "S2": "S2 provides specific information that females account for 69 percent of all Board members, which supports and extends the claim regarding gender composition.",
+    "X1": "X1 repeats the claim almost verbatim without adding any new information or verifiable facts.",
+    "X2": "X2 repeats the claim and provides a reference to the Bank's website for more details, but does not add new information directly in the passage.",
+    "X3": "X3 discusses the nomination process and qualifications for Board members, which is related to the claim's topic but does not directly address the specific qualifications or gender composition stated in the claim."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0051",
+   "uid": "KBANK-2024-OR-EN::CLM-0051",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Nomination, Development and Performance Assessment of the Board of Directors",
+   "page": 1444,
+   "claim_type": "commitment",
+   "sdg_targets": "16.6, 16.7, 5.5, 5.c",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    2,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 1,
+   "T_runs": [
+    1,
+    1,
+    1
+   ],
+   "E": 2,
+   "E_runs": [
+    2,
+    1,
+    2
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Extend",
+    "X2": "Extend",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": false,
+    "X3": true
+   },
+   "C": 1,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.0,
+   "SMTE": 1.0,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim names the action of reviewing the criteria and process of director nomination, but it does not specify a named programme, a specific target area, or a defined scope.",
+    "M": "The claim is a plain statement without any quantification or language of change.",
+    "T": "The claim mentions that the review is conducted on an annual basis, which implies regularity but does not provide a specific time point.",
+    "E": "The evidence includes details about the process and criteria for director nomination, such as the involvement of the Human Resources and Remuneration Committee, and their alignment with best practices and regulatory requirements, which suggests a method of data collection and analysis."
+   },
+   "label_reason": {
+    "S1": "This passage discusses the role of the Human Resources and Remuneration Committee in selecting candidates but does not directly address the annual review process mentioned in the claim.",
+    "S2": "This passage provides information on the composition requirements for the Board of Directors but does not specifically address the annual review process of director nomination criteria.",
+    "X1": "This passage provides additional details about the annual review process, including the sources for candidate selection and alignment with the Bank's strategies, which supports the claim.",
+    "X2": "This passage extends the claim by detailing the responsibilities of the Human Resources and Remuneration Committee, including reviewing nomination policies to ensure they are up-to-date and compliant with best practices.",
+    "X3": "This passage discusses the nomination process and criteria but does not specifically address the annual review aspect of the claim."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0053",
+   "uid": "KBANK-2024-OR-EN::CLM-0053",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Nomination, Development and Performance Assessment of the Board of Directors",
+   "page": 1444,
+   "claim_type": "metric",
+   "sdg_targets": "5.5",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 2,
+   "S_runs": [
+    2,
+    2,
+    2
+   ],
+   "M": 2,
+   "M_runs": [
+    2,
+    2,
+    2
+   ],
+   "T": 1,
+   "T_runs": [
+    1,
+    1,
+    1
+   ],
+   "E": 2,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Related",
+    "X2": "Extend",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": false,
+    "X1": true,
+    "X2": true,
+    "X3": false
+   },
+   "C": 1,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.6,
+   "SMTE": 1.75,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim specifies the action of having female directors on the Board, and it provides a defined scope by stating the percentage of female directors, but it does not name a specific programme.",
+    "M": "The claim is quantified with a specific percentage (69%) of female directors but lacks a comparator such as a baseline or target.",
+    "T": "The claim states that the percentage of female directors is achieved but does not provide a specific date or time period.",
+    "E": "The evidence includes a detailed breakdown of the Board's gender composition, which supports the claim, and it is presented in a verifiable format, but there is no mention of external assurance or certification."
+   },
+   "label_reason": {
+    "S1": "S1 discusses the composition requirements for the Board but does not address the specific claim about the current percentage of female directors.",
+    "S2": "S2 mentions changes in the Board's composition but does not provide specific information about the percentage of female directors.",
+    "X1": "X1 discusses the general composition and requirements for the Board but does not specifically address the claim about the percentage of female directors.",
+    "X2": "X2 provides a detailed breakdown of the Board's gender composition, confirming the claim that 69% of the Board members are female.",
+    "X3": "X3 discusses the general composition and requirements for the Board but does not specifically address the claim about the percentage of female directors."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0054",
+   "uid": "KBANK-2024-OR-EN::CLM-0054",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Nomination, Development and Performance Assessment of the Board of Directors",
+   "page": 1444,
+   "claim_type": "commitment",
+   "sdg_targets": "16.6, 16.7, 5.5",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 2,
+   "S_runs": [
+    1,
+    2,
+    2
+   ],
+   "M": 1,
+   "M_runs": [
+    1,
+    1,
+    1
+   ],
+   "T": 2,
+   "T_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Extend",
+    "X2": "Extend",
+    "X3": "Unrelated"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": false
+   },
+   "C": 1,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.4,
+   "SMTE": 1.5,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim specifies the action of reducing the size of the Board and increasing the proportion of independent directors, and it is scoped to the Board of Directors of KASIKORNBANK PUBLIC COMPANY LIMITED.",
+    "M": "The claim uses language of change ('reduce' and 'increase') but does not provide any numerical values or specific targets.",
+    "T": "The claim mentions a specific date, April 25, 2024, when the Board meeting was held.",
+    "E": "The evidence provided is self-reported and includes figures about the restructuring, but lacks details on the method of data collection or external assurance."
+   },
+   "label_reason": {
+    "S1": "S1 discusses the composition requirements for the Board but does not directly address the claim about reducing the Board size or increasing independent directors.",
+    "S2": "S2 is related to the selection process for directors but does not provide information about the specific Board restructuring mentioned in the claim.",
+    "X1": "X1 provides additional details about the Board restructuring, including the resignation of specific members and the appointment of others, which supports the claim.",
+    "X2": "X2 extends the claim by providing context on the restructuring's purpose and its alignment with governance practices, although it does not provide specific figures.",
+    "X3": "X3 discusses the composition of the Audit Committee, which is unrelated to the claim about the Board of Directors restructuring."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0055",
+   "uid": "KBANK-2024-OR-EN::CLM-0055",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Actions towards Stakeholders",
+   "page": 1800,
+   "claim_type": "commitment",
+   "sdg_targets": "12.6, 8.1, 8.10, 8.2, 9.2, 9.3, 9.4",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 0,
+   "T_runs": [
+    0,
+    1,
+    0
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Redundant",
+    "X2": "Related",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.4,
+   "SMTE": 0.5,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "unsubstantiated",
+   "rationale": {
+    "S": "The claim names the actions of achieving good operating performance, sustainable growth, and competitiveness, but it does not specify a program, target area, or defined scope.",
+    "M": "The claim is a plain statement without any indicators or language of change.",
+    "T": "There is no time reference in the claim, making it impossible to determine when these actions are to be achieved.",
+    "E": "The evidence provided is mostly self-reported and lacks detailed methods of data collection or external assurance, although it mentions transparency and risk management."
+   },
+   "label_reason": {
+    "S1": "The passage discusses transparency and ethical practices, which relate to sustainable business operations but do not address the claim's specifics on performance and shareholder value.",
+    "S2": "This passage focuses on customer satisfaction and product improvement, which are related to sustainable growth but do not directly substantiate the claim about shareholder value.",
+    "X1": "This passage repeats the claim almost verbatim, adding no new information or verifiable facts.",
+    "X2": "The passage mentions sustainable returns for stakeholders, which is related to the claim's topic but does not provide specific evidence for the claim.",
+    "X3": "This passage discusses the bank's focus on sustainability and risk management, which is related to the claim but does not directly substantiate it with specific evidence."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0056",
+   "uid": "KBANK-2024-OR-EN::CLM-0056",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Actions towards Stakeholders",
+   "page": 1800,
+   "claim_type": "policy",
+   "sdg_targets": "10.3, 10.5, 16.6, 16.7, 16.b, 8.10, 8.3",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 2,
+   "S_runs": [
+    2,
+    2,
+    2
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 1,
+   "T_runs": [
+    1,
+    1,
+    1
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    0,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Redundant",
+    "X2": "Unrelated",
+    "X3": "Unrelated"
+   },
+   "label_agreement": {
+    "S1": false,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.8,
+   "SMTE": 1.0,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim names the action (approval of a Market Conduct Policy) and a defined scope (customers), but it does not specify a named programme or a specific target area.",
+    "M": "The claim is a plain statement with no quantification or language of change.",
+    "T": "The claim states that the policy has been approved but does not provide a specific date or time frame.",
+    "E": "The evidence repeats the claim and provides related context but does not include a method of data collection, source, or external assurance."
+   },
+   "label_reason": {
+    "S1": "S1 discusses a different policy (Customer Data Privacy Policy) and does not address the Market Conduct Policy.",
+    "S2": "S2 discusses the bank's emphasis on transparency and fair treatment but does not specifically mention the Market Conduct Policy.",
+    "X1": "X1 repeats the claim about the Market Conduct Policy without adding new information.",
+    "X2": "X2 discusses the review of the Code of Conduct, which is not directly related to the Market Conduct Policy.",
+    "X3": "X3 discusses the Corporate Governance Policy, which is not related to the Market Conduct Policy."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0057",
+   "uid": "KBANK-2024-OR-EN::CLM-0057",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Actions towards Stakeholders",
+   "page": 1800,
+   "claim_type": "policy",
+   "sdg_targets": "16.10, 16.6",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 2,
+   "S_runs": [
+    2,
+    2,
+    2
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 1,
+   "T_runs": [
+    1,
+    1,
+    1
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    0
+   ],
+   "labels": {
+    "S1": "Unrelated",
+    "S2": "Unrelated",
+    "X1": "Redundant",
+    "X2": "Unrelated",
+    "X3": "Unrelated"
+   },
+   "label_agreement": {
+    "S1": false,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.8,
+   "SMTE": 1.0,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim names the action (approval of a Customer Data Privacy Policy) and a defined scope (the protection of customer confidential information), but it does not specify a named programme or a specific target area.",
+    "M": "The claim provides no quantifiable indicators or language of change; it is a plain statement about the approval of a policy.",
+    "T": "The claim indicates that the policy has been approved, suggesting completion, but it does not provide a specific date or time period.",
+    "E": "The claim is self-reported and repeated in another section, but there is no method of data collection, source, or external assurance mentioned."
+   },
+   "label_reason": {
+    "S1": "The passage discusses a Market Conduct Policy, which is unrelated to the Customer Data Privacy Policy mentioned in the claim.",
+    "S2": "This passage focuses on counterparties and various ethical standards, not on customer data privacy.",
+    "X1": "This passage repeats the claim about the approval of the Customer Data Privacy Policy without adding new information.",
+    "X2": "The passage discusses the Corporate Governance Policy, which is unrelated to the Customer Data Privacy Policy.",
+    "X3": "This passage discusses corporate governance principles and risk management, not customer data privacy."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0058",
+   "uid": "KBANK-2024-OR-EN::CLM-0058",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Actions towards Stakeholders",
+   "page": 1800,
+   "claim_type": "commitment",
+   "sdg_targets": "12.6, 8.10, 8.2, 9.2, 9.5",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 1,
+   "T_runs": [
+    1,
+    1,
+    1
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Unrelated",
+    "S2": "Unrelated",
+    "X1": "Redundant",
+    "X2": "Unrelated",
+    "X3": "Unrelated"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.6,
+   "SMTE": 0.75,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "unsubstantiated",
+   "rationale": {
+    "S": "The claim names the action of monitoring and measuring customer satisfaction but does not specify a named program, a specific target area, or a defined scope.",
+    "M": "The claim does not include any indicators, numbers, or language of change; it is a plain statement about the Bank's activities.",
+    "T": "The claim uses the term 'on a regular basis,' which indicates a vague time reference but does not specify any particular time point.",
+    "E": "The evidence provided in X1 repeats the claim but does not disclose the method of data collection, source, or any standard, making it self-reported without further substantiation."
+   },
+   "label_reason": {
+    "S1": "The passage discusses the Bank's overall goals and risk management, which is not related to customer satisfaction monitoring.",
+    "S2": "This passage focuses on the Bank's emphasis on counterparties' business operations and compliance, unrelated to customer satisfaction.",
+    "X1": "The passage repeats the claim about monitoring and measuring customer satisfaction without adding any new information or verifiable facts.",
+    "X2": "This passage discusses monitoring the Bank's performance and compliance, which does not specifically relate to customer satisfaction.",
+    "X3": "The passage is about the evaluation of disclosure procedures, not related to customer satisfaction monitoring."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0059",
+   "uid": "KBANK-2024-OR-EN::CLM-0059",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Actions towards Stakeholders",
+   "page": 1800,
+   "claim_type": "commitment",
+   "sdg_targets": "12.4, 12.6, 16.10, 16.6, 16.b, 8.5, 8.7, 8.8",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 0,
+   "T_runs": [
+    0,
+    0,
+    0
+   ],
+   "E": 2,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "labels": {
+    "S1": "Unrelated",
+    "S2": "Related",
+    "X1": "Extend",
+    "X2": "Related",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": false,
+    "X2": true,
+    "X3": true
+   },
+   "C": 1,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.8,
+   "SMTE": 0.75,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "unsubstantiated",
+   "rationale": {
+    "S": "The claim names several issues such as transparency, human rights, labor treatment, safety, health, and environment, but it does not specify a program, target area, or defined scope.",
+    "M": "The claim is a plain statement with no indicators or language of change.",
+    "T": "There is no time reference in the claim.",
+    "E": "The evidence includes references to standards such as the UNGPs, ILO, and UNGC, and mentions a Supplier Code of Conduct, which provides a method of data collection or analysis."
+   },
+   "label_reason": {
+    "S1": "This passage discusses the bank's overall goals for performance and growth, which is unrelated to the specific claim about counterparties.",
+    "S2": "This passage mentions ESG activities and standards, which are related to the claim's context but do not address the specific content of the claim.",
+    "X1": "This passage repeats the claim almost verbatim without adding new information.",
+    "X2": "This passage discusses the bank's commitment to human rights, which is related to the claim but does not address all aspects of it.",
+    "X3": "This passage discusses fairness and ethics, which are related topics but do not directly support the specific claim about counterparties."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0060",
+   "uid": "KBANK-2024-OR-EN::CLM-0060",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Actions towards Stakeholders",
+   "page": 1800,
+   "claim_type": "commitment",
+   "sdg_targets": "11.3, 11.6, 11.b, 12.1, 12.6, 12.8, 3.4, 3.9",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 1,
+   "M_runs": [
+    1,
+    1,
+    1
+   ],
+   "T": 0,
+   "T_runs": [
+    0,
+    0,
+    0
+   ],
+   "E": 2,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Redundant",
+    "X2": "Related",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.8,
+   "SMTE": 1.0,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim names the action of improving the quality of life and ensuring environmentally friendly lifestyles, but it lacks a named program, specific target area, or defined scope.",
+    "M": "The claim uses the language of change ('improve' and 'ensure') but does not provide any numerical indicators or quantifiable measures.",
+    "T": "The claim does not include any time reference, making it impossible to determine when the actions are to be completed or assessed.",
+    "E": "The evidence mentions the use of the B4SI standard and the GRI Standards, which indicates a method of data collection or analysis, but there is no external assurance or certification."
+   },
+   "label_reason": {
+    "S1": "The passage discusses the bank's ESG activities and standards but does not specifically address the claim about improving quality of life or environmentally friendly lifestyles.",
+    "S2": "This passage focuses on counterparties' business operations and compliance, which is related to the broader topic of social contributions but does not directly support the specific claim.",
+    "X1": "This passage repeats the claim almost verbatim and adds no new information or verifiable facts.",
+    "X2": "The passage outlines the bank's sustainable development framework and goals, which are related to the claim's context but do not directly substantiate it.",
+    "X3": "The passage mentions the bank's commitment to sustainable growth, which is related to the claim's theme but does not provide specific evidence for the claim."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0061",
+   "uid": "KBANK-2024-OR-EN::CLM-0061",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Actions towards Stakeholders",
+   "page": 1800,
+   "claim_type": "alignment",
+   "sdg_targets": "12.6, 16.6, 16.7, 17.14, 17.16, 17.17",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 3,
+   "S_runs": [
+    3,
+    3,
+    2
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    1,
+    0
+   ],
+   "T": 0,
+   "T_runs": [
+    0,
+    0,
+    0
+   ],
+   "E": 2,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Redundant",
+    "X2": "Related",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.0,
+   "SMTE": 1.25,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim specifies the issue (ESG activities), a named programme (Bank’s Sustainable Development Policy - SD in Action), and a defined scope (measurable operational guidelines meeting the B4SI standard).",
+    "M": "The claim does not include any quantifiable indicators or language of change; it is a plain statement about the basis of ESG activities.",
+    "T": "There is no time reference in the claim, making it impossible to determine when the activities are or will be implemented.",
+    "E": "The claim mentions conformity with the B4SI standard, and X1 provides additional details about the use of the GRI Standards, which indicates a method of data collection or analysis."
+   },
+   "label_reason": {
+    "S1": "The passage discusses transparency, human rights, and compliance, which are related to ESG but do not directly address the specifics of the claim.",
+    "S2": "The passage is about the bank's goals for sustainable growth and competitiveness, which are related to ESG but do not directly substantiate the claim.",
+    "X1": "This passage repeats the claim about the implementation of the Bank's Sustainable Development Policy and the B4SI standard without adding new verifiable details.",
+    "X2": "This passage discusses the bank's alignment with sustainability principles, which is related to the claim but does not provide specific evidence for it.",
+    "X3": "The passage outlines the bank's ESG strategy and goals, which are related to the claim but do not directly substantiate it with specific evidence."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0062",
+   "uid": "KBANK-2024-OR-EN::CLM-0062",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Actions towards Stakeholders",
+   "page": 1800,
+   "claim_type": "alignment",
+   "sdg_targets": "12.6, 17.16, 17.17, 17.18",
+   "retrieval_flags": [
+    "Only 1 of 2 target same-section references met the similarity threshold (0.35)."
+   ],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 2,
+   "T_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "None",
+    "X1": "Related",
+    "X2": "Unrelated",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.8,
+   "SMTE": 1.0,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim names the action of including details in the Sustainability Report 2024 but does not specify a named programme, a specific location, or a defined scope.",
+    "M": "The claim does not provide any quantifiable indicators or language of change.",
+    "T": "The claim references a specific time point, which is the year 2024.",
+    "E": "The claim mentions alignment with GRI Standards but does not provide specific details such as the standard number, scope, or data location."
+   },
+   "label_reason": {
+    "S1": "S1 discusses ESG activities and standards but does not directly address the claim about GRI Standards in the Sustainability Report 2024.",
+    "S2": "No passage was retrieved for S2.",
+    "X1": "X1 mentions materiality prioritization and guidelines for the Sustainability Report 2024 but does not provide specific details about GRI Standards.",
+    "X2": "X2 discusses the Corporate Governance Policy and does not relate to the claim about GRI Standards in the Sustainability Report.",
+    "X3": "X3 mentions alignment with international standards but does not specifically address GRI Standards or the Sustainability Report 2024."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0063",
+   "uid": "KBANK-2024-OR-EN::CLM-0063",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Disclosure and Transparency",
+   "page": 1827,
+   "claim_type": "policy",
+   "sdg_targets": "16.10, 16.6",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 3,
+   "S_runs": [
+    3,
+    3,
+    3
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 0,
+   "T_runs": [
+    0,
+    0,
+    0
+   ],
+   "E": 2,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Extend",
+    "X1": "Redundant",
+    "X2": "Related",
+    "X3": "Extend"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 1,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.2,
+   "SMTE": 1.25,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim specifies the action of ensuring accurate and transparent disclosures, names the KASIKORNBANK Disclosure Policy, and defines the scope as financial and non-financial information to various stakeholders.",
+    "M": "The claim does not include any quantifiable metrics or language of change; it is a plain statement about the existence of a policy.",
+    "T": "The claim does not provide any time reference or period for the implementation or effectiveness of the disclosure policy.",
+    "E": "The evidence includes references to compliance with specific regulatory standards and procedures, such as those from the Bank of Thailand and the Stock Exchange of Thailand, which supports the claim's assertion of regulatory alignment."
+   },
+   "label_reason": {
+    "S1": "The passage discusses information dissemination but does not specifically address the KASIKORNBANK Disclosure Policy or its attributes.",
+    "S2": "The passage provides additional details about compliance with specific regulatory standards, supporting the claim's assertion of regulatory alignment.",
+    "X1": "The passage repeats the claim about the existence of the KASIKORNBANK Disclosure Policy without adding new information.",
+    "X2": "The passage is about corporate governance principles, which is related to transparency but does not specifically address the disclosure policy claim.",
+    "X3": "The passage provides detailed information about the disclosure of financial information and compliance with regulatory standards, extending the claim's context."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0064",
+   "uid": "KBANK-2024-OR-EN::CLM-0064",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Disclosure and Transparency",
+   "page": 1827,
+   "claim_type": "achievement",
+   "sdg_targets": "16.10, 16.6",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 2,
+   "T_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 3,
+   "E_runs": [
+    3,
+    2,
+    3
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Extend",
+    "X2": "Unrelated",
+    "X3": "Unrelated"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": false,
+    "X3": false
+   },
+   "C": 1,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.4,
+   "SMTE": 1.5,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim names the action of disclosing important financial information but does not specify a named program, a specific target area, or a defined scope.",
+    "M": "The claim is a plain statement without any quantification or language of change.",
+    "T": "The claim specifies a single time point, 2024, for when the disclosure occurred.",
+    "E": "The evidence includes that the financial statements were reviewed/audited by an independent certified public accountant, which indicates external assurance."
+   },
+   "label_reason": {
+    "S1": "Discusses the evaluation of disclosure procedures, related to transparency but not specifically about the financial information disclosure in 2024.",
+    "S2": "Mentions types of disclosures but does not specifically address the adequacy of financial information disclosure in 2024.",
+    "X1": "Provides detailed information about the financial disclosures in 2024, including compliance with regulations and external audit, which supports the claim.",
+    "X2": "Mentions future disclosure plans but does not address the specific claim about 2024 disclosures.",
+    "X3": "Similar to X2, it mentions future disclosure plans without addressing the specific claim about 2024 disclosures."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0068",
+   "uid": "KBANK-2024-OR-EN::CLM-0068",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Disclosure and Transparency",
+   "page": 1827,
+   "claim_type": "achievement",
+   "sdg_targets": "12.6, 16.10, 16.6",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    2,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 1,
+   "T_runs": [
+    1,
+    1,
+    1
+   ],
+   "E": 2,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Extend",
+    "X2": "Related",
+    "X3": "Extend"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": false
+   },
+   "C": 2,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.2,
+   "SMTE": 1.0,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim names the actions of publishing financial statements and other disclosures but does not specify a named program, specific target area, or defined scope.",
+    "M": "The claim is a plain statement without any quantification or language of change.",
+    "T": "The claim implies ongoing or regular activity but does not provide specific time points or dates.",
+    "E": "The evidence includes details on the dissemination and auditing of financial statements, and mentions compliance with specific regulations and standards, which provides a method of data collection and reporting scope."
+   },
+   "label_reason": {
+    "S1": "The passage discusses the dissemination of information, which is related to the claim's topic but does not address the specific content of the claim.",
+    "S2": "This passage mentions the evaluation of disclosure procedures, which is related to the claim's topic but does not provide specific evidence for the claim.",
+    "X1": "This passage provides detailed information about the financial statements, auditing, and dissemination, directly supporting the claim with verifiable facts.",
+    "X2": "The passage discusses auditing and reviewing operations, which is related to the claim's topic but does not specifically address the claim's content.",
+    "X3": "This passage mentions the Basel III Pillar 3 Disclosure, which is part of the claim, but does not provide additional specific details or evidence for the claim."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0069",
+   "uid": "KBANK-2024-OR-EN::CLM-0069",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Disclosure and Transparency",
+   "page": 1827,
+   "claim_type": "commitment",
+   "sdg_targets": "16.10, 16.6",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 1,
+   "T_runs": [
+    1,
+    1,
+    1
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Redundant",
+    "X2": "Unrelated",
+    "X3": "Unrelated"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": false,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.6,
+   "SMTE": 0.75,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "unsubstantiated",
+   "rationale": {
+    "S": "The claim names the action of evaluating disclosure procedures but does not specify a program, site, or defined scope.",
+    "M": "The claim is a plain statement with no quantification or language of change.",
+    "T": "The claim uses the term 'periodically,' indicating a vague time reference without specific dates.",
+    "E": "The evidence mentions periodic evaluation but does not provide details on the method of evaluation or external assurance."
+   },
+   "label_reason": {
+    "S1": "The passage discusses various disclosures but does not specifically address the evaluation of disclosure procedures.",
+    "S2": "The passage mentions dissemination of information but does not relate to evaluating disclosure procedures.",
+    "X1": "The passage repeats the claim about periodic evaluation of disclosure procedures without adding new information.",
+    "X2": "The passage is about financial statement disclosures and credit risk, not about evaluating disclosure procedures.",
+    "X3": "The passage discusses audits and reviews of operations, not the evaluation of disclosure procedures."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0071",
+   "uid": "KBANK-2024-OR-EN::CLM-0071",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Disclosure and Transparency",
+   "page": 1827,
+   "claim_type": "commitment",
+   "sdg_targets": "16.10, 16.6",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 1,
+   "T_runs": [
+    1,
+    1,
+    1
+   ],
+   "E": 2,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Extend",
+    "X2": "Related",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 1,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.0,
+   "SMTE": 1.0,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim specifies the action of disseminating information through various channels and mass media, but it does not name a specific program, target area, or defined scope.",
+    "M": "The claim is a plain statement with no indicators, numbers, or language of change.",
+    "T": "The claim uses the term 'on a regular basis,' which implies ongoing activity but does not specify any exact time frame.",
+    "E": "The evidence provides details on the methods and channels used for dissemination, such as specific platforms and types of information shared, which supports the claim's context."
+   },
+   "label_reason": {
+    "S1": "The passage discusses the types of information published by the bank but does not directly address the dissemination through various channels and mass media.",
+    "S2": "This passage mentions the evaluation of disclosure procedures, which is related to transparency but not specifically about dissemination channels.",
+    "X1": "This passage provides specific examples of the channels and media used for dissemination, directly supporting the claim.",
+    "X2": "This passage mentions the disclosure of information on the website and through the Stock Exchange, which is related but not as comprehensive as the claim.",
+    "X3": "The passage discusses the bank's disclosure policy, which is related to transparency but does not directly address the dissemination through various channels and mass media."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0073",
+   "uid": "KBANK-2024-OR-EN::CLM-0073",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Statement of the Board of Directors",
+   "page": 3001,
+   "claim_type": "achievement",
+   "sdg_targets": "16.5, 16.6",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 2,
+   "S_runs": [
+    2,
+    3,
+    2
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 2,
+   "T_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "labels": {
+    "S1": "Extend",
+    "S2": "Related",
+    "X1": "Redundant",
+    "X2": "Related",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": false,
+    "S2": false,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.2,
+   "SMTE": 1.5,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim names the action (earning an 'Excellence' rating) and the specific report (Corporate Governance Report of Thai Listed Companies 2024), but it does not specify a program or project.",
+    "M": "The claim does not provide any quantifiable data or language of change; it is a plain statement about receiving a rating.",
+    "T": "The claim specifies a time point by mentioning the year 2024, indicating when the rating was earned.",
+    "E": "The evidence includes the source of the rating (Thai Institute of Directors Association) and mentions the Corporate Governance Report, providing a method of data collection or analysis."
+   },
+   "label_reason": {
+    "S1": "S1 provides additional context by mentioning the Thai Institute of Directors and the Stock Exchange of Thailand, supporting the claim with verifiable facts.",
+    "S2": "S2 mentions an 'Excellence' rating but refers to a different assessment (AGM Assessment Program), not the Corporate Governance Report.",
+    "X1": "X1 repeats the claim about the 'Excellence' rating and recommendations for improvement without adding new information.",
+    "X2": "X2 discusses corporate governance principles and mentions the Corporate Governance Report, but does not address the specific claim about the 'Excellence' rating.",
+    "X3": "X3 discusses compliance with governance principles and mentions the Thai Institute of Directors Association, but does not directly address the claim about the 'Excellence' rating."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0074",
+   "uid": "KBANK-2024-OR-EN::CLM-0074",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Statement of the Board of Directors",
+   "page": 3001,
+   "claim_type": "commitment",
+   "sdg_targets": "11.3, 11.b, 17.14, 17.16, 17.17, 8.3, 8.9",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 2,
+   "T_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Redundant",
+    "X2": "Extend",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 1,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.0,
+   "SMTE": 1.0,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim names the action of endorsing a framework and policy for sustainable development strategies for 2025, but it does not specify a named programme, a specific target area, or a defined scope.",
+    "M": "The claim is a plain statement without any quantification or language of change.",
+    "T": "The claim mentions a specific time point, 2025, for the sustainable development strategies.",
+    "E": "The evidence provided is self-reported and includes figures and actions but lacks a method of data collection, source, or external assurance."
+   },
+   "label_reason": {
+    "S1": "The passage mentions approving corporate sustainability targets but does not specifically address the endorsement of the Sustainable Development Framework and Policy.",
+    "S2": "The passage discusses approving an action plan for sustainable development, which is related to the topic but does not specifically address the endorsement of the framework and policy.",
+    "X1": "The passage repeats the claim about endorsing the Sustainable Development Framework and Policy and sustainable development strategies for 2025 without adding new information.",
+    "X2": "The passage provides additional context about the adjustment and approval of the Sustainable Development Policy, aligning it with international sustainability principles and the UN SDGs.",
+    "X3": "The passage provides a general overview of the Sustainable Development Framework and Policy but does not specifically address the endorsement for 2025."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0075",
+   "uid": "KBANK-2024-OR-EN::CLM-0075",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Statement of the Board of Directors",
+   "page": 3001,
+   "claim_type": "commitment",
+   "sdg_targets": "12.6, 13.1, 13.2, 13.3, 8.10, 8.2, 8.3",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 3,
+   "T_runs": [
+    3,
+    3,
+    3
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Redundant",
+    "X2": "Related",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.0,
+   "SMTE": 1.25,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim names an action, 'approving the Bank’s Corporate Sustainability Targets,' but does not specify a named programme, a specific target area, or a defined scope.",
+    "M": "The claim is a plain statement with no indicators or language of change.",
+    "T": "The claim specifies a time period, 2025 - 2027, providing two time points that allow progress to be tracked.",
+    "E": "The evidence mentions the approval of sustainability targets but does not provide a method of data collection, source, or external assurance."
+   },
+   "label_reason": {
+    "S1": "The passage is related as it discusses materiality prioritization and guidelines for sustainability reporting, but it does not address the specific claim about approving sustainability targets.",
+    "S2": "The passage is related as it mentions endorsing sustainable development strategies, but it does not specifically address the approval of corporate sustainability targets.",
+    "X1": "The passage repeats the claim about approving the Bank's Corporate Sustainability Targets for 2025 - 2027 without adding any new information.",
+    "X2": "The passage discusses alignment with the Bank's strategy and stakeholder value creation but does not specifically address the approval of sustainability targets.",
+    "X3": "The passage discusses the Sustainable Development Policy and its alignment with international principles, but it does not specifically address the approval of corporate sustainability targets."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0076",
+   "uid": "KBANK-2024-OR-EN::CLM-0076",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Statement of the Board of Directors",
+   "page": 3001,
+   "claim_type": "commitment",
+   "sdg_targets": "12.1, 12.6, 12.b, 17.14, 17.16, 17.17",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 0,
+   "T_runs": [
+    0,
+    0,
+    1
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Redundant",
+    "X2": "Related",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.4,
+   "SMTE": 0.5,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "unsubstantiated",
+   "rationale": {
+    "S": "The claim names the action of approving an action plan for sustainable development and monitoring progress, but it does not specify a named programme, a specific target area, or a defined scope.",
+    "M": "The claim does not include any indicators, numbers, or language of change; it is a plain statement.",
+    "T": "There is no time reference in the claim, such as a date or period, indicating when the action plan is approved or monitored.",
+    "E": "The evidence provides some self-reported actions and figures, such as the approval of plans and monitoring, but lacks details on data collection methods, sources, or external assurance."
+   },
+   "label_reason": {
+    "S1": "The passage discusses endorsing the Sustainable Development Framework and Policy, which is related to the claim's topic but does not directly address the specific action of approving an action plan and monitoring progress.",
+    "S2": "This passage mentions providing recommendations and monitoring progress of projects, which is related to the claim's topic of monitoring operational progress, but it does not directly extend the specific claim about the action plan.",
+    "X1": "This passage repeats the claim about approving the action plan for sustainable development and monitoring operational progress without adding any new information.",
+    "X2": "The passage mentions monitoring performance towards sustainable development objectives, which is related to the claim's topic but does not specifically address the approval of an action plan.",
+    "X3": "The passage discusses reviewing reports on sustainable development undertakings, which is related to monitoring but does not directly address the specific claim about the action plan."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0077",
+   "uid": "KBANK-2024-OR-EN::CLM-0077",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Statement of the Board of Directors",
+   "page": 3001,
+   "claim_type": "commitment",
+   "sdg_targets": "12.6, 17.14, 17.16, 17.17, 17.18",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 2,
+   "T_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Extend",
+    "X2": "Redundant",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 1,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.2,
+   "SMTE": 1.25,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim names the action of 'approving materiality prioritization' and 'guidelines of the Sustainability Report 2024', but it does not specify a named programme, a specific target area, or a defined scope.",
+    "M": "The claim is a plain statement without any indicators or language of change.",
+    "T": "The claim specifies a time period of 2024 - 2025 for the materiality prioritization and guidelines.",
+    "E": "The evidence includes a detailed description of the materiality assessment process (X1), which suggests a method of data collection and analysis, aligning with international best practices, thus providing a basis for the claim."
+   },
+   "label_reason": {
+    "S1": "S1 mentions approving corporate sustainability targets, which is related to sustainability but not specific to materiality prioritization or report guidelines.",
+    "S2": "S2 discusses endorsing a sustainable development framework and strategies, which is related to sustainability but not directly to the claim about materiality prioritization or report guidelines.",
+    "X1": "X1 provides detailed information about the sustainability materiality assessment process, supporting the claim by describing how materiality was prioritized.",
+    "X2": "X2 repeats the claim about approving materiality prioritization and guidelines without adding new information.",
+    "X3": "X3 lists sustainability material issues, which is related to the topic of materiality but does not address the specific claim about prioritization or guidelines."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0078",
+   "uid": "KBANK-2024-OR-EN::CLM-0078",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Statement of the Board of Directors",
+   "page": 3001,
+   "claim_type": "commitment",
+   "sdg_targets": "13.2, 7.2, 7.3",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 2,
+   "T_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Redundant",
+    "X2": "Related",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.8,
+   "SMTE": 1.0,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim names the action of providing recommendations on Climate Strategy 2025 but does not specify a named programme, a specific target area, or a defined scope.",
+    "M": "The claim does not include any quantifiable indicators or language of change.",
+    "T": "The claim references a specific time point, '2025,' as part of the Climate Strategy.",
+    "E": "The evidence provides self-reported actions and figures but lacks detailed methods of data collection, sources, or external assurance."
+   },
+   "label_reason": {
+    "S1": "The passage discusses recommendations related to environmental and climate change policy, which is thematically related but does not specifically address the Climate Strategy 2025.",
+    "S2": "This passage mentions the approval of sustainability targets for 2025-2027, which is related to the timeframe but not specifically to the Climate Strategy 2025.",
+    "X1": "The passage repeats the claim about providing recommendations on Climate Strategy 2025 without adding new information.",
+    "X2": "The passage mentions the implementation of a climate strategy to achieve Net Zero, which is related to the topic but does not provide specifics about the recommendations or the 2025 strategy.",
+    "X3": "This passage discusses the integration of climate change into strategic planning and risk management, which is related to the broader topic but not specifically to the recommendations for Climate Strategy 2025."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0079",
+   "uid": "KBANK-2024-OR-EN::CLM-0079",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Statement of the Board of Directors",
+   "page": 3001,
+   "claim_type": "policy",
+   "sdg_targets": "12.6, 13.2, 17.14, 17.16, 17.17",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 0,
+   "T_runs": [
+    0,
+    0,
+    0
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Redundant",
+    "X2": "Related",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.4,
+   "SMTE": 0.5,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "unsubstantiated",
+   "rationale": {
+    "S": "The claim names an action (providing recommendations on policy and action plan) and the issue (environment and climate change), but it does not specify a named programme, a specific target area, or a defined scope.",
+    "M": "The claim is a plain statement with no indicators or language of change, and it lacks any quantification.",
+    "T": "The claim does not mention any time reference or period, making it impossible to determine when the action is supposed to occur.",
+    "E": "The evidence provided is mostly self-reported and lacks detailed methods of data collection or external assurance. It mentions alignment with a policy statement but does not provide further details or verification."
+   },
+   "label_reason": {
+    "S1": "The passage discusses recommendations on climate strategy, which is related to the topic of climate change but does not directly address the claim about the Environment and Climate Change Policy.",
+    "S2": "This passage mentions recommendations related to environmental and social risk management, which is related to the claim's topic but does not directly address the specific claim about policy establishment.",
+    "X1": "This passage repeats the claim almost verbatim without adding any new information or verifiable facts.",
+    "X2": "The passage discusses ESG risk management and climate-related risk, which are related topics but do not directly address the specific claim about providing recommendations for policy establishment.",
+    "X3": "The passage discusses climate-related impacts and stress tests, which are related to the broader topic of climate change but do not directly address the specific claim about the Environment and Climate Change Policy."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0080",
+   "uid": "KBANK-2024-OR-EN::CLM-0080",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Statement of the Board of Directors",
+   "page": 3001,
+   "claim_type": "commitment",
+   "sdg_targets": "12.1, 12.6, 16.5, 16.6, 16.7, 8.10, 8.3",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 0,
+   "T_runs": [
+    0,
+    0,
+    0
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Related",
+    "X2": "Related",
+    "X3": "Redundant"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.4,
+   "SMTE": 0.5,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "unsubstantiated",
+   "rationale": {
+    "S": "The claim names the action of providing recommendations on ESG Risk Management Capability Development Plan but does not specify a named program, specific location, or defined scope.",
+    "M": "The claim is a plain statement with no indicators or language of change, lacking any quantification.",
+    "T": "The claim does not mention any time reference, making it impossible to determine when the action is supposed to occur.",
+    "E": "The evidence provided is self-reported and discusses related topics, but does not offer a method of data collection, source, or external assurance specific to the claim."
+   },
+   "label_reason": {
+    "S1": "The passage discusses providing recommendations on environmental and social risk management, which is related to the topic of ESG risk management but does not address the specific claim about the capability development plan.",
+    "S2": "This passage mentions recommendations on environmental and climate change policy, which is related to ESG topics but not specifically to the ESG Risk Management Capability Development Plan.",
+    "X1": "The passage outlines the bank's ESG strategy and mentions ESG risk management as a material area, but does not specifically address the claim about recommendations on capability development.",
+    "X2": "This passage discusses ESG risk management guidelines and strategies, which are related to the claim's topic but do not specifically address the recommendations on the capability development plan.",
+    "X3": "The passage repeats the claim about providing recommendations on the ESG Risk Management Capability Development Plan without adding any new information."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0081",
+   "uid": "KBANK-2024-OR-EN::CLM-0081",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Statement of the Board of Directors",
+   "page": 3001,
+   "claim_type": "commitment",
+   "sdg_targets": "13.1, 13.2, 15.1, 15.5, 15.9, 16.6, 16.7",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 1,
+   "T_runs": [
+    1,
+    1,
+    1
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Related",
+    "X2": "Related",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.6,
+   "SMTE": 0.75,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "unsubstantiated",
+   "rationale": {
+    "S": "The claim names the action of providing recommendations and monitoring projects related to environmental and social risk management, but it does not specify a named programme, specific location, or defined scope.",
+    "M": "The claim does not include any quantifiable indicators or language of change; it is a plain statement about actions taken.",
+    "T": "The claim uses the term 'on a regular basis,' which implies ongoing activity but does not provide specific time points or dates.",
+    "E": "The evidence mentions policies and guidelines related to environmental and social risk management, but it does not provide specific methods of data collection or external assurance related to the claim."
+   },
+   "label_reason": {
+    "S1": "S1 discusses recommendations on environmental policy, which is related to the claim's focus on environmental risk management, but it does not provide specific details about the projects or monitoring.",
+    "S2": "S2 mentions approving and monitoring an action plan for sustainable development, which is related to the claim's focus on monitoring project implementation, but it lacks specific details about the projects.",
+    "X1": "X1 discusses the bank's sustainable development policy and ESG activities, which are related to the claim's focus on environmental and social projects, but it does not address the specific actions of providing recommendations or monitoring.",
+    "X2": "X2 mentions the bank's responsibility towards environmental and social impacts in credit underwriting, which is related to the claim's focus on risk management, but it does not provide specific information about the claim's actions.",
+    "X3": "X3 discusses the bank's ESG activities based on the sustainable development policy, related to the claim's focus on environmental and social projects, but it does not provide specific details about the claim's actions."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0082",
+   "uid": "KBANK-2024-OR-EN::CLM-0082",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Statement of the Board of Directors",
+   "page": 3001,
+   "claim_type": "achievement",
+   "sdg_targets": "12.6, 13.2, 13.3, 9.2, 9.4",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 2,
+   "S_runs": [
+    2,
+    2,
+    2
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 1,
+   "T_runs": [
+    1,
+    1,
+    1
+   ],
+   "E": 3,
+   "E_runs": [
+    3,
+    3,
+    3
+   ],
+   "labels": {
+    "S1": "Extend",
+    "S2": "Unrelated",
+    "X1": "Extend",
+    "X2": "Redundant",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 1,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.4,
+   "SMTE": 1.5,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim names the action (recognition as a member of DJSI and CDP’s A List) and provides a defined scope (DJSI World and DJSI Emerging Market Indices), but it does not mention a specific programme.",
+    "M": "The claim is a plain statement of recognition without any indicators or language of change.",
+    "T": "The claim states achievements but does not provide specific dates, only that the recognition has been achieved.",
+    "E": "The claim is supported by evidence of external recognition and certification, such as inclusion in the DJSI and CDP’s A List, which are credible external validations."
+   },
+   "label_reason": {
+    "S1": "This passage provides additional details about the bank's recognition, including the duration of membership in the DJSI and CDP’s A List, which supports the claim.",
+    "S2": "This passage discusses a different recognition (Corporate Governance Report) not related to the DJSI or CDP recognitions mentioned in the claim.",
+    "X1": "This passage confirms the bank's membership in the DJSI for the ninth consecutive year, which directly supports the claim.",
+    "X2": "This passage repeats the claim about DJSI and CDP recognition without adding new information.",
+    "X3": "This passage mentions recognition in sustainability indices but does not specifically address the DJSI or CDP recognitions."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0083",
+   "uid": "KBANK-2024-OR-EN::CLM-0083",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Awards and Recognitions",
+   "page": 4914,
+   "claim_type": "achievement",
+   "sdg_targets": "12.6, 17.16, 17.17, 8.2, 8.4",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 3,
+   "S_runs": [
+    3,
+    2,
+    3
+   ],
+   "M": 2,
+   "M_runs": [
+    2,
+    2,
+    2
+   ],
+   "T": 2,
+   "T_runs": [
+    2,
+    1,
+    3
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Extend",
+    "X2": "Related",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": false,
+    "S2": false,
+    "X1": false,
+    "X2": false,
+    "X3": true
+   },
+   "C": 1,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.8,
+   "SMTE": 2.0,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "substantiated",
+   "rationale": {
+    "S": "The claim is specific as it names the action (being selected as a member), the program (Dow Jones Sustainability Indices), and the scope (DJSI World and DJSI Emerging Markets).",
+    "M": "The claim includes a number (ninth consecutive year), but it lacks a baseline or target for comparison.",
+    "T": "The claim specifies a time point by mentioning 'ninth consecutive year,' which implies a specific period of achievement.",
+    "E": "The evidence provided is self-reported and mentions recognition but does not include a method of data collection or external assurance."
+   },
+   "label_reason": {
+    "S1": "This passage discusses a different index (FTSE4Good Emerging Index) and does not address the DJSI claim.",
+    "S2": "This passage mentions the S&P Global ESG Score, which is related to sustainability but not directly to the DJSI claim.",
+    "X1": "This passage acknowledges the bank's recognition as a member of the DJSI, supporting the claim with additional context.",
+    "X2": "This passage repeats information about the FTSE4Good Emerging Index, not directly related to the DJSI claim.",
+    "X3": "This passage mentions the bank's selection in S&P Global indices but does not directly address the DJSI claim."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0084",
+   "uid": "KBANK-2024-OR-EN::CLM-0084",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Awards and Recognitions",
+   "page": 4914,
+   "claim_type": "metric",
+   "sdg_targets": "12.6, 16.5, 16.6, 8.10, 8.2",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 2,
+   "S_runs": [
+    2,
+    2,
+    2
+   ],
+   "M": 2,
+   "M_runs": [
+    2,
+    2,
+    2
+   ],
+   "T": 2,
+   "T_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Redundant",
+    "X2": "Redundant",
+    "X3": "Redundant"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.4,
+   "SMTE": 1.75,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim specifies the action of being in the top 10% of the S&P Global ESG Score 2024 for the banking industry, which defines the scope and target area but does not name a specific program.",
+    "M": "The claim includes a quantifiable element, 'Top 10%', but lacks a comparator such as a baseline or target year.",
+    "T": "The claim specifies a single time point, '2024', indicating when the ranking was achieved.",
+    "E": "The evidence provides self-reported figures and mentions the S&P Global ESG Score, but lacks details on the method of data collection or external assurance."
+   },
+   "label_reason": {
+    "S1": "Mentions an 'AA' rating in ESG but does not address the specific claim about the S&P Global ESG Score.",
+    "S2": "Discusses selection in the FTSE4Good Emerging Index, which is related to ESG but not specific to the S&P Global ESG Score claim.",
+    "X1": "Repeats the claim about being in the top 10% of the S&P Global ESG Score for 2024 without adding new information.",
+    "X2": "Restates the claim about the top 10% S&P Global ESG Score without additional details.",
+    "X3": "Reiterates the claim about the top 10% S&P Global ESG Score, adding no new verifiable facts."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0085",
+   "uid": "KBANK-2024-OR-EN::CLM-0085",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Awards and Recognitions",
+   "page": 4914,
+   "claim_type": "achievement",
+   "sdg_targets": "12.6, 16.6, 16.7, 8.10, 8.4",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 2,
+   "S_runs": [
+    2,
+    2,
+    2
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    2
+   ],
+   "T": 3,
+   "T_runs": [
+    3,
+    3,
+    3
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Redundant",
+    "X2": "Related",
+    "X3": "Redundant"
+   },
+   "label_agreement": {
+    "S1": false,
+    "S2": false,
+    "X1": true,
+    "X2": false,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.2,
+   "SMTE": 1.5,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim names the action (being selected as a member of the FTSE4Good Emerging Index) and provides a defined scope (for environment, social, and governance for the ninth consecutive year), but it does not specify a named program or project.",
+    "M": "The claim is a plain statement with no quantification or language of change.",
+    "T": "The claim provides two time points: the current year and the duration of nine consecutive years, allowing for tracking over time.",
+    "E": "The evidence includes multiple passages that repeat the claim, indicating self-reporting, but there is no mention of a method of collection, source, or external assurance."
+   },
+   "label_reason": {
+    "S1": "This passage discusses the Dow Jones Sustainability Indices, which is unrelated to the FTSE4Good Emerging Index claim.",
+    "S2": "This passage refers to the S&P Global ESG Score, which is not related to the FTSE4Good Emerging Index claim.",
+    "X1": "This passage repeats the claim about being selected for the FTSE4Good Emerging Index without adding any new information.",
+    "X2": "This passage discusses an ESG 100 Certificate, which is not related to the FTSE4Good Emerging Index claim.",
+    "X3": "This passage repeats the claim about being selected for the FTSE4Good Emerging Index without providing additional details."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0086",
+   "uid": "KBANK-2024-OR-EN::CLM-0086",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Awards and Recognitions",
+   "page": 4914,
+   "claim_type": "metric",
+   "sdg_targets": "12.6, 16.5, 16.6, 16.7, 8.10, 8.2, 8.3",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 1,
+   "T_runs": [
+    1,
+    1,
+    1
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Redundant",
+    "X2": "Related",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": false,
+    "S2": false,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.6,
+   "SMTE": 0.75,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "unsubstantiated",
+   "rationale": {
+    "S": "The claim names the action of achieving an 'AA' rating or Leadership Level in ESG but does not specify a named program, a specific target area, or a defined scope.",
+    "M": "The claim does not include any quantifiable indicators or language of change; it is a plain statement about a rating.",
+    "T": "The claim states that a rating has been achieved but does not provide any specific time reference or date.",
+    "E": "The evidence provides self-reported figures and mentions ratings but does not disclose the method of data collection, source, or any external assurance."
+   },
+   "label_reason": {
+    "S1": "Mentions a top 10% ESG score but does not specifically address the 'AA' rating or Leadership Level in the emerging markets banking industry.",
+    "S2": "Mentions a Leadership Level rating in climate change management but does not specifically address the 'AA' rating or Leadership Level in the emerging markets banking industry.",
+    "X1": "Repeats the claim about the 'AA' rating or Leadership Level in ESG without adding any new information.",
+    "X2": "Discusses the aspiration to become an ESG leader but does not specifically address the 'AA' rating or Leadership Level.",
+    "X3": "Provides information on the ESG strategy but does not specifically address the 'AA' rating or Leadership Level."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0087",
+   "uid": "KBANK-2024-OR-EN::CLM-0087",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Awards and Recognitions",
+   "page": 4914,
+   "claim_type": "achievement",
+   "sdg_targets": "13.2",
+   "retrieval_flags": [
+    "Only 1 of 2 target same-section references met the similarity threshold (0.35)."
+   ],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 1,
+   "T_runs": [
+    1,
+    1,
+    1
+   ],
+   "E": 2,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "None",
+    "X1": "Redundant",
+    "X2": "Related",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": false,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.8,
+   "SMTE": 1.0,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim names the action (A List rating in climate change management) but does not specify a program, target area, or defined scope.",
+    "M": "The claim is a plain statement about receiving a rating and does not include any quantifiable data or language of change.",
+    "T": "The claim indicates an achievement (A List rating) but does not provide a specific date or time period for when this was achieved.",
+    "E": "The evidence includes a mention of the Carbon Disclosure Project (CDP) in X1, which suggests a recognized standard or source for the rating, but there is no external assurance or certification mentioned."
+   },
+   "label_reason": {
+    "S1": "Mentions a similar rating (Leadership Level in ESG) but does not specifically address the A List rating for climate change management.",
+    "S2": "No passage retrieved.",
+    "X1": "Repeats the claim about the A List rating in climate change management without adding further details.",
+    "X2": "Discusses climate change management strategies but does not specifically address the A List rating.",
+    "X3": "Covers climate-related risk management, which is relevant to the topic but does not address the specific claim about the A List rating."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0089",
+   "uid": "KBANK-2024-OR-EN::CLM-0089",
+   "report": "KBANK-2024-OR-EN",
+   "section": "Awards and Recognitions",
+   "page": 4914,
+   "claim_type": "achievement",
+   "sdg_targets": "13.2, 13.a, 7.2, 7.a, 7.b, 9.3, 9.a",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 1,
+   "T_runs": [
+    1,
+    1,
+    1
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Unrelated",
+    "S2": "Unrelated",
+    "X1": "Related",
+    "X2": "Redundant",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": false,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.6,
+   "SMTE": 0.75,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "unsubstantiated",
+   "rationale": {
+    "S": "The claim identifies an action related to ESG green financing and specifies the region (Southeast Asia), but it does not name a specific program or project.",
+    "M": "The claim is a plain statement with no quantification or language of change.",
+    "T": "The claim implies an achievement but does not specify when it was awarded or achieved.",
+    "E": "The evidence includes a mention of the award by Alpha Southeast Asia magazine, but lacks details on the method of data collection or external assurance."
+   },
+   "label_reason": {
+    "S1": "This passage mentions a different award, 'Thailand's Best for Sustainability,' which is not related to the claim about ESG green financing.",
+    "S2": "This passage discusses an 'AA' rating in ESG for the banking industry, which is not directly related to the specific claim of 'Best ESG Green Financing.'",
+    "X1": "This passage discusses the company's aspiration to be an ESG leader in Southeast Asia, which is related to the topic but does not specifically address the claim about the award.",
+    "X2": "This passage confirms the claim by listing the award 'Best ESG Green Financing In Southeast Asia' from Alpha Southeast Asia magazine.",
+    "X3": "This passage outlines the ESG strategy and goals, which are related to the broader topic of ESG but do not specifically address the claim about the award."
+   },
+   "comment": "",
+   "score_attempts": 1
+  }
+ ]
+}

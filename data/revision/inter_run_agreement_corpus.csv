@@ -1,0 +1,8 @@
+dimension,n,alpha_ordinal,exact_agreement_pct,mean_max_dev,pct_dev_ge2
+specificity,6325,0.934,92.1,0.079,0.0
+measurability,6325,0.977,96.7,0.046,1.36
+temporality,6325,0.951,90.2,0.114,1.61
+evidence,6325,0.9,96.9,0.039,0.84
+consistency,6325,0.92,95.0,0.081,2.89
+pooled (5 dims),31625,0.971,94.2,0.072,
+tier (per-run SMTEC composite),6325,0.928,93.3,,

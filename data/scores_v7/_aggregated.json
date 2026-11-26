@@ -1,0 +1,480 @@
+{
+  "by_sector": {
+    "Transportation": {
+      "n_companies": 2,
+      "n_claims": 353,
+      "mean_composite": 1.4702549575070822,
+      "tier_pct": {
+        "symbolic": 8.21529745042493,
+        "partially_substantive": 66.85552407932012,
+        "substantive": 24.929178470254957
+      },
+      "dim_means": {
+        "specificity": 1.7762039660056657,
+        "measurability": 0.660056657223796,
+        "temporality": 1.0991501416430596,
+        "evidence": 1.141643059490085,
+        "consistency": 2.6742209631728047
+      }
+    },
+    "Real Estate": {
+      "n_companies": 4,
+      "n_claims": 1027,
+      "mean_composite": 1.4428432327166505,
+      "tier_pct": {
+        "symbolic": 5.258033106134373,
+        "partially_substantive": 72.24926971762414,
+        "substantive": 22.49269717624148
+      },
+      "dim_means": {
+        "specificity": 1.741966893865628,
+        "measurability": 0.6407010710808179,
+        "temporality": 0.943524829600779,
+        "evidence": 1.1382667964946447,
+        "consistency": 2.749756572541383
+      }
+    },
+    "Energy": {
+      "n_companies": 6,
+      "n_claims": 986,
+      "mean_composite": 1.413995943204868,
+      "tier_pct": {
+        "symbolic": 10.547667342799189,
+        "partially_substantive": 67.44421906693712,
+        "substantive": 22.008113590263694
+      },
+      "dim_means": {
+        "specificity": 1.645030425963489,
+        "measurability": 0.6511156186612576,
+        "temporality": 0.9807302231237323,
+        "evidence": 1.1490872210953347,
+        "consistency": 2.6440162271805274
+      }
+    },
+    "Healthcare": {
+      "n_companies": 1,
+      "n_claims": 220,
+      "mean_composite": 1.3718181818181818,
+      "tier_pct": {
+        "symbolic": 10.0,
+        "partially_substantive": 68.63636363636364,
+        "substantive": 21.363636363636363
+      },
+      "dim_means": {
+        "specificity": 1.6363636363636365,
+        "measurability": 0.7,
+        "temporality": 0.8272727272727273,
+        "evidence": 1.1136363636363635,
+        "consistency": 2.581818181818182
+      }
+    },
+    "Retail": {
+      "n_companies": 3,
+      "n_claims": 722,
+      "mean_composite": 1.4177285318559556,
+      "tier_pct": {
+        "symbolic": 9.002770083102494,
+        "partially_substantive": 69.66759002770083,
+        "substantive": 21.329639889196674
+      },
+      "dim_means": {
+        "specificity": 1.7202216066481995,
+        "measurability": 0.8393351800554016,
+        "temporality": 0.9307479224376731,
+        "evidence": 1.1094182825484764,
+        "consistency": 2.488919667590028
+      }
+    },
+    "Food & Agribusiness": {
+      "n_companies": 4,
+      "n_claims": 913,
+      "mean_composite": 1.4372398685651697,
+      "tier_pct": {
+        "symbolic": 9.309967141292443,
+        "partially_substantive": 66.70317634173057,
+        "substantive": 23.986856516977
+      },
+      "dim_means": {
+        "specificity": 1.732749178532311,
+        "measurability": 0.7130339539978094,
+        "temporality": 0.872946330777656,
+        "evidence": 1.2026286966046003,
+        "consistency": 2.664841182913472
+      }
+    },
+    "Technology": {
+      "n_companies": 1,
+      "n_claims": 165,
+      "mean_composite": 1.501818181818182,
+      "tier_pct": {
+        "symbolic": 9.696969696969697,
+        "partially_substantive": 60.60606060606061,
+        "substantive": 29.6969696969697
+      },
+      "dim_means": {
+        "specificity": 1.7636363636363637,
+        "measurability": 0.7151515151515152,
+        "temporality": 1.3272727272727274,
+        "evidence": 1.2424242424242424,
+        "consistency": 2.4606060606060605
+      }
+    },
+    "Construction Materials": {
+      "n_companies": 3,
+      "n_claims": 623,
+      "mean_composite": 1.5056179775280898,
+      "tier_pct": {
+        "symbolic": 6.902086677367576,
+        "partially_substantive": 64.04494382022472,
+        "substantive": 29.052969502407706
+      },
+      "dim_means": {
+        "specificity": 1.7512038523274478,
+        "measurability": 0.8635634028892456,
+        "temporality": 1.0224719101123596,
+        "evidence": 1.2504012841091492,
+        "consistency": 2.640449438202247
+      }
+    },
+    "Banking & Finance": {
+      "n_companies": 4,
+      "n_claims": 990,
+      "mean_composite": 1.3696969696969696,
+      "tier_pct": {
+        "symbolic": 9.393939393939393,
+        "partially_substantive": 73.63636363636363,
+        "substantive": 16.969696969696972
+      },
+      "dim_means": {
+        "specificity": 1.6242424242424243,
+        "measurability": 0.5808080808080808,
+        "temporality": 0.8707070707070707,
+        "evidence": 1.114141414141414,
+        "consistency": 2.6585858585858584
+      }
+    },
+    "Telecommunications": {
+      "n_companies": 2,
+      "n_claims": 326,
+      "mean_composite": 1.4723926380368098,
+      "tier_pct": {
+        "symbolic": 11.65644171779141,
+        "partially_substantive": 61.963190184049076,
+        "substantive": 26.380368098159508
+      },
+      "dim_means": {
+        "specificity": 1.8312883435582823,
+        "measurability": 0.8803680981595092,
+        "temporality": 1.039877300613497,
+        "evidence": 1.1411042944785277,
+        "consistency": 2.4693251533742333
+      }
+    }
+  },
+  "by_claim_type": {
+    "commitment": {
+      "n_claims": 2964,
+      "mean_composite": 1.2582995951417004,
+      "tier_pct": {
+        "symbolic": 11.774628879892038,
+        "partially_substantive": 76.99055330634278,
+        "substantive": 11.234817813765183
+      },
+      "dim_means": {
+        "specificity": 1.5172064777327936,
+        "measurability": 0.3188259109311741,
+        "temporality": 0.7004048582995951,
+        "evidence": 1.0637651821862348,
+        "consistency": 2.6912955465587043
+      }
+    },
+    "achievement": {
+      "n_claims": 1260,
+      "mean_composite": 1.6852380952380952,
+      "tier_pct": {
+        "symbolic": 3.888888888888889,
+        "partially_substantive": 58.730158730158735,
+        "substantive": 37.38095238095238
+      },
+      "dim_means": {
+        "specificity": 1.980952380952381,
+        "measurability": 0.9103174603174603,
+        "temporality": 1.4063492063492065,
+        "evidence": 1.4134920634920636,
+        "consistency": 2.715079365079365
+      }
+    },
+    "metric": {
+      "n_claims": 1019,
+      "mean_composite": 1.840235525024534,
+      "tier_pct": {
+        "symbolic": 1.0794896957801767,
+        "partially_substantive": 46.025515210991166,
+        "substantive": 52.89499509322866
+      },
+      "dim_means": {
+        "specificity": 2.1334641805691854,
+        "measurability": 2.0353287536800786,
+        "temporality": 1.5417075564278704,
+        "evidence": 1.1295387634936211,
+        "consistency": 2.3611383709519136
+      }
+    },
+    "policy": {
+      "n_claims": 667,
+      "mean_composite": 1.1649175412293853,
+      "tier_pct": {
+        "symbolic": 12.293853073463268,
+        "partially_substantive": 84.8575712143928,
+        "substantive": 2.848575712143928
+      },
+      "dim_means": {
+        "specificity": 1.5037481259370316,
+        "measurability": 0.08695652173913043,
+        "temporality": 0.4572713643178411,
+        "evidence": 1.0794602698650675,
+        "consistency": 2.6971514242878563
+      }
+    },
+    "alignment": {
+      "n_claims": 284,
+      "mean_composite": 1.1316901408450704,
+      "tier_pct": {
+        "symbolic": 19.366197183098592,
+        "partially_substantive": 76.05633802816901,
+        "substantive": 4.577464788732395
+      },
+      "dim_means": {
+        "specificity": 1.3450704225352113,
+        "measurability": 0.04225352112676056,
+        "temporality": 0.4612676056338028,
+        "evidence": 1.2922535211267605,
+        "consistency": 2.517605633802817
+      }
+    },
+    "target": {
+      "n_claims": 103,
+      "mean_composite": 1.8718446601941747,
+      "tier_pct": {
+        "symbolic": 0.9708737864077669,
+        "partially_substantive": 38.83495145631068,
+        "substantive": 60.19417475728155
+      },
+      "dim_means": {
+        "specificity": 2.0776699029126213,
+        "measurability": 2.058252427184466,
+        "temporality": 1.6019417475728155,
+        "evidence": 1.0485436893203883,
+        "consistency": 2.5728155339805827
+      }
+    },
+    "projection": {
+      "n_claims": 1,
+      "mean_composite": 2.2,
+      "tier_pct": {
+        "symbolic": 0.0,
+        "partially_substantive": 0.0,
+        "substantive": 100.0
+      },
+      "dim_means": {
+        "specificity": 3,
+        "measurability": 2,
+        "temporality": 2,
+        "evidence": 1,
+        "consistency": 3
+      }
+    },
+    "action_plan": {
+      "n_claims": 4,
+      "mean_composite": 1.05,
+      "tier_pct": {
+        "symbolic": 0.0,
+        "partially_substantive": 100.0,
+        "substantive": 0.0
+      },
+      "dim_means": {
+        "specificity": 1.25,
+        "measurability": 0,
+        "temporality": 0,
+        "evidence": 1,
+        "consistency": 3
+      }
+    },
+    "plan": {
+      "n_claims": 1,
+      "mean_composite": 1.0,
+      "tier_pct": {
+        "symbolic": 0.0,
+        "partially_substantive": 100.0,
+        "substantive": 0.0
+      },
+      "dim_means": {
+        "specificity": 1,
+        "measurability": 0,
+        "temporality": 0,
+        "evidence": 1,
+        "consistency": 3
+      }
+    },
+    "strategy": {
+      "n_claims": 6,
+      "mean_composite": 1.0333333333333332,
+      "tier_pct": {
+        "symbolic": 0.0,
+        "partially_substantive": 100.0,
+        "substantive": 0.0
+      },
+      "dim_means": {
+        "specificity": 1.1666666666666667,
+        "measurability": 0,
+        "temporality": 0,
+        "evidence": 1,
+        "consistency": 3
+      }
+    },
+    "contribution": {
+      "n_claims": 1,
+      "mean_composite": 1.2,
+      "tier_pct": {
+        "symbolic": 0.0,
+        "partially_substantive": 100.0,
+        "substantive": 0.0
+      },
+      "dim_means": {
+        "specificity": 2,
+        "measurability": 0,
+        "temporality": 0,
+        "evidence": 1,
+        "consistency": 3
+      }
+    },
+    "analysis": {
+      "n_claims": 2,
+      "mean_composite": 1.3,
+      "tier_pct": {
+        "symbolic": 0.0,
+        "partially_substantive": 100.0,
+        "substantive": 0.0
+      },
+      "dim_means": {
+        "specificity": 1.5,
+        "measurability": 1,
+        "temporality": 1,
+        "evidence": 1,
+        "consistency": 2
+      }
+    },
+    "aspiration": {
+      "n_claims": 1,
+      "mean_composite": 1.6,
+      "tier_pct": {
+        "symbolic": 0.0,
+        "partially_substantive": 100.0,
+        "substantive": 0.0
+      },
+      "dim_means": {
+        "specificity": 2,
+        "measurability": 2,
+        "temporality": 0,
+        "evidence": 1,
+        "consistency": 3
+      }
+    },
+    "outcome": {
+      "n_claims": 4,
+      "mean_composite": 1.7000000000000002,
+      "tier_pct": {
+        "symbolic": 0.0,
+        "partially_substantive": 75.0,
+        "substantive": 25.0
+      },
+      "dim_means": {
+        "specificity": 2,
+        "measurability": 1.5,
+        "temporality": 1,
+        "evidence": 1,
+        "consistency": 3
+      }
+    },
+    "explanation": {
+      "n_claims": 1,
+      "mean_composite": 0.6,
+      "tier_pct": {
+        "symbolic": 100.0,
+        "partially_substantive": 0.0,
+        "substantive": 0.0
+      },
+      "dim_means": {
+        "specificity": 1,
+        "measurability": 0,
+        "temporality": 0,
+        "evidence": 1,
+        "consistency": 1
+      }
+    },
+    "investment": {
+      "n_claims": 2,
+      "mean_composite": 1.9000000000000001,
+      "tier_pct": {
+        "symbolic": 0.0,
+        "partially_substantive": 50.0,
+        "substantive": 50.0
+      },
+      "dim_means": {
+        "specificity": 2.5,
+        "measurability": 1,
+        "temporality": 2,
+        "evidence": 1,
+        "consistency": 3
+      }
+    },
+    "opportunity": {
+      "n_claims": 3,
+      "mean_composite": 1.0,
+      "tier_pct": {
+        "symbolic": 0.0,
+        "partially_substantive": 100.0,
+        "substantive": 0.0
+      },
+      "dim_means": {
+        "specificity": 1,
+        "measurability": 0,
+        "temporality": 0,
+        "evidence": 1,
+        "consistency": 3
+      }
+    },
+    "risk": {
+      "n_claims": 1,
+      "mean_composite": 1.0,
+      "tier_pct": {
+        "symbolic": 0.0,
+        "partially_substantive": 100.0,
+        "substantive": 0.0
+      },
+      "dim_means": {
+        "specificity": 1,
+        "measurability": 0,
+        "temporality": 0,
+        "evidence": 1,
+        "consistency": 3
+      }
+    },
+    "compliance": {
+      "n_claims": 1,
+      "mean_composite": 0.8,
+      "tier_pct": {
+        "symbolic": 100.0,
+        "partially_substantive": 0.0,
+        "substantive": 0.0
+      },
+      "dim_means": {
+        "specificity": 2,
+        "measurability": 0,
+        "temporality": 0,
+        "evidence": 1,
+        "consistency": 1
+      }
+    }
+  }
+}

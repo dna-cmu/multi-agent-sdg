@@ -1,0 +1,4802 @@
+{
+ "report": "CPN-2024-OR+SR-EN",
+ "prompt_version": "V4-2026-10-23",
+ "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+ "retrieval": "V7 chunk-aware (unchanged)",
+ "mock": false,
+ "claims": [
+  {
+   "claim_id": "CLM-0005",
+   "uid": "CPN-2024-OR+SR-EN::CLM-0005",
+   "report": "CPN-2024-OR+SR-EN",
+   "section": "Message from the Board of Directors",
+   "page": 5,
+   "claim_type": "achievement",
+   "sdg_targets": "8.1, 8.2, 8.3, 9.1, 9.2",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 1,
+   "T_runs": [
+    1,
+    1,
+    1
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Unrelated",
+    "X1": "Extend",
+    "X2": "Related",
+    "X3": "Unrelated"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 1,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.8,
+   "SMTE": 0.75,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "unsubstantiated",
+   "rationale": {
+    "S": "The claim identifies an action, which is being the top choice for global brands entering Thailand, but it does not specify a named programme, a specific site, or a defined scope.",
+    "M": "The claim is a plain statement without any indicators or language of change, such as numbers or expressions of increase or decrease.",
+    "T": "The claim implies an ongoing status ('has been') but does not provide a specific time reference or date.",
+    "E": "The evidence provides self-reported information with some figures and qualitative statements but lacks a method of data collection, source, or external assurance."
+   },
+   "label_reason": {
+    "S1": "The passage discusses CPN's leadership as a retail destination but does not directly address the claim about being the top choice for global brands entering Thailand.",
+    "S2": "This passage focuses on CPN's hotel business growth, which is not related to the claim about global brands choosing CPN when entering Thailand.",
+    "X1": "This passage provides additional context about CPN being the top choice for global brands, mentioning insights into customer behavior and positive feedback from brands.",
+    "X2": "The passage discusses CPN's retail leadership and increased footfall, which is related to the topic but does not directly extend the specific claim about global brands.",
+    "X3": "This passage discusses growth in CPN's hotel, residential, and office businesses, which is not related to the claim about global brands entering Thailand."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0009",
+   "uid": "CPN-2024-OR+SR-EN::CLM-0009",
+   "report": "CPN-2024-OR+SR-EN",
+   "section": "Message from the Board of Directors",
+   "page": 6,
+   "claim_type": "commitment",
+   "sdg_targets": "12.6, 13.2, 7.2, 7.3",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 2,
+   "S_runs": [
+    2,
+    2,
+    2
+   ],
+   "M": 3,
+   "M_runs": [
+    3,
+    3,
+    3
+   ],
+   "T": 2,
+   "T_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Unrelated",
+    "S2": "Unrelated",
+    "X1": "Redundant",
+    "X2": "Extend",
+    "X3": "Extend"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": false
+   },
+   "C": 2,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 2.0,
+   "SMTE": 2.0,
+   "tier_SMTEC": "substantiated",
+   "tier_SMTE": "substantiated",
+   "rationale": {
+    "S": "The claim names the action (carbon reduction) and a specific target (Net Zero Carbon plan), but it does not specify a particular location or scope beyond the company itself.",
+    "M": "The claim provides a measurable target with a specific percentage (17%) and indicates that this target was exceeded, which implies a baseline and a target.",
+    "T": "The claim specifies a single time point, 2024, indicating when the target was exceeded.",
+    "E": "The evidence provides figures and mentions initiatives but lacks details on data collection methods, sources, or external assurance."
+   },
+   "label_reason": {
+    "S1": "The passage discusses financial performance and net debt-to-equity ratio, which are unrelated to the carbon reduction claim.",
+    "S2": "The passage mentions the occupancy rate of CPN's office business, which is unrelated to the carbon reduction claim.",
+    "X1": "This passage repeats the claim about exceeding the 17% carbon reduction target without adding new verifiable information.",
+    "X2": "This passage extends the claim by providing details on the initiatives undertaken to surpass the carbon reduction target and mentions recognition as a Climate Action Leading Organization.",
+    "X3": "This passage repeats the information about surpassing the 17% carbon reduction target without additional details beyond the claim."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0013",
+   "uid": "CPN-2024-OR+SR-EN::CLM-0013",
+   "report": "CPN-2024-OR+SR-EN",
+   "section": "Accuracy, Completeness, and Reliability of Financial Reporting",
+   "page": 8,
+   "claim_type": "commitment",
+   "sdg_targets": "12.6, 16.10, 16.6",
+   "retrieval_flags": [
+    "No other material in section 'Accuracy, Completeness, and Reliability of Financial Reporting' met the similarity threshold (0.35)."
+   ],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 0,
+   "T_runs": [
+    0,
+    0,
+    0
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "None",
+    "S2": "None",
+    "X1": "Redundant",
+    "X2": "Related",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.4,
+   "SMTE": 0.5,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "unsubstantiated",
+   "rationale": {
+    "S": "The claim names the action of preparing for sustainability reporting in accordance with IFRS S1 and S2 standards but does not specify a program, target area, or defined scope.",
+    "M": "The claim is a plain statement with no indicators, numbers, or language of change.",
+    "T": "There is no time reference in the claim regarding when the preparation for sustainability reporting is to occur.",
+    "E": "The evidence mentions alignment with IFRS standards but does not provide a method of data collection, source, or external assurance specific to this claim."
+   },
+   "label_reason": {
+    "S1": "No passage was retrieved for S1.",
+    "S2": "No passage was retrieved for S2.",
+    "X1": "The passage repeats the claim about preparing for sustainability reporting in accordance with IFRS S1 and S2 without adding new information.",
+    "X2": "The passage discusses the validation and disclosure process for sustainability issues and mentions IFRS standards, but does not specifically address the preparation emphasized by the Audit and Corporate Governance Committee.",
+    "X3": "The passage is related to the topic of sustainable business practices and international standards but does not specifically address the preparation for IFRS S1 and S2 reporting."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0015",
+   "uid": "CPN-2024-OR+SR-EN::CLM-0015",
+   "report": "CPN-2024-OR+SR-EN",
+   "section": "Corporate Governance",
+   "page": 9,
+   "claim_type": "achievement",
+   "sdg_targets": "16.5, 16.6",
+   "retrieval_flags": [
+    "Only 1 of 2 target same-section references met the similarity threshold (0.35)."
+   ],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 3,
+   "S_runs": [
+    3,
+    3,
+    3
+   ],
+   "M": 2,
+   "M_runs": [
+    2,
+    2,
+    0
+   ],
+   "T": 2,
+   "T_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 3,
+   "E_runs": [
+    3,
+    3,
+    3
+   ],
+   "labels": {
+    "S1": "Unrelated",
+    "S2": "None",
+    "X1": "Redundant",
+    "X2": "Extend",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 1,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 2.2,
+   "SMTE": 2.5,
+   "tier_SMTEC": "substantiated",
+   "tier_SMTE": "substantiated",
+   "rationale": {
+    "S": "The claim is specific as it names the action (maintaining membership), the named programme (Private Sector Collective Against Corruption), and the defined scope (the Company).",
+    "M": "The claim is measurable as it provides a quantifiable element, stating that the membership has been maintained for the third consecutive year, but lacks a baseline or target for comparison.",
+    "T": "The claim provides a specific time reference by stating that the membership has been maintained for the third consecutive year, implying a specific time frame.",
+    "E": "The evidence includes a passage (X2) that confirms the company's recertification in the coalition, which is a form of external certification, thereby fully substantiating the claim."
+   },
+   "label_reason": {
+    "S1": "The passage discusses sustainable business practices and environmental efforts, unrelated to the claim about anti-corruption membership.",
+    "S2": "No passage was retrieved for S2.",
+    "X1": "This passage repeats the claim about maintaining membership without adding new information.",
+    "X2": "This passage extends the claim by providing details about the recertification process and the specific date of the latest recertification.",
+    "X3": "The passage discusses anti-corruption efforts, which is related to the topic but does not specifically address the claim about maintaining membership."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0016",
+   "uid": "CPN-2024-OR+SR-EN::CLM-0016",
+   "report": "CPN-2024-OR+SR-EN",
+   "section": "Corporate Governance",
+   "page": 9,
+   "claim_type": "commitment",
+   "sdg_targets": "12.6, 13.2",
+   "retrieval_flags": [
+    "Only 1 of 2 target same-section references met the similarity threshold (0.35)."
+   ],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 0,
+   "T_runs": [
+    0,
+    0,
+    0
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Unrelated",
+    "S2": "None",
+    "X1": "Redundant",
+    "X2": "Related",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": false
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.4,
+   "SMTE": 0.5,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "unsubstantiated",
+   "rationale": {
+    "S": "The claim names the action of emphasizing sustainable business practices and supporting environmental efforts, but it does not specify a named program, specific target area, or defined scope.",
+    "M": "The claim does not include any quantifiable indicators or language of change; it is a plain statement about the committee's emphasis and support.",
+    "T": "There is no reference to any time point or period in the claim.",
+    "E": "The claim mentions alignment with DJSI criteria, which is a standard, but it does not provide specific details such as the scope, number, or data location."
+   },
+   "label_reason": {
+    "S1": "The passage discusses the company's membership in an anti-corruption collective, which is unrelated to the claim about sustainable business practices and environmental efforts.",
+    "S2": "No passage was retrieved for this slot.",
+    "X1": "This passage repeats the claim almost verbatim without adding any new information or details.",
+    "X2": "The passage is related to sustainability reporting and international standards but does not specifically address the DJSI criteria or Net Zero goals mentioned in the claim.",
+    "X3": "This passage discusses the company's membership in the DJSI and its rankings, which is related to the claim's mention of DJSI criteria but does not directly address the committee's emphasis or support for Net Zero goals."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0017",
+   "uid": "CPN-2024-OR+SR-EN::CLM-0017",
+   "report": "CPN-2024-OR+SR-EN",
+   "section": "Report of the Risk Policy Committee",
+   "page": 99,
+   "claim_type": "commitment",
+   "sdg_targets": "16.6, 16.7, 8.10, 8.2, 8.3",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 0,
+   "T_runs": [
+    0,
+    0,
+    0
+   ],
+   "E": 2,
+   "E_runs": [
+    2,
+    2,
+    1
+   ],
+   "labels": {
+    "S1": "Extend",
+    "S2": "Extend",
+    "X1": "Redundant",
+    "X2": "Redundant",
+    "X3": "Extend"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 1,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.8,
+   "SMTE": 0.75,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "unsubstantiated",
+   "rationale": {
+    "S": "The claim names the action of effective risk management but does not specify a named programme, specific target area, or defined scope.",
+    "M": "The claim is a plain statement with no indicators or language of change.",
+    "T": "The claim provides no time reference, making it timeless.",
+    "E": "The evidence provides details on the risk management framework, including the scope and responsibilities, which supports the claim. However, there is no external assurance or named standard."
+   },
+   "label_reason": {
+    "S1": "S1 provides details on the scope of risk management, covering key risk categories, which supports the claim's context.",
+    "S2": "S2 adds information about the approval of risk profiles and review of risk response plans, which extends the claim by detailing actions taken.",
+    "X1": "X1 repeats the claim almost verbatim and adds no new information.",
+    "X2": "X2 repeats the claim without adding any new information or context.",
+    "X3": "X3 provides detailed information on the risk management policy and framework, supporting the claim with verifiable facts about the processes and responsibilities involved."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0018",
+   "uid": "CPN-2024-OR+SR-EN::CLM-0018",
+   "report": "CPN-2024-OR+SR-EN",
+   "section": "Report of the Risk Policy Committee",
+   "page": 99,
+   "claim_type": "policy",
+   "sdg_targets": "12.6, 8.10, 8.2, 8.3, 9.1, 9.2, 9.4",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 2,
+   "S_runs": [
+    2,
+    2,
+    2
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 0,
+   "T_runs": [
+    0,
+    0,
+    0
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Redundant",
+    "X2": "Related",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": false,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.6,
+   "SMTE": 0.75,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "unsubstantiated",
+   "rationale": {
+    "S": "The claim names the action (risk management) and provides a defined scope by listing the key risk categories, but it does not mention a named programme.",
+    "M": "The claim is a plain statement about the scope of risk management without any quantification or language of change.",
+    "T": "There is no time reference in the claim, making it timeless.",
+    "E": "The passages provide self-reported information about risk management processes and structures but do not disclose methods of data collection, sources, or standards."
+   },
+   "label_reason": {
+    "S1": "The passage discusses the importance of risk management but does not provide specific details about the scope or categories mentioned in the claim.",
+    "S2": "This passage mentions the approval of risk profiles and exposure, which is related to risk management but does not directly extend the claim's specifics.",
+    "X1": "This passage repeats the claim almost verbatim, adding no new information.",
+    "X2": "This passage extends the claim by detailing the risk management policy, the roles of committees, and the processes involved, providing a broader context for the claim.",
+    "X3": "The passage discusses emerging risks and sustainability factors, which are related to the claim but do not directly extend its specific content."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0019",
+   "uid": "CPN-2024-OR+SR-EN::CLM-0019",
+   "report": "CPN-2024-OR+SR-EN",
+   "section": "Report of the Risk Policy Committee",
+   "page": 99,
+   "claim_type": "commitment",
+   "sdg_targets": "16.6, 16.7, 16.a",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 1,
+   "T_runs": [
+    1,
+    1,
+    1
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Extend",
+    "S2": "Related",
+    "X1": "Redundant",
+    "X2": "Related",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": false,
+    "S2": true,
+    "X1": true,
+    "X2": false,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.6,
+   "SMTE": 0.75,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "unsubstantiated",
+   "rationale": {
+    "S": "The claim identifies the action of monitoring and maintaining key risks within acceptable limits, but it does not specify a named program, specific target area, or defined scope.",
+    "M": "The claim lacks any quantifiable indicators or language of change, making it a plain statement without measurable elements.",
+    "T": "The claim uses the term 'continuously,' which suggests an ongoing process but does not provide specific time points or a defined period.",
+    "E": "The evidence provides self-reported information about risk management practices but lacks details on data collection methods, sources, or external assurance."
+   },
+   "label_reason": {
+    "S1": "S1 provides additional details about the annual review process and the approach used to identify and monitor key risks, supporting the claim.",
+    "S2": "S2 discusses the importance of risk management in corporate governance, which is related to the claim but does not directly support it with specific details.",
+    "X1": "X1 repeats the claim almost verbatim without adding new information or verifiable facts.",
+    "X2": "X2 mentions the establishment of a risk management policy and embedding a risk culture, which is related to the claim but does not provide specific evidence for it.",
+    "X3": "X3 discusses the commitment to embedding a strong risk culture, which is related to the claim but does not address the specifics of monitoring and maintaining key risks."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0020",
+   "uid": "CPN-2024-OR+SR-EN::CLM-0020",
+   "report": "CPN-2024-OR+SR-EN",
+   "section": "Report of the Risk Policy Committee",
+   "page": 100,
+   "claim_type": "achievement",
+   "sdg_targets": "12.6, 16.6, 16.7, 16.a",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 2,
+   "T_runs": [
+    2,
+    2,
+    1
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Extend",
+    "X1": "Redundant",
+    "X2": "Related",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": false,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.8,
+   "SMTE": 1.0,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim names the action of conducting an annual review of key risks but does not specify a named program, specific location, or defined scope.",
+    "M": "The claim provides no quantifiable indicators or language of change, making it a plain statement.",
+    "T": "The claim specifies a time point by stating that the review is conducted annually.",
+    "E": "The evidence provided is self-reported and lacks details on the method of data collection or external assurance."
+   },
+   "label_reason": {
+    "S1": "S1 discusses the company's risk culture and monitoring but does not directly address the annual review or the comprehensive approach mentioned in the claim.",
+    "S2": "S2 mentions approval of risk profiles and review of risk response plans, which is related to risk management but does not directly extend the specific claim of an annual review.",
+    "X1": "X1 repeats the claim almost verbatim without adding new verifiable information.",
+    "X2": "X2 discusses quarterly reviews and monitoring of key risks, which is related to risk management but does not directly support the claim of an annual review.",
+    "X3": "X3 talks about ongoing risk monitoring and management but does not provide specific details about the annual review mentioned in the claim."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0021",
+   "uid": "CPN-2024-OR+SR-EN::CLM-0021",
+   "report": "CPN-2024-OR+SR-EN",
+   "section": "Report of the Risk Policy Committee",
+   "page": 100,
+   "claim_type": "alignment",
+   "sdg_targets": "12.2, 12.6, 8.2, 8.3, 8.4, 9.2, 9.4, 9.5, 9.b",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 0,
+   "T_runs": [
+    0,
+    0,
+    0
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Redundant",
+    "X2": "Related",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.4,
+   "SMTE": 0.5,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "unsubstantiated",
+   "rationale": {
+    "S": "The claim names the issues and actions being examined (external factors, sustainability factors, internal factors) but does not specify a named programme, a specific target area, or a defined scope.",
+    "M": "The claim does not include any quantifiable indicators or language of change.",
+    "T": "The claim does not mention any specific time reference or period.",
+    "E": "The evidence provides self-reported information about the review process and some related activities, but lacks detailed methods of data collection or external validation."
+   },
+   "label_reason": {
+    "S1": "S1 discusses emerging risks like AI and low-carbon transition, which are related to the external factors mentioned in the claim but do not directly address the claim's specific content.",
+    "S2": "S2 provides information on stakeholder engagement activities, which is related to the broader context of ESG dimensions but does not directly support the specific claim about the review.",
+    "X1": "X1 repeats the claim about examining external factors without adding new information or verifiable details.",
+    "X2": "X2 discusses the enterprise risk management process, which is related to the claim's context but does not provide specific details about the review mentioned in the claim.",
+    "X3": "X3 mentions reviewing sustainability issues and risks, which is related to the claim's context but does not directly extend the specific claim about the review."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0022",
+   "uid": "CPN-2024-OR+SR-EN::CLM-0022",
+   "report": "CPN-2024-OR+SR-EN",
+   "section": "Report of the Risk Policy Committee",
+   "page": 100,
+   "claim_type": "commitment",
+   "sdg_targets": "13.1, 13.2, 9.4, 9.5, 9.b",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 1,
+   "T_runs": [
+    1,
+    1,
+    1
+   ],
+   "E": 2,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "labels": {
+    "S1": "Extend",
+    "S2": "Extend",
+    "X1": "Extend",
+    "X2": "Redundant",
+    "X3": "Extend"
+   },
+   "label_agreement": {
+    "S1": false,
+    "S2": false,
+    "X1": false,
+    "X2": true,
+    "X3": false
+   },
+   "C": 1,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.0,
+   "SMTE": 1.0,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim names the actions of reviewing and monitoring emerging risks related to AI and the transition to a low-carbon society, but it does not specify a named program, a specific location, or a defined scope.",
+    "M": "The claim does not include any indicators, numbers, or language of change; it is a plain statement about reviewing and monitoring risks.",
+    "T": "The claim implies ongoing activity by stating that risks are reviewed and monitored, but it does not provide any specific time points or dates.",
+    "E": "The evidence includes a description of the risk review process and identifies the factors considered, which provides some context and method for the claim, but there is no external assurance or certification mentioned."
+   },
+   "label_reason": {
+    "S1": "S1 provides additional information about the comprehensive, multidimensional approach used to identify, assess, and monitor key risks, supporting the claim's context.",
+    "S2": "S2 extends the claim by detailing the external and internal factors considered in the risk review, including ESG dimensions, which supports the claim's context.",
+    "X1": "X1 extends the claim by confirming the identification of AI and the transition to a low-carbon society as emerging risks, supporting the claim's specific content.",
+    "X2": "X2 repeats the claim about reviewing and monitoring emerging risks, adding no new information beyond what is already stated in the claim.",
+    "X3": "X3 is related as it discusses risk response plans for the transition to a low-carbon society, but it does not address the specific claim about reviewing and monitoring emerging risks."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0023",
+   "uid": "CPN-2024-OR+SR-EN::CLM-0023",
+   "report": "CPN-2024-OR+SR-EN",
+   "section": "Report of the Risk Policy Committee",
+   "page": 100,
+   "claim_type": "achievement",
+   "sdg_targets": "16.6, 16.7, 16.a, 8.10, 8.2",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 2,
+   "S_runs": [
+    2,
+    1,
+    2
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 1,
+   "T_runs": [
+    1,
+    1,
+    1
+   ],
+   "E": 2,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Redundant",
+    "X2": "Extend",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": false,
+    "X3": true
+   },
+   "C": 1,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.2,
+   "SMTE": 1.25,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim names the action of approving risk profiles, key indicators, and exposure, and reviewing response plans, which is specific. It also defines the scope as related to Central Pattana's risk management, but it does not name a specific programme.",
+    "M": "The claim does not provide any quantifiable indicators or language of change; it is a plain statement about actions taken.",
+    "T": "The claim implies that actions have been completed but does not provide a specific date or time period.",
+    "E": "The evidence provides details on the risk management framework and processes, including the role of the Risk Policy Committee and risk owners, which supports the claim by describing the method and scope of risk management activities."
+   },
+   "label_reason": {
+    "S1": "The passage discusses the scope of risk management, which is related to the claim but does not provide specific details about the approval or review processes mentioned in the claim.",
+    "S2": "This passage emphasizes the importance of risk management in corporate governance, which is related to the claim's context but does not address the specific actions claimed.",
+    "X1": "This passage repeats the claim almost verbatim without adding new information or details.",
+    "X2": "This passage provides additional context on the risk management policy and the roles of the Risk Policy Committee and risk owners, supporting the claim with verifiable details about the processes involved.",
+    "X3": "The passage mentions the Risk Policy Committee's meetings and activities, which are related to the claim but do not directly extend it with new information."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0025",
+   "uid": "CPN-2024-OR+SR-EN::CLM-0025",
+   "report": "CPN-2024-OR+SR-EN",
+   "section": "Business Policy and Business Overview",
+   "page": 20,
+   "claim_type": "commitment",
+   "sdg_targets": "11.3, 11.a, 8.1, 8.2, 8.3, 9.1, 9.2, 9.4",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 1,
+   "M_runs": [
+    1,
+    1,
+    1
+   ],
+   "T": 1,
+   "T_runs": [
+    1,
+    1,
+    1
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Extend",
+    "X2": "Redundant",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 1,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.0,
+   "SMTE": 1.0,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim names the action of expanding shopping centers and other businesses but does not specify a named program, specific site, or defined scope.",
+    "M": "The claim uses language of change such as 'accelerating' and 'expansion' but does not provide any numerical indicators or comparators.",
+    "T": "The claim refers to future actions with vague timing, such as 'accelerating the development,' without specific time points.",
+    "E": "The evidence provides self-reported goals and strategic directions but lacks detailed methods of data collection, sources, or external assurance."
+   },
+   "label_reason": {
+    "S1": "S1 discusses the expansion of retail space in Phuket, which is related to the claim's topic of expanding shopping centers but does not address the claim's specifics.",
+    "S2": "S2 mentions organizational reform and sustainable development, which are related to the broader theme of sustainable growth but not specific to the claim's content.",
+    "X1": "X1 provides additional details on strategic goals, directions, and capital expenditure, which support the claim's intent to expand and maintain leadership.",
+    "X2": "X2 repeats the claim almost verbatim, adding no new information or verifiable facts.",
+    "X3": "X3 discusses the company's retail-led mixed-use strategy and its success, which is related to the claim's topic but does not provide specific details on the claim."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0026",
+   "uid": "CPN-2024-OR+SR-EN::CLM-0026",
+   "report": "CPN-2024-OR+SR-EN",
+   "section": "Business Policy and Business Overview",
+   "page": 20,
+   "claim_type": "commitment",
+   "sdg_targets": "12.2, 12.6, 16.6, 16.7, 9.2, 9.4, 9.5, 9.b",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 2,
+   "S_runs": [
+    2,
+    2,
+    2
+   ],
+   "M": 1,
+   "M_runs": [
+    1,
+    1,
+    1
+   ],
+   "T": 0,
+   "T_runs": [
+    0,
+    0,
+    0
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Related",
+    "X2": "Related",
+    "X3": "Redundant"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.8,
+   "SMTE": 1.0,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim names the action of reforming the organization to increase efficiency, develop effectiveness, and promote innovation under the BEST & FIT Project, which is a named program. However, it lacks a specific target area or defined scope.",
+    "M": "The claim uses language of change such as 'increase efficiency,' 'develop effectiveness,' and 'promote innovation,' but does not provide any numerical indicators or specific metrics.",
+    "T": "The claim does not provide any time reference, point, or period for when these actions or outcomes are expected to occur.",
+    "E": "The evidence provided is mostly self-reported and lacks detailed methods of data collection or external assurance. There is no specific source or standard identified for the claim's data."
+   },
+   "label_reason": {
+    "S1": "The passage discusses the company's commitment to sustainability and value creation, which is related to the claim's theme but does not address the specific actions or program mentioned in the claim.",
+    "S2": "This passage outlines a strategy for sustainable growth, which is related to the claim's broader context but does not directly address the specific actions or program in the claim.",
+    "X1": "The passage discusses management approaches to innovation and efficiency, which are related to the claim's themes but do not directly extend or verify the specific claim about the BEST & FIT Project.",
+    "X2": "This passage mentions strategies for sustainable business development, which is related to the claim's context but does not provide specific details or verification for the claim.",
+    "X3": "This passage repeats the claim about becoming a sustainable organization with an innovative, productive, and efficient DNA culture, adding no new information."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0027",
+   "uid": "CPN-2024-OR+SR-EN::CLM-0027",
+   "report": "CPN-2024-OR+SR-EN",
+   "section": "Business Policy and Business Overview",
+   "page": 20,
+   "claim_type": "commitment",
+   "sdg_targets": "12.2, 12.6, 12.8, 17.14, 17.16, 17.17, 8.1, 8.2, 8.3, 8.4",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 0,
+   "S_runs": [
+    0,
+    0,
+    0
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 0,
+   "T_runs": [
+    0,
+    0,
+    0
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Related",
+    "X2": "Related",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.2,
+   "SMTE": 0.25,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "unsubstantiated",
+   "rationale": {
+    "S": "The claim is a general statement about commitment to long-term value creation and sustainable growth without specifying any particular action, program, or target area.",
+    "M": "The claim does not include any quantifiable indicators or language of change; it is a plain statement of commitment.",
+    "T": "There is no time reference in the claim; it lacks any specific time point or period.",
+    "E": "The evidence provided is mostly self-reported and lacks detailed methods of data collection or external assurance. It mentions policies and strategies but does not provide verifiable data or standards specific to the claim."
+   },
+   "label_reason": {
+    "S1": "S1 discusses the company's aim to be sustainable and innovative, which is related to the claim's theme of sustainable growth, but does not provide specific evidence for the claim.",
+    "S2": "S2 describes a strategy for sustainable growth, aligning with the claim's focus on sustainability, but does not provide specific evidence for the claim.",
+    "X1": "X1 mentions the company's role of stakeholders and sustainability, which is related to the claim's focus on stakeholder value, but lacks specific evidence for the claim.",
+    "X2": "X2 talks about sustainable business development strategies, which is related to the claim's theme, but does not provide specific evidence for the claim.",
+    "X3": "X3 discusses policies towards stakeholders, aligning with the claim's focus on stakeholder value, but does not provide specific evidence for the claim."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0028",
+   "uid": "CPN-2024-OR+SR-EN::CLM-0028",
+   "report": "CPN-2024-OR+SR-EN",
+   "section": "Business Policy and Business Overview",
+   "page": 22,
+   "claim_type": "commitment",
+   "sdg_targets": "8.1, 8.2, 8.3, 8.9, 9.1, 9.2",
+   "retrieval_flags": [
+    "Only 1 of 2 target same-section references met the similarity threshold (0.35)."
+   ],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 2,
+   "S_runs": [
+    2,
+    2,
+    2
+   ],
+   "M": 2,
+   "M_runs": [
+    2,
+    2,
+    2
+   ],
+   "T": 3,
+   "T_runs": [
+    3,
+    3,
+    3
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "None",
+    "X1": "Redundant",
+    "X2": "Related",
+    "X3": "Unrelated"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": false,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.6,
+   "SMTE": 2.0,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "substantiated",
+   "rationale": {
+    "S": "The claim names the action (expansion of luxury brand retail space) and specifies the target area (Central Phuket), but it does not name a specific programme.",
+    "M": "The claim includes a quantifiable measure (expansion by four times) but lacks a baseline or target comparator.",
+    "T": "The claim provides two time points: the current state and the target period 'over the next two years,' allowing progress to be tracked.",
+    "E": "The evidence provided is self-reported with figures but lacks a method of data collection, source, or external assurance."
+   },
+   "label_reason": {
+    "S1": "Discusses the company's strategy to expand in various sectors, including retail, but does not specifically address the claim about Central Phuket's luxury retail expansion.",
+    "S2": "No passage retrieved.",
+    "X1": "Repeats the claim about Central Phuket's expansion and its alignment with the government's strategic plan without adding new verifiable information.",
+    "X2": "Focuses on retail space changes in Bangkok, not related to the specific claim about Central Phuket.",
+    "X3": "Discusses future retail supply in Bangkok, which is unrelated to the claim about Central Phuket's expansion."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0029",
+   "uid": "CPN-2024-OR+SR-EN::CLM-0029",
+   "report": "CPN-2024-OR+SR-EN",
+   "section": "Risk Management",
+   "page": 538,
+   "claim_type": "commitment",
+   "sdg_targets": "11.5, 11.b, 16.6, 16.a, 9.1, 9.4",
+   "retrieval_flags": [
+    "Only 1 of 2 target same-section references met the similarity threshold (0.35)."
+   ],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 1,
+   "M_runs": [
+    1,
+    1,
+    1
+   ],
+   "T": 1,
+   "T_runs": [
+    1,
+    1,
+    1
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "None",
+    "X1": "Related",
+    "X2": "Related",
+    "X3": "Redundant"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.8,
+   "SMTE": 1.0,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim names the action of strengthening and enhancing risk management arrangements but does not specify a named program, specific location, or defined scope.",
+    "M": "The claim uses language of change with words like 'strengthen' and 'enhance' but does not provide any numerical indicators or measurements.",
+    "T": "The claim uses the term 'continuously,' indicating an ongoing process but does not specify any particular time points or periods.",
+    "E": "The evidence provided is self-reported and mentions an integrated ERM system but lacks details on data collection methods, sources, or external assurance."
+   },
+   "label_reason": {
+    "S1": "The passage discusses the integrated ERM system and its benefits but does not provide specific details about strengthening and enhancing risk management arrangements.",
+    "S2": "No passage was retrieved for this slot.",
+    "X1": "This passage discusses risk monitoring and management but does not directly address the claim about strengthening and enhancing risk management arrangements.",
+    "X2": "The passage mentions a strong risk culture and monitoring of key risks, which is related to the topic but does not specifically address the claim.",
+    "X3": "This passage repeats the claim almost verbatim without adding new information or verifiable details."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0030",
+   "uid": "CPN-2024-OR+SR-EN::CLM-0030",
+   "report": "CPN-2024-OR+SR-EN",
+   "section": "Risk Management",
+   "page": 538,
+   "claim_type": "achievement",
+   "sdg_targets": "17.13, 17.16, 17.17, 8.1, 8.10, 8.2, 9.1, 9.2, 9.4",
+   "retrieval_flags": [
+    "Only 1 of 2 target same-section references met the similarity threshold (0.35)."
+   ],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    2
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 0,
+   "T_runs": [
+    0,
+    0,
+    0
+   ],
+   "E": 0,
+   "E_runs": [
+    0,
+    0,
+    0
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "None",
+    "X1": "Redundant",
+    "X2": "Related",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.2,
+   "SMTE": 0.25,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "unsubstantiated",
+   "rationale": {
+    "S": "The claim names the action of having a fully integrated Enterprise Risk Management (ERM) system but does not specify a named programme, a specific location, or a defined scope.",
+    "M": "The claim does not provide any quantitative indicators or language of change; it is a plain statement about the benefits of the ERM system.",
+    "T": "There is no reference to any specific time point or period in the claim.",
+    "E": "The evidence provided does not include any supporting information, sources, or methods of data collection related to the claim about the ERM system."
+   },
+   "label_reason": {
+    "S1": "The passage discusses strengthening risk management arrangements, which is related to the topic of the claim but does not specifically address the ERM system or its benefits.",
+    "S2": "No passage retrieved.",
+    "X1": "The passage repeats the claim about the ERM system's benefits without adding any new information.",
+    "X2": "The passage discusses the importance of risk management in general, which is related to the claim's topic but does not specifically address the ERM system or its benefits.",
+    "X3": "The passage discusses the scope of risk management, which is related to the claim's topic but does not specifically address the ERM system or its benefits."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0031",
+   "uid": "CPN-2024-OR+SR-EN::CLM-0031",
+   "report": "CPN-2024-OR+SR-EN",
+   "section": "Risk Management Policy and Plan",
+   "page": 539,
+   "claim_type": "policy",
+   "sdg_targets": "16.6, 16.7, 16.a, 8.10, 8.3",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 0,
+   "T_runs": [
+    0,
+    0,
+    0
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Extend",
+    "S2": "Extend",
+    "X1": "Related",
+    "X2": "Related",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": false,
+    "S2": false,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.4,
+   "SMTE": 0.5,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "unsubstantiated",
+   "rationale": {
+    "S": "The claim names the action of establishing a risk management policy and embedding a risk culture, but it does not specify a named programme, a specific target area, or a defined scope.",
+    "M": "The claim is a plain statement with no indicators or language of change, making it unquantified.",
+    "T": "There is no time reference in the claim, making it impossible to determine when the action was taken or is expected to be completed.",
+    "E": "The evidence provided is self-reported and describes the structure and responsibilities related to risk management, but it lacks detailed methods of data collection or external assurance."
+   },
+   "label_reason": {
+    "S1": "Provides details on the monitoring and management of risks, supporting the claim of embedding a risk culture.",
+    "S2": "Describes the responsibilities of the Risk Policy Committee, which supports the claim about establishing a risk management policy.",
+    "X1": "Mentions the commitment to a strong risk culture but does not provide specific details about the risk management policy.",
+    "X2": "Discusses the risk culture but does not add specific information about the enterprise-wide risk management policy.",
+    "X3": "Mentions risk culture but does not provide additional information specific to the claim about the risk management policy."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0033",
+   "uid": "CPN-2024-OR+SR-EN::CLM-0033",
+   "report": "CPN-2024-OR+SR-EN",
+   "section": "Risk Management Policy and Plan",
+   "page": 539,
+   "claim_type": "commitment",
+   "sdg_targets": "16.6, 16.7, 16.a",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 1,
+   "T_runs": [
+    1,
+    1,
+    1
+   ],
+   "E": 2,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Related",
+    "X2": "Extend",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 1,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.0,
+   "SMTE": 1.0,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim identifies the action of monitoring, analyzing, and managing risks, but it does not specify a named program, a specific target area, or a defined scope.",
+    "M": "The claim does not include any quantifiable indicators or language of change.",
+    "T": "The claim uses the term 'continuously,' which implies an ongoing process but does not specify any particular time frame or date.",
+    "E": "The evidence provides details on the risk management framework, the committees involved, and the processes in place, which supports the claim's context and scope, but there is no mention of external assurance or certification."
+   },
+   "label_reason": {
+    "S1": "The passage discusses the responsibilities of the Risk Policy Committee, which is related to the claim but does not directly address the specific activities of the Risk Management Committee.",
+    "S2": "The passage mentions an enterprise-wide risk management policy, which is related to the claim's context but does not provide specific details about the Risk Management Committee's activities.",
+    "X1": "The passage mentions continuous monitoring of risks, which is related to the claim, but it does not specifically address the Risk Management Committee's role.",
+    "X2": "The passage provides detailed information about the Risk Management Committee's responsibilities, including risk monitoring and reporting, which directly supports and extends the claim.",
+    "X3": "The passage discusses the risk assessment process, which is related to the claim, but it does not specifically mention the Risk Management Committee."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0036",
+   "uid": "CPN-2024-OR+SR-EN::CLM-0036",
+   "report": "CPN-2024-OR+SR-EN",
+   "section": "Risk Culture",
+   "page": 541,
+   "claim_type": "policy",
+   "sdg_targets": "16.6, 16.7, 8.3, 8.5, 8.8",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 0,
+   "T_runs": [
+    0,
+    0,
+    0
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Redundant",
+    "X2": "Unrelated",
+    "X3": "Unrelated"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.4,
+   "SMTE": 0.5,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "unsubstantiated",
+   "rationale": {
+    "S": "The claim names the action of factoring risk management performance into employee evaluations but does not specify a program, target area, or defined scope.",
+    "M": "The claim is a plain statement with no indicators or language of change.",
+    "T": "The claim does not provide any time reference or period for when this action is taking place.",
+    "E": "The claim is self-reported and repeated in X1, but there is no method of data collection, source, or standard mentioned."
+   },
+   "label_reason": {
+    "S1": "The passage discusses risk training, which is related to risk management but does not address performance evaluations.",
+    "S2": "The passage talks about embedding a risk culture, which is related to risk management but not specific to performance evaluations.",
+    "X1": "The passage repeats the claim that risk management performance is factored into evaluations, adding no new information.",
+    "X2": "The passage only titles a section on risk management without providing any content related to the claim.",
+    "X3": "The passage only titles a section on risk management without providing any content related to the claim."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0037",
+   "uid": "CPN-2024-OR+SR-EN::CLM-0037",
+   "report": "CPN-2024-OR+SR-EN",
+   "section": "Risk Culture",
+   "page": 541,
+   "claim_type": "commitment",
+   "sdg_targets": "4.4, 4.7, 8.2, 8.3, 8.5, 8.8",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 2,
+   "S_runs": [
+    1,
+    2,
+    2
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 1,
+   "T_runs": [
+    1,
+    1,
+    1
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Redundant",
+    "X2": "Related",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.8,
+   "SMTE": 1.0,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim names the action (training programs) and defines the scope (employees at all levels from the CEO and senior management to staff), but it does not name a specific program.",
+    "M": "The claim is a plain statement with no indicators or language of change.",
+    "T": "The claim states that training programs have been developed but does not provide a specific date or time period.",
+    "E": "The evidence provided is self-reported and lacks details on the method of data collection or external assurance."
+   },
+   "label_reason": {
+    "S1": "The passage discusses the company's commitment to a strong risk culture, which is related to the topic of risk management training but does not address the specific claim about training programs.",
+    "S2": "The passage mentions risk management performance in employee evaluations, which is related to risk management but not directly to the training programs claim.",
+    "X1": "This passage repeats the claim about training programs for employees at all levels without adding new information.",
+    "X2": "The passage discusses embedding a risk culture, which is related to the topic of the claim but does not specifically address the training programs.",
+    "X3": "The passage describes the Risk Management Committee's activities, which are related to risk management but not directly to the training programs claim."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0038",
+   "uid": "CPN-2024-OR+SR-EN::CLM-0038",
+   "report": "CPN-2024-OR+SR-EN",
+   "section": "Materiality and Sustainable Development Strategy",
+   "page": 79,
+   "claim_type": "achievement",
+   "sdg_targets": "11.3, 11.b, 12.6, 9.2, 9.4",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 2,
+   "S_runs": [
+    3,
+    2,
+    2
+   ],
+   "M": 2,
+   "M_runs": [
+    2,
+    2,
+    2
+   ],
+   "T": 1,
+   "T_runs": [
+    1,
+    1,
+    1
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Extend",
+    "X2": "Redundant",
+    "X3": "Extend"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 2,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.6,
+   "SMTE": 1.5,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim names the action of being listed on specific indices and provides a defined scope by mentioning the Real Estate sector, but it does not specify a named programme.",
+    "M": "The claim includes a specific score of 84, which is a quantifiable measure, but it lacks a comparator such as a baseline or target.",
+    "T": "The claim mentions the duration of being listed for consecutive years but does not provide specific time points or dates.",
+    "E": "The evidence provides figures and mentions the indices but lacks details on the method of data collection, source, or external assurance."
+   },
+   "label_reason": {
+    "S1": "Mentions recognition in the Sustainability Yearbook, which is related to sustainability achievements but does not address the specific claim about DJSI listings.",
+    "S2": "Discusses other sustainability ratings and recognitions, which are related to the general topic but not directly to the DJSI claim.",
+    "X1": "Provides additional context by mentioning the ranking among 244 real estate companies, supporting the claim's context.",
+    "X2": "Repeats the claim almost verbatim without adding new information.",
+    "X3": "Adds context about the company's carbon reduction efforts, indirectly supporting the claim of sustainability performance."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0039",
+   "uid": "CPN-2024-OR+SR-EN::CLM-0039",
+   "report": "CPN-2024-OR+SR-EN",
+   "section": "Materiality and Sustainable Development Strategy",
+   "page": 79,
+   "claim_type": "achievement",
+   "sdg_targets": "11.3, 11.6, 11.b, 12.6, 9.2, 9.4",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 2,
+   "S_runs": [
+    2,
+    2,
+    2
+   ],
+   "M": 2,
+   "M_runs": [
+    2,
+    2,
+    2
+   ],
+   "T": 1,
+   "T_runs": [
+    1,
+    1,
+    1
+   ],
+   "E": 3,
+   "E_runs": [
+    3,
+    2,
+    3
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Redundant",
+    "X2": "Redundant",
+    "X3": "Extend"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 1,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.8,
+   "SMTE": 2.0,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "substantiated",
+   "rationale": {
+    "S": "The claim names the action of being featured in the Sustainability Yearbook by S&P Global and provides a defined scope by specifying the Top 5% S&P Global CSA Score in Real Estate.",
+    "M": "The claim includes a specific number, 'Top 5%', which quantifies the achievement, but lacks a comparator such as a baseline or target.",
+    "T": "The claim mentions 'for the seventh consecutive year,' indicating a duration but not providing specific start or end dates.",
+    "E": "The evidence includes a figure in X3 that corroborates the claim with specific details, including the score date, which suggests external verification by S&P Global."
+   },
+   "label_reason": {
+    "S1": "Mentions other sustainability ratings and indices but not the S&P Global Sustainability Yearbook or the Top 5% CSA Score.",
+    "S2": "Discusses other sustainability indices but does not mention the S&P Global Sustainability Yearbook or the specific CSA Score.",
+    "X1": "Repeats the claim about being in the S&P Global Sustainability Yearbook for seven consecutive years without adding new information.",
+    "X2": "Paraphrases the claim about being featured in the S&P Global Sustainability Yearbook and the Top 5% CSA Score without additional details.",
+    "X3": "Provides additional verifiable details, including the score date and specific score of 84/100, supporting the claim's validity."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0040",
+   "uid": "CPN-2024-OR+SR-EN::CLM-0040",
+   "report": "CPN-2024-OR+SR-EN",
+   "section": "Materiality and Sustainable Development Strategy",
+   "page": 79,
+   "claim_type": "achievement",
+   "sdg_targets": "11.3, 11.b, 12.6, 17.16, 17.17, 17.19",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 2,
+   "S_runs": [
+    3,
+    2,
+    2
+   ],
+   "M": 2,
+   "M_runs": [
+    2,
+    0,
+    2
+   ],
+   "T": 1,
+   "T_runs": [
+    1,
+    1,
+    1
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Redundant",
+    "X2": "Related",
+    "X3": "Extend"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 1,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.4,
+   "SMTE": 1.5,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim names specific ratings and indices (FTSE4Good, MSCI ESG, SET ESG, GRESB) and the scope (CPNREIT), but it does not name a specific programme or project.",
+    "M": "The claim provides specific ratings ('BBB', 'AAA', '2-star') but lacks a comparator or baseline for these ratings.",
+    "T": "The claim states achievements ('have been included', 'have received') but does not provide specific dates or time periods for these recognitions.",
+    "E": "The claim is self-reported with specific ratings and indices, but there is no mention of the method of collection, source, or external assurance."
+   },
+   "label_reason": {
+    "S1": "The passage mentions inclusion in the S&P Global Sustainability Yearbook, which is related to sustainability indices but does not address the specific indices and ratings in the claim.",
+    "S2": "The passage discusses inclusion in the Dow Jones indices, which is related to sustainability recognition but not directly to the indices and ratings mentioned in the claim.",
+    "X1": "This passage repeats the claim nearly word for word, adding no additional information or context.",
+    "X2": "The passage discusses Dow Jones and S&P Global recognitions, which are related to sustainability indices but do not address the specific indices and ratings in the claim.",
+    "X3": "This passage provides additional context about the FTSE4Good Index, confirming its status as a leading global sustainability index, which supports the claim."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0041",
+   "uid": "CPN-2024-OR+SR-EN::CLM-0041",
+   "report": "CPN-2024-OR+SR-EN",
+   "section": "Materiality and Sustainable Development Strategy",
+   "page": 80,
+   "claim_type": "commitment",
+   "sdg_targets": "11.3, 11.b, 12.1, 12.6, 12.8, 17.16, 17.17",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 2,
+   "S_runs": [
+    2,
+    1,
+    2
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 0,
+   "T_runs": [
+    0,
+    0,
+    0
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Redundant",
+    "X2": "Related",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.6,
+   "SMTE": 0.75,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "unsubstantiated",
+   "rationale": {
+    "S": "The claim names the action of developing a strategy and a named programme 'The Sustainable Ecosystem for All,' but it lacks a specific target area or defined scope.",
+    "M": "The claim is a plain statement with no indicators, numbers, or language of change.",
+    "T": "There is no time reference in the claim, making it impossible to determine when the strategy was developed or is expected to be implemented.",
+    "E": "The passages provide self-reported information about the strategy and its components, but there is no method of data collection, source, or external assurance mentioned."
+   },
+   "label_reason": {
+    "S1": "The passage mentions the commitment to ESG principles within the sustainable development framework, which is related to the claim but does not provide specific details about 'The Sustainable Ecosystem for All.'",
+    "S2": "This passage mentions creating sustainable ecosystems through stakeholder collaboration, which is related to the claim but does not provide specific details about the strategy or framework mentioned in the claim.",
+    "X1": "This passage repeats the claim almost verbatim, adding no new information or verifiable facts.",
+    "X2": "The passage discusses a business model 'The Ecosystem for All' and strategies that align with the claim's theme but does not provide specific details about 'The Sustainable Ecosystem for All' framework.",
+    "X3": "The passage discusses sustainability initiatives and strategies that are thematically related to the claim but do not address the specific framework or strategy mentioned in the claim."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0042",
+   "uid": "CPN-2024-OR+SR-EN::CLM-0042",
+   "report": "CPN-2024-OR+SR-EN",
+   "section": "Materiality and Sustainable Development Strategy",
+   "page": 80,
+   "claim_type": "commitment",
+   "sdg_targets": "11.3, 11.b, 13.1, 13.2, 13.3, 17.14, 17.16, 17.17",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 0,
+   "T_runs": [
+    0,
+    0,
+    0
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Related",
+    "X2": "Redundant",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.4,
+   "SMTE": 0.5,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "unsubstantiated",
+   "rationale": {
+    "S": "The claim names the action of achieving a vision that integrates stakeholder needs and expectations, but it does not specify a named program, a specific place, or a defined scope.",
+    "M": "The claim does not include any indicators or language of change; it is a plain statement of a goal.",
+    "T": "There is no time reference provided in the claim, making it impossible to determine any temporal aspect.",
+    "E": "The evidence provided is self-reported and repeats the claim, but it does not disclose methods of data collection, sources, or standards."
+   },
+   "label_reason": {
+    "S1": "The passage discusses strategies for sustainable business development, which is related to the claim's topic but does not address the specific content of the claim.",
+    "S2": "This passage mentions a strategy related to sustainable development, which aligns with the claim's topic but does not provide specific details about the 'Placemaker for a Sustainable Future' vision.",
+    "X1": "The passage discusses the company's commitment to sustainability, which is related to the claim's broader theme but not to its specific content.",
+    "X2": "This passage repeats the claim almost verbatim, adding no new information or verifiable fact.",
+    "X3": "The passage discusses aspects of placemaking and sustainability, which are related to the claim's topic but do not directly address the specific vision mentioned in the claim."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0043",
+   "uid": "CPN-2024-OR+SR-EN::CLM-0043",
+   "report": "CPN-2024-OR+SR-EN",
+   "section": "Materiality and Sustainable Development Strategy",
+   "page": 80,
+   "claim_type": "commitment",
+   "sdg_targets": "12.1, 12.6, 16.5, 16.6, 16.7, 17.14, 17.16, 17.17",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 0,
+   "T_runs": [
+    0,
+    0,
+    0
+   ],
+   "E": 1,
+   "E_runs": [
+    0,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Redundant",
+    "X2": "Related",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.4,
+   "SMTE": 0.5,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "unsubstantiated",
+   "rationale": {
+    "S": "The claim names the action of embedding ESG principles across the value chain but does not specify a named programme, a specific target area, or a defined scope.",
+    "M": "The claim does not include any indicators or language of change, making it a plain statement without measurability.",
+    "T": "There is no reference to time in the claim, making it impossible to assess temporality.",
+    "E": "The evidence provided is mostly self-reported and lacks detailed methods of data collection or external assurance, although it does mention alignment with ESG principles."
+   },
+   "label_reason": {
+    "S1": "The passage discusses the strategy of creating a sustainable ecosystem, which is related to the claim but does not specifically address the embedding of ESG principles.",
+    "S2": "This passage mentions stakeholder collaboration for sustainable business development, which relates to the broader topic of sustainability but not specifically to the embedding of ESG principles.",
+    "X1": "This passage repeats the claim about embedding ESG principles across the value chain without adding new verifiable information.",
+    "X2": "The passage discusses the company's commitment to sustainability and alignment with SDGs, which is related to the claim but does not specifically mention the embedding of ESG principles.",
+    "X3": "This passage discusses management approaches related to sustainability but does not specifically address the embedding of ESG principles across the value chain."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0044",
+   "uid": "CPN-2024-OR+SR-EN::CLM-0044",
+   "report": "CPN-2024-OR+SR-EN",
+   "section": "Materiality and Sustainable Development Strategy",
+   "page": 80,
+   "claim_type": "commitment",
+   "sdg_targets": "13.2, 7.2, 7.3",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 2,
+   "T_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 3,
+   "E_runs": [
+    3,
+    2,
+    3
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Extend",
+    "X2": "Related",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 1,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.4,
+   "SMTE": 1.5,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim names the action of becoming net zero by 2050 but does not specify a named program, a specific target area, or a defined scope.",
+    "M": "The claim lacks any quantification or language of change; it is a plain statement of intent without numbers or indicators.",
+    "T": "The claim includes a specific end time point, 'by 2050,' which indicates when the net zero goal is to be achieved.",
+    "E": "The evidence includes a detailed plan with science-based targets, a baseline year, and the use of ISO 14064-1 for implementation and certification, indicating a high level of substantiation and external assurance."
+   },
+   "label_reason": {
+    "S1": "The passage discusses strategies for sustainable development, which is related to the claim but does not provide specific details about the net zero goal.",
+    "S2": "The passage mentions a vision for sustainability, which is related to the claim but does not address the specific net zero target.",
+    "X1": "The passage provides detailed information about the net zero target, including science-based targets, baseline year, and the use of ISO 14064-1, which extends the claim with verifiable facts.",
+    "X2": "The passage discusses carbon reduction achievements, which is related to the net zero goal but does not directly extend the claim.",
+    "X3": "The passage outlines plans related to decarbonization, which is related to the net zero goal but does not directly extend the claim with specific details about the 2050 target."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0045",
+   "uid": "CPN-2024-OR+SR-EN::CLM-0045",
+   "report": "CPN-2024-OR+SR-EN",
+   "section": "Materiality and Sustainable Development Strategy",
+   "page": 80,
+   "claim_type": "commitment",
+   "sdg_targets": "13.2, 8.2, 8.3, 8.4",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 0,
+   "T_runs": [
+    0,
+    0,
+    0
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Redundant",
+    "X2": "Extend",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": false,
+    "X3": true
+   },
+   "C": 1,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.6,
+   "SMTE": 0.5,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "unsubstantiated",
+   "rationale": {
+    "S": "The claim names the actions 'achieving net zero emissions' and 'building local wealth', but does not specify a program, location, or defined scope.",
+    "M": "The claim does not provide any quantifiable indicators or language of change; it is a plain statement.",
+    "T": "The claim does not include any time reference or deadline for achieving the stated actions.",
+    "E": "The evidence provides self-reported strategies and goals but lacks detailed methods of data collection, sources, or external assurance."
+   },
+   "label_reason": {
+    "S1": "The passage mentions strategies related to sustainability but does not specifically address 'net zero emissions' or 'building local wealth'.",
+    "S2": "The passage mentions 'Becoming net zero by 2050', which is related to the claim but does not provide additional specifics or context.",
+    "X1": "This passage repeats the claim almost verbatim without adding new information or context.",
+    "X2": "The passage discusses the Net Zero Pathway and Climate Adaptation Action Plan, which is related to 'achieving net zero emissions' but does not directly substantiate the claim about 'building local wealth'.",
+    "X3": "The passage mentions a focus on 'Net Zero 2050', which is related to the claim but does not directly address 'building local wealth'."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0046",
+   "uid": "CPN-2024-OR+SR-EN::CLM-0046",
+   "report": "CPN-2024-OR+SR-EN",
+   "section": "Materiality and Sustainable Development Strategy",
+   "page": 80,
+   "claim_type": "commitment",
+   "sdg_targets": "15.1, 15.5, 15.9, 17.16, 17.17, 8.3, 8.4",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 0,
+   "T_runs": [
+    0,
+    0,
+    0
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Redundant",
+    "X2": "Unrelated",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.4,
+   "SMTE": 0.5,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "unsubstantiated",
+   "rationale": {
+    "S": "The claim names the action of 'creating sustainable ecosystems through stakeholder collaboration,' but it does not specify a named programme, a specific location, or a defined scope.",
+    "M": "The claim is a plain statement with no indicators, numbers, or language of change.",
+    "T": "The claim does not provide any time reference or period for the action.",
+    "E": "The evidence provides a self-reported strategy and framework, but there is no method of data collection, source, or external assurance mentioned."
+   },
+   "label_reason": {
+    "S1": "S1 discusses strategies for sustainable business development, which is related to the claim's context but does not address the specific strategy of creating sustainable ecosystems.",
+    "S2": "S2 mentions a strategy for business advancement through a sustainable ecosystem framework, which is related to the claim but does not provide specific details on stakeholder collaboration.",
+    "X1": "X1 repeats the claim by listing the same strategy of creating sustainable ecosystems through stakeholder collaboration without adding new information.",
+    "X2": "X2 provides a table of contents and does not relate to the claim about creating sustainable ecosystems through stakeholder collaboration.",
+    "X3": "X3 discusses the company's commitment to creating long-term value and sustainable growth, which is thematically related but does not address the specific claim."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0047",
+   "uid": "CPN-2024-OR+SR-EN::CLM-0047",
+   "report": "CPN-2024-OR+SR-EN",
+   "section": "Materiality and Sustainable Development Strategy",
+   "page": 80,
+   "claim_type": "commitment",
+   "sdg_targets": "12.2, 12.6, 8.2, 8.3, 8.4",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 0,
+   "T_runs": [
+    0,
+    0,
+    0
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Extend",
+    "X2": "Unrelated",
+    "X3": "Unrelated"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 1,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.6,
+   "SMTE": 0.5,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "unsubstantiated",
+   "rationale": {
+    "S": "The claim names actions such as 'seizing new opportunities' and 'mitigating sustainability risks and impacts', but it does not specify a named programme, a specific location, or a defined scope.",
+    "M": "The claim is a plain statement with no indicators, numbers, or language of change.",
+    "T": "There is no time reference in the claim, making it impossible to determine any temporal aspect.",
+    "E": "The evidence provided is self-reported with figures and strategies but lacks detailed methods of data collection, sources, or external assurance."
+   },
+   "label_reason": {
+    "S1": "S1 mentions creating sustainable ecosystems, which is related to the topic of sustainable business development but does not address the specific claim about seizing opportunities and mitigating risks.",
+    "S2": "S2 discusses the commitment to ESG principles, which is related to the broader topic of sustainability but does not provide specific information about the claim.",
+    "X1": "X1 provides a figure listing the three key strategies, including 'seizing new opportunities and mitigating sustainability risks and impacts', which directly supports and extends the claim.",
+    "X2": "X2 is an index of sections in the report and does not provide content related to the specific claim.",
+    "X3": "X3 discusses sustainability management in the environment section but does not relate to the specific strategies mentioned in the claim."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0048",
+   "uid": "CPN-2024-OR+SR-EN::CLM-0048",
+   "report": "CPN-2024-OR+SR-EN",
+   "section": "Sustainability Management",
+   "page": 1231,
+   "claim_type": "achievement",
+   "sdg_targets": "11.6, 12.5",
+   "retrieval_flags": [
+    "No other material in section 'Sustainability Management' met the similarity threshold (0.35)."
+   ],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 2,
+   "S_runs": [
+    2,
+    2,
+    2
+   ],
+   "M": 2,
+   "M_runs": [
+    2,
+    2,
+    2
+   ],
+   "T": 1,
+   "T_runs": [
+    1,
+    1,
+    1
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    0
+   ],
+   "labels": {
+    "S1": "None",
+    "S2": "None",
+    "X1": "Redundant",
+    "X2": "Related",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.2,
+   "SMTE": 1.5,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim names an action (Drive & Drop Recycling Station) and provides a defined scope (available at 20 projects), but it does not specify a named programme or a specific target area.",
+    "M": "The claim includes a quantifiable element (20 projects), but it lacks a baseline or target for comparison.",
+    "T": "The claim implies that the stations are currently available but does not provide a specific time reference or period.",
+    "E": "The evidence pack provides a passage that repeats the claim but lacks any method of data collection, source, or standard, making it self-reported without further substantiation."
+   },
+   "label_reason": {
+    "S1": "The slot is empty.",
+    "S2": "The slot is empty.",
+    "X1": "The passage repeats the claim verbatim without adding any new information or context.",
+    "X2": "The passage discusses a different recycling initiative (ThinkDee stations) and does not address the Drive & Drop Recycling Station specifically.",
+    "X3": "The passage provides data on various recycling initiatives but does not specifically mention the Drive & Drop Recycling Station."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0049",
+   "uid": "CPN-2024-OR+SR-EN::CLM-0049",
+   "report": "CPN-2024-OR+SR-EN",
+   "section": "Sustainability Management: Social",
+   "page": 143,
+   "claim_type": "commitment",
+   "sdg_targets": "12.2, 12.5, 12.6, 17.16, 17.17, 7.3, 7.a",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 2,
+   "S_runs": [
+    2,
+    2,
+    2
+   ],
+   "M": 1,
+   "M_runs": [
+    1,
+    1,
+    1
+   ],
+   "T": 0,
+   "T_runs": [
+    0,
+    0,
+    0
+   ],
+   "E": 1,
+   "E_runs": [
+    2,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Redundant",
+    "S2": "Related",
+    "X1": "Extend",
+    "X2": "Related",
+    "X3": "Extend"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 2,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.2,
+   "SMTE": 1.0,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim names the action (reduce energy consumption and divert waste from landfills) and a named programme (Green Partnership), but it does not specify a target area or defined scope.",
+    "M": "The claim uses language of change ('reduce' and 'divert') but does not provide any numerical indicators or comparators.",
+    "T": "The claim does not mention any time reference, making it impossible to determine when the actions are to be completed.",
+    "E": "The passages provide self-reported information about the Green Partnership and related activities, but there is no mention of data collection methods, sources, or external assurance."
+   },
+   "label_reason": {
+    "S1": "S1 repeats the claim without adding any new information or details.",
+    "S2": "S2 discusses plans to enhance quality of life and align with green building standards, which is related to sustainability but not directly to the Green Partnership claim.",
+    "X1": "X1 provides additional information about the Green Partnership, including collaboration with tenants and the Department of Climate Change and Environment, which supports the claim.",
+    "X2": "X2 discusses other sustainability initiatives related to waste management and circular economy but does not directly address the Green Partnership claim.",
+    "X3": "X3 extends the claim by providing details about the number of partner brands and stores involved in the Green Partnership and the specific goal of reducing greenhouse gas emissions."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0050",
+   "uid": "CPN-2024-OR+SR-EN::CLM-0050",
+   "report": "CPN-2024-OR+SR-EN",
+   "section": "Sustainability Management: Social",
+   "page": 144,
+   "claim_type": "alignment",
+   "sdg_targets": "12.4, 12.5, 12.6, 3.9, 9.1, 9.4",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 0,
+   "T_runs": [
+    0,
+    0,
+    0
+   ],
+   "E": 2,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "labels": {
+    "S1": "Redundant",
+    "S2": "Related",
+    "X1": "Redundant",
+    "X2": "Related",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.6,
+   "SMTE": 0.75,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "unsubstantiated",
+   "rationale": {
+    "S": "The claim names specific actions related to tenant services and compliance with ISO standards, but it does not specify a named program, a specific location, or a defined scope.",
+    "M": "The claim is a plain statement without any quantification or language of change.",
+    "T": "There is no reference to time or period in the claim.",
+    "E": "The claim mentions compliance with specific ISO standards (ISO 9001, ISO 14001, ISO 45001), which are recognized standards, but there is no mention of external assurance or certification."
+   },
+   "label_reason": {
+    "S1": "S1 repeats the claim word for word, adding no new information.",
+    "S2": "S2 discusses health and safety measures but does not specifically address ISO compliance.",
+    "X1": "X1 repeats the claim about ISO compliance without adding new information.",
+    "X2": "X2 discusses the use of ISO 45001 as a framework but does not provide specific evidence of compliance for tenant services.",
+    "X3": "X3 discusses quality of life improvements for tenant staff but does not address ISO compliance."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0051",
+   "uid": "CPN-2024-OR+SR-EN::CLM-0051",
+   "report": "CPN-2024-OR+SR-EN",
+   "section": "Sustainability Management: Social",
+   "page": 144,
+   "claim_type": "commitment",
+   "sdg_targets": "11.3, 11.b, 16.6, 16.7",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 2,
+   "S_runs": [
+    2,
+    2,
+    2
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 0,
+   "T_runs": [
+    0,
+    0,
+    0
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Redundant",
+    "S2": "Related",
+    "X1": "Related",
+    "X2": "Extend",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 1,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.8,
+   "SMTE": 0.75,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "unsubstantiated",
+   "rationale": {
+    "S": "The claim specifies the action of developing a feedback collection process and names the program 'Tenant feedback channels', but it does not define a specific target area or scope.",
+    "M": "The claim lacks any quantifiable indicators or language of change, making it a plain statement.",
+    "T": "There is no reference to time or period in the claim, making it impossible to determine when the action is to be undertaken or completed.",
+    "E": "The evidence provides a self-reported description of the feedback process but lacks details on the method of data collection, source, or external assurance."
+   },
+   "label_reason": {
+    "S1": "The passage repeats the claim verbatim without adding any new information or verifiable facts.",
+    "S2": "The passage discusses plans to enhance tenant staff quality of life, which is related to tenant engagement but does not address the feedback collection process specifically.",
+    "X1": "The passage mentions tenant development and engagement, which is related to the claim's context but does not specifically address the feedback collection process.",
+    "X2": "The passage provides additional context on how tenant feedback is integrated with other inputs to improve services, extending the claim by detailing the process.",
+    "X3": "The passage discusses the benefits of supporting tenant development and growth, which is related to the broader context of tenant engagement but not specifically to the feedback process."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0052",
+   "uid": "CPN-2024-OR+SR-EN::CLM-0052",
+   "report": "CPN-2024-OR+SR-EN",
+   "section": "Sustainability Management: Social",
+   "page": 144,
+   "claim_type": "commitment",
+   "sdg_targets": "4.3, 4.4, 8.2, 8.3, 8.6, 8.b",
+   "retrieval_flags": [
+    "Only 1 of 2 target same-section references met the similarity threshold (0.35)."
+   ],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 2,
+   "S_runs": [
+    2,
+    2,
+    2
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 1,
+   "T_runs": [
+    1,
+    1,
+    1
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Redundant",
+    "S2": "None",
+    "X1": "Redundant",
+    "X2": "Extend",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": false,
+    "X2": true,
+    "X3": true
+   },
+   "C": 1,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.0,
+   "SMTE": 1.0,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim names a specific action (evolving a training program) and a named program (Central Pattana LEAD), but it does not specify a target area or defined scope.",
+    "M": "The claim is a plain statement with no quantification or language of change.",
+    "T": "The claim uses the word 'continue,' which implies ongoing action but does not specify any particular time frame.",
+    "E": "The evidence provides self-reported figures and outcomes related to the program but lacks details on data collection methods or external validation."
+   },
+   "label_reason": {
+    "S1": "S1 repeats the claim verbatim without adding any new information.",
+    "S2": "No passage was retrieved for S2.",
+    "X1": "X1 mentions the LEAD program and another program but does not provide additional details specific to the claim.",
+    "X2": "X2 provides specific data on participation, outcomes, and achievements of the LEAD program, extending the claim with verifiable facts.",
+    "X3": "X3 discusses general community and business development initiatives but does not specifically address the LEAD program."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0053",
+   "uid": "CPN-2024-OR+SR-EN::CLM-0053",
+   "report": "CPN-2024-OR+SR-EN",
+   "section": "Sustainability Management: Social",
+   "page": 144,
+   "claim_type": "commitment",
+   "sdg_targets": "16.6, 16.7, 16.b, 3.4, 3.8, 3.d, 8.3, 8.5, 8.8",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    1
+   ],
+   "T": 0,
+   "T_runs": [
+    1,
+    0,
+    0
+   ],
+   "E": 2,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "labels": {
+    "S1": "Redundant",
+    "S2": "Related",
+    "X1": "Extend",
+    "X2": "Extend",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": false,
+    "X3": true
+   },
+   "C": 2,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.0,
+   "SMTE": 0.75,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "unsubstantiated",
+   "rationale": {
+    "S": "The claim names the action of leveraging findings from audits and assessments to ensure quality of life, but it does not specify a named programme, a specific location, or a defined scope.",
+    "M": "The claim is a plain statement with no quantifiable indicators or expressions of change.",
+    "T": "The claim lacks any reference to time, whether specific or vague.",
+    "E": "The evidence discloses methods such as operational audits and human rights risk assessments, and mentions alignment with international frameworks, providing a basis for verification."
+   },
+   "label_reason": {
+    "S1": "S1 repeats the claim text without adding any new information or verifiable facts.",
+    "S2": "S2 discusses developing plans to enhance quality of life, which is related to the claim but does not directly address the audits or assessments mentioned.",
+    "X1": "X1 provides detailed information on how the findings from audits and assessments are used, including specific actions and measures, thus extending the claim.",
+    "X2": "X2 discusses human rights and due diligence, which are related to the claim's context but do not directly extend the specific claim about leveraging audits and assessments.",
+    "X3": "X3 discusses human rights and workplace equality, which are related topics but do not directly address the specifics of the claim."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0054",
+   "uid": "CPN-2024-OR+SR-EN::CLM-0054",
+   "report": "CPN-2024-OR+SR-EN",
+   "section": "Sustainability Management: Social",
+   "page": 144,
+   "claim_type": "commitment",
+   "sdg_targets": "11.1, 11.3, 11.b, 3.8, 3.9",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 1,
+   "M_runs": [
+    1,
+    1,
+    1
+   ],
+   "T": 0,
+   "T_runs": [
+    0,
+    0,
+    0
+   ],
+   "E": 2,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "labels": {
+    "S1": "Extend",
+    "S2": "Redundant",
+    "X1": "Extend",
+    "X2": "Related",
+    "X3": "Unrelated"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": false
+   },
+   "C": 1,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.0,
+   "SMTE": 1.0,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim names the action of developing plans to enhance the quality of life for tenant staff, covering specific areas such as health and safety, living conditions, and accessibility, but it does not specify a named programme, a specific site, or a defined scope.",
+    "M": "The claim uses the word 'enhance,' which indicates a language of change, but it does not provide any numerical indicators or specific metrics.",
+    "T": "The claim does not provide any time reference or period for when the plans will be developed or implemented.",
+    "E": "The evidence includes details on specific actions such as providing on-site medical rooms and installing air filtration systems, which align with standards that exceed legal requirements, indicating a method of data collection and conformity with standards."
+   },
+   "label_reason": {
+    "S1": "S1 provides specific actions related to health and safety, such as medical rooms and air filtration systems, which support and extend the claim.",
+    "S2": "S2 repeats the claim about developing plans for office tenant employees aligning with green building standards without adding new information.",
+    "X1": "X1 provides detailed actions and plans for enhancing tenant staff's quality of life, including health and safety measures, living conditions, and accessibility, which extend the claim.",
+    "X2": "X2 mentions tenant development and engagement, which is related to the topic but does not specifically address the claim's content.",
+    "X3": "X3 discusses tenant relationships and product offerings, which are unrelated to the claim about enhancing tenant staff's quality of life."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0056",
+   "uid": "CPN-2024-OR+SR-EN::CLM-0056",
+   "report": "CPN-2024-OR+SR-EN",
+   "section": "Social",
+   "page": 1231,
+   "claim_type": "achievement",
+   "sdg_targets": "11.6, 12.5",
+   "retrieval_flags": [
+    "No other material in section 'Social' met the similarity threshold (0.35)."
+   ],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 2,
+   "S_runs": [
+    2,
+    2,
+    2
+   ],
+   "M": 2,
+   "M_runs": [
+    2,
+    2,
+    2
+   ],
+   "T": 0,
+   "T_runs": [
+    0,
+    0,
+    0
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    0,
+    1
+   ],
+   "labels": {
+    "S1": "None",
+    "S2": "None",
+    "X1": "Redundant",
+    "X2": "Unrelated",
+    "X3": "Unrelated"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": false,
+    "X3": false
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.0,
+   "SMTE": 1.25,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim names the action (Drive & Drop Recycling Station) and provides a defined scope (available at 20 projects), but it does not specify a named programme or a specific target area.",
+    "M": "The claim includes a number (20 projects), but there is no comparator such as a baseline or target.",
+    "T": "The claim does not provide any time reference or period.",
+    "E": "The evidence includes a passage that repeats the claim, but there is no method of data collection, source, or standard mentioned."
+   },
+   "label_reason": {
+    "S1": "The slot is empty.",
+    "S2": "The slot is empty.",
+    "X1": "The passage repeats the claim verbatim without adding any new information.",
+    "X2": "The passage discusses a different recycling initiative (ThinkDee stations) and does not address the Drive & Drop Recycling Station.",
+    "X3": "The passage provides data on various recycling initiatives, but none specifically mention the Drive & Drop Recycling Station."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0057",
+   "uid": "CPN-2024-OR+SR-EN::CLM-0057",
+   "report": "CPN-2024-OR+SR-EN",
+   "section": "Sustainability Management: Social",
+   "page": 143,
+   "claim_type": "commitment",
+   "sdg_targets": "12.2, 12.5, 12.6, 17.16, 17.17, 7.3, 7.a",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 2,
+   "S_runs": [
+    2,
+    2,
+    2
+   ],
+   "M": 1,
+   "M_runs": [
+    1,
+    1,
+    1
+   ],
+   "T": 0,
+   "T_runs": [
+    0,
+    0,
+    0
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Redundant",
+    "S2": "Related",
+    "X1": "Extend",
+    "X2": "Related",
+    "X3": "Extend"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 2,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.2,
+   "SMTE": 1.0,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim names the action of building partnerships for sustainability and the named programme 'Green Partnership', but it does not specify a target area or defined scope.",
+    "M": "The claim uses language of change ('reduce energy consumption and divert waste') but does not provide any numerical indicators.",
+    "T": "The claim does not provide any time reference or period for the actions described.",
+    "E": "The passages provide self-reported information about the Green Partnership project and related activities, but there is no method of data collection, source, or external assurance mentioned."
+   },
+   "label_reason": {
+    "S1": "S1 repeats the claim text without adding any new information.",
+    "S2": "S2 discusses enhancing the quality of life and aligning with green building standards, which is related to sustainability but not directly about the Green Partnership project.",
+    "X1": "X1 provides additional information about the Green Partnership project, including collaboration details and involvement of the Department of Climate Change and Environment.",
+    "X2": "X2 discusses partnerships in waste management and the circular economy, which are related to sustainability but not specifically about the Green Partnership project.",
+    "X3": "X3 extends the claim by providing details about the scale of the Green Partnership initiative, including the number of partner brands and stores involved and the target for reducing greenhouse gas emissions."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0058",
+   "uid": "CPN-2024-OR+SR-EN::CLM-0058",
+   "report": "CPN-2024-OR+SR-EN",
+   "section": "Sustainability Management: Social",
+   "page": 144,
+   "claim_type": "alignment",
+   "sdg_targets": "12.4, 12.5, 12.6, 8.3, 8.4, 8.8, 9.1, 9.4",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 1,
+   "T_runs": [
+    1,
+    1,
+    0
+   ],
+   "E": 2,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "labels": {
+    "S1": "Redundant",
+    "S2": "Related",
+    "X1": "Redundant",
+    "X2": "Related",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.8,
+   "SMTE": 1.0,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim names specific actions (alignment with ISO standards) but does not specify a program, site, or defined scope.",
+    "M": "The claim is a plain statement without any quantification or language of change.",
+    "T": "The claim states that processes are aligned with standards but does not provide any specific time reference or date.",
+    "E": "The claim mentions specific ISO standards (ISO 9001, ISO 14001, ISO 45001), which are recognized standards, providing a level of substantiation."
+   },
+   "label_reason": {
+    "S1": "The passage repeats the claim word for word, adding no new information.",
+    "S2": "The passage discusses health and safety measures and quality of life improvements, related to the claim's topic but not directly addressing the ISO standards.",
+    "X1": "The passage repeats the claim about ISO standards without adding new information.",
+    "X2": "The passage discusses the adaptation of ISO 45001 and related safety management approaches, which is related to the claim but does not directly extend it.",
+    "X3": "The passage addresses quality of life and health and safety measures, related to the claim's context but not the specific ISO standards mentioned."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0059",
+   "uid": "CPN-2024-OR+SR-EN::CLM-0059",
+   "report": "CPN-2024-OR+SR-EN",
+   "section": "Sustainability Management: Social",
+   "page": 144,
+   "claim_type": "commitment",
+   "sdg_targets": "11.3, 11.b, 16.6, 16.7",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 2,
+   "S_runs": [
+    2,
+    2,
+    2
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 0,
+   "T_runs": [
+    0,
+    0,
+    0
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Redundant",
+    "S2": "Related",
+    "X1": "Related",
+    "X2": "Extend",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 1,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.8,
+   "SMTE": 0.75,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "unsubstantiated",
+   "rationale": {
+    "S": "The claim specifies the action of developing a feedback collection process and names the program 'Tenant feedback channels', but it does not define a specific target area or scope.",
+    "M": "The claim does not include any quantifiable indicators or language of change; it is a plain statement about developing a process.",
+    "T": "There is no reference to any time frame or period in the claim.",
+    "E": "The evidence provides a self-reported description of the feedback collection process but lacks details on the method of data collection, sources, or external assurance."
+   },
+   "label_reason": {
+    "S1": "The passage repeats the claim verbatim without adding any new information.",
+    "S2": "The passage discusses plans to enhance tenant staff quality of life, which is related to tenant engagement but does not address the specific feedback process.",
+    "X1": "The passage mentions tenant development and engagement, which is related to the claim's context but does not provide specific details about the feedback process.",
+    "X2": "The passage provides additional context about the feedback process, mentioning its integration with other systems and its role in improving services based on tenant input.",
+    "X3": "The passage discusses tenant development and growth, which is related to the broader topic of tenant engagement but not specifically to the feedback process."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0060",
+   "uid": "CPN-2024-OR+SR-EN::CLM-0060",
+   "report": "CPN-2024-OR+SR-EN",
+   "section": "Sustainability Management: Social",
+   "page": 144,
+   "claim_type": "commitment",
+   "sdg_targets": "4.3, 4.4, 8.2, 8.3, 8.6, 8.b",
+   "retrieval_flags": [
+    "Only 1 of 2 target same-section references met the similarity threshold (0.35)."
+   ],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 2,
+   "S_runs": [
+    2,
+    2,
+    2
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 1,
+   "T_runs": [
+    1,
+    1,
+    1
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Redundant",
+    "S2": "None",
+    "X1": "Redundant",
+    "X2": "Extend",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": false,
+    "X2": true,
+    "X3": true
+   },
+   "C": 1,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.0,
+   "SMTE": 1.0,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim names a specific program, the Central Pattana LEAD, but does not specify a target area or defined scope for the initiative.",
+    "M": "The claim is a plain statement with no quantification or language of change.",
+    "T": "The claim uses the word 'continue,' indicating an ongoing action, but does not provide a specific time frame.",
+    "E": "The evidence provides figures and details about the program's participants and outcomes, but lacks information on data collection methods or external assurance."
+   },
+   "label_reason": {
+    "S1": "S1 repeats the claim without adding any new information.",
+    "S2": "No passage was retrieved for S2.",
+    "X1": "X1 repeats the claim and mentions another program but adds no new information about the LEAD program itself.",
+    "X2": "X2 provides additional details about the LEAD program, including participant numbers, outcomes, and specific achievements.",
+    "X3": "X3 discusses general company initiatives related to community and entrepreneurship but does not specifically address the LEAD program."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0061",
+   "uid": "CPN-2024-OR+SR-EN::CLM-0061",
+   "report": "CPN-2024-OR+SR-EN",
+   "section": "Sustainability Management: Social",
+   "page": 144,
+   "claim_type": "commitment",
+   "sdg_targets": "10.2, 10.3, 16.6, 16.7, 16.b, 8.3, 8.5, 8.8",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 1,
+   "T_runs": [
+    1,
+    1,
+    0
+   ],
+   "E": 2,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "labels": {
+    "S1": "Redundant",
+    "S2": "Related",
+    "X1": "Extend",
+    "X2": "Related",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": false,
+    "X3": true
+   },
+   "C": 1,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.0,
+   "SMTE": 1.0,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim names the action of ensuring quality of life for tenant staff and office tenant employees by leveraging findings from audits and assessments, but it does not specify a named program, specific site, or defined scope.",
+    "M": "The claim does not include any quantifiable indicators or language of change.",
+    "T": "The claim mentions 'annual operational audits' and 'human rights risk assessments,' suggesting ongoing activities but does not provide specific time points.",
+    "E": "The evidence includes details on the method of data collection such as operational audits and human rights risk assessments, and mentions alignment with international frameworks, which indicates a method of data collection and analysis."
+   },
+   "label_reason": {
+    "S1": "S1 repeats the claim word for word without adding any new information.",
+    "S2": "S2 discusses plans to enhance quality of life, which is related to the claim but does not address the specific action of leveraging audit findings.",
+    "X1": "X1 provides detailed actions and measures that support the claim, such as health and safety measures, living conditions, and accessibility, which are verifiable facts.",
+    "X2": "X2 discusses broader human rights commitments and frameworks, which are related to the claim but do not specifically address the operational audits or risk assessments mentioned.",
+    "X3": "X3 discusses the broader topic of human rights and workplace equality, which is related to the claim but does not specifically address the claim's content."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0062",
+   "uid": "CPN-2024-OR+SR-EN::CLM-0062",
+   "report": "CPN-2024-OR+SR-EN",
+   "section": "Sustainability Management: Social",
+   "page": 144,
+   "claim_type": "commitment",
+   "sdg_targets": "11.6, 11.b, 3.8, 3.9",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 1,
+   "M_runs": [
+    1,
+    1,
+    1
+   ],
+   "T": 0,
+   "T_runs": [
+    0,
+    0,
+    0
+   ],
+   "E": 2,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "labels": {
+    "S1": "Redundant",
+    "S2": "Redundant",
+    "X1": "Extend",
+    "X2": "Related",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 1,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.0,
+   "SMTE": 1.0,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim names specific actions related to health and safety for tenant staff but does not specify a named program, a specific target area, or a defined scope.",
+    "M": "The claim uses the language of change ('enhance', 'exceed') but does not provide any numerical indicators or comparisons.",
+    "T": "The claim does not provide any time reference, either specific or vague.",
+    "E": "The evidence includes details on methods and standards, such as leveraging audits and risk assessments, and mentions compliance with ISO standards, which supports the claim's data collection and analysis."
+   },
+   "label_reason": {
+    "S1": "This passage repeats the claim's focus on enhancing tenant staff quality of life but adds no new information.",
+    "S2": "This passage repeats the claim's focus on aligning with green building standards without adding new details.",
+    "X1": "This passage provides additional details on the methods and standards used, such as leveraging audits and risk assessments, which support the claim.",
+    "X2": "This passage discusses air quality monitoring, which is related to the claim's focus on indoor air quality but does not directly address the specific actions in the claim.",
+    "X3": "This passage mentions standards and procedures related to tenant operations, which is related to the claim's topic but does not directly address the specific actions in the claim."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0063",
+   "uid": "CPN-2024-OR+SR-EN::CLM-0063",
+   "report": "CPN-2024-OR+SR-EN",
+   "section": "Sustainability Management: Social",
+   "page": 144,
+   "claim_type": "commitment",
+   "sdg_targets": "11.3, 11.6, 11.b, 3.4, 3.9, 9.1, 9.4",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 1,
+   "M_runs": [
+    1,
+    1,
+    1
+   ],
+   "T": 0,
+   "T_runs": [
+    0,
+    0,
+    0
+   ],
+   "E": 2,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "labels": {
+    "S1": "Redundant",
+    "S2": "Related",
+    "X1": "Extend",
+    "X2": "Related",
+    "X3": "Unrelated"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": false,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 1,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.0,
+   "SMTE": 1.0,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim names the action of developing plans to enhance the quality of life for office tenant employees and mentions alignment with green building standards, but it lacks a named programme, specific target area, or defined scope.",
+    "M": "The claim uses the term 'enhance,' which indicates a language of change, but it does not provide any numerical indicators or specific measures of change.",
+    "T": "The claim does not provide any time reference, making it impossible to determine when the plans will be developed or implemented.",
+    "E": "The evidence provides details on how the plans will be developed, including specific measures like indoor air quality and biophilic design, and mentions alignment with green building standards, which suggests a method of data collection or standard conformity."
+   },
+   "label_reason": {
+    "S1": "S1 repeats the claim about developing plans to enhance quality of life for tenant staff but adds no new information specific to office tenant employees or green building standards.",
+    "S2": "S2 repeats the claim with additional details on health and safety measures but does not specifically address office tenant employees or green building standards.",
+    "X1": "X1 provides additional details on the specific measures included in the plans, such as indoor air quality and biophilic design, aligning with green building standards.",
+    "X2": "X2 discusses activities and upgrades related to tenant well-being and building standards but does not directly address the specific claim about developing plans for office tenant employees.",
+    "X3": "X3 focuses on tenant relationships and service offerings, which are not directly related to the claim about enhancing quality of life through green building standards."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0065",
+   "uid": "CPN-2024-OR+SR-EN::CLM-0065",
+   "report": "CPN-2024-OR+SR-EN",
+   "section": "Sustainability Management: Economic and Governance",
+   "page": 168,
+   "claim_type": "policy",
+   "sdg_targets": "16.5, 16.6",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 0,
+   "T_runs": [
+    0,
+    0,
+    0
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Redundant",
+    "X2": "Related",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.4,
+   "SMTE": 0.5,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "unsubstantiated",
+   "rationale": {
+    "S": "The claim names the action of establishing corporate governance policies to ensure transparency, accountability, and fairness, but it does not specify a program, target area, or defined scope.",
+    "M": "The claim is a plain statement with no indicators or language of change, such as numbers or comparative terms.",
+    "T": "There is no time reference in the claim, such as a date or period, indicating when the governance policies were established or are to be implemented.",
+    "E": "The evidence mentions the adoption of international guidelines and internal handbooks, which suggests self-reported practices but lacks detailed methods or external assurance."
+   },
+   "label_reason": {
+    "S1": "The passage mentions a commitment to the UN Global Compact principles, which relates to governance but does not directly address the claim about specific governance policies.",
+    "S2": "This passage discusses risk reviews and monitoring, which is related to governance but does not directly substantiate the claim about the establishment of governance policies.",
+    "X1": "This passage repeats the claim almost verbatim, adding no new information or verifiable facts.",
+    "X2": "The passage discusses the importance of corporate governance and mentions policies and practices, but it does not provide specific details or evidence related to the claim.",
+    "X3": "The passage title 'Corporate Governance Policy' indicates relevance to the claim but lacks additional detail or evidence supporting the specific claim."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0066",
+   "uid": "CPN-2024-OR+SR-EN::CLM-0066",
+   "report": "CPN-2024-OR+SR-EN",
+   "section": "Sustainability Management: Economic and Governance",
+   "page": 168,
+   "claim_type": "commitment",
+   "sdg_targets": "12.6, 16.10, 16.5, 16.6, 16.b, 8.7, 8.8",
+   "retrieval_flags": [
+    "Only 1 of 2 target same-section references met the similarity threshold (0.35)."
+   ],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 2,
+   "S_runs": [
+    2,
+    2,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 0,
+   "T_runs": [
+    0,
+    0,
+    0
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "None",
+    "X1": "Redundant",
+    "X2": "Related",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.6,
+   "SMTE": 0.75,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "unsubstantiated",
+   "rationale": {
+    "S": "The claim names the action of demonstrating commitment to the 10 Principles of the UN Global Compact and specifies the scope as being under the Central Group, but it does not name a specific programme.",
+    "M": "The claim is a plain statement with no indicators or language of change.",
+    "T": "There is no time reference in the claim.",
+    "E": "The evidence mentions alignment with international frameworks and oversight structures but does not provide details on data collection methods, sources, or external assurance."
+   },
+   "label_reason": {
+    "S1": "The passage discusses corporate governance policies, which are related to the claim's context of governance and compliance but do not directly address the UN Global Compact commitment.",
+    "S2": "No passage retrieved.",
+    "X1": "This passage repeats the claim almost verbatim without adding new information.",
+    "X2": "The passage discusses alignment with international frameworks, including the UNGC, but does not provide specific details about the claim's commitment demonstration.",
+    "X3": "The passage mentions policies aligned with the UNGC but does not provide specific information about the claim's demonstration of commitment."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0067",
+   "uid": "CPN-2024-OR+SR-EN::CLM-0067",
+   "report": "CPN-2024-OR+SR-EN",
+   "section": "Sustainability Management: Economic and Governance",
+   "page": 168,
+   "claim_type": "policy",
+   "sdg_targets": "16.6, 16.7",
+   "retrieval_flags": [
+    "Only 1 of 2 target same-section references met the similarity threshold (0.35)."
+   ],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 2,
+   "S_runs": [
+    2,
+    2,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 0,
+   "T_runs": [
+    0,
+    0,
+    0
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "None",
+    "X1": "Related",
+    "X2": "Related",
+    "X3": "Extend"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": false
+   },
+   "C": 1,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.8,
+   "SMTE": 0.75,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "unsubstantiated",
+   "rationale": {
+    "S": "The claim specifies the action of oversight through a sustainability structure and identifies the Audit and Governance Committee as the highest governing body, but it does not name a specific programme or project.",
+    "M": "The claim does not include any quantitative measures or language indicating change.",
+    "T": "There is no reference to a specific time or period in the claim.",
+    "E": "The passages provide some context on governance and oversight but do not detail methods of data collection or external assurance related to the claim."
+   },
+   "label_reason": {
+    "S1": "S1 discusses corporate governance policies but does not specifically address the oversight structure or the role of the Audit and Governance Committee.",
+    "S2": "No passage was retrieved for S2.",
+    "X1": "X1 mentions the Board's supervision under corporate governance principles, which is related to governance but does not specifically mention the Audit and Governance Committee.",
+    "X2": "X2 discusses the Board's role in corporate governance and sustainable development but does not specifically address the claim about the Audit and Governance Committee.",
+    "X3": "X3 provides additional detail about the committees involved in governance, including the Audit and Governance Committee, supporting the claim about oversight structure."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0068",
+   "uid": "CPN-2024-OR+SR-EN::CLM-0068",
+   "report": "CPN-2024-OR+SR-EN",
+   "section": "Sustainability Management: Economic and Governance",
+   "page": 168,
+   "claim_type": "target",
+   "sdg_targets": "16.3, 16.6, 16.7",
+   "retrieval_flags": [
+    "No other material in section 'Sustainability Management: Economic and Governance' met the similarity threshold (0.35)."
+   ],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 2,
+   "M_runs": [
+    2,
+    2,
+    2
+   ],
+   "T": 0,
+   "T_runs": [
+    0,
+    0,
+    0
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    0
+   ],
+   "labels": {
+    "S1": "None",
+    "S2": "None",
+    "X1": "Redundant",
+    "X2": "Unrelated",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.8,
+   "SMTE": 1.0,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim names the action of maintaining a 100% complaint resolution rate but does not specify a program, site, or defined scope.",
+    "M": "The claim includes a quantifiable target of 100% but lacks a baseline or comparator.",
+    "T": "The claim does not provide any time reference or period for achieving or maintaining the 100% resolution rate.",
+    "E": "The evidence provided is self-reported with figures but lacks details on the method of collection, source, or external assurance."
+   },
+   "label_reason": {
+    "S1": "No passage was retrieved for S1.",
+    "S2": "No passage was retrieved for S2.",
+    "X1": "The passage repeats the claim about maintaining a 100% complaint resolution rate without adding any new information.",
+    "X2": "This passage discusses employee engagement and productivity, which are unrelated to the complaint resolution claim.",
+    "X3": "This passage is related to complaints but focuses on product or service complaints affecting health and safety, not the general complaint resolution rate."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0069",
+   "uid": "CPN-2024-OR+SR-EN::CLM-0069",
+   "report": "CPN-2024-OR+SR-EN",
+   "section": "Sustainability Management: Economic and Governance",
+   "page": 168,
+   "claim_type": "commitment",
+   "sdg_targets": "16.6, 16.7, 16.a",
+   "retrieval_flags": [
+    "Only 1 of 2 target same-section references met the similarity threshold (0.35)."
+   ],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 1,
+   "T_runs": [
+    2,
+    1,
+    1
+   ],
+   "E": 0,
+   "E_runs": [
+    1,
+    0,
+    0
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "None",
+    "X1": "Related",
+    "X2": "Related",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.4,
+   "SMTE": 0.5,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "unsubstantiated",
+   "rationale": {
+    "S": "The claim specifies an action (conducting quarterly reviews and monitoring of key risks) but does not mention a named program, specific location, or defined scope.",
+    "M": "The claim does not provide any quantitative indicators or language of change.",
+    "T": "The claim mentions 'quarterly,' which implies regular intervals but does not specify any particular time frame or dates.",
+    "E": "None of the passages provide supporting information, sources, or methods for the claim about quarterly reviews and monitoring of key risks."
+   },
+   "label_reason": {
+    "S1": "The passage discusses corporate governance policies related to transparency and accountability, which is related to risk management but does not address the specific claim about quarterly reviews.",
+    "S2": "No passage retrieved.",
+    "X1": "The passage mentions an annual review of key risks, which is related to risk management but does not address the specific claim about quarterly reviews.",
+    "X2": "Similar to X1, it discusses an annual review of key risks, related to the topic but not the specific quarterly claim.",
+    "X3": "The passage discusses continuous monitoring by the Risk Management Committee, related to risk management but not specific to quarterly reviews."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0070",
+   "uid": "CPN-2024-OR+SR-EN::CLM-0070",
+   "report": "CPN-2024-OR+SR-EN",
+   "section": "Innovation Management",
+   "page": 169,
+   "claim_type": "commitment",
+   "sdg_targets": "12.5, 12.6, 8.2, 8.3, 9.2, 9.4, 9.5, 9.b",
+   "retrieval_flags": [
+    "Only 1 of 2 target same-section references met the similarity threshold (0.35)."
+   ],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 1,
+   "M_runs": [
+    1,
+    1,
+    1
+   ],
+   "T": 0,
+   "T_runs": [
+    0,
+    0,
+    0
+   ],
+   "E": 0,
+   "E_runs": [
+    0,
+    0,
+    0
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "None",
+    "X1": "Redundant",
+    "X2": "Related",
+    "X3": "Unrelated"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": false
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.4,
+   "SMTE": 0.5,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "unsubstantiated",
+   "rationale": {
+    "S": "The claim names the action of integrating innovation management and development but does not specify a named programme, specific target area, or defined scope.",
+    "M": "The claim uses language of change, such as 'reduce impacts' and 'improving products,' but does not provide any numerical indicators or benchmarks.",
+    "T": "The claim does not provide any time reference or period for when the actions are taking place or expected to be completed.",
+    "E": "The evidence provided does not include any method of data collection, source, standard, or external assurance related to the claim."
+   },
+   "label_reason": {
+    "S1": "The passage discusses collaboration with stakeholders for innovation, which is related to the claim's topic but does not provide specific details about the claim's content.",
+    "S2": "No passage was retrieved for this slot.",
+    "X1": "This passage repeats the claim almost verbatim, adding no new information or verifiable facts.",
+    "X2": "The passage discusses responsible operations and stakeholder engagement, which are related to the broader context of the claim but not its specific content.",
+    "X3": "The passage discusses a sustainable ecosystem strategy, which is not directly related to the claim about innovation management."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0071",
+   "uid": "CPN-2024-OR+SR-EN::CLM-0071",
+   "report": "CPN-2024-OR+SR-EN",
+   "section": "Innovation Management",
+   "page": 169,
+   "claim_type": "commitment",
+   "sdg_targets": "13.1, 13.2, 13.3, 7.2, 7.a, 9.2, 9.4, 9.5, 9.b",
+   "retrieval_flags": [
+    "Only 1 of 2 target same-section references met the similarity threshold (0.35)."
+   ],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 1,
+   "M_runs": [
+    1,
+    1,
+    0
+   ],
+   "T": 0,
+   "T_runs": [
+    0,
+    0,
+    0
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "None",
+    "X1": "Redundant",
+    "X2": "Related",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.6,
+   "SMTE": 0.75,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "unsubstantiated",
+   "rationale": {
+    "S": "The claim names the action of collaborating with stakeholders to source and scale innovations for net-zero emissions, but it does not specify a named programme, a specific target area, or a defined scope.",
+    "M": "The claim uses language of change ('contribute to achieving net-zero greenhouse gas emissions'), but it does not provide any numerical indicators or specific targets.",
+    "T": "The claim does not provide any time reference or period for the actions described.",
+    "E": "The evidence provided is self-reported and describes various initiatives and approaches, but it lacks detailed methods of data collection, external assurance, or specific standards applied to this claim's data."
+   },
+   "label_reason": {
+    "S1": "The passage discusses integrating innovation management to reduce impacts and improve processes, which is related to the claim's focus on innovation, but it does not provide specific details about the claim.",
+    "S2": "No passage was retrieved for S2.",
+    "X1": "The passage repeats the claim about collaborating with stakeholders to achieve net-zero emissions, without adding new information.",
+    "X2": "The passage discusses steps towards achieving net-zero emissions and stakeholder involvement, which is related to the claim but does not provide specific evidence for it.",
+    "X3": "The passage mentions strategies related to net-zero emissions and stakeholder collaboration, aligning with the claim's theme but lacking specific details about the claim."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0073",
+   "uid": "CPN-2024-OR+SR-EN::CLM-0073",
+   "report": "CPN-2024-OR+SR-EN",
+   "section": "Innovation Management",
+   "page": 169,
+   "claim_type": "target",
+   "sdg_targets": "4.3, 4.4, 5.5, 5.a, 8.3, 8.5",
+   "retrieval_flags": [
+    "No other material in section 'Innovation Management' met the similarity threshold (0.35)."
+   ],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 2,
+   "S_runs": [
+    2,
+    2,
+    2
+   ],
+   "M": 2,
+   "M_runs": [
+    2,
+    2,
+    2
+   ],
+   "T": 0,
+   "T_runs": [
+    0,
+    0,
+    0
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "None",
+    "S2": "None",
+    "X1": "Unrelated",
+    "X2": "Extend",
+    "X3": "Unrelated"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 1,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.2,
+   "SMTE": 1.25,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim specifies an action (participation in a program) and defines the scope (18.5% of the total workforce), but it does not name the program or specify a target area or site.",
+    "M": "The claim includes a quantifiable target (18.5% of the total workforce) but lacks a baseline or comparator.",
+    "T": "The claim does not provide any time reference or period for when the target is to be achieved.",
+    "E": "The evidence pack provides figures and mentions participation rates, but it lacks details on data collection methods, sources, or any external assurance."
+   },
+   "label_reason": {
+    "S1": "No passage retrieved for S1.",
+    "S2": "No passage retrieved for S2.",
+    "X1": "This passage discusses participation in an e-learning program, which is unrelated to the claim about a workforce participation target.",
+    "X2": "This passage provides additional information about the program, confirming the 18.5% workforce participation target.",
+    "X3": "This passage mentions employee participation in activities but does not relate to the specific claim about the 18.5% target."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0075",
+   "uid": "CPN-2024-OR+SR-EN::CLM-0075",
+   "report": "CPN-2024-OR+SR-EN",
+   "section": "Management Discussion and Analysis",
+   "page": 1573,
+   "claim_type": "commitment",
+   "sdg_targets": "13.2, 7.2, 7.3, 9.4, 9.b",
+   "retrieval_flags": [
+    "Only 1 of 2 target same-section references met the similarity threshold (0.35)."
+   ],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 1,
+   "M_runs": [
+    1,
+    1,
+    1
+   ],
+   "T": 0,
+   "T_runs": [
+    1,
+    0,
+    0
+   ],
+   "E": 2,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "None",
+    "X1": "Extend",
+    "X2": "Related",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 1,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.0,
+   "SMTE": 1.0,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim names the action of 'efficiency enhancement initiatives including solar rooftop installations' but does not specify a named program, a specific site, or a defined scope.",
+    "M": "The claim uses the word 'enhancement,' which implies change, but does not provide any numerical data or specific metrics.",
+    "T": "The claim does not provide any time reference, such as a specific date or period, for the initiatives mentioned.",
+    "E": "The evidence provides detailed figures and information about solar installations and energy efficiency measures, which supports the claim, but does not mention a method of data collection or external assurance."
+   },
+   "label_reason": {
+    "S1": "S1 discusses carbon reduction initiatives, which are related to efficiency and clean energy but do not specifically mention solar rooftop installations.",
+    "S2": "No passage was retrieved for S2.",
+    "X1": "X1 provides detailed data on solar PV installations, including capacity and coverage, which extends the claim by providing specific figures and context.",
+    "X2": "X2 lists energy efficiency measures and renewable energy initiatives, which are related to the claim but do not specifically address solar rooftop installations.",
+    "X3": "X3 discusses various energy efficiency and solar panel uses but does not specifically address solar rooftop installations as claimed."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0076",
+   "uid": "CPN-2024-OR+SR-EN::CLM-0076",
+   "report": "CPN-2024-OR+SR-EN",
+   "section": "Management Discussion and Analysis",
+   "page": 1579,
+   "claim_type": "achievement",
+   "sdg_targets": "11.3, 11.b, 12.6, 9.2, 9.4",
+   "retrieval_flags": [
+    "Only 1 of 2 target same-section references met the similarity threshold (0.35)."
+   ],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 2,
+   "S_runs": [
+    3,
+    2,
+    2
+   ],
+   "M": 2,
+   "M_runs": [
+    2,
+    2,
+    2
+   ],
+   "T": 3,
+   "T_runs": [
+    3,
+    3,
+    1
+   ],
+   "E": 2,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "labels": {
+    "S1": "Unrelated",
+    "S2": "None",
+    "X1": "Extend",
+    "X2": "Redundant",
+    "X3": "Extend"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 2,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 2.2,
+   "SMTE": 2.25,
+   "tier_SMTEC": "substantiated",
+   "tier_SMTE": "substantiated",
+   "rationale": {
+    "S": "The claim specifies the action of being recognized in the Dow Jones Best in Class Indices and provides a defined scope by naming the indices (DJSI World and DJSI Emerging Markets) and the sector (real estate), but it does not mention a specific program.",
+    "M": "The claim provides numbers indicating the company's ranking among 244 real estate companies and the number of consecutive years it has been recognized, but lacks a baseline or target for comparison.",
+    "T": "The claim specifies two time periods: seven consecutive years for DJSI World and eleven consecutive years for DJSI Emerging Markets, allowing for tracking over time.",
+    "E": "The evidence includes passages that confirm the claim and provide additional context, such as the highest score of 84, but there is no mention of external assurance or certification for this specific data."
+   },
+   "label_reason": {
+    "S1": "The passage discusses financial performance metrics unrelated to the Dow Jones Indices claim.",
+    "S2": "No passage was retrieved for this slot.",
+    "X1": "This passage confirms the claim and adds the detail of achieving the highest score of 84.",
+    "X2": "This passage repeats the claim almost verbatim without adding new information.",
+    "X3": "This passage confirms the claim and provides additional context about other recognitions and ratings, such as the S&P Global CSA Score and FTSE4Good index inclusion."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0077",
+   "uid": "CPN-2024-OR+SR-EN::CLM-0077",
+   "report": "CPN-2024-OR+SR-EN",
+   "section": "Management Discussion and Analysis",
+   "page": 1580,
+   "claim_type": "achievement",
+   "sdg_targets": "11.2, 11.3, 11.6, 11.b, 13.2, 7.2, 7.3",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 2,
+   "S_runs": [
+    2,
+    2,
+    2
+   ],
+   "M": 2,
+   "M_runs": [
+    3,
+    2,
+    2
+   ],
+   "T": 1,
+   "T_runs": [
+    2,
+    1,
+    1
+   ],
+   "E": 2,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Redundant",
+    "X2": "Extend",
+    "X3": "Redundant"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 1,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.6,
+   "SMTE": 1.75,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim names the action (carbon reduction) and a specific target (17% reduction) but does not specify a named program or a defined scope.",
+    "M": "The claim provides a quantified target of 17% reduction but lacks a baseline or comparator to fully contextualize the percentage.",
+    "T": "The claim states an achievement but does not provide a specific time reference for when this was achieved.",
+    "E": "The evidence includes references to the Net Zero Pathway and ISO 14064-1, indicating a framework for emissions reduction, but does not mention external assurance specific to the claim's data."
+   },
+   "label_reason": {
+    "S1": "Discusses the Green Partnership initiative related to emissions reduction but does not directly support the specific claim of surpassing the 17% target.",
+    "S2": "Mentions solar rooftop installations as part of efficiency enhancements but does not directly address the 17% carbon reduction target.",
+    "X1": "Repeats the claim that the company surpassed the 17% carbon reduction target without adding new verifiable information.",
+    "X2": "Provides details on the Net Zero Pathway and the use of ISO 14064-1, which supports the claim by detailing the framework for emissions reduction.",
+    "X3": "Restates the claim about exceeding the 17% target without providing additional information."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0078",
+   "uid": "CPN-2024-OR+SR-EN::CLM-0078",
+   "report": "CPN-2024-OR+SR-EN",
+   "section": "Management Discussion and Analysis",
+   "page": 1580,
+   "claim_type": "commitment",
+   "sdg_targets": "12.5, 12.6, 13.2, 17.16, 17.17",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 3,
+   "S_runs": [
+    3,
+    3,
+    3
+   ],
+   "M": 2,
+   "M_runs": [
+    2,
+    2,
+    2
+   ],
+   "T": 1,
+   "T_runs": [
+    1,
+    1,
+    1
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Unrelated",
+    "X1": "Redundant",
+    "X2": "Related",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": false
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.4,
+   "SMTE": 1.75,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim specifies the action (reducing greenhouse gas emissions), the named programme (Green Partnership initiative), and the defined scope (165 partner brands and 2,250 stores).",
+    "M": "The claim includes a quantified target of reducing emissions by over 700 tons of CO2 equivalent per year, but lacks a baseline or comparator.",
+    "T": "The claim states an ongoing or annual target ('per year') but does not specify a start or end date.",
+    "E": "The claim is self-reported with figures but lacks a method of data collection, source, or external assurance."
+   },
+   "label_reason": {
+    "S1": "Discusses carbon reduction targets and initiatives but does not specifically address the Green Partnership initiative or its emission reduction target.",
+    "S2": "Focuses on supporting the local economy and community-oriented activities, not on greenhouse gas emissions or the Green Partnership initiative.",
+    "X1": "Repeats the claim about the Green Partnership initiative and its emission reduction target without adding new information.",
+    "X2": "Mentions the Green Partnership project and its goals but does not provide specific details about the emission reduction target.",
+    "X3": "Addresses the company's overall carbon reduction efforts but does not specifically mention the Green Partnership initiative or its target."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0079",
+   "uid": "CPN-2024-OR+SR-EN::CLM-0079",
+   "report": "CPN-2024-OR+SR-EN",
+   "section": "Management Discussion and Analysis",
+   "page": 1580,
+   "claim_type": "commitment",
+   "sdg_targets": "11.3, 11.a, 8.1, 8.2, 8.3",
+   "retrieval_flags": [],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    2,
+    1,
+    1
+   ],
+   "M": 2,
+   "M_runs": [
+    2,
+    2,
+    2
+   ],
+   "T": 1,
+   "T_runs": [
+    1,
+    1,
+    1
+   ],
+   "E": 2,
+   "E_runs": [
+    2,
+    2,
+    1
+   ],
+   "labels": {
+    "S1": "Unrelated",
+    "S2": "Unrelated",
+    "X1": "Extend",
+    "X2": "Extend",
+    "X3": "Extend"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 1,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.4,
+   "SMTE": 1.5,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim names the action of supporting the local economy through community-oriented marketing activities but does not specify a named program or a specific target area or site.",
+    "M": "The claim provides quantifiable data: 'over 2,700 community-oriented marketing activities annually' and 'generating over Bt 3.5 bn in income for local communities each year', but lacks a baseline or target for comparison.",
+    "T": "The claim uses the term 'annually', indicating an ongoing or regular activity, but does not specify a particular time frame or period.",
+    "E": "The evidence includes data on community revenue and specific activities, indicating a method of data collection and reporting scope, but lacks external assurance or certification."
+   },
+   "label_reason": {
+    "S1": "This passage discusses the company's financial performance, which is unrelated to the claim about community-oriented marketing activities.",
+    "S2": "This passage is about the Green Partnership initiative and greenhouse gas emissions, not related to the claim about supporting the local economy through marketing activities.",
+    "X1": "This passage provides specific figures on community revenue generated from marketing activities, which supports and extends the claim.",
+    "X2": "This passage details the types and number of community-oriented marketing events, supporting the claim with specific information.",
+    "X3": "This passage provides data on community revenue and the number of projects, which corroborates the claim's figures and scope."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0080",
+   "uid": "CPN-2024-OR+SR-EN::CLM-0080",
+   "report": "CPN-2024-OR+SR-EN",
+   "section": "Corporate Governance Policy",
+   "page": 1685,
+   "claim_type": "policy",
+   "sdg_targets": "16.5, 16.6, 16.7",
+   "retrieval_flags": [
+    "Only 1 of 2 target same-section references met the similarity threshold (0.35)."
+   ],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 3,
+   "S_runs": [
+    3,
+    3,
+    3
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 1,
+   "T_runs": [
+    1,
+    1,
+    0
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "None",
+    "X1": "Redundant",
+    "X2": "Related",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.0,
+   "SMTE": 1.25,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim specifies the action (stipulating corporate governance policies, a code of conduct, and guidelines), the named programme ('Code of Conduct and Corporate Governance Principles' handbook), and the scope (the Board's stipulation).",
+    "M": "The claim is a plain statement with no indicators or language of change, and it lacks any quantification.",
+    "T": "The claim indicates that something has been done ('stipulated') but does not provide a specific date or time period.",
+    "E": "The evidence provided is self-reported and mentions regular monitoring and review, but it lacks details on the method of data collection or external assurance."
+   },
+   "label_reason": {
+    "S1": "The passage discusses monitoring and assessment related to corporate governance but does not address the specific claim about the Handbook.",
+    "S2": "No passage was retrieved for S2.",
+    "X1": "This passage repeats the claim almost verbatim, adding no new information or verifiable facts.",
+    "X2": "The passage mentions monitoring and review of guidelines but does not directly address the specific claim about the Handbook's stipulation.",
+    "X3": "This passage discusses the importance of corporate governance and the Handbook but does not provide additional details specific to the claim."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0081",
+   "uid": "CPN-2024-OR+SR-EN::CLM-0081",
+   "report": "CPN-2024-OR+SR-EN",
+   "section": "Corporate Governance Policy",
+   "page": 1685,
+   "claim_type": "commitment",
+   "sdg_targets": "16.5, 16.6, 16.7",
+   "retrieval_flags": [
+    "Only 1 of 2 target same-section references met the similarity threshold (0.35)."
+   ],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 1,
+   "T_runs": [
+    1,
+    1,
+    1
+   ],
+   "E": 2,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "None",
+    "X1": "Redundant",
+    "X2": "Extend",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": false
+   },
+   "C": 1,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.0,
+   "SMTE": 1.0,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim specifies the action of monitoring and assessing the performance of the Board of Directors and personnel, but it does not mention a named programme, specific place, or defined scope.",
+    "M": "The claim is a plain statement with no indicators or language of change, such as numbers or comparators.",
+    "T": "The claim uses the word 'regularly,' which implies an ongoing process but does not provide a specific time frame or date.",
+    "E": "The evidence provides details on the methods of monitoring and assessment, such as the 'Code of Conduct Speedy Quiz' and Board meetings, but there is no mention of external assurance or certification."
+   },
+   "label_reason": {
+    "S1": "The passage discusses the corporate governance policies and handbook, which are related to the claim but do not address the specific monitoring and assessment activities mentioned in the claim.",
+    "S2": "No passage retrieved.",
+    "X1": "This passage repeats the claim almost verbatim without adding any new information or verifiable facts.",
+    "X2": "This passage provides additional information on the methods of monitoring and assessment, including the 'Code of Conduct Speedy Quiz' and participation rates, which support the claim.",
+    "X3": "The passage discusses monitoring activities and meetings, which are related to corporate governance but do not directly address the specific claim about monitoring and assessing performance for compliance."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0082",
+   "uid": "CPN-2024-OR+SR-EN::CLM-0082",
+   "report": "CPN-2024-OR+SR-EN",
+   "section": "Code of Business Ethics",
+   "page": 193,
+   "claim_type": "alignment",
+   "sdg_targets": "16.5, 16.6, 17.14, 17.16, 17.17",
+   "retrieval_flags": [
+    "Only 1 of 2 target same-section references met the similarity threshold (0.35)."
+   ],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 3,
+   "S_runs": [
+    3,
+    3,
+    3
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 0,
+   "T_runs": [
+    0,
+    0,
+    0
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "None",
+    "X1": "Redundant",
+    "X2": "Related",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.8,
+   "SMTE": 1.0,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim is specific as it names the action (compliance with corporate governance principles), the named programme (Central Pattana’s Handbook), and a defined scope (compliance with various international and domestic standards).",
+    "M": "The claim does not provide any quantifiable metrics or indicators; it is a plain statement of compliance.",
+    "T": "The claim does not mention any specific time frame or period for the compliance.",
+    "E": "The claim mentions compliance with several standards but does not provide specific details on the method of verification or external assurance."
+   },
+   "label_reason": {
+    "S1": "The passage mentions compliance with regulations but does not specifically address the corporate governance principles or standards listed in the claim.",
+    "S2": "No passage was retrieved for S2.",
+    "X1": "This passage repeats the claim almost verbatim, adding no new information beyond what is already stated in the claim.",
+    "X2": "The passage discusses corporate governance policies and their review but does not specifically address the compliance with the standards listed in the claim.",
+    "X3": "The passage is about corporate governance principles in general but does not specifically address the compliance with the standards listed in the claim."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0083",
+   "uid": "CPN-2024-OR+SR-EN::CLM-0083",
+   "report": "CPN-2024-OR+SR-EN",
+   "section": "Code of Business Ethics",
+   "page": 193,
+   "claim_type": "metric",
+   "sdg_targets": "4.4, 4.7",
+   "retrieval_flags": [
+    "Only 1 of 2 target same-section references met the similarity threshold (0.35)."
+   ],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 3,
+   "S_runs": [
+    3,
+    3,
+    3
+   ],
+   "M": 2,
+   "M_runs": [
+    2,
+    2,
+    2
+   ],
+   "T": 2,
+   "T_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Unrelated",
+    "S2": "None",
+    "X1": "Redundant",
+    "X2": "Related",
+    "X3": "Unrelated"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.6,
+   "SMTE": 2.0,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "substantiated",
+   "rationale": {
+    "S": "The claim specifies the action (completion of an e-learning program including a quiz), names the program (e-learning program), and defines the scope (98.85% of personnel, 94.38% of executives, and 99.08% of employees).",
+    "M": "The claim provides specific percentages for participation but lacks a baseline or target for comparison.",
+    "T": "The claim specifies a single time point, 2024, for when the participation occurred.",
+    "E": "The evidence provides figures that are self-reported but lacks details on the method of data collection or external verification."
+   },
+   "label_reason": {
+    "S1": "S1 discusses compliance with regulations, which is not related to the e-learning program participation claim.",
+    "S2": "No passage retrieved.",
+    "X1": "X1 repeats the claim almost verbatim, adding no new information beyond the claim itself.",
+    "X2": "X2 mentions employee assessments related to the Code of Conduct but does not address the specific participation rates in the e-learning program.",
+    "X3": "X3 discusses a different program with a different participation target, not related to the e-learning program claim."
+   },
+   "comment": "",
+   "score_attempts": 1
+  },
+  {
+   "claim_id": "CLM-0085",
+   "uid": "CPN-2024-OR+SR-EN::CLM-0085",
+   "report": "CPN-2024-OR+SR-EN",
+   "section": "Significant Changes and Development in the Corporate Governance Policy, Practices, and System in the Year",
+   "page": 195,
+   "claim_type": "commitment",
+   "sdg_targets": "16.6, 16.7, 8.1, 8.2, 8.3",
+   "retrieval_flags": [
+    "Only 1 of 2 target same-section references met the similarity threshold (0.35)."
+   ],
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 0,
+   "T_runs": [
+    0,
+    0,
+    0
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "None",
+    "X1": "Redundant",
+    "X2": "Related",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": false,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.4,
+   "SMTE": 0.5,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "unsubstantiated",
+   "rationale": {
+    "S": "The claim names the action of the Board supervising operations under corporate governance principles but does not specify a named programme, specific target area, or defined scope.",
+    "M": "The claim is a plain statement without any quantification or language of change.",
+    "T": "The claim does not provide any time reference or period.",
+    "E": "The evidence provided is self-reported and mentions alignment with corporate governance principles and SDGs, but lacks details on data collection methods, sources, or external assurance."
+   },
+   "label_reason": {
+    "S1": "The passage mentions alignment with SDGs, which is related to sustainable growth but does not directly support the specific claim about Board supervision.",
+    "S2": "No passage retrieved.",
+    "X1": "This passage repeats the claim about the Board supervising operations under corporate governance principles without adding new information.",
+    "X2": "The passage discusses the governance structure, which is related to the claim's topic but does not address the specific action of Board supervision.",
+    "X3": "The passage outlines the duties and responsibilities of the Board, which is related to governance but does not provide specific details about the claim."
+   },
+   "comment": "",
+   "score_attempts": 1
+  }
+ ]
+}

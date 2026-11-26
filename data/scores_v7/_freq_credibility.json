@@ -1,0 +1,1747 @@
+{
+  "by_goal": {
+    "1": {
+      "goal": 1,
+      "name": "No Poverty",
+      "n_firms": 24,
+      "n_claims": 107,
+      "mean_composite": 1.3511450381679388,
+      "dim_means": {
+        "specificity": 1.6641221374045803,
+        "measurability": 0.7557251908396947,
+        "temporality": 0.7786259541984732,
+        "evidence": 0.9847328244274809,
+        "consistency": 2.572519083969466
+      },
+      "tier_pct": {
+        "symbolic": 0.10687022900763359,
+        "partially_substantive": 0.7099236641221374,
+        "substantive": 0.183206106870229
+      }
+    },
+    "2": {
+      "goal": 2,
+      "name": "Zero Hunger",
+      "n_firms": 20,
+      "n_claims": 137,
+      "mean_composite": 1.4035087719298245,
+      "dim_means": {
+        "specificity": 1.7953216374269005,
+        "measurability": 0.7076023391812866,
+        "temporality": 0.8070175438596491,
+        "evidence": 1.1461988304093567,
+        "consistency": 2.56140350877193
+      },
+      "tier_pct": {
+        "symbolic": 0.09941520467836257,
+        "partially_substantive": 0.6900584795321637,
+        "substantive": 0.21052631578947367
+      }
+    },
+    "3": {
+      "goal": 3,
+      "name": "Good Health",
+      "n_firms": 30,
+      "n_claims": 293,
+      "mean_composite": 1.3698170731707318,
+      "dim_means": {
+        "specificity": 1.6692073170731707,
+        "measurability": 0.6310975609756098,
+        "temporality": 0.864329268292683,
+        "evidence": 1.1280487804878048,
+        "consistency": 2.5564024390243905
+      },
+      "tier_pct": {
+        "symbolic": 0.11280487804878049,
+        "partially_substantive": 0.7057926829268293,
+        "substantive": 0.18140243902439024
+      }
+    },
+    "4": {
+      "goal": 4,
+      "name": "Quality Education",
+      "n_firms": 30,
+      "n_claims": 286,
+      "mean_composite": 1.4542372881355932,
+      "dim_means": {
+        "specificity": 1.8690292758089369,
+        "measurability": 0.7719568567026194,
+        "temporality": 0.9969183359013868,
+        "evidence": 1.0107858243451464,
+        "consistency": 2.6224961479198767
+      },
+      "tier_pct": {
+        "symbolic": 0.08628659476117104,
+        "partially_substantive": 0.6810477657935285,
+        "substantive": 0.23266563944530047
+      }
+    },
+    "5": {
+      "goal": 5,
+      "name": "Gender Equality",
+      "n_firms": 29,
+      "n_claims": 142,
+      "mean_composite": 1.291,
+      "dim_means": {
+        "specificity": 1.465,
+        "measurability": 0.545,
+        "temporality": 0.76,
+        "evidence": 1.055,
+        "consistency": 2.63
+      },
+      "tier_pct": {
+        "symbolic": 0.12,
+        "partially_substantive": 0.71,
+        "substantive": 0.17
+      }
+    },
+    "6": {
+      "goal": 6,
+      "name": "Clean Water",
+      "n_firms": 27,
+      "n_claims": 236,
+      "mean_composite": 1.452664576802508,
+      "dim_means": {
+        "specificity": 1.858934169278997,
+        "measurability": 0.7962382445141066,
+        "temporality": 0.9373040752351097,
+        "evidence": 1.0815047021943573,
+        "consistency": 2.5893416927899686
+      },
+      "tier_pct": {
+        "symbolic": 0.109717868338558,
+        "partially_substantive": 0.6300940438871473,
+        "substantive": 0.2601880877742947
+      }
+    },
+    "7": {
+      "goal": 7,
+      "name": "Affordable Energy",
+      "n_firms": 30,
+      "n_claims": 379,
+      "mean_composite": 1.577155172413793,
+      "dim_means": {
+        "specificity": 1.8674568965517242,
+        "measurability": 1.084051724137931,
+        "temporality": 1.2586206896551724,
+        "evidence": 1.1099137931034482,
+        "consistency": 2.5657327586206895
+      },
+      "tier_pct": {
+        "symbolic": 0.05387931034482758,
+        "partially_substantive": 0.6217672413793104,
+        "substantive": 0.32435344827586204
+      }
+    },
+    "8": {
+      "goal": 8,
+      "name": "Decent Work",
+      "n_firms": 30,
+      "n_claims": 376,
+      "mean_composite": 1.3733333333333333,
+      "dim_means": {
+        "specificity": 1.6103286384976525,
+        "measurability": 0.6413145539906103,
+        "temporality": 0.8643192488262911,
+        "evidence": 1.1056338028169015,
+        "consistency": 2.6450704225352113
+      },
+      "tier_pct": {
+        "symbolic": 0.09389671361502347,
+        "partially_substantive": 0.7103286384976526,
+        "substantive": 0.19577464788732393
+      }
+    },
+    "9": {
+      "goal": 9,
+      "name": "Industry/Innovation",
+      "n_firms": 30,
+      "n_claims": 403,
+      "mean_composite": 1.379254658385093,
+      "dim_means": {
+        "specificity": 1.6658385093167702,
+        "measurability": 0.5304347826086957,
+        "temporality": 0.8732919254658386,
+        "evidence": 1.124223602484472,
+        "consistency": 2.7024844720496892
+      },
+      "tier_pct": {
+        "symbolic": 0.09006211180124224,
+        "partially_substantive": 0.7223602484472049,
+        "substantive": 0.18757763975155278
+      }
+    },
+    "10": {
+      "goal": 10,
+      "name": "Reduced Inequalities",
+      "n_firms": 30,
+      "n_claims": 219,
+      "mean_composite": 1.2884615384615385,
+      "dim_means": {
+        "specificity": 1.5467032967032968,
+        "measurability": 0.5054945054945055,
+        "temporality": 0.717032967032967,
+        "evidence": 1.0467032967032968,
+        "consistency": 2.6263736263736264
+      },
+      "tier_pct": {
+        "symbolic": 0.0989010989010989,
+        "partially_substantive": 0.75,
+        "substantive": 0.1510989010989011
+      }
+    },
+    "11": {
+      "goal": 11,
+      "name": "Sustainable Cities",
+      "n_firms": 30,
+      "n_claims": 323,
+      "mean_composite": 1.4057838660578386,
+      "dim_means": {
+        "specificity": 1.7640791476407915,
+        "measurability": 0.6666666666666666,
+        "temporality": 0.852359208523592,
+        "evidence": 1.1187214611872147,
+        "consistency": 2.6270928462709286
+      },
+      "tier_pct": {
+        "symbolic": 0.0958904109589041,
+        "partially_substantive": 0.6864535768645358,
+        "substantive": 0.2176560121765601
+      }
+    },
+    "12": {
+      "goal": 12,
+      "name": "Responsible Consumption",
+      "n_firms": 30,
+      "n_claims": 465,
+      "mean_composite": 1.4433028919330289,
+      "dim_means": {
+        "specificity": 1.703957382039574,
+        "measurability": 0.717275494672755,
+        "temporality": 0.9235159817351598,
+        "evidence": 1.237062404870624,
+        "consistency": 2.634703196347032
+      },
+      "tier_pct": {
+        "symbolic": 0.08904109589041095,
+        "partially_substantive": 0.665144596651446,
+        "substantive": 0.24581430745814306
+      }
+    },
+    "13": {
+      "goal": 13,
+      "name": "Climate Action",
+      "n_firms": 30,
+      "n_claims": 497,
+      "mean_composite": 1.5260227272727274,
+      "dim_means": {
+        "specificity": 1.8079545454545454,
+        "measurability": 0.8914772727272727,
+        "temporality": 1.1278409090909092,
+        "evidence": 1.1875,
+        "consistency": 2.615340909090909
+      },
+      "tier_pct": {
+        "symbolic": 0.0659090909090909,
+        "partially_substantive": 0.6460227272727272,
+        "substantive": 0.28806818181818183
+      }
+    },
+    "14": {
+      "goal": 14,
+      "name": "Life Below Water",
+      "n_firms": 22,
+      "n_claims": 154,
+      "mean_composite": 1.5563451776649746,
+      "dim_means": {
+        "specificity": 1.9441624365482233,
+        "measurability": 0.8375634517766497,
+        "temporality": 1.0609137055837563,
+        "evidence": 1.16751269035533,
+        "consistency": 2.771573604060914
+      },
+      "tier_pct": {
+        "symbolic": 0.04568527918781726,
+        "partially_substantive": 0.6548223350253807,
+        "substantive": 0.29949238578680204
+      }
+    },
+    "15": {
+      "goal": 15,
+      "name": "Life on Land",
+      "n_firms": 30,
+      "n_claims": 270,
+      "mean_composite": 1.4689075630252102,
+      "dim_means": {
+        "specificity": 1.861344537815126,
+        "measurability": 0.707983193277311,
+        "temporality": 0.9243697478991597,
+        "evidence": 1.2058823529411764,
+        "consistency": 2.6449579831932772
+      },
+      "tier_pct": {
+        "symbolic": 0.07773109243697479,
+        "partially_substantive": 0.6995798319327731,
+        "substantive": 0.22268907563025211
+      }
+    },
+    "16": {
+      "goal": 16,
+      "name": "Peace/Justice",
+      "n_firms": 30,
+      "n_claims": 346,
+      "mean_composite": 1.3121951219512196,
+      "dim_means": {
+        "specificity": 1.4991869918699188,
+        "measurability": 0.34796747967479674,
+        "temporality": 0.7910569105691057,
+        "evidence": 1.2040650406504065,
+        "consistency": 2.71869918699187
+      },
+      "tier_pct": {
+        "symbolic": 0.09268292682926829,
+        "partially_substantive": 0.7707317073170732,
+        "substantive": 0.13658536585365855
+      }
+    },
+    "17": {
+      "goal": 17,
+      "name": "Partnerships",
+      "n_firms": 30,
+      "n_claims": 286,
+      "mean_composite": 1.300404858299595,
+      "dim_means": {
+        "specificity": 1.5357624831309042,
+        "measurability": 0.398110661268556,
+        "temporality": 0.7813765182186235,
+        "evidence": 1.163292847503374,
+        "consistency": 2.623481781376518
+      },
+      "tier_pct": {
+        "symbolic": 0.13360323886639677,
+        "partially_substantive": 0.7152496626180836,
+        "substantive": 0.15114709851551958
+      }
+    }
+  },
+  "by_target": {
+    "12.2": {
+      "n_claims": 379,
+      "mean_composite": 1.4063789868667917,
+      "tier_counts": {
+        "partially_substantive": 733,
+        "symbolic": 101,
+        "substantive": 232
+      }
+    },
+    "12.6": {
+      "n_claims": 450,
+      "mean_composite": 1.4302044221944097,
+      "tier_counts": {
+        "partially_substantive": 1615,
+        "symbolic": 214,
+        "substantive": 568
+      }
+    },
+    "13.2": {
+      "n_claims": 485,
+      "mean_composite": 1.533210332103321,
+      "tier_counts": {
+        "partially_substantive": 1048,
+        "substantive": 477,
+        "symbolic": 101
+      }
+    },
+    "13.3": {
+      "n_claims": 232,
+      "mean_composite": 1.3137466307277628,
+      "tier_counts": {
+        "partially_substantive": 279,
+        "substantive": 54,
+        "symbolic": 38
+      }
+    },
+    "16.6": {
+      "n_claims": 342,
+      "mean_composite": 1.3126495726495726,
+      "tier_counts": {
+        "partially_substantive": 901,
+        "substantive": 160,
+        "symbolic": 109
+      }
+    },
+    "16.7": {
+      "n_claims": 250,
+      "mean_composite": 1.206367041198502,
+      "tier_counts": {
+        "partially_substantive": 422,
+        "substantive": 45,
+        "symbolic": 67
+      }
+    },
+    "9.1": {
+      "n_claims": 245,
+      "mean_composite": 1.3691244239631337,
+      "tier_counts": {
+        "partially_substantive": 302,
+        "substantive": 86,
+        "symbolic": 46
+      }
+    },
+    "9.4": {
+      "n_claims": 367,
+      "mean_composite": 1.3991474850809889,
+      "tier_counts": {
+        "partially_substantive": 825,
+        "substantive": 241,
+        "symbolic": 107
+      }
+    },
+    "11.2": {
+      "n_claims": 96,
+      "mean_composite": 1.5379310344827586,
+      "tier_counts": {
+        "partially_substantive": 63,
+        "substantive": 42,
+        "symbolic": 11
+      }
+    },
+    "11.3": {
+      "n_claims": 189,
+      "mean_composite": 1.3180555555555555,
+      "tier_counts": {
+        "partially_substantive": 205,
+        "substantive": 49,
+        "symbolic": 34
+      }
+    },
+    "11.6": {
+      "n_claims": 226,
+      "mean_composite": 1.4350769230769231,
+      "tier_counts": {
+        "partially_substantive": 217,
+        "substantive": 80,
+        "symbolic": 28
+      }
+    },
+    "11.b": {
+      "n_claims": 204,
+      "mean_composite": 1.3225,
+      "tier_counts": {
+        "partially_substantive": 226,
+        "symbolic": 39,
+        "substantive": 55
+      }
+    },
+    "12.4": {
+      "n_claims": 269,
+      "mean_composite": 1.4230616302186878,
+      "tier_counts": {
+        "partially_substantive": 343,
+        "substantive": 112,
+        "symbolic": 48
+      }
+    },
+    "12.5": {
+      "n_claims": 324,
+      "mean_composite": 1.443193717277487,
+      "tier_counts": {
+        "partially_substantive": 534,
+        "substantive": 171,
+        "symbolic": 59
+      }
+    },
+    "12.1": {
+      "n_claims": 43,
+      "mean_composite": 1.0826086956521739,
+      "tier_counts": {
+        "partially_substantive": 37,
+        "substantive": 2,
+        "symbolic": 7
+      }
+    },
+    "13.1": {
+      "n_claims": 242,
+      "mean_composite": 1.3165311653116532,
+      "tier_counts": {
+        "partially_substantive": 288,
+        "substantive": 45,
+        "symbolic": 36
+      }
+    },
+    "15.1": {
+      "n_claims": 221,
+      "mean_composite": 1.3833846153846154,
+      "tier_counts": {
+        "partially_substantive": 232,
+        "substantive": 60,
+        "symbolic": 33
+      }
+    },
+    "15.2": {
+      "n_claims": 150,
+      "mean_composite": 1.5840425531914895,
+      "tier_counts": {
+        "partially_substantive": 115,
+        "substantive": 60,
+        "symbolic": 13
+      }
+    },
+    "15.5": {
+      "n_claims": 252,
+      "mean_composite": 1.4265,
+      "tier_counts": {
+        "partially_substantive": 292,
+        "substantive": 75,
+        "symbolic": 33
+      }
+    },
+    "17.16": {
+      "n_claims": 269,
+      "mean_composite": 1.2998509687034276,
+      "tier_counts": {
+        "symbolic": 88,
+        "partially_substantive": 483,
+        "substantive": 100
+      }
+    },
+    "17.17": {
+      "n_claims": 285,
+      "mean_composite": 1.3038674033149171,
+      "tier_counts": {
+        "symbolic": 96,
+        "partially_substantive": 517,
+        "substantive": 111
+      }
+    },
+    "8.1": {
+      "n_claims": 95,
+      "mean_composite": 1.3185185185185184,
+      "tier_counts": {
+        "substantive": 24,
+        "partially_substantive": 96,
+        "symbolic": 15
+      }
+    },
+    "8.2": {
+      "n_claims": 295,
+      "mean_composite": 1.3160305343511451,
+      "tier_counts": {
+        "substantive": 133,
+        "partially_substantive": 573,
+        "symbolic": 80
+      }
+    },
+    "8.3": {
+      "n_claims": 331,
+      "mean_composite": 1.3250377073906485,
+      "tier_counts": {
+        "substantive": 229,
+        "partially_substantive": 960,
+        "symbolic": 137
+      }
+    },
+    "9.2": {
+      "n_claims": 306,
+      "mean_composite": 1.3662243667068759,
+      "tier_counts": {
+        "substantive": 160,
+        "partially_substantive": 577,
+        "symbolic": 92
+      }
+    },
+    "8.9": {
+      "n_claims": 32,
+      "mean_composite": 1.535294117647059,
+      "tier_counts": {
+        "partially_substantive": 22,
+        "substantive": 11,
+        "symbolic": 1
+      }
+    },
+    "9.a": {
+      "n_claims": 44,
+      "mean_composite": 1.35,
+      "tier_counts": {
+        "substantive": 7,
+        "partially_substantive": 37,
+        "symbolic": 8
+      }
+    },
+    "9.5": {
+      "n_claims": 289,
+      "mean_composite": 1.2899598393574296,
+      "tier_counts": {
+        "partially_substantive": 593,
+        "symbolic": 73,
+        "substantive": 81
+      }
+    },
+    "9.b": {
+      "n_claims": 244,
+      "mean_composite": 1.2389721627408994,
+      "tier_counts": {
+        "partially_substantive": 381,
+        "substantive": 38,
+        "symbolic": 48
+      }
+    },
+    "4.4": {
+      "n_claims": 256,
+      "mean_composite": 1.4431734317343174,
+      "tier_counts": {
+        "partially_substantive": 380,
+        "symbolic": 44,
+        "substantive": 118
+      }
+    },
+    "4.7": {
+      "n_claims": 170,
+      "mean_composite": 1.3630630630630631,
+      "tier_counts": {
+        "partially_substantive": 155,
+        "symbolic": 27,
+        "substantive": 40
+      }
+    },
+    "17.14": {
+      "n_claims": 150,
+      "mean_composite": 1.0772727272727272,
+      "tier_counts": {
+        "partially_substantive": 178,
+        "substantive": 2,
+        "symbolic": 40
+      }
+    },
+    "8.4": {
+      "n_claims": 182,
+      "mean_composite": 1.2984615384615386,
+      "tier_counts": {
+        "partially_substantive": 233,
+        "substantive": 60,
+        "symbolic": 32
+      }
+    },
+    "12.7": {
+      "n_claims": 117,
+      "mean_composite": 1.2748091603053435,
+      "tier_counts": {
+        "partially_substantive": 85,
+        "symbolic": 23,
+        "substantive": 23
+      }
+    },
+    "12.b": {
+      "n_claims": 36,
+      "mean_composite": 1.475,
+      "tier_counts": {
+        "partially_substantive": 25,
+        "substantive": 12,
+        "symbolic": 3
+      }
+    },
+    "12.8": {
+      "n_claims": 163,
+      "mean_composite": 1.227947598253275,
+      "tier_counts": {
+        "partially_substantive": 166,
+        "substantive": 25,
+        "symbolic": 38
+      }
+    },
+    "16.a": {
+      "n_claims": 120,
+      "mean_composite": 1.3445945945945945,
+      "tier_counts": {
+        "partially_substantive": 124,
+        "substantive": 17,
+        "symbolic": 7
+      }
+    },
+    "11.a": {
+      "n_claims": 98,
+      "mean_composite": 1.2672413793103448,
+      "tier_counts": {
+        "substantive": 15,
+        "symbolic": 12,
+        "partially_substantive": 89
+      }
+    },
+    "11.5": {
+      "n_claims": 71,
+      "mean_composite": 1.382716049382716,
+      "tier_counts": {
+        "partially_substantive": 56,
+        "substantive": 14,
+        "symbolic": 11
+      }
+    },
+    "16.b": {
+      "n_claims": 165,
+      "mean_composite": 1.2493150684931507,
+      "tier_counts": {
+        "partially_substantive": 160,
+        "symbolic": 31,
+        "substantive": 28
+      }
+    },
+    "8.8": {
+      "n_claims": 325,
+      "mean_composite": 1.4226918798665185,
+      "tier_counts": {
+        "partially_substantive": 622,
+        "substantive": 199,
+        "symbolic": 78
+      }
+    },
+    "7.3": {
+      "n_claims": 303,
+      "mean_composite": 1.6067524115755627,
+      "tier_counts": {
+        "partially_substantive": 371,
+        "substantive": 219,
+        "symbolic": 32
+      }
+    },
+    "6.4": {
+      "n_claims": 186,
+      "mean_composite": 1.5042372881355932,
+      "tier_counts": {
+        "substantive": 72,
+        "partially_substantive": 141,
+        "symbolic": 23
+      }
+    },
+    "6.3": {
+      "n_claims": 119,
+      "mean_composite": 1.3078014184397162,
+      "tier_counts": {
+        "partially_substantive": 97,
+        "substantive": 22,
+        "symbolic": 22
+      }
+    },
+    "16.5": {
+      "n_claims": 204,
+      "mean_composite": 1.3605194805194805,
+      "tier_counts": {
+        "partially_substantive": 286,
+        "substantive": 67,
+        "symbolic": 32
+      }
+    },
+    "8.10": {
+      "n_claims": 235,
+      "mean_composite": 1.278888888888889,
+      "tier_counts": {
+        "partially_substantive": 289,
+        "symbolic": 32,
+        "substantive": 39
+      }
+    },
+    "17.18": {
+      "n_claims": 74,
+      "mean_composite": 1.2580645161290323,
+      "tier_counts": {
+        "symbolic": 14,
+        "partially_substantive": 71,
+        "substantive": 8
+      }
+    },
+    "16.3": {
+      "n_claims": 146,
+      "mean_composite": 1.289247311827957,
+      "tier_counts": {
+        "partially_substantive": 135,
+        "substantive": 27,
+        "symbolic": 24
+      }
+    },
+    "17.10": {
+      "n_claims": 4,
+      "mean_composite": 0.8,
+      "tier_counts": {
+        "partially_substantive": 2,
+        "symbolic": 2
+      }
+    },
+    "8.5": {
+      "n_claims": 306,
+      "mean_composite": 1.3742729306487695,
+      "tier_counts": {
+        "partially_substantive": 630,
+        "symbolic": 86,
+        "substantive": 178
+      }
+    },
+    "5.1": {
+      "n_claims": 91,
+      "mean_composite": 1.1981308411214953,
+      "tier_counts": {
+        "partially_substantive": 77,
+        "substantive": 15,
+        "symbolic": 15
+      }
+    },
+    "5.c": {
+      "n_claims": 103,
+      "mean_composite": 1.162962962962963,
+      "tier_counts": {
+        "partially_substantive": 103,
+        "substantive": 10,
+        "symbolic": 22
+      }
+    },
+    "10.2": {
+      "n_claims": 214,
+      "mean_composite": 1.2895184135977338,
+      "tier_counts": {
+        "partially_substantive": 263,
+        "symbolic": 36,
+        "substantive": 54
+      }
+    },
+    "10.3": {
+      "n_claims": 214,
+      "mean_composite": 1.2805633802816903,
+      "tier_counts": {
+        "partially_substantive": 269,
+        "symbolic": 35,
+        "substantive": 51
+      }
+    },
+    "3.4": {
+      "n_claims": 178,
+      "mean_composite": 1.3155378486055778,
+      "tier_counts": {
+        "partially_substantive": 189,
+        "substantive": 37,
+        "symbolic": 25
+      }
+    },
+    "3.9": {
+      "n_claims": 200,
+      "mean_composite": 1.3885135135135136,
+      "tier_counts": {
+        "partially_substantive": 205,
+        "substantive": 57,
+        "symbolic": 34
+      }
+    },
+    "16.10": {
+      "n_claims": 194,
+      "mean_composite": 1.3107491856677524,
+      "tier_counts": {
+        "partially_substantive": 249,
+        "substantive": 38,
+        "symbolic": 20
+      }
+    },
+    "3.6": {
+      "n_claims": 59,
+      "mean_composite": 1.587878787878788,
+      "tier_counts": {
+        "partially_substantive": 34,
+        "symbolic": 8,
+        "substantive": 24
+      }
+    },
+    "3.d": {
+      "n_claims": 115,
+      "mean_composite": 1.3333333333333333,
+      "tier_counts": {
+        "substantive": 23,
+        "partially_substantive": 96,
+        "symbolic": 19
+      }
+    },
+    "4.3": {
+      "n_claims": 193,
+      "mean_composite": 1.4430034129692833,
+      "tier_counts": {
+        "partially_substantive": 190,
+        "symbolic": 30,
+        "substantive": 73
+      }
+    },
+    "8.6": {
+      "n_claims": 155,
+      "mean_composite": 1.4493023255813953,
+      "tier_counts": {
+        "partially_substantive": 137,
+        "substantive": 56,
+        "symbolic": 22
+      }
+    },
+    "5.5": {
+      "n_claims": 119,
+      "mean_composite": 1.318918918918919,
+      "tier_counts": {
+        "partially_substantive": 105,
+        "substantive": 28,
+        "symbolic": 15
+      }
+    },
+    "4.5": {
+      "n_claims": 62,
+      "mean_composite": 1.2955223880597015,
+      "tier_counts": {
+        "partially_substantive": 50,
+        "symbolic": 8,
+        "substantive": 9
+      }
+    },
+    "15.9": {
+      "n_claims": 91,
+      "mean_composite": 1.2591836734693878,
+      "tier_counts": {
+        "partially_substantive": 78,
+        "symbolic": 13,
+        "substantive": 7
+      }
+    },
+    "14.2": {
+      "n_claims": 92,
+      "mean_composite": 1.4554455445544554,
+      "tier_counts": {
+        "partially_substantive": 71,
+        "symbolic": 8,
+        "substantive": 22
+      }
+    },
+    "14.5": {
+      "n_claims": 24,
+      "mean_composite": 1.4583333333333333,
+      "tier_counts": {
+        "partially_substantive": 16,
+        "symbolic": 2,
+        "substantive": 6
+      }
+    },
+    "9.3": {
+      "n_claims": 119,
+      "mean_composite": 1.3111111111111111,
+      "tier_counts": {
+        "substantive": 22,
+        "partially_substantive": 109,
+        "symbolic": 13
+      }
+    },
+    "13.a": {
+      "n_claims": 53,
+      "mean_composite": 1.2821428571428573,
+      "tier_counts": {
+        "substantive": 9,
+        "symbolic": 8,
+        "partially_substantive": 39
+      }
+    },
+    "7.2": {
+      "n_claims": 292,
+      "mean_composite": 1.5546617915904937,
+      "tier_counts": {
+        "substantive": 167,
+        "partially_substantive": 349,
+        "symbolic": 31
+      }
+    },
+    "7.a": {
+      "n_claims": 81,
+      "mean_composite": 1.2644444444444445,
+      "tier_counts": {
+        "substantive": 4,
+        "partially_substantive": 77,
+        "symbolic": 9
+      }
+    },
+    "11.1": {
+      "n_claims": 19,
+      "mean_composite": 1.3368421052631578,
+      "tier_counts": {
+        "substantive": 4,
+        "partially_substantive": 14,
+        "symbolic": 1
+      }
+    },
+    "15.b": {
+      "n_claims": 51,
+      "mean_composite": 1.674074074074074,
+      "tier_counts": {
+        "partially_substantive": 34,
+        "substantive": 19,
+        "symbolic": 1
+      }
+    },
+    "15.a": {
+      "n_claims": 22,
+      "mean_composite": 1.290909090909091,
+      "tier_counts": {
+        "partially_substantive": 17,
+        "symbolic": 2,
+        "substantive": 3
+      }
+    },
+    "1.2": {
+      "n_claims": 78,
+      "mean_composite": 1.3444444444444443,
+      "tier_counts": {
+        "partially_substantive": 62,
+        "symbolic": 10,
+        "substantive": 18
+      }
+    },
+    "1.4": {
+      "n_claims": 87,
+      "mean_composite": 1.299009900990099,
+      "tier_counts": {
+        "partially_substantive": 76,
+        "symbolic": 10,
+        "substantive": 15
+      }
+    },
+    "1.5": {
+      "n_claims": 11,
+      "mean_composite": 1.2666666666666666,
+      "tier_counts": {
+        "partially_substantive": 7,
+        "symbolic": 3,
+        "substantive": 2
+      }
+    },
+    "17.19": {
+      "n_claims": 17,
+      "mean_composite": 1.4,
+      "tier_counts": {
+        "substantive": 5,
+        "partially_substantive": 12,
+        "symbolic": 1
+      }
+    },
+    "11.4": {
+      "n_claims": 33,
+      "mean_composite": 1.311764705882353,
+      "tier_counts": {
+        "partially_substantive": 26,
+        "substantive": 4,
+        "symbolic": 4
+      }
+    },
+    "11.7": {
+      "n_claims": 35,
+      "mean_composite": 1.2971428571428572,
+      "tier_counts": {
+        "partially_substantive": 31,
+        "substantive": 2,
+        "symbolic": 2
+      }
+    },
+    "9.c": {
+      "n_claims": 121,
+      "mean_composite": 1.313939393939394,
+      "tier_counts": {
+        "partially_substantive": 125,
+        "substantive": 25,
+        "symbolic": 15
+      }
+    },
+    "7.b": {
+      "n_claims": 88,
+      "mean_composite": 1.5166666666666666,
+      "tier_counts": {
+        "partially_substantive": 68,
+        "substantive": 22,
+        "symbolic": 6
+      }
+    },
+    "11.c": {
+      "n_claims": 10,
+      "mean_composite": 1.44,
+      "tier_counts": {
+        "partially_substantive": 8,
+        "substantive": 2
+      }
+    },
+    "1.3": {
+      "n_claims": 62,
+      "mean_composite": 1.3542857142857143,
+      "tier_counts": {
+        "partially_substantive": 47,
+        "substantive": 14,
+        "symbolic": 9
+      }
+    },
+    "10.1": {
+      "n_claims": 23,
+      "mean_composite": 1.3304347826086957,
+      "tier_counts": {
+        "symbolic": 2,
+        "substantive": 5,
+        "partially_substantive": 16
+      }
+    },
+    "10.4": {
+      "n_claims": 48,
+      "mean_composite": 1.2156862745098038,
+      "tier_counts": {
+        "symbolic": 9,
+        "partially_substantive": 35,
+        "substantive": 7
+      }
+    },
+    "12.a": {
+      "n_claims": 83,
+      "mean_composite": 1.196116504854369,
+      "tier_counts": {
+        "partially_substantive": 81,
+        "substantive": 7,
+        "symbolic": 15
+      }
+    },
+    "12.3": {
+      "n_claims": 49,
+      "mean_composite": 1.4175438596491228,
+      "tier_counts": {
+        "partially_substantive": 36,
+        "substantive": 15,
+        "symbolic": 6
+      }
+    },
+    "2.1": {
+      "n_claims": 74,
+      "mean_composite": 1.3636363636363638,
+      "tier_counts": {
+        "partially_substantive": 48,
+        "substantive": 17,
+        "symbolic": 12
+      }
+    },
+    "2.4": {
+      "n_claims": 98,
+      "mean_composite": 1.3631578947368421,
+      "tier_counts": {
+        "partially_substantive": 80,
+        "symbolic": 12,
+        "substantive": 22
+      }
+    },
+    "7.1": {
+      "n_claims": 57,
+      "mean_composite": 1.318032786885246,
+      "tier_counts": {
+        "partially_substantive": 50,
+        "symbolic": 4,
+        "substantive": 7
+      }
+    },
+    "15.3": {
+      "n_claims": 75,
+      "mean_composite": 1.5358024691358025,
+      "tier_counts": {
+        "partially_substantive": 55,
+        "substantive": 22,
+        "symbolic": 4
+      }
+    },
+    "2.2": {
+      "n_claims": 40,
+      "mean_composite": 1.3095238095238095,
+      "tier_counts": {
+        "substantive": 9,
+        "symbolic": 8,
+        "partially_substantive": 25
+      }
+    },
+    "6.b": {
+      "n_claims": 40,
+      "mean_composite": 1.2622222222222221,
+      "tier_counts": {
+        "partially_substantive": 36,
+        "symbolic": 6,
+        "substantive": 3
+      }
+    },
+    "6.2": {
+      "n_claims": 7,
+      "mean_composite": 1.325,
+      "tier_counts": {
+        "partially_substantive": 8
+      }
+    },
+    "6.5": {
+      "n_claims": 86,
+      "mean_composite": 1.3319148936170213,
+      "tier_counts": {
+        "partially_substantive": 70,
+        "symbolic": 11,
+        "substantive": 13
+      }
+    },
+    "6.1": {
+      "n_claims": 26,
+      "mean_composite": 1.1384615384615384,
+      "tier_counts": {
+        "partially_substantive": 18,
+        "symbolic": 7,
+        "substantive": 1
+      }
+    },
+    "4.c": {
+      "n_claims": 23,
+      "mean_composite": 1.5217391304347827,
+      "tier_counts": {
+        "partially_substantive": 16,
+        "symbolic": 2,
+        "substantive": 5
+      }
+    },
+    "17.6": {
+      "n_claims": 47,
+      "mean_composite": 1.1807692307692308,
+      "tier_counts": {
+        "partially_substantive": 42,
+        "symbolic": 8,
+        "substantive": 2
+      }
+    },
+    "1.a": {
+      "n_claims": 23,
+      "mean_composite": 1.5826086956521739,
+      "tier_counts": {
+        "partially_substantive": 15,
+        "substantive": 6,
+        "symbolic": 2
+      }
+    },
+    "1.b": {
+      "n_claims": 40,
+      "mean_composite": 1.1090909090909091,
+      "tier_counts": {
+        "partially_substantive": 34,
+        "symbolic": 7,
+        "substantive": 3
+      }
+    },
+    "8.7": {
+      "n_claims": 119,
+      "mean_composite": 1.3869565217391304,
+      "tier_counts": {
+        "partially_substantive": 101,
+        "symbolic": 11,
+        "substantive": 26
+      }
+    },
+    "17.9": {
+      "n_claims": 20,
+      "mean_composite": 1.2952380952380953,
+      "tier_counts": {
+        "partially_substantive": 15,
+        "symbolic": 3,
+        "substantive": 3
+      }
+    },
+    "3.8": {
+      "n_claims": 174,
+      "mean_composite": 1.2658227848101267,
+      "tier_counts": {
+        "substantive": 26,
+        "partially_substantive": 184,
+        "symbolic": 27
+      }
+    },
+    "5.a": {
+      "n_claims": 20,
+      "mean_composite": 1.27,
+      "tier_counts": {
+        "substantive": 5,
+        "symbolic": 5,
+        "partially_substantive": 10
+      }
+    },
+    "5.2": {
+      "n_claims": 10,
+      "mean_composite": 1.22,
+      "tier_counts": {
+        "partially_substantive": 9,
+        "substantive": 1
+      }
+    },
+    "12.c": {
+      "n_claims": 52,
+      "mean_composite": 1.7307692307692308,
+      "tier_counts": {
+        "partially_substantive": 28,
+        "substantive": 23,
+        "symbolic": 1
+      }
+    },
+    "17.1": {
+      "n_claims": 7,
+      "mean_composite": 1.3142857142857143,
+      "tier_counts": {
+        "partially_substantive": 5,
+        "symbolic": 1,
+        "substantive": 1
+      }
+    },
+    "6.6": {
+      "n_claims": 33,
+      "mean_composite": 1.3529411764705883,
+      "tier_counts": {
+        "symbolic": 4,
+        "partially_substantive": 24,
+        "substantive": 6
+      }
+    },
+    "6.a": {
+      "n_claims": 5,
+      "mean_composite": 0.96,
+      "tier_counts": {
+        "symbolic": 2,
+        "partially_substantive": 3
+      }
+    },
+    "14.1": {
+      "n_claims": 94,
+      "mean_composite": 1.5433628318584072,
+      "tier_counts": {
+        "partially_substantive": 77,
+        "substantive": 33,
+        "symbolic": 3
+      }
+    },
+    "14.a": {
+      "n_claims": 18,
+      "mean_composite": 1.5333333333333334,
+      "tier_counts": {
+        "partially_substantive": 13,
+        "symbolic": 1,
+        "substantive": 4
+      }
+    },
+    "8.b": {
+      "n_claims": 61,
+      "mean_composite": 1.45,
+      "tier_counts": {
+        "symbolic": 8,
+        "partially_substantive": 43,
+        "substantive": 17
+      }
+    },
+    "3.c": {
+      "n_claims": 80,
+      "mean_composite": 1.2769230769230768,
+      "tier_counts": {
+        "partially_substantive": 71,
+        "symbolic": 8,
+        "substantive": 12
+      }
+    },
+    "4.6": {
+      "n_claims": 32,
+      "mean_composite": 1.3675675675675676,
+      "tier_counts": {
+        "partially_substantive": 30,
+        "symbolic": 2,
+        "substantive": 5
+      }
+    },
+    "4.2": {
+      "n_claims": 6,
+      "mean_composite": 1.3333333333333333,
+      "tier_counts": {
+        "symbolic": 1,
+        "partially_substantive": 5
+      }
+    },
+    "3.2": {
+      "n_claims": 14,
+      "mean_composite": 1.0571428571428572,
+      "tier_counts": {
+        "symbolic": 5,
+        "partially_substantive": 9
+      }
+    },
+    "3.3": {
+      "n_claims": 18,
+      "mean_composite": 1.1199999999999999,
+      "tier_counts": {
+        "symbolic": 5,
+        "partially_substantive": 13,
+        "substantive": 2
+      }
+    },
+    "4.b": {
+      "n_claims": 21,
+      "mean_composite": 1.772727272727273,
+      "tier_counts": {
+        "partially_substantive": 6,
+        "substantive": 13,
+        "symbolic": 3
+      }
+    },
+    "4.a": {
+      "n_claims": 39,
+      "mean_composite": 1.57,
+      "tier_counts": {
+        "partially_substantive": 24,
+        "substantive": 14,
+        "symbolic": 2
+      }
+    },
+    "3.5": {
+      "n_claims": 20,
+      "mean_composite": 1.25,
+      "tier_counts": {
+        "symbolic": 3,
+        "partially_substantive": 15,
+        "substantive": 2
+      }
+    },
+    "3.1": {
+      "n_claims": 11,
+      "mean_composite": 1.0909090909090908,
+      "tier_counts": {
+        "partially_substantive": 7,
+        "symbolic": 4
+      }
+    },
+    "3.b": {
+      "n_claims": 25,
+      "mean_composite": 1.224,
+      "tier_counts": {
+        "partially_substantive": 19,
+        "symbolic": 4,
+        "substantive": 2
+      }
+    },
+    "3.7": {
+      "n_claims": 14,
+      "mean_composite": 1.1428571428571428,
+      "tier_counts": {
+        "partially_substantive": 10,
+        "symbolic": 4
+      }
+    },
+    "10.7": {
+      "n_claims": 12,
+      "mean_composite": 1.3,
+      "tier_counts": {
+        "partially_substantive": 6,
+        "symbolic": 3,
+        "substantive": 3
+      }
+    },
+    "16.2": {
+      "n_claims": 18,
+      "mean_composite": 1.46,
+      "tier_counts": {
+        "partially_substantive": 16,
+        "substantive": 4
+      }
+    },
+    "17.15": {
+      "n_claims": 2,
+      "mean_composite": 1.0,
+      "tier_counts": {
+        "partially_substantive": 2
+      }
+    },
+    "4.1": {
+      "n_claims": 31,
+      "mean_composite": 1.5741935483870968,
+      "tier_counts": {
+        "symbolic": 1,
+        "partially_substantive": 20,
+        "substantive": 10
+      }
+    },
+    "8.a": {
+      "n_claims": 4,
+      "mean_composite": 0.9,
+      "tier_counts": {
+        "partially_substantive": 3,
+        "symbolic": 1
+      }
+    },
+    "2.3": {
+      "n_claims": 52,
+      "mean_composite": 1.3633333333333333,
+      "tier_counts": {
+        "partially_substantive": 48,
+        "symbolic": 5,
+        "substantive": 7
+      }
+    },
+    "2.b": {
+      "n_claims": 1,
+      "mean_composite": 1.0,
+      "tier_counts": {
+        "partially_substantive": 1
+      }
+    },
+    "2.a": {
+      "n_claims": 31,
+      "mean_composite": 1.3085714285714285,
+      "tier_counts": {
+        "symbolic": 4,
+        "partially_substantive": 28,
+        "substantive": 3
+      }
+    },
+    "17.3": {
+      "n_claims": 24,
+      "mean_composite": 1.5083333333333333,
+      "tier_counts": {
+        "symbolic": 3,
+        "partially_substantive": 13,
+        "substantive": 8
+      }
+    },
+    "17.11": {
+      "n_claims": 1,
+      "mean_composite": 0.6,
+      "tier_counts": {
+        "symbolic": 1
+      }
+    },
+    "16.1": {
+      "n_claims": 5,
+      "mean_composite": 1.16,
+      "tier_counts": {
+        "partially_substantive": 5
+      }
+    },
+    "17.7": {
+      "n_claims": 7,
+      "mean_composite": 1.0,
+      "tier_counts": {
+        "symbolic": 2,
+        "partially_substantive": 5
+      }
+    },
+    "17.8": {
+      "n_claims": 1,
+      "mean_composite": 0.6,
+      "tier_counts": {
+        "symbolic": 1
+      }
+    },
+    "17.5": {
+      "n_claims": 1,
+      "mean_composite": 0.6,
+      "tier_counts": {
+        "symbolic": 1
+      }
+    },
+    "1.1": {
+      "n_claims": 2,
+      "mean_composite": 0.7,
+      "tier_counts": {
+        "symbolic": 1,
+        "partially_substantive": 1
+      }
+    },
+    "10.5": {
+      "n_claims": 15,
+      "mean_composite": 1.1733333333333333,
+      "tier_counts": {
+        "symbolic": 2,
+        "partially_substantive": 13
+      }
+    },
+    "10.6": {
+      "n_claims": 1,
+      "mean_composite": 0.2,
+      "tier_counts": {
+        "symbolic": 1
+      }
+    },
+    "10.a": {
+      "n_claims": 1,
+      "mean_composite": 0.2,
+      "tier_counts": {
+        "symbolic": 1
+      }
+    },
+    "10.b": {
+      "n_claims": 9,
+      "mean_composite": 1.6666666666666667,
+      "tier_counts": {
+        "symbolic": 1,
+        "partially_substantive": 3,
+        "substantive": 5
+      }
+    },
+    "16.8": {
+      "n_claims": 4,
+      "mean_composite": 1.0,
+      "tier_counts": {
+        "partially_substantive": 3,
+        "symbolic": 1
+      }
+    },
+    "15.6": {
+      "n_claims": 5,
+      "mean_composite": 1.3199999999999998,
+      "tier_counts": {
+        "partially_substantive": 5
+      }
+    },
+    "5.b": {
+      "n_claims": 2,
+      "mean_composite": 0.9,
+      "tier_counts": {
+        "partially_substantive": 1,
+        "symbolic": 1
+      }
+    },
+    "14.4": {
+      "n_claims": 51,
+      "mean_composite": 1.6470588235294117,
+      "tier_counts": {
+        "partially_substantive": 31,
+        "substantive": 18,
+        "symbolic": 2
+      }
+    },
+    "14.7": {
+      "n_claims": 9,
+      "mean_composite": 1.5777777777777777,
+      "tier_counts": {
+        "substantive": 3,
+        "partially_substantive": 5,
+        "symbolic": 1
+      }
+    },
+    "2.5": {
+      "n_claims": 7,
+      "mean_composite": 1.457142857142857,
+      "tier_counts": {
+        "partially_substantive": 5,
+        "substantive": 2
+      }
+    },
+    "15.8": {
+      "n_claims": 2,
+      "mean_composite": 1.1,
+      "tier_counts": {
+        "partially_substantive": 2
+      }
+    },
+    "15.7": {
+      "n_claims": 5,
+      "mean_composite": 1.56,
+      "tier_counts": {
+        "partially_substantive": 4,
+        "substantive": 1
+      }
+    },
+    "14.c": {
+      "n_claims": 12,
+      "mean_composite": 1.45,
+      "tier_counts": {
+        "partially_substantive": 11,
+        "substantive": 1
+      }
+    },
+    "14.b": {
+      "n_claims": 8,
+      "mean_composite": 1.325,
+      "tier_counts": {
+        "partially_substantive": 8
+      }
+    },
+    "17.13": {
+      "n_claims": 4,
+      "mean_composite": 0.95,
+      "tier_counts": {
+        "partially_substantive": 2,
+        "symbolic": 2
+      }
+    },
+    "16.4": {
+      "n_claims": 15,
+      "mean_composite": 1.24,
+      "tier_counts": {
+        "partially_substantive": 12,
+        "substantive": 1,
+        "symbolic": 2
+      }
+    },
+    "5.6": {
+      "n_claims": 7,
+      "mean_composite": 1.2,
+      "tier_counts": {
+        "partially_substantive": 6,
+        "symbolic": 1
+      }
+    },
+    "5.4": {
+      "n_claims": 21,
+      "mean_composite": 1.1333333333333333,
+      "tier_counts": {
+        "partially_substantive": 15,
+        "symbolic": 6
+      }
+    },
+    "13.b": {
+      "n_claims": 7,
+      "mean_composite": 1.075,
+      "tier_counts": {
+        "partially_substantive": 5,
+        "symbolic": 3
+      }
+    },
+    "17.4": {
+      "n_claims": 1,
+      "mean_composite": 2.2,
+      "tier_counts": {
+        "substantive": 1
+      }
+    },
+    "15.4": {
+      "n_claims": 3,
+      "mean_composite": 1.6,
+      "tier_counts": {
+        "partially_substantive": 3
+      }
+    },
+    "15.c": {
+      "n_claims": 2,
+      "mean_composite": 1.2,
+      "tier_counts": {
+        "partially_substantive": 2
+      }
+    },
+    "14.3": {
+      "n_claims": 2,
+      "mean_composite": 1.4,
+      "tier_counts": {
+        "partially_substantive": 2
+      }
+    },
+    "14.6": {
+      "n_claims": 1,
+      "mean_composite": 1.0,
+      "tier_counts": {
+        "partially_substantive": 1
+      }
+    },
+    "10.c": {
+      "n_claims": 1,
+      "mean_composite": 0.6,
+      "tier_counts": {
+        "symbolic": 1
+      }
+    },
+    "16.9": {
+      "n_claims": 1,
+      "mean_composite": 1.2,
+      "tier_counts": {
+        "partially_substantive": 1
+      }
+    }
+  },
+  "median_freq": 286,
+  "median_credibility": 1.4035087719298245
+}

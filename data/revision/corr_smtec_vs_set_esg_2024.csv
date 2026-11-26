@@ -1,0 +1,8 @@
+measure,spearman_rho,p,kruskal_p
+smtec,-0.063,0.751,0.555
+smte,-0.093,0.639,0.502
+specificity,-0.088,0.658,0.729
+measurability,-0.137,0.486,0.774
+temporality,-0.144,0.465,0.106
+evidence,-0.075,0.703,0.338
+consistency,0.115,0.558,0.824

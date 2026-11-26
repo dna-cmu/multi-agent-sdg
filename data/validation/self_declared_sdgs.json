@@ -1,0 +1,190 @@
+[
+  {
+    "company": "Bangkok Dusit Medical Services",
+    "self_declared_sdgs": [
+      {
+        "sdg_number": 3,
+        "sdg_name": "Good Health and Well-being",
+        "confidence": "high",
+        "evidence": "Supporting the UN SDGs 3.2, 3.4, 3.6, 3.8, 3.d and 8.2",
+        "section": "Service Quality and Patient Safety"
+      },
+      {
+        "sdg_number": 8,
+        "sdg_name": "Decent Work and Economic Growth",
+        "confidence": "medium",
+        "evidence": "Supporting the UN SDGs 3.2, 3.4, 3.6, 3.8, 3.d and 8.2",
+        "section": "Service Quality and Patient Safety"
+      },
+      {
+        "sdg_number": 12,
+        "sdg_name": "Responsible Consumption and Production",
+        "confidence": "medium",
+        "evidence": "Supporting the UN SDGs 12.6, 16.3, 16.5 and 16.7",
+        "section": "Corporate Governance"
+      },
+      {
+        "sdg_number": 16,
+        "sdg_name": "Peace, Justice and Strong Institutions",
+        "confidence": "medium",
+        "evidence": "Supporting the UN SDGs 12.6, 16.3, 16.5 and 16.7",
+        "section": "Corporate Governance"
+      }
+    ],
+    "sdg_summary": "Bangkok Dusit Medical Services explicitly commits to supporting several UN SDGs, particularly focusing on health and well-being, decent work, responsible consumption, and strong institutions, as evidenced by their alignment with specific SDG targets.",
+    "detection_notes": "The report mentions specific SDG targets, suggesting that SDG icons or similar visual elements might have been present but were not captured in the text.",
+    "filename": "BDMS-2023-SR-EN.pdf",
+    "sector": "Healthcare",
+    "report_year": "2023",
+    "total_claims_analyzed": 255
+  },
+  {
+    "company": "Charoen Pokphand Foods",
+    "self_declared_sdgs": [
+      {
+        "sdg_number": 2,
+        "sdg_name": "Zero Hunger",
+        "confidence": "high",
+        "evidence": "The Company aims for food security, by delivering safe and quality food to consumers, supporting food access in both normal and crisis situations.",
+        "section": "Message from Executives"
+      },
+      {
+        "sdg_number": 12,
+        "sdg_name": "Responsible Consumption and Production",
+        "confidence": "high",
+        "evidence": "The Company prioritizes the transition to the circular economy and is determined to be part of acceleration for Thailand’s Bioeconomy, Circular Economy, and Green Economy (Thailand’s BCG Model).",
+        "section": "Circular Economy"
+      },
+      {
+        "sdg_number": 13,
+        "sdg_name": "Climate Action",
+        "confidence": "high",
+        "evidence": "In 2023, one of important missions is the declaration of Net-zero commitment by 2050.",
+        "section": "Message from Executives"
+      },
+      {
+        "sdg_number": 15,
+        "sdg_name": "Life on Land",
+        "confidence": "medium",
+        "evidence": "The Company has announced Biodiversity and Zero Deforestation Commitment for corn, soy, palm oil, and cassava by 2025.",
+        "section": "Message from Executives"
+      }
+    ],
+    "sdg_summary": "Charoen Pokphand Foods positions its SDG commitments around food security, responsible consumption and production, climate action, and biodiversity, with explicit commitments to net-zero emissions and zero deforestation.",
+    "detection_notes": "The report likely contains SDG icons or visual elements that were not captured in the text, which could provide additional context or emphasis on specific SDGs.",
+    "filename": "CPF-2023-SR-EN.pdf",
+    "sector": "Food & Agribusiness",
+    "report_year": "2023",
+    "total_claims_analyzed": 329
+  },
+  {
+    "company": "Siam Commercial Bank",
+    "self_declared_sdgs": [
+      {
+        "sdg_number": 7,
+        "sdg_name": "Affordable and Clean Energy",
+        "confidence": "high",
+        "evidence": "Reducing 50% of scope 1 and 2 emissions by 2027",
+        "section": "Targets and Key Performance in 2023"
+      },
+      {
+        "sdg_number": 12,
+        "sdg_name": "Responsible Consumption and Production",
+        "confidence": "high",
+        "evidence": "Reducing 7% of scope 1 and 2 emissions compared to 2022",
+        "section": "Targets and Key Performance in 2023"
+      },
+      {
+        "sdg_number": 13,
+        "sdg_name": "Climate Action",
+        "confidence": "high",
+        "evidence": "Achieve net-zero emissions within company operations by 2030 and within lending and investment value chain by 2050",
+        "section": "Foundation"
+      }
+    ],
+    "sdg_summary": "Siam Commercial Bank explicitly commits to SDGs 7, 12, and 13, focusing on reducing emissions and achieving net-zero targets as part of their sustainability strategy.",
+    "detection_notes": "The SDGs were explicitly mentioned in the 'Targets and Key Performance in 2023' section, indicating a strong commitment. There may be additional visual representations of SDGs not captured in the text.",
+    "filename": "SCB-2023-SR-EN.pdf",
+    "sector": "Banking & Finance",
+    "report_year": "2023",
+    "total_claims_analyzed": 320
+  },
+  {
+    "company": "Siam Cement Group",
+    "self_declared_sdgs": [
+      {
+        "sdg_number": 7,
+        "sdg_name": "Affordable and Clean Energy",
+        "confidence": "high",
+        "evidence": "Promote and increase the use of alternative fuel and enhance energy efficiency through the best available technology, reducing reliance on fossil fuels, and increasing the use of alternative energy.",
+        "section": "Partnership Synergy Towards Sustainability"
+      },
+      {
+        "sdg_number": 8,
+        "sdg_name": "Decent Work and Economic Growth",
+        "confidence": "high",
+        "evidence": "Promote inclusive and sustainable economic growth, focusing on decent, equitable, fair, and productive employment.",
+        "section": "Partnership Synergy Towards Sustainability"
+      },
+      {
+        "sdg_number": 9,
+        "sdg_name": "Industry, Innovation and Infrastructure",
+        "confidence": "high",
+        "evidence": "Emphasize innovation and technology to elevate operations, enhance competitiveness, and promote inclusive and sustainable industrialization.",
+        "section": "Partnership Synergy Towards Sustainability"
+      },
+      {
+        "sdg_number": 12,
+        "sdg_name": "Responsible Consumption and Production",
+        "confidence": "high",
+        "evidence": "Apply circular economy principles to enhance resource efficiency, decrease risks of resource shortages, and minimize environmental impacts.",
+        "section": "Partnership Synergy Towards Sustainability"
+      },
+      {
+        "sdg_number": 13,
+        "sdg_name": "Climate Action",
+        "confidence": "high",
+        "evidence": "Pledge to adapt and take action to reduce greenhouse gas emissions, and collaborate across sectors to enhance adaptability and combat climate change.",
+        "section": "Partnership Synergy Towards Sustainability"
+      }
+    ],
+    "sdg_summary": "Siam Cement Group explicitly commits to several SDGs, focusing on clean energy, economic growth, innovation, responsible consumption, and climate action, as part of its sustainability strategy.",
+    "detection_notes": "The report likely includes SDG icons or visual representations that were not captured in the text, which could provide additional context or confirmation of commitments.",
+    "filename": "SCC-2023-SR-EN.pdf",
+    "sector": "Construction Materials",
+    "report_year": "2023",
+    "total_claims_analyzed": 265
+  },
+  {
+    "company": "True Corporation",
+    "self_declared_sdgs": [
+      {
+        "sdg_number": 13,
+        "sdg_name": "Climate Action",
+        "confidence": "high",
+        "evidence": "True has set the ambitious goal of becoming a carbon neutral organization by 2030, focusing on scope-1 and -2 emissions.",
+        "section": "Message from Chairman of the Board of Directors"
+      },
+      {
+        "sdg_number": 4,
+        "sdg_name": "Quality Education",
+        "confidence": "medium",
+        "evidence": "True collaborated with the Thai Autism Foundation to develop educational applications to enhance skills and enhance physical, intellectual, and mental performance for children with autism.",
+        "section": "Sustainability at True"
+      },
+      {
+        "sdg_number": 12,
+        "sdg_name": "Responsible Consumption and Production",
+        "confidence": "medium",
+        "evidence": "ZERO E-WASTE TO LANDFILL zero-landfill of e-waste from business operations and from consumers voluntarily joining campaigns.",
+        "section": "Living Together"
+      }
+    ],
+    "sdg_summary": "True Corporation positions its SDG commitments primarily around climate action, quality education, and responsible consumption and production, with explicit goals for carbon neutrality and educational initiatives.",
+    "detection_notes": "The report mentions all 17 SDGs in a general sense, but specific commitments are more clearly aligned with certain goals. SDG icons or visual representations might have been present but are not captured in the text.",
+    "filename": "True-2023-SR-EN.pdf",
+    "sector": "Telecommunications",
+    "report_year": "2023",
+    "total_claims_analyzed": 165
+  }
+]

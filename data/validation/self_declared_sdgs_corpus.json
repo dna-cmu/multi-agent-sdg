@@ -1,0 +1,1221 @@
+[
+  {
+    "company": "Airports of Thailand",
+    "self_declared_sdgs": [
+      {
+        "sdg_number": 13,
+        "sdg_name": "Climate Action",
+        "confidence": "high",
+        "evidence": "All 6 airports of AOT participate in the Airport Carbon Accreditation (ACA) program by Airports Council International (ACI) to demonstrate their commitments to addressing climate change.",
+        "section": "Environmental Management Results"
+      },
+      {
+        "sdg_number": 12,
+        "sdg_name": "Responsible Consumption and Production",
+        "confidence": "medium",
+        "evidence": "Strategy 2: Sustainably Environmental Management — To support the goal of Net Zero Emissions and apply the concept of Circular Economy to AOT’s operations throughout the supply chain.",
+        "section": "Sustainability Management Policy"
+      }
+    ],
+    "sdg_summary": "Airports of Thailand explicitly commits to addressing climate change through participation in carbon accreditation programs and aims to implement sustainable environmental management practices, including circular economy principles.",
+    "detection_notes": "The report likely includes visual SDG icons or additional context that may not be captured in the text, which could provide further evidence of SDG commitments.",
+    "filename": "AOT-2024-OR+SR-EN.pdf",
+    "sector": "Transportation",
+    "report_year": "2024",
+    "total_claims_analyzed": 162
+  },
+  {
+    "company": "Asset World Corporation",
+    "self_declared_sdgs": [
+      {
+        "sdg_number": 13,
+        "sdg_name": "Climate Action",
+        "confidence": "high",
+        "evidence": "AWC has recognized the importance of addressing climate change and its potential impacts on business operations, and our company aims to become carbon-neutral by 2030.",
+        "section": "Challenges & Opportunities"
+      },
+      {
+        "sdg_number": 15,
+        "sdg_name": "Life on Land",
+        "confidence": "medium",
+        "evidence": "Protecting the ecosystem and biodiversity, including combating deforestation in all areas where the Company’s properties are located to preserve natural resources.",
+        "section": "Sustainability Strategy"
+      },
+      {
+        "sdg_number": 7,
+        "sdg_name": "Affordable and Clean Energy",
+        "confidence": "medium",
+        "evidence": "Reducing greenhouse gas emissions through energy-efficient building design, enhancing energy usage efficiency, increasing the proportion of alternative and renewable energy sources.",
+        "section": "Sustainability Strategy"
+      },
+      {
+        "sdg_number": 12,
+        "sdg_name": "Responsible Consumption and Production",
+        "confidence": "medium",
+        "evidence": "Reducing waste generation in the project through promoting food waste management initiatives and driving efficient surplus food management for maximum benefits to enhance resource efficiency across the value chain.",
+        "section": "Materiality Assessment"
+      }
+    ],
+    "sdg_summary": "Asset World Corporation explicitly commits to SDGs related to climate action, life on land, clean energy, and responsible consumption, with a focus on carbon neutrality, biodiversity protection, energy efficiency, and waste reduction.",
+    "detection_notes": "The report likely contains SDG icons or visual mappings that were not captured in the text, which could provide additional context or confirmation of commitments.",
+    "filename": "AWC-2024-SR-EN.pdf",
+    "sector": "Real Estate",
+    "report_year": "2024",
+    "total_claims_analyzed": 291
+  },
+  {
+    "company": "Bangchak Corporation",
+    "self_declared_sdgs": [
+      {
+        "sdg_number": 13,
+        "sdg_name": "Climate Action",
+        "confidence": "high",
+        "evidence": "The company is committed to becoming a Net Zero GHG Emissions organization by 2050.",
+        "section": "Sustainability at Bangchak"
+      },
+      {
+        "sdg_number": 7,
+        "sdg_name": "Affordable and Clean Energy",
+        "confidence": "medium",
+        "evidence": "The company is dedicated to driving the sustainable energy transition while maintaining a balance in energy security.",
+        "section": "Sustainable Strategy"
+      },
+      {
+        "sdg_number": 12,
+        "sdg_name": "Responsible Consumption and Production",
+        "confidence": "medium",
+        "evidence": "Adopting the 3Rs strategy (Reduce, Reuse, Recycle) to optimize resource use in business operations.",
+        "section": "Climate Change and Environmental Risks"
+      }
+    ],
+    "sdg_summary": "Bangchak Corporation positions its SDG commitments primarily around climate action, clean energy, and responsible consumption, with a strong focus on achieving net-zero emissions and promoting sustainable energy practices.",
+    "detection_notes": "The report likely contains SDG icons or visual elements that were not captured in the text, which could provide additional context or confirmation of SDG commitments.",
+    "filename": "BCP-2024-SR-EN.pdf",
+    "sector": "Energy",
+    "report_year": "2024",
+    "total_claims_analyzed": 308
+  },
+  {
+    "company": "Bangkok Dusit Medical Services",
+    "self_declared_sdgs": [
+      {
+        "sdg_number": 3,
+        "sdg_name": "Good Health and Well-being",
+        "confidence": "high",
+        "evidence": "BDMS continues to lead the healthcare industry and enhance Thailand’s public health standards.",
+        "section": "Message From Chairperson of Executive Committee and President"
+      },
+      {
+        "sdg_number": 5,
+        "sdg_name": "Gender Equality",
+        "confidence": "medium",
+        "evidence": "BDMS fosters Diversity, Equality and Inclusion and was awarded Outstanding Model Organization for Human Rights Award.",
+        "section": "Message From Chairperson of Executive Committee and President"
+      },
+      {
+        "sdg_number": 6,
+        "sdg_name": "Clean Water and Sanitation",
+        "confidence": "medium",
+        "evidence": "BDMS is committed to maintaining a balance between water usage in business operations and the conservation of water resources.",
+        "section": "Water Stewardship"
+      },
+      {
+        "sdg_number": 12,
+        "sdg_name": "Responsible Consumption and Production",
+        "confidence": "medium",
+        "evidence": "Circular Economy aligns with GRI standards 306-3, 306-4, 306-5 and addresses SDGs 12.3, 12.4, 12.5.",
+        "section": "Circular Economy"
+      },
+      {
+        "sdg_number": 13,
+        "sdg_name": "Climate Action",
+        "confidence": "medium",
+        "evidence": "BDMS is displaying the dedication to lessening environmental impact in line with Sustainable Development Goals : SDGs to achieve Net Zero by 2050.",
+        "section": "Message From Chairperson of Executive Committee and President"
+      },
+      {
+        "sdg_number": 16,
+        "sdg_name": "Peace, Justice and Strong Institutions",
+        "confidence": "medium",
+        "evidence": "Respecting Human Rights aligns with GRI standards 405-1, 412 and addresses SDGs 5.1, 5.2, 8.5, 8.8, 10.3, 16.3.",
+        "section": "Respecting Human Rights"
+      }
+    ],
+    "sdg_summary": "Bangkok Dusit Medical Services explicitly commits to several SDGs, focusing on healthcare excellence, gender equality, water stewardship, responsible consumption, climate action, and human rights.",
+    "detection_notes": "The report likely includes SDG icons or visual elements that were not captured in the text, which could provide additional context for the commitments.",
+    "filename": "BDMS-2024-SR-EN.pdf",
+    "sector": "Healthcare",
+    "report_year": "2024",
+    "total_claims_analyzed": 241
+  },
+  {
+    "company": "Bangkok Expressway and Metro",
+    "self_declared_sdgs": [
+      {
+        "sdg_number": 13,
+        "sdg_name": "Climate Action",
+        "confidence": "high",
+        "evidence": "The Company had a commitment to conserving resources and reducing energy use to mitigate climate change impacts, by continually collaborating both internal and external of the organization such as the collaboration with the Thailand Carbon Neutrality Network (TCNN), which the Company joined in 2022, in order to drive towards the Company’s climate goals and the national targets to achieve carbon neutrality by 2050 and net-zero greenhouse gas emissions by 2065.",
+        "section": "Message from the Managing Director"
+      },
+      {
+        "sdg_number": 7,
+        "sdg_name": "Affordable and Clean Energy",
+        "confidence": "medium",
+        "evidence": "The Company had also set greenhouse gas reduction targets based on the Science Based Targets initiative (SBTi) and implemented several projects, such as the Solar Power System Installations at Depot (Solar Farm), at Main Workshop Building (Solar Rooftop), and on car park rooftops (Solar Car Park).",
+        "section": "Message from the Managing Director"
+      }
+    ],
+    "sdg_summary": "Bangkok Expressway and Metro explicitly commits to SDG 13 (Climate Action) through its efforts to reduce greenhouse gas emissions and achieve carbon neutrality. It also aligns with SDG 7 (Affordable and Clean Energy) by implementing solar power projects.",
+    "detection_notes": "The report likely contains SDG icons or additional visual references that were not captured in the text provided.",
+    "filename": "BEM-2024-SR-EN.pdf",
+    "sector": "Transportation",
+    "report_year": "2024",
+    "total_claims_analyzed": 216
+  },
+  {
+    "company": "Berli Jucker",
+    "self_declared_sdgs": [
+      {
+        "sdg_number": 5,
+        "sdg_name": "Gender Equality",
+        "confidence": "high",
+        "evidence": "BJC has also demonstrated its commitment to inclusivity and gender equality. We are proud to be ranked 1st in Thailand and 11th globally for gender diversity by Equileap.",
+        "section": "Global Recognition for Sustainability Leadership"
+      },
+      {
+        "sdg_number": 13,
+        "sdg_name": "Climate Action",
+        "confidence": "high",
+        "evidence": "Achieve Carbon Neutrality by 2030. Achieve Net Zero GHG Emissions by 2050, covering Scope 1, 2 and 3 emissions.",
+        "section": "Climate Strategy and Energy Management"
+      },
+      {
+        "sdg_number": 6,
+        "sdg_name": "Clean Water and Sanitation",
+        "confidence": "medium",
+        "evidence": "BJC aims to reduce water consumption per revenue by 15% across business operations compared to the 2021 baseline by 2032.",
+        "section": "Targets To Reduce Water Use"
+      },
+      {
+        "sdg_number": 12,
+        "sdg_name": "Responsible Consumption and Production",
+        "confidence": "medium",
+        "evidence": "BJC has developed a comprehensive waste management strategy to minimize environmental impact, optimize resource efficiency and support a circular economy.",
+        "section": "Environmental Management"
+      },
+      {
+        "sdg_number": 15,
+        "sdg_name": "Life on Land",
+        "confidence": "medium",
+        "evidence": "BJC is committed to achieving No Net Loss (NNL) and striving for a Net Positive Impact (NPI) on biodiversity while eliminating deforestation across its value chain.",
+        "section": "Biodiversity"
+      }
+    ],
+    "sdg_summary": "Berli Jucker explicitly prioritizes several SDGs, including Gender Equality, Climate Action, Clean Water and Sanitation, Responsible Consumption and Production, and Life on Land, as part of its sustainability strategy.",
+    "detection_notes": "The report likely includes SDG icons or visual elements that were not captured in the text, which could provide additional context or confirmation of SDG commitments.",
+    "filename": "BJC-2024-SR-EN.pdf",
+    "sector": "Retail",
+    "report_year": "2024",
+    "total_claims_analyzed": 207
+  },
+  {
+    "company": "Carabao Group",
+    "self_declared_sdgs": [
+      {
+        "sdg_number": 1,
+        "sdg_name": "No Poverty",
+        "confidence": "high",
+        "evidence": "Better Quality of Life: SDGs: 1, 2, 3, 4, 5, 8, 10 (icons shown).",
+        "section": "Sustainability Framework"
+      },
+      {
+        "sdg_number": 2,
+        "sdg_name": "Zero Hunger",
+        "confidence": "high",
+        "evidence": "Better Quality of Life: SDGs: 1, 2, 3, 4, 5, 8, 10 (icons shown).",
+        "section": "Sustainability Framework"
+      },
+      {
+        "sdg_number": 3,
+        "sdg_name": "Good Health and Well-being",
+        "confidence": "high",
+        "evidence": "Better Economy: SDGs: 3, 8, 9, 12, 17 (icons shown).",
+        "section": "Sustainability Framework"
+      },
+      {
+        "sdg_number": 4,
+        "sdg_name": "Quality Education",
+        "confidence": "high",
+        "evidence": "Better Quality of Life: SDGs: 1, 2, 3, 4, 5, 8, 10 (icons shown).",
+        "section": "Sustainability Framework"
+      },
+      {
+        "sdg_number": 5,
+        "sdg_name": "Gender Equality",
+        "confidence": "high",
+        "evidence": "Better Quality of Life: SDGs: 1, 2, 3, 4, 5, 8, 10 (icons shown).",
+        "section": "Sustainability Framework"
+      },
+      {
+        "sdg_number": 6,
+        "sdg_name": "Clean Water and Sanitation",
+        "confidence": "high",
+        "evidence": "Better Environment: SDGs: 6, 7, 9, 12, 13, 14, 15 (icons shown).",
+        "section": "Sustainability Framework"
+      },
+      {
+        "sdg_number": 7,
+        "sdg_name": "Affordable and Clean Energy",
+        "confidence": "high",
+        "evidence": "Better Environment: SDGs: 6, 7, 9, 12, 13, 14, 15 (icons shown).",
+        "section": "Sustainability Framework"
+      },
+      {
+        "sdg_number": 8,
+        "sdg_name": "Decent Work and Economic Growth",
+        "confidence": "high",
+        "evidence": "Better Economy: SDGs: 3, 8, 9, 12, 17 (icons shown).",
+        "section": "Sustainability Framework"
+      },
+      {
+        "sdg_number": 9,
+        "sdg_name": "Industry, Innovation and Infrastructure",
+        "confidence": "high",
+        "evidence": "Better Economy: SDGs: 3, 8, 9, 12, 17 (icons shown).",
+        "section": "Sustainability Framework"
+      },
+      {
+        "sdg_number": 10,
+        "sdg_name": "Reduced Inequality",
+        "confidence": "high",
+        "evidence": "Better Quality of Life: SDGs: 1, 2, 3, 4, 5, 8, 10 (icons shown).",
+        "section": "Sustainability Framework"
+      },
+      {
+        "sdg_number": 12,
+        "sdg_name": "Responsible Consumption and Production",
+        "confidence": "high",
+        "evidence": "Better Economy: SDGs: 3, 8, 9, 12, 17 (icons shown).",
+        "section": "Sustainability Framework"
+      },
+      {
+        "sdg_number": 13,
+        "sdg_name": "Climate Action",
+        "confidence": "high",
+        "evidence": "Better Environment: SDGs: 6, 7, 9, 12, 13, 14, 15 (icons shown).",
+        "section": "Sustainability Framework"
+      },
+      {
+        "sdg_number": 14,
+        "sdg_name": "Life Below Water",
+        "confidence": "high",
+        "evidence": "Better Environment: SDGs: 6, 7, 9, 12, 13, 14, 15 (icons shown).",
+        "section": "Sustainability Framework"
+      },
+      {
+        "sdg_number": 15,
+        "sdg_name": "Life on Land",
+        "confidence": "high",
+        "evidence": "Better Environment: SDGs: 6, 7, 9, 12, 13, 14, 15 (icons shown).",
+        "section": "Sustainability Framework"
+      },
+      {
+        "sdg_number": 17,
+        "sdg_name": "Partnerships for the Goals",
+        "confidence": "high",
+        "evidence": "Better Economy: SDGs: 3, 8, 9, 12, 17 (icons shown).",
+        "section": "Sustainability Framework"
+      }
+    ],
+    "sdg_summary": "Carabao Group explicitly prioritizes a broad range of SDGs across economic, social, and environmental dimensions, aligning its operations with these goals to foster a sustainable economy, improve quality of life, and protect the environment.",
+    "detection_notes": "SDG icons were likely present in the report, providing visual confirmation of the company's commitments, but were not captured as text in the provided data.",
+    "filename": "CBG-2024-SR-EN.pdf",
+    "sector": "Food & Agribusiness",
+    "report_year": "2024",
+    "total_claims_analyzed": 245
+  },
+  {
+    "company": "CP ALL",
+    "self_declared_sdgs": [
+      {
+        "sdg_number": 1,
+        "sdg_name": "End poverty in all its forms everywhere",
+        "confidence": "high",
+        "evidence": "SDG1 End poverty in all its forms everywhere",
+        "section": "Supporting the SDGs"
+      },
+      {
+        "sdg_number": 2,
+        "sdg_name": "End hunger, achieve food security and improved nutrition and promote sustainable agriculture",
+        "confidence": "high",
+        "evidence": "SDG2 End hunger, achieve food security and improved nutrition and promote sustainable agriculture",
+        "section": "Supporting the SDGs"
+      },
+      {
+        "sdg_number": 8,
+        "sdg_name": "Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all",
+        "confidence": "high",
+        "evidence": "SDG8 Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all",
+        "section": "Supporting the SDGs"
+      },
+      {
+        "sdg_number": 10,
+        "sdg_name": "Reduce inequality within and among countries",
+        "confidence": "high",
+        "evidence": "SDG10 Reduce inequality within and among countries",
+        "section": "Supporting the SDGs"
+      },
+      {
+        "sdg_number": 11,
+        "sdg_name": "Make cities and human settlements inclusive, safe, resilient and sustainable",
+        "confidence": "high",
+        "evidence": "SDG11 Make cities and human settlements inclusive, safe, resilient and sustainable",
+        "section": "Supporting the SDGs"
+      }
+    ],
+    "sdg_summary": "CP ALL explicitly declares its commitment to several SDGs, focusing on poverty alleviation, hunger eradication, economic growth, reducing inequality, and sustainable urban development.",
+    "detection_notes": "The SDGs were explicitly listed in the 'Supporting the SDGs' section, indicating a clear self-declaration by the company.",
+    "filename": "CPALL-2024-SR-EN.pdf",
+    "sector": "Retail",
+    "report_year": "2024",
+    "total_claims_analyzed": 400
+  },
+  {
+    "company": "Charoen Pokphand Foods",
+    "self_declared_sdgs": [
+      {
+        "sdg_number": 2,
+        "sdg_name": "Zero Hunger",
+        "confidence": "high",
+        "evidence": "The Company operates its businesses with a steadfast commitment to fostering sustainable food security.",
+        "section": "CPF Sustainability Strategy"
+      },
+      {
+        "sdg_number": 13,
+        "sdg_name": "Climate Action",
+        "confidence": "high",
+        "evidence": "Driving climate action through innovative solutions that create lasting positive impacts across the entire value chain.",
+        "section": "CPF Sustainability Strategy"
+      }
+    ],
+    "sdg_summary": "Charoen Pokphand Foods explicitly commits to SDG 2 (Zero Hunger) by focusing on sustainable food security and SDG 13 (Climate Action) through innovative climate solutions across its value chain.",
+    "detection_notes": "The report mentions alignment with all 17 SDGs, but specific SDGs are not detailed beyond general commitments, making it challenging to identify other explicit priorities without visual aids like SDG icons.",
+    "filename": "CPF-2024-SR-EN.pdf",
+    "sector": "Food & Agribusiness",
+    "report_year": "2024",
+    "total_claims_analyzed": 266
+  },
+  {
+    "company": "Central Pattana",
+    "self_declared_sdgs": [
+      {
+        "sdg_number": 13,
+        "sdg_name": "Climate Action",
+        "confidence": "high",
+        "evidence": "Better Planet: Becoming net zero by 2050",
+        "section": "Materiality and Sustainable Development Strategy"
+      },
+      {
+        "sdg_number": 17,
+        "sdg_name": "Partnerships for the Goals",
+        "confidence": "medium",
+        "evidence": "Build partnerships for sustainability through Green Partnership, a project which aims to reduce energy consumption and divert waste from landfills.",
+        "section": "Sustainability Management: Social"
+      }
+    ],
+    "sdg_summary": "Central Pattana explicitly commits to SDG 13 by aiming for net zero emissions by 2050 and aligns with SDG 17 through its Green Partnership initiative to foster sustainability collaborations.",
+    "detection_notes": "The report likely includes SDG icons or additional references that were not captured in the text provided.",
+    "filename": "CPN-2024-OR+SR-EN.pdf",
+    "sector": "Real Estate",
+    "report_year": "2024",
+    "total_claims_analyzed": 86
+  },
+  {
+    "company": "Central Retail Corporation",
+    "self_declared_sdgs": [
+      {
+        "sdg_number": 12,
+        "sdg_name": "Responsible Consumption and Production",
+        "confidence": "high",
+        "evidence": "Resource Efficiency: Goal 12 (Responsible Consumption and Production).",
+        "section": "UNSDGs Alignment"
+      },
+      {
+        "sdg_number": 2,
+        "sdg_name": "Zero Hunger",
+        "confidence": "medium",
+        "evidence": "Responsible Sourcing: Goals 2 (Zero Hunger), 3 (Good Health and Well-being), 12 (Responsible Consumption and Production), 15 (Life on Land).",
+        "section": "UNSDGs Alignment"
+      },
+      {
+        "sdg_number": 3,
+        "sdg_name": "Good Health and Well-being",
+        "confidence": "medium",
+        "evidence": "Responsible Sourcing: Goals 2 (Zero Hunger), 3 (Good Health and Well-being), 12 (Responsible Consumption and Production), 15 (Life on Land).",
+        "section": "UNSDGs Alignment"
+      },
+      {
+        "sdg_number": 15,
+        "sdg_name": "Life on Land",
+        "confidence": "medium",
+        "evidence": "Responsible Sourcing: Goals 2 (Zero Hunger), 3 (Good Health and Well-being), 12 (Responsible Consumption and Production), 15 (Life on Land).",
+        "section": "UNSDGs Alignment"
+      },
+      {
+        "sdg_number": 1,
+        "sdg_name": "No Poverty",
+        "confidence": "medium",
+        "evidence": "Community Contribution: Goals 1 (No Poverty), 8 (Decent Work and Economic Growth), 10 (Reduced Inequalities).",
+        "section": "UNSDGs Alignment"
+      },
+      {
+        "sdg_number": 8,
+        "sdg_name": "Decent Work and Economic Growth",
+        "confidence": "medium",
+        "evidence": "Community Contribution: Goals 1 (No Poverty), 8 (Decent Work and Economic Growth), 10 (Reduced Inequalities).",
+        "section": "UNSDGs Alignment"
+      },
+      {
+        "sdg_number": 10,
+        "sdg_name": "Reduced Inequalities",
+        "confidence": "medium",
+        "evidence": "Community Contribution: Goals 1 (No Poverty), 8 (Decent Work and Economic Growth), 10 (Reduced Inequalities).",
+        "section": "UNSDGs Alignment"
+      },
+      {
+        "sdg_number": 5,
+        "sdg_name": "Gender Equality",
+        "confidence": "medium",
+        "evidence": "Diversity, Equity, and Inclusion: Goals 5 (Gender Equality), 8 (Decent Work and Economic Growth), 10 (Reduced Inequalities).",
+        "section": "UNSDGs Alignment"
+      },
+      {
+        "sdg_number": 16,
+        "sdg_name": "Peace, Justice, and Strong Institutions",
+        "confidence": "medium",
+        "evidence": "Cybersecurity and Privacy Protection: Goal 16 (Peace, Justice, and Strong Institutions).",
+        "section": "UNSDGs Alignment"
+      }
+    ],
+    "sdg_summary": "Central Retail Corporation explicitly aligns with several SDGs, focusing on responsible consumption, community contribution, diversity, and cybersecurity. The company highlights these goals as part of its strategic sustainability initiatives.",
+    "detection_notes": "The report likely includes SDG icons or visual representations that were not captured in the text, which could provide additional context or emphasis on certain goals.",
+    "filename": "CRC-2024-SR-EN.pdf",
+    "sector": "Retail",
+    "report_year": "2024",
+    "total_claims_analyzed": 165
+  },
+  {
+    "company": "Delta Electronics Thailand",
+    "self_declared_sdgs": [
+      {
+        "sdg_number": 8,
+        "sdg_name": "Decent Work and Economic Growth",
+        "confidence": "high",
+        "evidence": "Talent development is key to solving issues critical to the Future of Thai industry and this is why we work with seven top universities to drive the Delta Automation Academy and increase the local talent pool.",
+        "section": "Sustainable Development Initiatives"
+      },
+      {
+        "sdg_number": 12,
+        "sdg_name": "Responsible Consumption and Production",
+        "confidence": "high",
+        "evidence": "Delta has set the target to be consistent with sustainability goals as to 100% waste diversion rate by 2030.",
+        "section": "Waste in Focus"
+      },
+      {
+        "sdg_number": 13,
+        "sdg_name": "Climate Action",
+        "confidence": "high",
+        "evidence": "Delta identified climate change as a key risk in corporate sustainability management, the scenarios listed include IEA NZE 2050, IEA 2DS, IEA SDS were applied in climate-related scenarios to reduce GHG emissions.",
+        "section": "Plan with Awareness"
+      }
+    ],
+    "sdg_summary": "Delta Electronics Thailand explicitly prioritizes SDGs related to economic growth, responsible production, and climate action, with commitments to talent development, waste diversion, and GHG emission reduction.",
+    "detection_notes": "The report likely includes SDG icons or visual elements that were not captured in the text, which could provide additional context for SDG commitments.",
+    "filename": "DELTA-2024-SR-EN.pdf",
+    "sector": "Technology",
+    "report_year": "2024",
+    "total_claims_analyzed": 174
+  },
+  {
+    "company": "Global Power Synergy",
+    "self_declared_sdgs": [
+      {
+        "sdg_number": 7,
+        "sdg_name": "Affordable and Clean Energy",
+        "confidence": "high",
+        "evidence": "Promoting access to clean energy sources among consumers.",
+        "section": "Materiality Assessment 2024"
+      },
+      {
+        "sdg_number": 13,
+        "sdg_name": "Climate Action",
+        "confidence": "high",
+        "evidence": "GPSC has demonstrated its commitment to addressing climate change challenges by pledging not to make new investments in coal businesses.",
+        "section": "Strategy for Future Sustainability"
+      },
+      {
+        "sdg_number": 6,
+        "sdg_name": "Clean Water and Sanitation",
+        "confidence": "medium",
+        "evidence": "GPSC prioritizes comprehensive water management, encompassing efficient water consumption, strict legal compliance, and continuous water resource risk assessment.",
+        "section": "Water Management"
+      }
+    ],
+    "sdg_summary": "Global Power Synergy explicitly commits to SDG 7 (Affordable and Clean Energy) and SDG 13 (Climate Action) through its focus on clean energy access and climate change mitigation strategies. It also addresses SDG 6 (Clean Water and Sanitation) with its comprehensive water management practices.",
+    "detection_notes": "The report likely includes SDG icons or visual elements that were not captured in the text, which could provide additional context for their commitments.",
+    "filename": "GPSC-2024-IR-EN.pdf",
+    "sector": "Energy",
+    "report_year": "2024",
+    "total_claims_analyzed": 153
+  },
+  {
+    "company": "Indorama Ventures",
+    "self_declared_sdgs": [
+      {
+        "sdg_number": 12,
+        "sdg_name": "Responsible Consumption and Production",
+        "confidence": "high",
+        "evidence": "Our investments in bio-PET and sustainable fibers continue to set new benchmarks in circularity and carbon reduction.",
+        "section": "ESG-focused Investments"
+      },
+      {
+        "sdg_number": 13,
+        "sdg_name": "Climate Action",
+        "confidence": "high",
+        "evidence": "We are enhancing our supply chain engagement and rigorous ESG assessments. We integrated climate adaptation into our sustainability strategy using a three-phase approach.",
+        "section": "Innovating for a Low-Carbon Future"
+      },
+      {
+        "sdg_number": 5,
+        "sdg_name": "Gender Equality",
+        "confidence": "medium",
+        "evidence": "As a signatory to the UN Women’s Empowerment Principles (WEP), we are dedicated to promoting gender equality and empowering women.",
+        "section": "Environmental Performance"
+      }
+    ],
+    "sdg_summary": "Indorama Ventures explicitly commits to SDGs related to responsible consumption and production, climate action, and gender equality, focusing on circularity, carbon reduction, and empowering women.",
+    "detection_notes": "The report likely includes SDG icons or visual elements that were not captured in the text, which could provide additional context or confirmation of SDG commitments.",
+    "filename": "IVL-2024-SR-EN.pdf",
+    "sector": "Construction Materials",
+    "report_year": "2024",
+    "total_claims_analyzed": 270
+  },
+  {
+    "company": "Kasikornbank",
+    "self_declared_sdgs": [
+      {
+        "sdg_number": 13,
+        "sdg_name": "Climate Action",
+        "confidence": "high",
+        "evidence": "We actively implement our climate strategy to achieve the Net Zero goal while supporting businesses in their transition to adopting comprehensive environmental strategies.",
+        "section": "Statement of the Chief Executive Officer"
+      },
+      {
+        "sdg_number": 4,
+        "sdg_name": "Quality Education",
+        "confidence": "medium",
+        "evidence": "We continuously promote financial discipline by upholding responsible lending practices and fostering financial literacy among the general public and businesses.",
+        "section": "Statement of the Chief Executive Officer"
+      },
+      {
+        "sdg_number": 8,
+        "sdg_name": "Decent Work and Economic Growth",
+        "confidence": "medium",
+        "evidence": "Our business operations are in line with the principles of a Bank of Sustainability, which recognize a balance in the environment, society, governance and economic.",
+        "section": "Steering Business towards Sustainability"
+      }
+    ],
+    "sdg_summary": "Kasikornbank positions its SDG commitments primarily around climate action, financial literacy, and sustainable economic growth, with a strong emphasis on achieving net zero emissions and promoting responsible financial practices.",
+    "detection_notes": "The report did not explicitly list SDG numbers or icons, so the detection relied on textual evidence of commitments and strategies aligned with specific SDGs.",
+    "filename": "KBANK-2024-OR-EN.pdf",
+    "sector": "Banking & Finance",
+    "report_year": "2024",
+    "total_claims_analyzed": 89
+  },
+  {
+    "company": "Krungthai Bank",
+    "self_declared_sdgs": [
+      {
+        "sdg_number": 13,
+        "sdg_name": "Climate Action",
+        "confidence": "high",
+        "evidence": "The Board of Directors and Executives have worked together to develop policies, strategic plans, and business strategies to support Thailand’s transition and its path towards achieving net-zero greenhouse gas emissions.",
+        "section": "Message from the Chairman and CEO"
+      },
+      {
+        "sdg_number": 8,
+        "sdg_name": "Decent Work and Economic Growth",
+        "confidence": "medium",
+        "evidence": "The Bank is committed to creating opportunities for all Thai citizens to access financial resources comprehensively, reducing inequality and strengthening the economy at all levels to enhance the well-being and quality of life of people through Thailand’s Open Digital Platform.",
+        "section": "Business and Value Chain"
+      },
+      {
+        "sdg_number": 10,
+        "sdg_name": "Reduced Inequality",
+        "confidence": "medium",
+        "evidence": "The Bank emphasizes sustainable development by operating responsibly towards society and committing to enhancing financial knowledge and access for all groups.",
+        "section": "Strategy and Risk / Opportunity Management"
+      }
+    ],
+    "sdg_summary": "Krungthai Bank positions its SDG commitments primarily around climate action, economic growth, and reducing inequality, with a strong focus on achieving net-zero emissions and enhancing financial access for all.",
+    "detection_notes": "The report mentions integration with the UN SDGs, but specific SDG icons or numbers were not captured in the text provided. The focus was on explicit commitments and strategic alignments.",
+    "filename": "KTB-2024-SR-EN.pdf",
+    "sector": "Banking & Finance",
+    "report_year": "2024",
+    "total_claims_analyzed": 372
+  },
+  {
+    "company": "Minor International",
+    "self_declared_sdgs": [
+      {
+        "sdg_number": 9,
+        "sdg_name": "Industry, Innovation and Infrastructure",
+        "confidence": "high",
+        "evidence": "This chapter details our support for the following UN Sustainable Development Goals: 9: Industry, Innovation and Infrastructure",
+        "section": "Environmental Sustainability"
+      },
+      {
+        "sdg_number": 12,
+        "sdg_name": "Responsible Consumption and Production",
+        "confidence": "high",
+        "evidence": "This chapter details our support for the following UN Sustainable Development Goals: 12: Responsible Consumption and Production",
+        "section": "Environmental Sustainability"
+      },
+      {
+        "sdg_number": 13,
+        "sdg_name": "Climate Action",
+        "confidence": "high",
+        "evidence": "This chapter details our support for the following UN Sustainable Development Goals: 13: Climate Action",
+        "section": "Environmental Sustainability"
+      },
+      {
+        "sdg_number": 14,
+        "sdg_name": "Life Below Water",
+        "confidence": "high",
+        "evidence": "This chapter details our support for the following UN Sustainable Development Goals: 14: Life Below Water",
+        "section": "Environmental Sustainability"
+      },
+      {
+        "sdg_number": 15,
+        "sdg_name": "Life on Land",
+        "confidence": "high",
+        "evidence": "This chapter details our support for the following UN Sustainable Development Goals: 15: Life on Land",
+        "section": "Environmental Sustainability"
+      }
+    ],
+    "sdg_summary": "Minor International explicitly declares its commitment to SDGs 9, 12, 13, 14, and 15, focusing on industry innovation, responsible consumption, climate action, and biodiversity conservation.",
+    "detection_notes": "The report explicitly lists SDGs in the Environmental Sustainability section, suggesting that SDG icons or similar visual elements might have been used to highlight these commitments.",
+    "filename": "MINT-2024-SR-EN.pdf",
+    "sector": "Real Estate",
+    "report_year": "2024",
+    "total_claims_analyzed": 128
+  },
+  {
+    "company": "Osotspa",
+    "self_declared_sdgs": [
+      {
+        "sdg_number": 3,
+        "sdg_name": "Good Health and Well-being",
+        "confidence": "high",
+        "evidence": "The company aims to deliver products that promote consumer health and create a positive impact on society.",
+        "section": "Societal Commitments"
+      },
+      {
+        "sdg_number": 12,
+        "sdg_name": "Responsible Consumption and Production",
+        "confidence": "high",
+        "evidence": "100% of packaging must be recyclable, reusable, or compostable.",
+        "section": "Sustainable Packaging"
+      },
+      {
+        "sdg_number": 13,
+        "sdg_name": "Climate Action",
+        "confidence": "high",
+        "evidence": "The Company has set a goal for net-zero greenhouse gas emissions.",
+        "section": "Nomination, Remuneration, Corporate Governance and Sustainable Development Committee Report"
+      },
+      {
+        "sdg_number": 6,
+        "sdg_name": "Clean Water and Sanitation",
+        "confidence": "medium",
+        "evidence": "35% reduction of water intensity in the production process.",
+        "section": "Water Resources Management"
+      },
+      {
+        "sdg_number": 7,
+        "sdg_name": "Affordable and Clean Energy",
+        "confidence": "medium",
+        "evidence": "10% reduction of energy intensity in production.",
+        "section": "Energy Management and Climate Change Mitigation"
+      }
+    ],
+    "sdg_summary": "Osotspa positions its SDG commitments by focusing on health and well-being, sustainable packaging, climate action, water management, and energy efficiency.",
+    "detection_notes": "The report may have included SDG icons or visual representations that were not captured in the text, which could provide additional context or confirmation of commitments.",
+    "filename": "OSP-2024-OR+SR-EN.pdf",
+    "sector": "Food & Agribusiness",
+    "report_year": "2024",
+    "total_claims_analyzed": 270
+  },
+  {
+    "company": "PTT",
+    "self_declared_sdgs": [
+      {
+        "sdg_number": 7,
+        "sdg_name": "Affordable and Clean Energy",
+        "confidence": "high",
+        "evidence": "PTT prioritizes a balance between ensuring energy security and reducing greenhouse gas emissions at every step, striving to make cleaner energy accessible for all.",
+        "section": "Corporate Governance"
+      },
+      {
+        "sdg_number": 13,
+        "sdg_name": "Climate Action",
+        "confidence": "high",
+        "evidence": "PTT Group's achievement of these initiatives will be critical for both PTT Group and Thailand to reach Net Zero Emissions target.",
+        "section": "Message of the Chairman and the CEO"
+      },
+      {
+        "sdg_number": 12,
+        "sdg_name": "Responsible Consumption and Production",
+        "confidence": "medium",
+        "evidence": "Optimize resource utilization, strong commitment to the principle of circular economy.",
+        "section": "Environmental"
+      },
+      {
+        "sdg_number": 16,
+        "sdg_name": "Peace, Justice and Strong Institutions",
+        "confidence": "medium",
+        "evidence": "PTT continues to promote the improvement of GRC operations and received an ITA (Integrity & Transparency Assessment) assessment.",
+        "section": "Message of the Chairman and the CEO"
+      }
+    ],
+    "sdg_summary": "PTT explicitly commits to SDGs related to clean energy, climate action, responsible consumption, and strong institutions, focusing on energy security, emissions reduction, circular economy, and governance.",
+    "detection_notes": "The report likely includes SDG icons or visual elements that were not captured in the text, which could provide additional context or confirmation of SDG commitments.",
+    "filename": "PTT-2024-OR+SR-EN.pdf",
+    "sector": "Energy",
+    "report_year": "2024",
+    "total_claims_analyzed": 117
+  },
+  {
+    "company": "PTT Exploration and Production",
+    "self_declared_sdgs": [
+      {
+        "sdg_number": 3,
+        "sdg_name": "Good Health and Well-being",
+        "confidence": "medium",
+        "evidence": "The Sustainability Framework supports 17 United Nations Sustainable Development Goals (UN SDGs), focusing on Goals 3, 7, 8, 9, 12, 13, 14, 15 and 16, which are directly related to the Company’s strategies, business operations, and long-term targets.",
+        "section": "Our Business"
+      },
+      {
+        "sdg_number": 7,
+        "sdg_name": "Affordable and Clean Energy",
+        "confidence": "medium",
+        "evidence": "The Sustainability Framework supports 17 United Nations Sustainable Development Goals (UN SDGs), focusing on Goals 3, 7, 8, 9, 12, 13, 14, 15 and 16, which are directly related to the Company’s strategies, business operations, and long-term targets.",
+        "section": "Our Business"
+      },
+      {
+        "sdg_number": 8,
+        "sdg_name": "Decent Work and Economic Growth",
+        "confidence": "medium",
+        "evidence": "The Sustainability Framework supports 17 United Nations Sustainable Development Goals (UN SDGs), focusing on Goals 3, 7, 8, 9, 12, 13, 14, 15 and 16, which are directly related to the Company’s strategies, business operations, and long-term targets.",
+        "section": "Our Business"
+      },
+      {
+        "sdg_number": 9,
+        "sdg_name": "Industry, Innovation and Infrastructure",
+        "confidence": "medium",
+        "evidence": "The Sustainability Framework supports 17 United Nations Sustainable Development Goals (UN SDGs), focusing on Goals 3, 7, 8, 9, 12, 13, 14, 15 and 16, which are directly related to the Company’s strategies, business operations, and long-term targets.",
+        "section": "Our Business"
+      },
+      {
+        "sdg_number": 12,
+        "sdg_name": "Responsible Consumption and Production",
+        "confidence": "medium",
+        "evidence": "The Sustainability Framework supports 17 United Nations Sustainable Development Goals (UN SDGs), focusing on Goals 3, 7, 8, 9, 12, 13, 14, 15 and 16, which are directly related to the Company’s strategies, business operations, and long-term targets.",
+        "section": "Our Business"
+      },
+      {
+        "sdg_number": 13,
+        "sdg_name": "Climate Action",
+        "confidence": "medium",
+        "evidence": "The Sustainability Framework supports 17 United Nations Sustainable Development Goals (UN SDGs), focusing on Goals 3, 7, 8, 9, 12, 13, 14, 15 and 16, which are directly related to the Company’s strategies, business operations, and long-term targets.",
+        "section": "Our Business"
+      },
+      {
+        "sdg_number": 14,
+        "sdg_name": "Life Below Water",
+        "confidence": "medium",
+        "evidence": "The Sustainability Framework supports 17 United Nations Sustainable Development Goals (UN SDGs), focusing on Goals 3, 7, 8, 9, 12, 13, 14, 15 and 16, which are directly related to the Company’s strategies, business operations, and long-term targets.",
+        "section": "Our Business"
+      },
+      {
+        "sdg_number": 15,
+        "sdg_name": "Life on Land",
+        "confidence": "medium",
+        "evidence": "The Sustainability Framework supports 17 United Nations Sustainable Development Goals (UN SDGs), focusing on Goals 3, 7, 8, 9, 12, 13, 14, 15 and 16, which are directly related to the Company’s strategies, business operations, and long-term targets.",
+        "section": "Our Business"
+      },
+      {
+        "sdg_number": 16,
+        "sdg_name": "Peace, Justice and Strong Institutions",
+        "confidence": "medium",
+        "evidence": "The Sustainability Framework supports 17 United Nations Sustainable Development Goals (UN SDGs), focusing on Goals 3, 7, 8, 9, 12, 13, 14, 15 and 16, which are directly related to the Company’s strategies, business operations, and long-term targets.",
+        "section": "Our Business"
+      }
+    ],
+    "sdg_summary": "PTT Exploration and Production explicitly declares its commitment to nine specific UN Sustainable Development Goals, integrating them into its strategies, business operations, and long-term targets as part of its Sustainability Framework.",
+    "detection_notes": "The report explicitly mentions the company's focus on specific SDGs, but it is possible that SDG icons were used in the report to visually emphasize these commitments, which are not captured in the text.",
+    "filename": "PTTEP-2024-OR+SR-EN.pdf",
+    "sector": "Energy",
+    "report_year": "2024",
+    "total_claims_analyzed": 225
+  },
+  {
+    "company": "PTT Global Chemical",
+    "self_declared_sdgs": [
+      {
+        "sdg_number": 9,
+        "sdg_name": "Industry, Innovation and Infrastructure",
+        "confidence": "high",
+        "evidence": "GC aims to drive sustainable industrialization by boosting competitiveness in technological advancement and innovation research and development.",
+        "section": "Sustainable Development Goals Mapping"
+      },
+      {
+        "sdg_number": 13,
+        "sdg_name": "Climate Action",
+        "confidence": "high",
+        "evidence": "GC conducts business with consideration of climate change risks. Commitment to achieve Net Zero target by 2050.",
+        "section": "Sustainable Development Goals Mapping"
+      },
+      {
+        "sdg_number": 1,
+        "sdg_name": "No Poverty",
+        "confidence": "medium",
+        "evidence": "GC has been contributing to eradicate poverty in all forms through conducting Social Enterprise (SE) and Creating Shared Value (CSV) projects.",
+        "section": "Sustainable Development Goals Mapping"
+      },
+      {
+        "sdg_number": 3,
+        "sdg_name": "Good Health and Well-being",
+        "confidence": "medium",
+        "evidence": "GC ensures equitable accessibility to health services through donation programs and joint efforts to deliver medical innovations.",
+        "section": "Sustainable Development Goals Mapping"
+      }
+    ],
+    "sdg_summary": "PTT Global Chemical explicitly prioritizes SDGs related to industry innovation, climate action, poverty eradication, and health, aligning its strategic initiatives and sustainability efforts with these goals.",
+    "detection_notes": "The report likely includes SDG icons or visual elements that were not captured in the text, which could provide additional context or confirmation of the company's commitments.",
+    "filename": "PTTGC-2024-IR-EN.pdf",
+    "sector": "Energy",
+    "report_year": "2024",
+    "total_claims_analyzed": 166
+  },
+  {
+    "company": "Siam Commercial Bank",
+    "self_declared_sdgs": [
+      {
+        "sdg_number": 8,
+        "sdg_name": "Decent Work and Economic Growth",
+        "confidence": "medium",
+        "evidence": "SCBX Group is committed to developing a comprehensive suite of financial products and services, including investments, and digital assets accessible and inclusive for all, regardless of their location or background.",
+        "section": "Our Commitment"
+      },
+      {
+        "sdg_number": 9,
+        "sdg_name": "Industry, Innovation and Infrastructure",
+        "confidence": "medium",
+        "evidence": "SCBX Group is committed to leveraging cutting-edge technology, combined with deep financial expertise and customer insights, to enhance products and services.",
+        "section": "Advancing Digital Solutions for Finance and Investment"
+      },
+      {
+        "sdg_number": 13,
+        "sdg_name": "Climate Action",
+        "confidence": "high",
+        "evidence": "SCB is dedicated to offering a wide range of sustainable financial solutions tailored to diverse customer groups, as part of our commitment to advancing the Sustainable Development Goals and the objectives of the Paris Agreement.",
+        "section": "Championing Every Commitment for a Low-Carbon and Sustainable Economy"
+      }
+    ],
+    "sdg_summary": "Siam Commercial Bank positions its SDG commitments by focusing on sustainable financial solutions, leveraging technology for inclusive economic growth, and supporting climate action through strategic initiatives.",
+    "detection_notes": "The report likely contains visual elements such as SDG icons that were not captured in the text, which could provide additional context or confirmation of SDG commitments.",
+    "filename": "SCB-2024-SR-EN.pdf",
+    "sector": "Banking & Finance",
+    "report_year": "2024",
+    "total_claims_analyzed": 385
+  },
+  {
+    "company": "Siam Cement Group",
+    "self_declared_sdgs": [
+      {
+        "sdg_number": 13,
+        "sdg_name": "Climate Action",
+        "confidence": "high",
+        "evidence": "SCG joined hands with all sectors to accelerate a green transition following the Inclusive Green Growth approach and strive towards achieving the net-zero greenhouse gas emissions target by 2050.",
+        "section": "Message from President & CEO"
+      },
+      {
+        "sdg_number": 7,
+        "sdg_name": "Affordable and Clean Energy",
+        "confidence": "medium",
+        "evidence": "SCG is committed to developing technologies for energy transition from fossil fuels to clean energy by increasing the proportion of alternative and renewable energy.",
+        "section": "Message from President & CEO"
+      },
+      {
+        "sdg_number": 10,
+        "sdg_name": "Reduced Inequality",
+        "confidence": "medium",
+        "evidence": "SCG aims to reduce social inequality for 50,000 people by 2030.",
+        "section": "Message from President & CEO"
+      },
+      {
+        "sdg_number": 12,
+        "sdg_name": "Responsible Consumption and Production",
+        "confidence": "medium",
+        "evidence": "SCG Smart Living has developed its products using recycled and waste materials as components.",
+        "section": "Strategy & Risk Management"
+      },
+      {
+        "sdg_number": 15,
+        "sdg_name": "Life on Land",
+        "confidence": "medium",
+        "evidence": "The Quarry Rehabilitation and Biodiversity Working Group provides oversight to ensure compliance with international standards on biodiversity management.",
+        "section": "Biodiversity and Ecosystem"
+      }
+    ],
+    "sdg_summary": "Siam Cement Group explicitly prioritizes SDGs related to climate action, clean energy, reducing inequality, responsible consumption, and biodiversity. The company emphasizes its commitment to achieving net-zero emissions, transitioning to renewable energy, reducing social inequality, promoting circular economy practices, and preserving biodiversity.",
+    "detection_notes": "The report likely contains visual SDG icons or additional context not captured in the text, which could provide further evidence of SDG commitments.",
+    "filename": "SCC-2024-SR-EN.pdf",
+    "sector": "Construction Materials",
+    "report_year": "2024",
+    "total_claims_analyzed": 130
+  },
+  {
+    "company": "SCG Packaging",
+    "self_declared_sdgs": [
+      {
+        "sdg_number": 13,
+        "sdg_name": "Climate Action",
+        "confidence": "high",
+        "evidence": "SCGP is committed to reducing of greenhouse gas (GHG) emissions and addressing the climate crisis, with the determination to contribute positively to society. The Net Zero Emission long-term goal reflects SCGP’s commitment to achieving net zero emissions of GHGs by 2050.",
+        "section": "Climate Resilience"
+      },
+      {
+        "sdg_number": 12,
+        "sdg_name": "Responsible Consumption and Production",
+        "confidence": "high",
+        "evidence": "SCGP continuously applied the principles of circular economy to its product design and development, from raw material selection to sustainable packaging designs such as recyclable and compostable packaging, which reduces environmental impacts.",
+        "section": "Circular Economy"
+      },
+      {
+        "sdg_number": 15,
+        "sdg_name": "Life on Land",
+        "confidence": "medium",
+        "evidence": "SCGP recognizes the essential role of forests as carbon sinks. It therefore does not engage in deforestation. Through sustainable forestry practices and partnerships, the company supports forest conservation and biodiversity under its Natural Climate Solution (NCS) strategy.",
+        "section": "Strategies"
+      },
+      {
+        "sdg_number": 6,
+        "sdg_name": "Clean Water and Sanitation",
+        "confidence": "medium",
+        "evidence": "SCGP is committed to achieving comprehensive and sustainable water management, to reduce environmental impacts and support ecosystems and local communities.",
+        "section": "Water Management"
+      }
+    ],
+    "sdg_summary": "SCG Packaging explicitly commits to SDGs related to climate action, responsible consumption and production, life on land, and clean water and sanitation, focusing on reducing emissions, promoting circular economy, conserving biodiversity, and managing water sustainably.",
+    "detection_notes": "The report likely contains SDG icons or visual representations that were not captured in the text, which could provide additional context or confirmation of priorities.",
+    "filename": "SCGP-2024-SR-EN.pdf",
+    "sector": "Construction Materials",
+    "report_year": "2024",
+    "total_claims_analyzed": 288
+  },
+  {
+    "company": "TISCO Financial Group",
+    "self_declared_sdgs": [
+      {
+        "sdg_number": 13,
+        "sdg_name": "Climate Action",
+        "confidence": "high",
+        "evidence": "Carbon Neutral Scope 1 and 2 emissions by 2040. Net Zero operational greenhouse gas (GHG) Scope 1 and 2 emissions by 2050. We have also planned to achieve Net Zero GHG Scope 3 by 2065 for financed emissions.",
+        "section": "Metrics and Targets"
+      },
+      {
+        "sdg_number": 7,
+        "sdg_name": "Affordable and Clean Energy",
+        "confidence": "medium",
+        "evidence": "Set clean energy goals and goals for providing loan support for transition toward cleaner energy.",
+        "section": "Metrics and Targets"
+      },
+      {
+        "sdg_number": 16,
+        "sdg_name": "Peace, Justice and Strong Institutions",
+        "confidence": "medium",
+        "evidence": "TISCO Financial Group Plc., TISCO Bank Plc., TISCO Securities Co., Ltd., and TISCO Asset Management Co., Ltd. are members of the Thai Private Sector Collective Action Against Corruption (CAC) for the 3rd consecutive renewal cycle (2022–2025).",
+        "section": "About TISCO"
+      }
+    ],
+    "sdg_summary": "TISCO Financial Group explicitly commits to SDG 13 through its carbon neutrality and net-zero targets, SDG 7 by supporting clean energy transitions, and SDG 16 by participating in anti-corruption initiatives.",
+    "detection_notes": "The report likely contains SDG icons or visual elements that were not captured in the text, which could provide additional context or confirmation of commitments.",
+    "filename": "TISCO-2024-SR-EN.pdf",
+    "sector": "Banking & Finance",
+    "report_year": "2024",
+    "total_claims_analyzed": 265
+  },
+  {
+    "company": "Thai Oil",
+    "self_declared_sdgs": [
+      {
+        "sdg_number": 13,
+        "sdg_name": "Climate Action",
+        "confidence": "high",
+        "evidence": "The Company intensified its focus on climate change mitigation, including the establishment of Carbon Neutrality and Net Zero GHG Emission targets.",
+        "section": "Environmental Impact Management"
+      },
+      {
+        "sdg_number": 12,
+        "sdg_name": "Responsible Consumption and Production",
+        "confidence": "medium",
+        "evidence": "Suppliers/ Contractors expect Thaioil Group to apply circular economy principles through the procurement process and develop resource recovery process to ensure recyclability.",
+        "section": "Sustainability Governance"
+      },
+      {
+        "sdg_number": 15,
+        "sdg_name": "Life on Land",
+        "confidence": "medium",
+        "evidence": "Participation in a government-led reforestation project to reduce carbon dioxide.",
+        "section": "Natural Capital"
+      }
+    ],
+    "sdg_summary": "Thai Oil explicitly commits to SDG 13 by setting targets for Carbon Neutrality and Net Zero GHG Emissions, and aligns with SDGs 12 and 15 through circular economy practices and reforestation projects.",
+    "detection_notes": "The report likely contains SDG icons or visual elements that were not captured in the text, which could provide additional context or confirmation of commitments.",
+    "filename": "TOP-2024-IR-EN.pdf",
+    "sector": "Energy",
+    "report_year": "2024",
+    "total_claims_analyzed": 146
+  },
+  {
+    "company": "True Corporation",
+    "self_declared_sdgs": [
+      {
+        "sdg_number": 7,
+        "sdg_name": "Affordable and Clean Energy",
+        "confidence": "high",
+        "evidence": "Carbon Neutrality by 2030 and striving towards Net Zero by 2050 through the use of clean energy while optimizing the network system for maximum energy efficiency.",
+        "section": "Message from Chairman of the Board"
+      },
+      {
+        "sdg_number": 12,
+        "sdg_name": "Responsible Consumption and Production",
+        "confidence": "high",
+        "evidence": "Zero e-Waste to Landfill by 2030, utilizing technology to manage electronic devices throughout their lifecycle, from reuse, repurposing, to safe recycling.",
+        "section": "Message from Chairman of the Board"
+      },
+      {
+        "sdg_number": 4,
+        "sdg_name": "Quality Education",
+        "confidence": "high",
+        "evidence": "Technology for Equality by using digital educational platforms to provide opportunities for children and youth in remote areas to access quality content.",
+        "section": "Message from Chairman of the Board"
+      }
+    ],
+    "sdg_summary": "True Corporation explicitly prioritizes SDGs related to clean energy, responsible consumption, and quality education, focusing on carbon neutrality, e-waste management, and digital education access.",
+    "detection_notes": "The report likely includes SDG icons or visual elements that were not captured in the text, which could provide additional context or confirmation of the company's commitments.",
+    "filename": "TRUE-2024-SR-EN.pdf",
+    "sector": "Telecommunications",
+    "report_year": "2024",
+    "total_claims_analyzed": 180
+  },
+  {
+    "company": "Thai Union Group",
+    "self_declared_sdgs": [
+      {
+        "sdg_number": 12,
+        "sdg_name": "Responsible Consumption and Production",
+        "confidence": "high",
+        "evidence": "Thai Union’s approach continues to support our corporate purpose of ‘Healthy Living, Healthy Oceans’ and contributes to the United Nations Sustainable Development Goal 12 on responsible consumption and production.",
+        "section": "Sustainable Packaging"
+      }
+    ],
+    "sdg_summary": "Thai Union Group explicitly aligns its sustainability efforts with SDG 12, focusing on responsible consumption and production, particularly through sustainable packaging initiatives.",
+    "detection_notes": "The report may contain SDG icons or additional references not captured in the text provided, which could indicate further SDG commitments.",
+    "filename": "TU-2024-SR-EN.pdf",
+    "sector": "Food & Agribusiness",
+    "report_year": "2024",
+    "total_claims_analyzed": 202
+  },
+  {
+    "company": "WHA Corporation",
+    "self_declared_sdgs": [
+      {
+        "sdg_number": 6,
+        "sdg_name": "Clean Water and Sanitation",
+        "confidence": "high",
+        "evidence": "Reduce the usage of water from natural sources by approximately 25 million cubic meters by 2029 to ensure sustainable water reserves",
+        "section": "Sustainability at WHA Group"
+      },
+      {
+        "sdg_number": 7,
+        "sdg_name": "Affordable and Clean Energy",
+        "confidence": "high",
+        "evidence": "Promote renewable energy usage with WHA Group’s support by providing solar rooftop installation with no service fee.",
+        "section": "Highlight Projects"
+      },
+      {
+        "sdg_number": 12,
+        "sdg_name": "Responsible Consumption and Production",
+        "confidence": "high",
+        "evidence": "The Group also practices waste management based on the Circular Economy concept, aiming for a Zero Waste target, eliminating landfill and incinerated waste by 2029.",
+        "section": "Environmental Performance"
+      },
+      {
+        "sdg_number": 13,
+        "sdg_name": "Climate Action",
+        "confidence": "high",
+        "evidence": "The Group aims to become a Net Zero organization by 2050 under the framework of the Science Based Targets initiative (SBTi).",
+        "section": "Environmental Performance"
+      },
+      {
+        "sdg_number": 15,
+        "sdg_name": "Life on Land",
+        "confidence": "medium",
+        "evidence": "Commit to zero deforestation (No Gross Deforestation) by 2030 and achieve a net positive impact on biodiversity (Net Positive Impact) by 2050",
+        "section": "Sustainability at WHA Group"
+      }
+    ],
+    "sdg_summary": "WHA Corporation explicitly prioritizes SDGs related to clean water, clean energy, responsible consumption, climate action, and life on land, with specific targets and commitments outlined in their sustainability strategy.",
+    "detection_notes": "The detection is based on explicit textual commitments and targets related to specific SDGs. Icons or visual representations of SDGs were not captured as text.",
+    "filename": "WHA-2024-SR-EN.pdf",
+    "sector": "Real Estate",
+    "report_year": "2024",
+    "total_claims_analyzed": 596
+  },
+  {
+    "company": "Advanced Info Service",
+    "self_declared_sdgs": [
+      {
+        "sdg_number": 4,
+        "sdg_name": "Quality Education",
+        "confidence": "high",
+        "evidence": "Open up educational opportunities by providing scholarships to young people in need.",
+        "section": "Business Overview"
+      },
+      {
+        "sdg_number": 9,
+        "sdg_name": "Industry, Innovation and Infrastructure",
+        "confidence": "high",
+        "evidence": "Expand the mobile network with coverage over 98% of total population and the broadband internet network to reach 20 million households in 77 provinces.",
+        "section": "Business Overview"
+      },
+      {
+        "sdg_number": 13,
+        "sdg_name": "Climate Action",
+        "confidence": "high",
+        "evidence": "AIS reduced greenhouse gas emissions by 42,108 tCO₂e.",
+        "section": "Act on Climate"
+      }
+    ],
+    "sdg_summary": "Advanced Info Service explicitly commits to SDG 4 (Quality Education), SDG 9 (Industry, Innovation and Infrastructure), and SDG 13 (Climate Action) through initiatives like educational scholarships, network expansion, and greenhouse gas reduction.",
+    "detection_notes": "The report likely includes SDG icons or visual elements that were not captured in the text, which could provide additional context or confirmation of SDG commitments.",
+    "filename": "advanc-2024-SR-en.pdf",
+    "sector": "Telecommunications",
+    "report_year": "2024",
+    "total_claims_analyzed": 193
+  }
+]

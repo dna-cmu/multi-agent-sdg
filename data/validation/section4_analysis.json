@@ -1,0 +1,553 @@
+{
+  "expert_vs_ai_v7": {
+    "specificity": {
+      "n": 62,
+      "mean_E": 1.967741935483871,
+      "mean_AI": 1.6451612903225807,
+      "bias": 0.32258064516129026,
+      "pct_agree": 50.0,
+      "wkappa": 0.4735264735264739,
+      "wkappa_ci": [
+        0.33767587285044187,
+        0.583193277310925
+      ],
+      "alpha": 0.45699825891757007
+    },
+    "measurability": {
+      "n": 62,
+      "mean_E": 1.1290322580645162,
+      "mean_AI": 0.8387096774193549,
+      "bias": 0.29032258064516137,
+      "pct_agree": 72.58064516129032,
+      "wkappa": 0.7420574886535554,
+      "wkappa_ci": [
+        0.5705432008749546,
+        0.8801932367149765
+      ],
+      "alpha": 0.7411747305507308
+    },
+    "temporality": {
+      "n": 62,
+      "mean_E": 1.1129032258064515,
+      "mean_AI": 1,
+      "bias": 0.11290322580645151,
+      "pct_agree": 61.29032258064516,
+      "wkappa": 0.7555555555555559,
+      "wkappa_ci": [
+        0.6099290780141845,
+        0.8536969061352913
+      ],
+      "alpha": 0.7262299474242364
+    },
+    "evidence": {
+      "n": 62,
+      "mean_E": 0.9354838709677419,
+      "mean_AI": 1.2419354838709677,
+      "bias": -0.30645161290322587,
+      "pct_agree": 35.483870967741936,
+      "wkappa": 0.5902244082385485,
+      "wkappa_ci": [
+        0.3510941960038056,
+        0.7285207100591713
+      ],
+      "alpha": 0.35247074937243505
+    },
+    "consistency": {
+      "n": 61,
+      "mean_E": 2.5245901639344264,
+      "mean_AI": 2.7049180327868854,
+      "bias": -0.180327868852459,
+      "pct_agree": 54.09836065573771,
+      "wkappa": 0.35261896610749704,
+      "wkappa_ci": [
+        0.08721675929884676,
+        0.5611510791366903
+      ],
+      "alpha": 0.2558805546599566
+    },
+    "pooled": {
+      "n": 309,
+      "mean_E": 1.5307443365695792,
+      "mean_AI": 1.4822006472491909,
+      "bias": 0.04854368932038833,
+      "pct_agree": 54.69255663430421,
+      "wkappa": 0.7549143604364507,
+      "wkappa_ci": [
+        0.6980563235478002,
+        0.8008615879689103
+      ],
+      "alpha": 0.7566378363327425
+    }
+  },
+  "claim_type_breakdown": {
+    "commitment": {
+      "n": 131,
+      "wkappa": null,
+      "mean_E": 1.2595419847328244,
+      "mean_AI": 1.3053435114503817
+    },
+    "achievement": {
+      "n": 65,
+      "wkappa": null,
+      "mean_E": 2.1076923076923078,
+      "mean_AI": 1.8461538461538463
+    },
+    "metric": {
+      "n": 54,
+      "wkappa": null,
+      "mean_E": 1.6481481481481481,
+      "mean_AI": 1.7222222222222223
+    },
+    "policy": {
+      "n": 29,
+      "wkappa": null,
+      "mean_E": 1.1379310344827587,
+      "mean_AI": 0.9655172413793104
+    },
+    "alignment": {
+      "n": 15,
+      "wkappa": null,
+      "mean_E": 1.2,
+      "mean_AI": 1.1333333333333333
+    },
+    "target": {
+      "n": 15,
+      "wkappa": null,
+      "mean_E": 2.066666666666667,
+      "mean_AI": 1.9333333333333333
+    }
+  },
+  "sector_breakdown": {
+    "Real Estate": {
+      "n": 55,
+      "wkappa": null,
+      "mean_E": 1.5636363636363637,
+      "mean_AI": 1.490909090909091
+    },
+    "Banking & Finance": {
+      "n": 54,
+      "wkappa": null,
+      "mean_E": 1.3148148148148149,
+      "mean_AI": 1.3703703703703705
+    },
+    "Food & Agribusiness": {
+      "n": 45,
+      "wkappa": null,
+      "mean_E": 1.8222222222222222,
+      "mean_AI": 1.6222222222222222
+    },
+    "Energy": {
+      "n": 45,
+      "wkappa": null,
+      "mean_E": 1.3555555555555556,
+      "mean_AI": 1.3555555555555556
+    },
+    "Retail": {
+      "n": 35,
+      "wkappa": null,
+      "mean_E": 1.6285714285714286,
+      "mean_AI": 1.542857142857143
+    },
+    "Telecommunications": {
+      "n": 34,
+      "wkappa": null,
+      "mean_E": 1.588235294117647,
+      "mean_AI": 1.6176470588235294
+    },
+    "Healthcare": {
+      "n": 16,
+      "wkappa": null,
+      "mean_E": 1.3125,
+      "mean_AI": 1.375
+    },
+    "Construction Materials": {
+      "n": 10,
+      "wkappa": null,
+      "mean_E": 1.4,
+      "mean_AI": 1.1
+    },
+    "Transportation": {
+      "n": 10,
+      "wkappa": null,
+      "mean_E": 1.8,
+      "mean_AI": 1.6
+    },
+    "Technology": {
+      "n": 5,
+      "wkappa": null,
+      "mean_E": 1.8,
+      "mean_AI": 2
+    }
+  },
+  "tier_crosstab": {
+    "partially_substantive_vs_substantive": 3,
+    "substantive_vs_partially_substantive": 5,
+    "substantive_vs_substantive": 10,
+    "partially_substantive_vs_partially_substantive": 29,
+    "partially_substantive_vs_symbolic": 4,
+    "symbolic_vs_symbolic": 1,
+    "symbolic_vs_partially_substantive": 8
+  },
+  "top_disagreements": [
+    {
+      "claim_id": "CLM-0277",
+      "company": "SCG Packaging",
+      "claim_type": "policy",
+      "sector": "Construction Materials",
+      "claim_text": "308-2 Negative environmental impacts in the supply chain and actions taken",
+      "E_composite": 1.0,
+      "AI_composite": 0.2,
+      "delta": 0.8,
+      "E_scores": {
+        "specificity": 2,
+        "measurability": 0,
+        "temporality": 0,
+        "evidence": 0,
+        "consistency": 3
+      },
+      "AI_scores": {
+        "specificity": 0,
+        "measurability": 0,
+        "temporality": 0,
+        "evidence": 0,
+        "consistency": 1
+      }
+    },
+    {
+      "claim_id": "CLM-0046",
+      "company": "WHA Corporation",
+      "claim_type": "commitment",
+      "sector": "Real Estate",
+      "claim_text": "Zero Waste to Landfill and incineration without energy recovery by 2029",
+      "E_composite": 2.4,
+      "AI_composite": 1.6,
+      "delta": 0.7999999999999998,
+      "E_scores": {
+        "specificity": 3,
+        "measurability": 3,
+        "temporality": 3,
+        "evidence": 0,
+        "consistency": 3
+      },
+      "AI_scores": {
+        "specificity": 2,
+        "measurability": 0,
+        "temporality": 2,
+        "evidence": 1,
+        "consistency": 3
+      }
+    },
+    {
+      "claim_id": "CLM-0024",
+      "company": "Charoen Pokphand Foods",
+      "claim_type": "achievement",
+      "sector": "Food & Agribusiness",
+      "claim_text": "Listed as a member of the Dow Jones Sustainability Index for Emerging Markets in Food Products Industry Group for the 10th consecutive year.",
+      "E_composite": 3.0,
+      "AI_composite": 2.2,
+      "delta": 0.7999999999999998,
+      "E_scores": {
+        "specificity": 3,
+        "measurability": 3,
+        "temporality": 3,
+        "evidence": 3,
+        "consistency": 3
+      },
+      "AI_scores": {
+        "specificity": 2,
+        "measurability": 2,
+        "temporality": 1,
+        "evidence": 3,
+        "consistency": 3
+      }
+    },
+    {
+      "claim_id": "CLM-0014",
+      "company": "CP ALL",
+      "claim_type": "achievement",
+      "sector": "Retail",
+      "claim_text": "We also retained our position in the global FTSE4Good Index\u2019s Food Retailers & Wholesalers category for the 7th consecutive year.",
+      "E_composite": 3.0,
+      "AI_composite": 2.4,
+      "delta": 0.6000000000000001,
+      "E_scores": {
+        "specificity": 3,
+        "measurability": 3,
+        "temporality": 3,
+        "evidence": 3,
+        "consistency": 3
+      },
+      "AI_scores": {
+        "specificity": 2,
+        "measurability": 2,
+        "temporality": 2,
+        "evidence": 3,
+        "consistency": 3
+      }
+    },
+    {
+      "claim_id": "CLM-0031",
+      "company": "Charoen Pokphand Foods",
+      "claim_type": "achievement",
+      "sector": "Food & Agribusiness",
+      "claim_text": "CP Vietnam received 2 sustainability awards: 1.) 100 Top Sustainable Organizations of Vietnam in the Manufacturing Sector (CSI 100) and 2.) the Special Award for Top 5 Pioneer Organizations in Implementing Circular Economy and Reducing Greenhouse Gas Emissions 2024 from the Vietnam Business Council for Sustainable Development (VBCSD) and the Vietnam Chamber of Commerce and Industry (VCCI).",
+      "E_composite": 2.2,
+      "AI_composite": 1.6,
+      "delta": 0.6000000000000001,
+      "E_scores": {
+        "specificity": 2,
+        "measurability": 2,
+        "temporality": 2,
+        "evidence": 3,
+        "consistency": 2
+      },
+      "AI_scores": {
+        "specificity": 2,
+        "measurability": 0,
+        "temporality": 2,
+        "evidence": 1,
+        "consistency": 3
+      }
+    },
+    {
+      "claim_id": "CLM-0079",
+      "company": "Osotspa",
+      "claim_type": "metric",
+      "sector": "Food & Agribusiness",
+      "claim_text": "Test results confirm that Glycyrrhizic acid in licorice has anti-inflammatory and antioxidant properties, and thus can relieve sore throats.",
+      "E_composite": 1.0,
+      "AI_composite": 1.6,
+      "delta": -0.6000000000000001,
+      "E_scores": {
+        "specificity": 2,
+        "measurability": 0,
+        "temporality": 0,
+        "evidence": 1,
+        "consistency": 2
+      },
+      "AI_scores": {
+        "specificity": 2,
+        "measurability": 0,
+        "temporality": 1,
+        "evidence": 2,
+        "consistency": 3
+      }
+    },
+    {
+      "claim_id": "CLM-0140",
+      "company": "Thai Oil",
+      "claim_type": "achievement",
+      "sector": "Energy",
+      "claim_text": "Through Thaioil Group\u2019s comprehensive operations, encompassing both product manufacturing and service delivery, the Company has achieved a higher level of customer engagement that surpasses the predetermined targets.",
+      "E_composite": 0.6,
+      "AI_composite": 1.2,
+      "delta": -0.6,
+      "E_scores": {
+        "specificity": 1,
+        "measurability": 0,
+        "temporality": 0,
+        "evidence": 0,
+        "consistency": 2
+      },
+      "AI_scores": {
+        "specificity": 1,
+        "measurability": 0,
+        "temporality": 1,
+        "evidence": 1,
+        "consistency": 3
+      }
+    },
+    {
+      "claim_id": "CLM-0167",
+      "company": "WHA Corporation",
+      "claim_type": "commitment",
+      "sector": "Real Estate",
+      "claim_text": "WHA Group places strong emphasis on effective human resources management and has implemented a 5-year strategic framework (2022 - 2026) with the objective of becoming one of the most desirable employers in Thailand and the region.",
+      "E_composite": 2.4,
+      "AI_composite": 1.8,
+      "delta": 0.5999999999999999,
+      "E_scores": {
+        "specificity": 3,
+        "measurability": 3,
+        "temporality": 3,
+        "evidence": 0,
+        "consistency": 3
+      },
+      "AI_scores": {
+        "specificity": 2,
+        "measurability": 0,
+        "temporality": 3,
+        "evidence": 1,
+        "consistency": 3
+      }
+    },
+    {
+      "claim_id": "CLM-0172",
+      "company": "Osotspa",
+      "claim_type": "achievement",
+      "sector": "Food & Agribusiness",
+      "claim_text": "Reduced the cleaning time of the Reverse Osmosis (RO) system from 30 minutes to just 15 minutes on non-production days, which decreased the amount of water used for system cleaning.",
+      "E_composite": 2.4,
+      "AI_composite": 1.8,
+      "delta": 0.5999999999999999,
+      "E_scores": {
+        "specificity": 3,
+        "measurability": 3,
+        "temporality": 1,
+        "evidence": 2,
+        "consistency": 3
+      },
+      "AI_scores": {
+        "specificity": 2,
+        "measurability": 2,
+        "temporality": 1,
+        "evidence": 1,
+        "consistency": 3
+      }
+    },
+    {
+      "claim_id": "CLM-0108",
+      "company": "True Corporation",
+      "claim_type": "commitment",
+      "sector": "Telecommunications",
+      "claim_text": "True, in collaboration with the Department of Children and Youth (DCY), aims to improve the quality of life for children in care institutions who must leave when they turn 18.",
+      "E_composite": 0.8,
+      "AI_composite": 1.4,
+      "delta": -0.5999999999999999,
+      "E_scores": {
+        "specificity": 2,
+        "measurability": 0,
+        "temporality": 0,
+        "evidence": 0,
+        "consistency": 2
+      },
+      "AI_scores": {
+        "specificity": 2,
+        "measurability": 0,
+        "temporality": 1,
+        "evidence": 1,
+        "consistency": 3
+      }
+    },
+    {
+      "claim_id": "CLM-0013",
+      "company": "Minor International",
+      "claim_type": "commitment",
+      "sector": "Real Estate",
+      "claim_text": "People development targets: 3 million people developed and supported by 2030",
+      "E_composite": 1.8,
+      "AI_composite": 2.2,
+      "delta": -0.40000000000000013,
+      "E_scores": {
+        "specificity": 2,
+        "measurability": 2,
+        "temporality": 3,
+        "evidence": 0,
+        "consistency": 2
+      },
+      "AI_scores": {
+        "specificity": 2,
+        "measurability": 2,
+        "temporality": 3,
+        "evidence": 1,
+        "consistency": 3
+      }
+    },
+    {
+      "claim_id": "CLM-0014",
+      "company": "Airports of Thailand",
+      "claim_type": "policy",
+      "sector": "Transportation",
+      "claim_text": "AOT has subsequently developed the incentive schemes for airlines in response to the state policy on visa-free travel, as well as promoting and stimulating airlines to enhance international flights and passengers.",
+      "E_composite": 1.6,
+      "AI_composite": 1.2,
+      "delta": 0.40000000000000013,
+      "E_scores": {
+        "specificity": 2,
+        "measurability": 1,
+        "temporality": 1,
+        "evidence": 1,
+        "consistency": 3
+      },
+      "AI_scores": {
+        "specificity": 2,
+        "measurability": 0,
+        "temporality": 0,
+        "evidence": 1,
+        "consistency": 3
+      }
+    },
+    {
+      "claim_id": "CLM-0148",
+      "company": "Global Power Synergy",
+      "claim_type": "alignment",
+      "sector": "Energy",
+      "claim_text": "The scope of assurance is based on the SGS Sustainability Report Assurance methodology and AA1000 Assurance Standard v3 Type 2 Moderate level to assess whether the text and data in accompanying tables contained in the report and complies with the GRI Standards and AA1000 Accountability Principles (2018).",
+      "E_composite": 1.4,
+      "AI_composite": 1.8,
+      "delta": -0.40000000000000013,
+      "E_scores": {
+        "specificity": 2,
+        "measurability": 0,
+        "temporality": 0,
+        "evidence": 3,
+        "consistency": 2
+      },
+      "AI_scores": {
+        "specificity": 1,
+        "measurability": 0,
+        "temporality": 2,
+        "evidence": 3,
+        "consistency": 3
+      }
+    },
+    {
+      "claim_id": "CLM-0042",
+      "company": "Kasikornbank",
+      "claim_type": "achievement",
+      "sector": "Banking & Finance",
+      "claim_text": "In 2024, the Bank monitored and assessed operating results in accordance with the Corporate Governance Policy on a regular basis.",
+      "E_composite": 1.8,
+      "AI_composite": 1.4,
+      "delta": 0.40000000000000013,
+      "E_scores": {
+        "specificity": 2,
+        "measurability": 0,
+        "temporality": 2,
+        "evidence": 2,
+        "consistency": 3
+      },
+      "AI_scores": {
+        "specificity": 1,
+        "measurability": 0,
+        "temporality": 2,
+        "evidence": 1,
+        "consistency": 3
+      }
+    },
+    {
+      "claim_id": "CLM-0067",
+      "company": "Minor International",
+      "claim_type": "achievement",
+      "sector": "Real Estate",
+      "claim_text": "In 2024, no material non-compliance with regards to ethical business conducts, human rights laws and regulations, health and safety impacts of our products and services and our marketing communications were identified.",
+      "E_composite": 1.8,
+      "AI_composite": 1.4,
+      "delta": 0.40000000000000013,
+      "E_scores": {
+        "specificity": 2,
+        "measurability": 0,
+        "temporality": 2,
+        "evidence": 2,
+        "consistency": 3
+      },
+      "AI_scores": {
+        "specificity": 1,
+        "measurability": 0,
+        "temporality": 2,
+        "evidence": 1,
+        "consistency": 3
+      }
+    }
+  ]
+}

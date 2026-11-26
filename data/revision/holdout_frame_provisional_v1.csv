@@ -1,0 +1,90 @@
+component,uid,report,company,sector,claim_type
+random,PTT-2024-OR+SR-EN::CLM-0004,PTT-2024-OR+SR-EN,PTT,Energy,commitment
+random,SCC-2024-SR-EN::CLM-0123,SCC-2024-SR-EN,Siam Cement Group,Construction Materials,achievement
+random,advanc-2024-SR-en::CLM-0068,advanc-2024-SR-en,Advanced Info Service,Telecommunications,commitment
+random,advanc-2024-SR-en::CLM-0078,advanc-2024-SR-en,Advanced Info Service,Telecommunications,commitment
+random,IVL-2024-SR-EN::CLM-0080,IVL-2024-SR-EN,Indorama Ventures,Construction Materials,policy
+random,IVL-2024-SR-EN::CLM-0226,IVL-2024-SR-EN,Indorama Ventures,Construction Materials,commitment
+random,IVL-2024-SR-EN::CLM-0074,IVL-2024-SR-EN,Indorama Ventures,Construction Materials,commitment
+random,PTT-2024-OR+SR-EN::CLM-0092,PTT-2024-OR+SR-EN,PTT,Energy,commitment
+random,advanc-2024-SR-en::CLM-0106,advanc-2024-SR-en,Advanced Info Service,Telecommunications,metric
+random,PTT-2024-OR+SR-EN::CLM-0078,PTT-2024-OR+SR-EN,PTT,Energy,commitment
+random,CPN-2024-OR+SR-EN::CLM-0073,CPN-2024-OR+SR-EN,Central Pattana,Real Estate,target
+random,PTT-2024-OR+SR-EN::CLM-0093,PTT-2024-OR+SR-EN,PTT,Energy,commitment
+random,advanc-2024-SR-en::CLM-0114,advanc-2024-SR-en,Advanced Info Service,Telecommunications,achievement
+random,PTT-2024-OR+SR-EN::CLM-0029,PTT-2024-OR+SR-EN,PTT,Energy,commitment
+random,IVL-2024-SR-EN::CLM-0261,IVL-2024-SR-EN,Indorama Ventures,Construction Materials,commitment
+random,advanc-2024-SR-en::CLM-0125,advanc-2024-SR-en,Advanced Info Service,Telecommunications,commitment
+random,PTT-2024-OR+SR-EN::CLM-0066,PTT-2024-OR+SR-EN,PTT,Energy,metric
+random,advanc-2024-SR-en::CLM-0135,advanc-2024-SR-en,Advanced Info Service,Telecommunications,commitment
+random,IVL-2024-SR-EN::CLM-0064,IVL-2024-SR-EN,Indorama Ventures,Construction Materials,policy
+random,CPN-2024-OR+SR-EN::CLM-0066,CPN-2024-OR+SR-EN,Central Pattana,Real Estate,commitment
+random,PTTGC-2024-IR-EN::CLM-0029,PTTGC-2024-IR-EN,PTT Global Chemical,Energy,achievement
+random,IVL-2024-SR-EN::CLM-0140,IVL-2024-SR-EN,Indorama Ventures,Construction Materials,commitment
+random,advanc-2024-SR-en::CLM-0067,advanc-2024-SR-en,Advanced Info Service,Telecommunications,commitment
+random,IVL-2024-SR-EN::CLM-0131,IVL-2024-SR-EN,Indorama Ventures,Construction Materials,achievement
+random,PTTGC-2024-IR-EN::CLM-0068,PTTGC-2024-IR-EN,PTT Global Chemical,Energy,achievement
+random,PTT-2024-OR+SR-EN::CLM-0113,PTT-2024-OR+SR-EN,PTT,Energy,commitment
+random,SCC-2024-SR-EN::CLM-0014,SCC-2024-SR-EN,Siam Cement Group,Construction Materials,commitment
+random,PTTGC-2024-IR-EN::CLM-0125,PTTGC-2024-IR-EN,PTT Global Chemical,Energy,metric
+random,PTTGC-2024-IR-EN::CLM-0079,PTTGC-2024-IR-EN,PTT Global Chemical,Energy,commitment
+random,IVL-2024-SR-EN::CLM-0125,IVL-2024-SR-EN,Indorama Ventures,Construction Materials,policy
+random,SCC-2024-SR-EN::CLM-0024,SCC-2024-SR-EN,Siam Cement Group,Construction Materials,metric
+random,PTT-2024-OR+SR-EN::CLM-0012,PTT-2024-OR+SR-EN,PTT,Energy,metric
+random,SCC-2024-SR-EN::CLM-0129,SCC-2024-SR-EN,Siam Cement Group,Construction Materials,alignment
+random,CPN-2024-OR+SR-EN::CLM-0033,CPN-2024-OR+SR-EN,Central Pattana,Real Estate,commitment
+random,IVL-2024-SR-EN::CLM-0262,IVL-2024-SR-EN,Indorama Ventures,Construction Materials,commitment
+random,PTT-2024-OR+SR-EN::CLM-0094,PTT-2024-OR+SR-EN,PTT,Energy,commitment
+random,advanc-2024-SR-en::CLM-0015,advanc-2024-SR-en,Advanced Info Service,Telecommunications,achievement
+random,PTT-2024-OR+SR-EN::CLM-0031,PTT-2024-OR+SR-EN,PTT,Energy,policy
+random,PTT-2024-OR+SR-EN::CLM-0046,PTT-2024-OR+SR-EN,PTT,Energy,commitment
+random,IVL-2024-SR-EN::CLM-0252,IVL-2024-SR-EN,Indorama Ventures,Construction Materials,commitment
+random,IVL-2024-SR-EN::CLM-0185,IVL-2024-SR-EN,Indorama Ventures,Construction Materials,policy
+random,advanc-2024-SR-en::CLM-0186,advanc-2024-SR-en,Advanced Info Service,Telecommunications,metric
+random,PTTGC-2024-IR-EN::CLM-0038,PTTGC-2024-IR-EN,PTT Global Chemical,Energy,achievement
+random,PTTGC-2024-IR-EN::CLM-0024,PTTGC-2024-IR-EN,PTT Global Chemical,Energy,metric
+random,IVL-2024-SR-EN::CLM-0009,IVL-2024-SR-EN,Indorama Ventures,Construction Materials,achievement
+random,PTT-2024-OR+SR-EN::CLM-0065,PTT-2024-OR+SR-EN,PTT,Energy,metric
+random,IVL-2024-SR-EN::CLM-0158,IVL-2024-SR-EN,Indorama Ventures,Construction Materials,commitment
+random,advanc-2024-SR-en::CLM-0077,advanc-2024-SR-en,Advanced Info Service,Telecommunications,commitment
+random,PTTGC-2024-IR-EN::CLM-0123,PTTGC-2024-IR-EN,PTT Global Chemical,Energy,metric
+random,SCC-2024-SR-EN::CLM-0130,SCC-2024-SR-EN,Siam Cement Group,Construction Materials,commitment
+random,IVL-2024-SR-EN::CLM-0195,IVL-2024-SR-EN,Indorama Ventures,Construction Materials,commitment
+random,advanc-2024-SR-en::CLM-0150,advanc-2024-SR-en,Advanced Info Service,Telecommunications,commitment
+random,advanc-2024-SR-en::CLM-0158,advanc-2024-SR-en,Advanced Info Service,Telecommunications,achievement
+random,IVL-2024-SR-EN::CLM-0082,IVL-2024-SR-EN,Indorama Ventures,Construction Materials,policy
+random,PTTGC-2024-IR-EN::CLM-0035,PTTGC-2024-IR-EN,PTT Global Chemical,Energy,commitment
+random,SCC-2024-SR-EN::CLM-0028,SCC-2024-SR-EN,Siam Cement Group,Construction Materials,metric
+random,advanc-2024-SR-en::CLM-0159,advanc-2024-SR-en,Advanced Info Service,Telecommunications,achievement
+random,advanc-2024-SR-en::CLM-0182,advanc-2024-SR-en,Advanced Info Service,Telecommunications,achievement
+random,advanc-2024-SR-en::CLM-0037,advanc-2024-SR-en,Advanced Info Service,Telecommunications,commitment
+random,CPN-2024-OR+SR-EN::CLM-0017,CPN-2024-OR+SR-EN,Central Pattana,Real Estate,commitment
+challenge,CPN-2024-OR+SR-EN::CLM-0069,CPN-2024-OR+SR-EN,Central Pattana,Real Estate,commitment
+challenge,PTTGC-2024-IR-EN::CLM-0072,PTTGC-2024-IR-EN,PTT Global Chemical,Energy,commitment
+challenge,PTT-2024-OR+SR-EN::CLM-0042,PTT-2024-OR+SR-EN,PTT,Energy,commitment
+challenge,CPN-2024-OR+SR-EN::CLM-0042,CPN-2024-OR+SR-EN,Central Pattana,Real Estate,commitment
+challenge,IVL-2024-SR-EN::CLM-0033,IVL-2024-SR-EN,Indorama Ventures,Construction Materials,commitment
+challenge,SCC-2024-SR-EN::CLM-0031,SCC-2024-SR-EN,Siam Cement Group,Construction Materials,commitment
+challenge,advanc-2024-SR-en::CLM-0049,advanc-2024-SR-en,Advanced Info Service,Telecommunications,achievement
+challenge,advanc-2024-SR-en::CLM-0016,advanc-2024-SR-en,Advanced Info Service,Telecommunications,achievement
+challenge,PTTGC-2024-IR-EN::CLM-0044,PTTGC-2024-IR-EN,PTT Global Chemical,Energy,achievement
+challenge,SCC-2024-SR-EN::CLM-0091,SCC-2024-SR-EN,Siam Cement Group,Construction Materials,achievement
+challenge,CPN-2024-OR+SR-EN::CLM-0015,CPN-2024-OR+SR-EN,Central Pattana,Real Estate,achievement
+challenge,IVL-2024-SR-EN::CLM-0014,IVL-2024-SR-EN,Indorama Ventures,Construction Materials,achievement
+challenge,SCC-2024-SR-EN::CLM-0128,SCC-2024-SR-EN,Siam Cement Group,Construction Materials,metric
+challenge,IVL-2024-SR-EN::CLM-0153,IVL-2024-SR-EN,Indorama Ventures,Construction Materials,metric
+challenge,PTTGC-2024-IR-EN::CLM-0097,PTTGC-2024-IR-EN,PTT Global Chemical,Energy,metric
+challenge,PTT-2024-OR+SR-EN::CLM-0063,PTT-2024-OR+SR-EN,PTT,Energy,metric
+challenge,advanc-2024-SR-en::CLM-0128,advanc-2024-SR-en,Advanced Info Service,Telecommunications,metric
+challenge,advanc-2024-SR-en::CLM-0126,advanc-2024-SR-en,Advanced Info Service,Telecommunications,metric
+challenge,SCC-2024-SR-EN::CLM-0027,SCC-2024-SR-EN,Siam Cement Group,Construction Materials,policy
+challenge,CPN-2024-OR+SR-EN::CLM-0031,CPN-2024-OR+SR-EN,Central Pattana,Real Estate,policy
+challenge,PTTGC-2024-IR-EN::CLM-0151,PTTGC-2024-IR-EN,PTT Global Chemical,Energy,policy
+challenge,IVL-2024-SR-EN::CLM-0123,IVL-2024-SR-EN,Indorama Ventures,Construction Materials,policy
+challenge,IVL-2024-SR-EN::CLM-0236,IVL-2024-SR-EN,Indorama Ventures,Construction Materials,alignment
+challenge,IVL-2024-SR-EN::CLM-0243,IVL-2024-SR-EN,Indorama Ventures,Construction Materials,alignment
+challenge,advanc-2024-SR-en::CLM-0154,advanc-2024-SR-en,Advanced Info Service,Telecommunications,alignment
+challenge,PTT-2024-OR+SR-EN::CLM-0117,PTT-2024-OR+SR-EN,PTT,Energy,alignment
+challenge,advanc-2024-SR-en::CLM-0039,advanc-2024-SR-en,Advanced Info Service,Telecommunications,target
+challenge,CPN-2024-OR+SR-EN::CLM-0068,CPN-2024-OR+SR-EN,Central Pattana,Real Estate,target
+challenge,advanc-2024-SR-en::CLM-0045,advanc-2024-SR-en,Advanced Info Service,Telecommunications,target

@@ -1,0 +1,3935 @@
+{
+  "n_claims": 63,
+  "scoring_model": "gpt-4o",
+  "scoring_runs": 3,
+  "scoring_temperature": 0.3,
+  "retrieval": "chunk_aware (claims + ADE chunks, section-diverse)",
+  "results": [
+    {
+      "claim_id": "CLM-0212",
+      "company": "SCG Packaging",
+      "credibility_scores": {
+        "specificity": {
+          "score": 2,
+          "rationale": "The claim identifies a specific target of planting 31,000 trees in 2025 but lacks detailed information on the location or specific initiatives.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "measurability": {
+          "score": 2,
+          "rationale": "The claim provides a specific number (31,000 trees) but does not include baselines or KPIs for measuring success.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "temporality": {
+          "score": 2,
+          "rationale": "The claim specifies the year 2025 for the tree planting initiative.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "evidence": {
+          "score": 1,
+          "rationale": "The claim is self-reported with no additional methodology or external verification provided.",
+          "all_run_scores": [
+            1,
+            2,
+            1
+          ],
+          "agreement": false
+        },
+        "consistency": {
+          "score": 3,
+          "rationale": "The claim is consistent with other information in the report, particularly the historical data on tree planting activities.",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        }
+      },
+      "composite_score": 2.0,
+      "credibility_tier": "substantive",
+      "overall_assessment": "The claim is specific and consistent with past activities but lacks detailed evidence and external verification.",
+      "n_cross_section": 3,
+      "n_same_section": 2,
+      "retrieval_flags": []
+    },
+    {
+      "claim_id": "CLM-0013",
+      "company": "Minor International",
+      "credibility_scores": {
+        "specificity": {
+          "score": 2,
+          "rationale": "The claim identifies a specific target of developing and supporting 3 million people by 2030, but lacks detailed information about the initiatives or locations involved.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "measurability": {
+          "score": 2,
+          "rationale": "The claim includes specific numbers, such as the target of 3 million people and the cumulative total reached, but does not provide baselines or specific KPIs.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "temporality": {
+          "score": 3,
+          "rationale": "The claim includes a clear timeframe with a target year (2030) and provides interim progress data up to 2024.",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        },
+        "evidence": {
+          "score": 1,
+          "rationale": "The evidence is self-reported with no external verification or detailed methodology provided.",
+          "all_run_scores": [
+            1,
+            1,
+            1
+          ],
+          "agreement": true
+        },
+        "consistency": {
+          "score": 3,
+          "rationale": "The claim is fully corroborated by data and narrative in other sections of the report, with consistent figures and progress updates.",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        }
+      },
+      "composite_score": 2.2,
+      "credibility_tier": "substantive",
+      "overall_assessment": "The claim is specific and measurable with a clear timeframe, but lacks external verification. It is consistent with other report sections, indicating a credible commitment.",
+      "n_cross_section": 3,
+      "n_same_section": 2,
+      "retrieval_flags": []
+    },
+    {
+      "claim_id": "CLM-0046",
+      "company": "WHA Corporation",
+      "credibility_scores": {
+        "specificity": {
+          "score": 2,
+          "rationale": "The claim identifies a specific target area of achieving zero waste to landfill and incineration without energy recovery by 2029, but lacks detailed action-level specifics such as named initiatives or locations.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "measurability": {
+          "score": 0,
+          "rationale": "The claim does not provide any quantitative metrics or measurements to assess progress towards the zero waste target.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "temporality": {
+          "score": 2,
+          "rationale": "The claim specifies a clear target year of 2029 for achieving zero waste to landfill and incineration without energy recovery.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "evidence": {
+          "score": 1,
+          "rationale": "The claim is self-reported with no external verification or detailed methodology provided to substantiate the target.",
+          "all_run_scores": [
+            1,
+            1,
+            1
+          ],
+          "agreement": true
+        },
+        "consistency": {
+          "score": 3,
+          "rationale": "The claim is fully corroborated by multiple sections throughout the report, consistently stating the 2029 target for zero waste to landfill and incineration without energy recovery.",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        }
+      },
+      "composite_score": 1.6,
+      "credibility_tier": "partially_substantive",
+      "overall_assessment": "The claim sets a clear target for zero waste to landfill and incineration by 2029, but lacks quantitative metrics, verification, and detailed action plans needed for full substantiation.",
+      "n_cross_section": 3,
+      "n_same_section": 2,
+      "retrieval_flags": []
+    },
+    {
+      "claim_id": "CLM-0129",
+      "company": "Bangkok Expressway and Metro",
+      "credibility_scores": {
+        "specificity": {
+          "score": 3,
+          "rationale": "The claim provides action-level detail with named initiatives, specific locations (eight ventilation shafts of the MRT Blue Line Project), and scope (replacing 20 units of air conditioning systems).",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        },
+        "measurability": {
+          "score": 2,
+          "rationale": "The claim includes specific numbers for the units replaced but lacks baselines or KPIs for energy savings or efficiency improvements.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "temporality": {
+          "score": 0,
+          "rationale": "There is no temporal reference or timeframe provided in the claim.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "evidence": {
+          "score": 1,
+          "rationale": "The claim is self-reported with no methodology or external verification provided.",
+          "all_run_scores": [
+            1,
+            1,
+            1
+          ],
+          "agreement": true
+        },
+        "consistency": {
+          "score": 3,
+          "rationale": "The claim is fully corroborated by additional context provided in the report, with no discrepancies noted.",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        }
+      },
+      "composite_score": 1.8,
+      "credibility_tier": "partially_substantive",
+      "overall_assessment": "The claim is specific and consistent with other report sections, but lacks temporal details and external verification, reducing its overall substantiation.",
+      "n_cross_section": 3,
+      "n_same_section": 2,
+      "retrieval_flags": []
+    },
+    {
+      "claim_id": "CLM-0253",
+      "company": "Siam Commercial Bank",
+      "credibility_scores": {
+        "specificity": {
+          "score": 2,
+          "rationale": "The claim specifies a target area by mentioning the scope 1 + 2 portfolio temperature score for listed equity, corporate bond, and mutual fund portfolios, but lacks detailed action-level specifics such as initiatives or locations.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "measurability": {
+          "score": 3,
+          "rationale": "The claim provides clear KPIs with baselines and target values, specifying a reduction from 2.84\u00b0C in 2021 to 2.35\u00b0C by 2028.",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        },
+        "temporality": {
+          "score": 2,
+          "rationale": "The claim includes a specific target year of 2028 but does not mention any interim milestones or progress tracking.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "evidence": {
+          "score": 1,
+          "rationale": "The claim is self-reported with no supporting evidence or methodology provided in the context.",
+          "all_run_scores": [
+            1,
+            1,
+            1
+          ],
+          "agreement": true
+        },
+        "consistency": {
+          "score": 3,
+          "rationale": "The claim is consistent with other information in the report, as it aligns with similar targets mentioned for different portfolios.",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        }
+      },
+      "composite_score": 2.2,
+      "credibility_tier": "substantive",
+      "overall_assessment": "",
+      "n_cross_section": 3,
+      "n_same_section": 1,
+      "retrieval_flags": [
+        "Only 1 of 2 target same-section references met the similarity threshold (0.35)."
+      ]
+    },
+    {
+      "claim_id": "CLM-0014",
+      "company": "CP ALL",
+      "credibility_scores": {
+        "specificity": {
+          "score": 2,
+          "rationale": "The claim identifies the specific programme of retaining a position in the FTSE4Good Index's Food Retailers & Wholesalers category for the 7th consecutive year, but lacks detailed action-level specifics such as initiatives or locations.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "measurability": {
+          "score": 0,
+          "rationale": "The claim does not provide any quantitative metrics or measurable outcomes.",
+          "all_run_scores": [
+            0,
+            0,
+            1
+          ],
+          "agreement": false
+        },
+        "temporality": {
+          "score": 2,
+          "rationale": "The claim specifies a timeframe by mentioning the 7th consecutive year, indicating a specific period of achievement.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "evidence": {
+          "score": 3,
+          "rationale": "The claim is supported by third-party verification, as the FTSE4Good Index is compiled by FTSE Russell, a recognized external rating.",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        },
+        "consistency": {
+          "score": 3,
+          "rationale": "The claim is fully corroborated by other sections of the report, which also mention the company's retention in the FTSE4Good Index for the 7th consecutive year.",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        }
+      },
+      "composite_score": 2.0,
+      "credibility_tier": "substantive",
+      "overall_assessment": "",
+      "n_cross_section": 3,
+      "n_same_section": 2,
+      "retrieval_flags": []
+    },
+    {
+      "claim_id": "CLM-0015",
+      "company": "Berli Jucker",
+      "credibility_scores": {
+        "specificity": {
+          "score": 2,
+          "rationale": "The claim identifies a specific achievement related to the Dow Jones Sustainability Indices and the S&P Global Corporate Sustainability Assessment, but lacks detailed action-level information such as initiatives or locations.",
+          "all_run_scores": [
+            3,
+            2,
+            2
+          ],
+          "agreement": false
+        },
+        "measurability": {
+          "score": 2,
+          "rationale": "The claim includes a specific score (92/100) but lacks baseline or comparative metrics.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "temporality": {
+          "score": 2,
+          "rationale": "The claim references a specific year (2024) but does not include interim milestones or progress tracking.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "evidence": {
+          "score": 3,
+          "rationale": "The claim is supported by third-party verification, as it references the Dow Jones Sustainability Indices and the S&P Global Corporate Sustainability Assessment.",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        },
+        "consistency": {
+          "score": 3,
+          "rationale": "The claim is fully corroborated by other sections of the report, which consistently mention the same achievements and rankings.",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        }
+      },
+      "composite_score": 2.4,
+      "credibility_tier": "substantive",
+      "overall_assessment": "",
+      "n_cross_section": 3,
+      "n_same_section": 2,
+      "retrieval_flags": []
+    },
+    {
+      "claim_id": "CLM-0024",
+      "company": "Charoen Pokphand Foods",
+      "credibility_scores": {
+        "specificity": {
+          "score": 2,
+          "rationale": "The claim specifies the Dow Jones Sustainability Index membership in the Food Products Industry Group for Emerging Markets, but lacks further detail such as location or specific initiatives.",
+          "all_run_scores": [
+            2,
+            2,
+            3
+          ],
+          "agreement": false
+        },
+        "measurability": {
+          "score": 0,
+          "rationale": "The claim does not provide any quantitative metrics or numbers.",
+          "all_run_scores": [
+            0,
+            0,
+            2
+          ],
+          "agreement": false
+        },
+        "temporality": {
+          "score": 2,
+          "rationale": "The claim mentions a timeframe of '10th consecutive year,' indicating a specific duration.",
+          "all_run_scores": [
+            2,
+            1,
+            2
+          ],
+          "agreement": false
+        },
+        "evidence": {
+          "score": 3,
+          "rationale": "The claim is supported by third-party verification as it references the Dow Jones Sustainability Index, which is an external rating.",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        },
+        "consistency": {
+          "score": 3,
+          "rationale": "The claim is fully corroborated by other sections of the report, which consistently mention the same achievement.",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        }
+      },
+      "composite_score": 2.0,
+      "credibility_tier": "substantive",
+      "overall_assessment": "",
+      "n_cross_section": 3,
+      "n_same_section": 2,
+      "retrieval_flags": []
+    },
+    {
+      "claim_id": "CLM-0186",
+      "company": "Thai Union Group",
+      "credibility_scores": {
+        "specificity": {
+          "score": 3,
+          "rationale": "The claim provides action-level detail with named initiatives, specifying the issuance of carbon credits under the Thailand Voluntary Emission Reduction Program (T-VER) and approval by the Thailand Greenhouse Gas Management Organization (TGO).",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        },
+        "measurability": {
+          "score": 2,
+          "rationale": "The claim includes a specific number for carbon credits (263 tCO\u2082eq/year) but lacks a baseline or KPI for comparison.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "temporality": {
+          "score": 2,
+          "rationale": "The claim specifies the year 2024 for the registration and approval of carbon credits.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "evidence": {
+          "score": 3,
+          "rationale": "The claim is supported by third-party verification from the Thailand Greenhouse Gas Management Organization (TGO).",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        },
+        "consistency": {
+          "score": 3,
+          "rationale": "The claim is consistent with other information in the report, as it is repeated verbatim in the CEO message section.",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        }
+      },
+      "composite_score": 2.6,
+      "credibility_tier": "substantive",
+      "overall_assessment": "The claim is well-supported with specific details, third-party verification, and consistent with other report sections, though it lacks a baseline for full measurability.",
+      "n_cross_section": 3,
+      "n_same_section": 2,
+      "retrieval_flags": []
+    },
+    {
+      "claim_id": "CLM-0041",
+      "company": "PTT Exploration and Production",
+      "credibility_scores": {
+        "specificity": {
+          "score": 3,
+          "rationale": "The claim specifically names three indices: Dow Jones Best-in-Class Indices, S&P Global Sustainability Yearbook, and FTSE4Good Index Series, along with the duration of membership in each.",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        },
+        "measurability": {
+          "score": 2,
+          "rationale": "The claim provides specific numbers regarding the years of consecutive membership in each index but lacks baselines or KPIs.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "temporality": {
+          "score": 2,
+          "rationale": "The claim references specific years (2024 and 2025) for the indices and yearbook membership.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "evidence": {
+          "score": 3,
+          "rationale": "The claim is supported by third-party verification as it references well-known indices and yearbooks that require external validation.",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        },
+        "consistency": {
+          "score": 3,
+          "rationale": "The claim is consistent with additional context provided in the report, which corroborates the awards and recognitions.",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        }
+      },
+      "composite_score": 2.6,
+      "credibility_tier": "substantive",
+      "overall_assessment": "The claim is well-supported by specific references to recognized indices and yearbooks, with clear temporal context and third-party verification, making it credible and substantive.",
+      "n_cross_section": 3,
+      "n_same_section": 2,
+      "retrieval_flags": []
+    },
+    {
+      "claim_id": "CLM-0181",
+      "company": "Thai Union Group",
+      "credibility_scores": {
+        "specificity": {
+          "score": 3,
+          "rationale": "The claim provides action-level detail with named initiatives, specific location (Koh Racha Yai, Phuket), and mentions the continuation of the project.",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        },
+        "measurability": {
+          "score": 0,
+          "rationale": "The claim does not provide any quantitative metrics or numbers related to the project's progress or impact.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "temporality": {
+          "score": 2,
+          "rationale": "The claim specifies the year 2024, indicating a specific timeframe for the project's advancement.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "evidence": {
+          "score": 2,
+          "rationale": "The claim is supported by internal data with cross-references to other sections of the report, but lacks third-party verification.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "consistency": {
+          "score": 3,
+          "rationale": "The claim is fully corroborated by additional context provided in the report, including references to partnerships and technology used.",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        }
+      },
+      "composite_score": 2.0,
+      "credibility_tier": "substantive",
+      "overall_assessment": "",
+      "n_cross_section": 3,
+      "n_same_section": 2,
+      "retrieval_flags": []
+    },
+    {
+      "claim_id": "CLM-0031",
+      "company": "Charoen Pokphand Foods",
+      "credibility_scores": {
+        "specificity": {
+          "score": 3,
+          "rationale": "The claim provides action-level detail with named awards and the organizations granting them.",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        },
+        "measurability": {
+          "score": 0,
+          "rationale": "The claim does not include any quantitative metrics or measurements.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "temporality": {
+          "score": 2,
+          "rationale": "The claim specifies the year 2024 for the awards received.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "evidence": {
+          "score": 3,
+          "rationale": "The awards are third-party verified by the Vietnam Business Council for Sustainable Development and the Vietnam Chamber of Commerce and Industry.",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        },
+        "consistency": {
+          "score": 3,
+          "rationale": "The claim is fully corroborated by additional context provided in the report.",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        }
+      },
+      "composite_score": 2.2,
+      "credibility_tier": "substantive",
+      "overall_assessment": "The claim is specific and supported by third-party verification, with a clear temporal reference, but lacks quantitative metrics.",
+      "n_cross_section": 3,
+      "n_same_section": 2,
+      "retrieval_flags": []
+    },
+    {
+      "claim_id": "CLM-0019",
+      "company": "True Corporation",
+      "credibility_scores": {
+        "specificity": {
+          "score": 2,
+          "rationale": "The claim identifies a specific target area (skills training for income generation opportunities) but lacks detail on the initiatives, locations, or scope.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "measurability": {
+          "score": 2,
+          "rationale": "The claim provides a specific number (381,000 persons) but does not include baselines or KPIs.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "temporality": {
+          "score": 0,
+          "rationale": "There is no temporal reference provided in the claim.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "evidence": {
+          "score": 1,
+          "rationale": "The claim is self-reported with no methodology or external verification mentioned.",
+          "all_run_scores": [
+            1,
+            1,
+            1
+          ],
+          "agreement": true
+        },
+        "consistency": {
+          "score": 1,
+          "rationale": "There are inconsistencies with the additional context, such as different numbers for beneficiaries and lack of clarity on the year.",
+          "all_run_scores": [
+            1,
+            1,
+            1
+          ],
+          "agreement": true
+        }
+      },
+      "composite_score": 1.2,
+      "credibility_tier": "partially_substantive",
+      "overall_assessment": "",
+      "n_cross_section": 3,
+      "n_same_section": 0,
+      "retrieval_flags": [
+        "No other material in section 'Skills Training' met the similarity threshold (0.35)."
+      ]
+    },
+    {
+      "claim_id": "CLM-0109",
+      "company": "True Corporation",
+      "credibility_scores": {
+        "specificity": {
+          "score": 2,
+          "rationale": "The claim identifies a specific target area, namely supporting and developing orphaned children from 30 care institutions nationwide, but lacks detailed action-level specifics such as named initiatives or locations.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "measurability": {
+          "score": 2,
+          "rationale": "The claim provides a specific number of participants (over 1,390 youths) but does not include baselines or KPIs to measure progress or impact.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "temporality": {
+          "score": 2,
+          "rationale": "The claim specifies the year 2024, providing a clear temporal reference, but lacks dated milestones or interim targets.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "evidence": {
+          "score": 1,
+          "rationale": "The claim is self-reported without any supporting methodology or external verification provided.",
+          "all_run_scores": [
+            1,
+            1,
+            1
+          ],
+          "agreement": true
+        },
+        "consistency": {
+          "score": 1,
+          "rationale": "There are inconsistencies with other sections, as different numbers of participants are reported (1,390 vs. 4,056), indicating minor discrepancies.",
+          "all_run_scores": [
+            1,
+            1,
+            1
+          ],
+          "agreement": true
+        }
+      },
+      "composite_score": 1.6,
+      "credibility_tier": "partially_substantive",
+      "overall_assessment": "The claim identifies a specific programme with measurable participation but lacks comprehensive evidence, consistency, and detailed action-level specifics for full substantiation.",
+      "n_cross_section": 3,
+      "n_same_section": 2,
+      "retrieval_flags": []
+    },
+    {
+      "claim_id": "CLM-0103",
+      "company": "True Corporation",
+      "credibility_scores": {
+        "specificity": {
+          "score": 2,
+          "rationale": "The claim identifies a specific target area by mentioning the participation of young people in a project, but it does not provide detailed information about the initiative or its location.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "measurability": {
+          "score": 2,
+          "rationale": "The claim provides a specific number of participants (4,056), but lacks baselines or KPIs to measure progress or impact.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "temporality": {
+          "score": 2,
+          "rationale": "The claim specifies the year 2024, providing a clear timeframe for the reported activity.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "evidence": {
+          "score": 1,
+          "rationale": "The claim is self-reported without any methodology or external verification provided.",
+          "all_run_scores": [
+            1,
+            1,
+            1
+          ],
+          "agreement": true
+        },
+        "consistency": {
+          "score": 1,
+          "rationale": "There are inconsistencies with other sections; another claim on the same page mentions 4,111 individuals trained, which does not directly align with the 4,056 young people mentioned.",
+          "all_run_scores": [
+            1,
+            1,
+            1
+          ],
+          "agreement": true
+        }
+      },
+      "composite_score": 1.6,
+      "credibility_tier": "partially_substantive",
+      "overall_assessment": "The claim identifies a specific area of impact with a quantifiable metric, but lacks detailed evidence, verification, and has minor consistency issues with other report sections.",
+      "n_cross_section": 3,
+      "n_same_section": 2,
+      "retrieval_flags": []
+    },
+    {
+      "claim_id": "CLM-0022",
+      "company": "True Corporation",
+      "credibility_scores": {
+        "specificity": {
+          "score": 2,
+          "rationale": "The claim identifies a specific target area, i.e., customer satisfaction score measured by iCSAT, but lacks detailed action-level specifics such as initiatives or locations.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "measurability": {
+          "score": 2,
+          "rationale": "The claim provides a specific quantitative metric (95% satisfaction score) but lacks baselines or additional KPIs.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "temporality": {
+          "score": 2,
+          "rationale": "The claim references the year 2024, providing a specific timeframe but lacks interim milestones.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "evidence": {
+          "score": 1,
+          "rationale": "The claim is self-reported with no external verification or detailed methodology provided.",
+          "all_run_scores": [
+            1,
+            1,
+            1
+          ],
+          "agreement": true
+        },
+        "consistency": {
+          "score": 3,
+          "rationale": "The claim is fully corroborated by other sections of the report, specifically the Customer Relationship Management section.",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        }
+      },
+      "composite_score": 2.0,
+      "credibility_tier": "substantive",
+      "overall_assessment": "The claim identifies a specific target and provides a quantitative metric, but lacks external verification and detailed methodology. It is consistent with other report sections.",
+      "n_cross_section": 3,
+      "n_same_section": 0,
+      "retrieval_flags": [
+        "No other material in section 'Customer Satisfaction' met the similarity threshold (0.35)."
+      ]
+    },
+    {
+      "claim_id": "CLM-0068",
+      "company": "Delta Electronics Thailand",
+      "credibility_scores": {
+        "specificity": {
+          "score": 2,
+          "rationale": "The claim specifies the number of IT Security training hours provided and its percentage of total training hours, but lacks detailed information about the program's location or specific initiatives.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "measurability": {
+          "score": 2,
+          "rationale": "The claim provides specific numbers for training hours and percentage of total training hours, but lacks baselines or KPIs for comparison.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "temporality": {
+          "score": 2,
+          "rationale": "The claim references a specific year, 2023, but does not include interim targets or progress milestones.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "evidence": {
+          "score": 2,
+          "rationale": "The claim is supported by internal data and cross-references other sections of the report, but lacks third-party verification or detailed methodology.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "consistency": {
+          "score": 3,
+          "rationale": "The claim is fully corroborated by other information in the report, including detailed data on training hours and outcomes.",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        }
+      },
+      "composite_score": 2.2,
+      "credibility_tier": "substantive",
+      "overall_assessment": "The claim is specific and measurable with a clear temporal reference, and it is consistent with other report data. However, it lacks third-party verification and detailed methodology.",
+      "n_cross_section": 3,
+      "n_same_section": 2,
+      "retrieval_flags": []
+    },
+    {
+      "claim_id": "CLM-0173",
+      "company": "True Corporation",
+      "credibility_scores": {
+        "specificity": {
+          "score": 2,
+          "rationale": "The claim provides a specific figure for energy consumption in 2023 but does not detail specific initiatives or locations.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "measurability": {
+          "score": 2,
+          "rationale": "The claim includes a specific number for energy consumption but lacks baselines or comparative KPIs.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "temporality": {
+          "score": 2,
+          "rationale": "The claim specifies the year 2023, providing a clear timeframe.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "evidence": {
+          "score": 1,
+          "rationale": "The figure is self-reported with no additional methodology or external verification provided.",
+          "all_run_scores": [
+            1,
+            1,
+            1
+          ],
+          "agreement": true
+        },
+        "consistency": {
+          "score": 3,
+          "rationale": "The claim is consistent with other data in the report, such as energy consumption per revenue and renewable energy figures.",
+          "all_run_scores": [
+            3,
+            3,
+            2
+          ],
+          "agreement": false
+        }
+      },
+      "composite_score": 2.0,
+      "credibility_tier": "substantive",
+      "overall_assessment": "The claim is specific and consistent with other report data but lacks external verification and detailed methodology.",
+      "n_cross_section": 3,
+      "n_same_section": 2,
+      "retrieval_flags": []
+    },
+    {
+      "claim_id": "CLM-0013",
+      "company": "Bangkok Dusit Medical Services",
+      "credibility_scores": {
+        "specificity": {
+          "score": 2,
+          "rationale": "The claim provides a specific metric for Lost-time Injury Frequency Rate (LTIFR) for contractors, but does not include additional details such as initiatives or locations.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "measurability": {
+          "score": 2,
+          "rationale": "The claim includes a specific quantitative metric (0.33 cases per 1,000,000 work hours), but lacks baseline or KPI context.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "temporality": {
+          "score": 0,
+          "rationale": "There is no temporal reference provided in the claim or associated context.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "evidence": {
+          "score": 1,
+          "rationale": "The metric is self-reported with no methodology or external verification mentioned.",
+          "all_run_scores": [
+            1,
+            1,
+            1
+          ],
+          "agreement": true
+        },
+        "consistency": {
+          "score": 3,
+          "rationale": "The claim is consistent with other data in the report, specifically matching the LTIFR for contractors mentioned in the safety section.",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        }
+      },
+      "composite_score": 1.6,
+      "credibility_tier": "partially_substantive",
+      "overall_assessment": "The claim provides a specific metric for contractor safety performance, but lacks temporal context and external verification, limiting its full substantiation.",
+      "n_cross_section": 3,
+      "n_same_section": 2,
+      "retrieval_flags": []
+    },
+    {
+      "claim_id": "CLM-0014",
+      "company": "Airports of Thailand",
+      "credibility_scores": {
+        "specificity": {
+          "score": 2,
+          "rationale": "The claim identifies a specific programme, namely the development of incentive schemes for airlines in response to state policy on visa-free travel, but lacks detailed action-level information such as the exact nature of the incentives or specific locations.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "measurability": {
+          "score": 0,
+          "rationale": "The claim does not provide any quantitative metrics or measurements to assess the impact or success of the incentive schemes.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "temporality": {
+          "score": 0,
+          "rationale": "There is no temporal reference provided in the claim regarding when the incentive schemes were developed or when they are expected to have an impact.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "evidence": {
+          "score": 1,
+          "rationale": "The claim is self-reported without any supporting evidence, methodology, or external verification provided.",
+          "all_run_scores": [
+            1,
+            1,
+            1
+          ],
+          "agreement": true
+        },
+        "consistency": {
+          "score": 3,
+          "rationale": "The claim is fully corroborated by additional context from the report, which consistently mentions the development of incentive schemes in alignment with government policy.",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        }
+      },
+      "composite_score": 1.2,
+      "credibility_tier": "partially_substantive",
+      "overall_assessment": "The claim identifies a specific initiative related to airline incentive schemes but lacks quantitative metrics, temporal details, and external verification, limiting its substantiation.",
+      "n_cross_section": 3,
+      "n_same_section": 2,
+      "retrieval_flags": []
+    },
+    {
+      "claim_id": "CLM-0148",
+      "company": "Global Power Synergy",
+      "credibility_scores": {
+        "specificity": {
+          "score": 2,
+          "rationale": "The claim identifies the specific assurance standards and methodologies used (SGS Sustainability Report Assurance methodology and AA1000 Assurance Standard v3 Type 2 Moderate level) but does not provide action-level detail or specific initiatives.",
+          "all_run_scores": [
+            1,
+            2,
+            2
+          ],
+          "agreement": false
+        },
+        "measurability": {
+          "score": 0,
+          "rationale": "The claim does not provide any quantitative metrics or measurements.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "temporality": {
+          "score": 2,
+          "rationale": "The claim references a specific reporting period from 1 January 2024 to 31 December 2024.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "evidence": {
+          "score": 3,
+          "rationale": "The claim is supported by third-party verification from SGS using recognized assurance standards.",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        },
+        "consistency": {
+          "score": 3,
+          "rationale": "The claim is fully corroborated by additional context provided in the report, which aligns with the assurance methodology and standards mentioned.",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        }
+      },
+      "composite_score": 2.0,
+      "credibility_tier": "substantive",
+      "overall_assessment": "The claim is supported by third-party verification and aligns with the report's context, but lacks specific actions or quantitative metrics.",
+      "n_cross_section": 3,
+      "n_same_section": 1,
+      "retrieval_flags": [
+        "Only 1 of 2 target same-section references met the similarity threshold (0.35)."
+      ]
+    },
+    {
+      "claim_id": "CLM-0493",
+      "company": "WHA Corporation",
+      "credibility_scores": {
+        "specificity": {
+          "score": 2,
+          "rationale": "The claim identifies a specific target area for reducing GHG emission intensity from investments but lacks detailed action-level information such as named initiatives or locations.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "measurability": {
+          "score": 3,
+          "rationale": "The claim includes specific quantitative targets for reducing GHG emission intensity by 74% by 2030 and 90% by 2050 from a 2021 baseline.",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        },
+        "temporality": {
+          "score": 3,
+          "rationale": "The claim provides specific target years (2030 and 2050) and a clear baseline year (2021) for achieving the reductions.",
+          "all_run_scores": [
+            3,
+            2,
+            3
+          ],
+          "agreement": false
+        },
+        "evidence": {
+          "score": 2,
+          "rationale": "The claim is supported by internal data and is aligned with the Science-based Target Initiative (SBTi), but there is no mention of third-party verification.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "consistency": {
+          "score": 3,
+          "rationale": "The claim is consistent with other information in the report, including the management approach and other GHG reduction targets.",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        }
+      },
+      "composite_score": 2.6,
+      "credibility_tier": "substantive",
+      "overall_assessment": "The claim is well-defined with specific targets and timelines, supported by internal data and consistent with the overall report. However, it lacks third-party verification.",
+      "n_cross_section": 3,
+      "n_same_section": 2,
+      "retrieval_flags": []
+    },
+    {
+      "claim_id": "CLM-0449",
+      "company": "WHA Corporation",
+      "credibility_scores": {
+        "specificity": {
+          "score": 2,
+          "rationale": "The claim identifies specific actions such as the installation of solar panels and use of smart energy management systems but lacks detailed information on locations or scope.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "measurability": {
+          "score": 0,
+          "rationale": "The claim does not provide any quantitative metrics or numbers to measure the impact of the actions described.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "temporality": {
+          "score": 0,
+          "rationale": "There is no temporal reference or timeframe mentioned in the claim.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "evidence": {
+          "score": 1,
+          "rationale": "The claim is self-reported without any methodology or external verification provided.",
+          "all_run_scores": [
+            1,
+            1,
+            1
+          ],
+          "agreement": true
+        },
+        "consistency": {
+          "score": 3,
+          "rationale": "The claim is fully corroborated by other sections of the report, which describe similar initiatives and goals.",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        }
+      },
+      "composite_score": 1.2,
+      "credibility_tier": "partially_substantive",
+      "overall_assessment": "The claim outlines specific actions towards energy efficiency and renewable energy transition but lacks quantitative metrics, temporal references, and external verification.",
+      "n_cross_section": 3,
+      "n_same_section": 2,
+      "retrieval_flags": []
+    },
+    {
+      "claim_id": "CLM-0133",
+      "company": "Central Retail Corporation",
+      "credibility_scores": {
+        "specificity": {
+          "score": 2,
+          "rationale": "The claim identifies specific actions such as 'employee capability development through training programs and structured skill enhancement frameworks,' but lacks detailed information about locations or named initiatives.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "measurability": {
+          "score": 0,
+          "rationale": "The claim does not provide any quantitative metrics or measurable outcomes.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "temporality": {
+          "score": 0,
+          "rationale": "There is no temporal reference or timeframe mentioned in the claim.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "evidence": {
+          "score": 2,
+          "rationale": "The claim is supported by internal data and cross-references to other report sections, specifically the Human Resource Management section.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "consistency": {
+          "score": 3,
+          "rationale": "The claim is fully corroborated by data and narrative in the Human Resource Management section, indicating consistency within the report.",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        }
+      },
+      "composite_score": 1.4,
+      "credibility_tier": "partially_substantive",
+      "overall_assessment": "The claim identifies specific actions related to employee development but lacks quantitative metrics and temporal details. It is supported by internal data and is consistent with other sections of the report.",
+      "n_cross_section": 3,
+      "n_same_section": 2,
+      "retrieval_flags": []
+    },
+    {
+      "claim_id": "CLM-0167",
+      "company": "WHA Corporation",
+      "credibility_scores": {
+        "specificity": {
+          "score": 2,
+          "rationale": "The claim identifies a specific programme, the 5-year strategic framework for human resources management, but lacks detailed action-level specifics or locations.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "measurability": {
+          "score": 0,
+          "rationale": "The claim does not provide any quantitative metrics or measurable outcomes.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "temporality": {
+          "score": 2,
+          "rationale": "The claim specifies a timeframe of 2022-2026 for the strategic framework.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "evidence": {
+          "score": 1,
+          "rationale": "The claim is self-reported with no supporting evidence or methodology provided.",
+          "all_run_scores": [
+            1,
+            1,
+            1
+          ],
+          "agreement": true
+        },
+        "consistency": {
+          "score": 3,
+          "rationale": "The claim is fully corroborated by other sections of the report, which consistently emphasize the importance of human resources management.",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        }
+      },
+      "composite_score": 1.6,
+      "credibility_tier": "partially_substantive",
+      "overall_assessment": "The claim identifies a specific strategic framework but lacks measurable metrics and third-party verification, although it is consistent with the overall report narrative.",
+      "n_cross_section": 3,
+      "n_same_section": 2,
+      "retrieval_flags": []
+    },
+    {
+      "claim_id": "CLM-0175",
+      "company": "Bangchak Corporation",
+      "credibility_scores": {
+        "specificity": {
+          "score": 2,
+          "rationale": "The claim identifies a specific target area, which is the enhancement of product transportation processes to reduce risks, but lacks detailed action-level specifics such as named initiatives or locations.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "measurability": {
+          "score": 0,
+          "rationale": "The claim does not provide any quantitative metrics or measurements to assess the impact or progress of the transportation process enhancements.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "temporality": {
+          "score": 0,
+          "rationale": "There is no temporal reference or timeframe mentioned in the claim regarding when these enhancements are expected to occur or be completed.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "evidence": {
+          "score": 1,
+          "rationale": "The claim is self-reported without any supporting evidence, methodology, or cross-references to other sections of the report.",
+          "all_run_scores": [
+            1,
+            1,
+            1
+          ],
+          "agreement": true
+        },
+        "consistency": {
+          "score": 3,
+          "rationale": "The claim is consistent with other information provided in the report, particularly with the additional context that mentions similar efforts in product transportation.",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        }
+      },
+      "composite_score": 1.2,
+      "credibility_tier": "partially_substantive",
+      "overall_assessment": "",
+      "n_cross_section": 3,
+      "n_same_section": 2,
+      "retrieval_flags": []
+    },
+    {
+      "claim_id": "CLM-0128",
+      "company": "Global Power Synergy",
+      "credibility_scores": {
+        "specificity": {
+          "score": 2,
+          "rationale": "The claim identifies the 'GPSC Academy' as a specific program aimed at developing personnel capabilities in alignment with the energy industry.",
+          "all_run_scores": [
+            2,
+            1,
+            2
+          ],
+          "agreement": false
+        },
+        "measurability": {
+          "score": 0,
+          "rationale": "There are no quantitative metrics or measurements provided in the claim.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "temporality": {
+          "score": 0,
+          "rationale": "The claim does not provide any temporal reference or timeframe.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "evidence": {
+          "score": 1,
+          "rationale": "The claim is self-reported with no additional methodology or external verification provided.",
+          "all_run_scores": [
+            1,
+            1,
+            1
+          ],
+          "agreement": true
+        },
+        "consistency": {
+          "score": 3,
+          "rationale": "The claim is consistent with other information in the report, particularly regarding the focus on human capital development and alignment with energy industry goals.",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        }
+      },
+      "composite_score": 1.2,
+      "credibility_tier": "partially_substantive",
+      "overall_assessment": "The claim identifies a specific program but lacks measurable outcomes, temporal details, and external verification, though it is consistent with the report's broader narrative.",
+      "n_cross_section": 3,
+      "n_same_section": 2,
+      "retrieval_flags": []
+    },
+    {
+      "claim_id": "CLM-0137",
+      "company": "Berli Jucker",
+      "credibility_scores": {
+        "specificity": {
+          "score": 1,
+          "rationale": "The claim mentions 'substantial resources' in R&D but does not specify any particular programme or target area.",
+          "all_run_scores": [
+            1,
+            1,
+            2
+          ],
+          "agreement": false
+        },
+        "measurability": {
+          "score": 0,
+          "rationale": "There are no quantitative metrics or qualitative measures provided in the claim.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "temporality": {
+          "score": 0,
+          "rationale": "The claim does not provide any temporal reference or timeframe.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "evidence": {
+          "score": 1,
+          "rationale": "The claim is self-reported with no supporting evidence or methodology described.",
+          "all_run_scores": [
+            1,
+            1,
+            1
+          ],
+          "agreement": true
+        },
+        "consistency": {
+          "score": 3,
+          "rationale": "The claim is consistent with other sections of the report that emphasize innovation and R&D efforts.",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        }
+      },
+      "composite_score": 1.0,
+      "credibility_tier": "partially_substantive",
+      "overall_assessment": "The claim is consistent with the report's emphasis on innovation but lacks specificity, measurability, and temporal context to be fully credible.",
+      "n_cross_section": 3,
+      "n_same_section": 2,
+      "retrieval_flags": []
+    },
+    {
+      "claim_id": "CLM-0126",
+      "company": "TISCO Financial Group",
+      "credibility_scores": {
+        "specificity": {
+          "score": 2,
+          "rationale": "The claim identifies a specific initiative, the OASIS project, but lacks detailed information such as locations or scope.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "measurability": {
+          "score": 0,
+          "rationale": "The claim does not provide any quantitative metrics or measurable outcomes.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "temporality": {
+          "score": 0,
+          "rationale": "There is no temporal reference or timeframe mentioned in the claim.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "evidence": {
+          "score": 1,
+          "rationale": "The claim is self-reported without any supporting evidence or methodology described.",
+          "all_run_scores": [
+            1,
+            1,
+            1
+          ],
+          "agreement": true
+        },
+        "consistency": {
+          "score": 3,
+          "rationale": "The claim is consistent with other information provided in the report, particularly in the 'Promoting Creativity Across the Organization' section.",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        }
+      },
+      "composite_score": 1.2,
+      "credibility_tier": "partially_substantive",
+      "overall_assessment": "The claim identifies a specific initiative but lacks measurable outcomes, temporal references, and supporting evidence, limiting its substantiation.",
+      "n_cross_section": 3,
+      "n_same_section": 0,
+      "retrieval_flags": [
+        "No other material in section 'Promoting Creativity Across the Organization' met the similarity threshold (0.35)."
+      ]
+    },
+    {
+      "claim_id": "CLM-0219",
+      "company": "TISCO Financial Group",
+      "credibility_scores": {
+        "specificity": {
+          "score": 2,
+          "rationale": "The claim identifies a specific area of focus, namely climate-related risks with financial impacts and the preparation of mitigation plans, but lacks detailed action-level specifics such as named initiatives or locations.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "measurability": {
+          "score": 0,
+          "rationale": "The claim does not provide any quantitative metrics or measurements to assess the impact or success of the analysis or mitigation plans.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "temporality": {
+          "score": 0,
+          "rationale": "There is no temporal reference or timeframe mentioned in the claim regarding when the analysis was concluded or when the mitigation plans are to be implemented.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "evidence": {
+          "score": 1,
+          "rationale": "The claim is self-reported without any supporting evidence, methodology, or cross-references to other sections that substantiate the analysis or mitigation plans.",
+          "all_run_scores": [
+            1,
+            1,
+            1
+          ],
+          "agreement": true
+        },
+        "consistency": {
+          "score": 3,
+          "rationale": "The claim is consistent with other information in the report, as it aligns with the context provided about climate change risk management and financial impact assessments.",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        }
+      },
+      "composite_score": 1.2,
+      "credibility_tier": "partially_substantive",
+      "overall_assessment": "The claim identifies a specific focus on climate-related financial risks and mitigation plans but lacks quantitative metrics, temporal details, and external verification, limiting its substantiation.",
+      "n_cross_section": 3,
+      "n_same_section": 2,
+      "retrieval_flags": []
+    },
+    {
+      "claim_id": "CLM-0105",
+      "company": "Bangchak Corporation",
+      "credibility_scores": {
+        "specificity": {
+          "score": 2,
+          "rationale": "The claim identifies specific measures such as security measures, access control, and usage of information systems based on confidentiality levels.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "measurability": {
+          "score": 0,
+          "rationale": "There are no quantitative metrics or qualitative assessments provided in the claim.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "temporality": {
+          "score": 0,
+          "rationale": "There is no temporal reference or timeframe mentioned in the claim.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "evidence": {
+          "score": 1,
+          "rationale": "The claim is self-reported with no methodology or external verification provided.",
+          "all_run_scores": [
+            1,
+            1,
+            1
+          ],
+          "agreement": true
+        },
+        "consistency": {
+          "score": 3,
+          "rationale": "The claim is fully corroborated by the additional context provided in the report, aligning with the company's stated policies.",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        }
+      },
+      "composite_score": 1.2,
+      "credibility_tier": "partially_substantive",
+      "overall_assessment": "The claim identifies specific measures for data management and confidentiality but lacks quantitative metrics, temporal references, and external verification.",
+      "n_cross_section": 3,
+      "n_same_section": 2,
+      "retrieval_flags": []
+    },
+    {
+      "claim_id": "CLM-0050",
+      "company": "Thai Union Group",
+      "credibility_scores": {
+        "specificity": {
+          "score": 3,
+          "rationale": "The claim provides action-level detail, naming the specific awards received by Thai Union Group and its subsidiaries, including the presenting organization and category.",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        },
+        "measurability": {
+          "score": 0,
+          "rationale": "The claim does not include any quantitative metrics or measurements.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "temporality": {
+          "score": 0,
+          "rationale": "There is no temporal reference or timeframe provided in the claim.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "evidence": {
+          "score": 3,
+          "rationale": "The claim is supported by third-party verification, as the awards were presented by the Department of Rights and Liberties Protection, Ministry of Justice.",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        },
+        "consistency": {
+          "score": 3,
+          "rationale": "The claim is fully corroborated by additional context from the report, which repeats the same information about the awards.",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        }
+      },
+      "composite_score": 1.8,
+      "credibility_tier": "partially_substantive",
+      "overall_assessment": "",
+      "n_cross_section": 3,
+      "n_same_section": 2,
+      "retrieval_flags": []
+    },
+    {
+      "claim_id": "CLM-0042",
+      "company": "Kasikornbank",
+      "credibility_scores": {
+        "specificity": {
+          "score": 1,
+          "rationale": "The claim refers to monitoring and assessing operating results according to a policy but lacks details on specific initiatives or scope.",
+          "all_run_scores": [
+            1,
+            1,
+            1
+          ],
+          "agreement": true
+        },
+        "measurability": {
+          "score": 0,
+          "rationale": "The claim does not provide any quantitative metrics or measurable outcomes.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "temporality": {
+          "score": 2,
+          "rationale": "The claim specifies the year 2024, providing a clear temporal reference.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "evidence": {
+          "score": 1,
+          "rationale": "The claim is self-reported with no additional methodology or external verification provided.",
+          "all_run_scores": [
+            1,
+            1,
+            1
+          ],
+          "agreement": true
+        },
+        "consistency": {
+          "score": 3,
+          "rationale": "The claim is consistent with other information in the report, as it is repeated verbatim in the additional context.",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        }
+      },
+      "composite_score": 1.4,
+      "credibility_tier": "partially_substantive",
+      "overall_assessment": "The claim is partially substantive, providing a clear temporal reference but lacking in specificity, measurability, and external verification.",
+      "n_cross_section": 3,
+      "n_same_section": 2,
+      "retrieval_flags": []
+    },
+    {
+      "claim_id": "CLM-0172",
+      "company": "Osotspa",
+      "credibility_scores": {
+        "specificity": {
+          "score": 2,
+          "rationale": "The claim specifies the reduction of cleaning time for the Reverse Osmosis system on non-production days, identifying a specific target area but not detailing the location or broader initiative.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "measurability": {
+          "score": 2,
+          "rationale": "The claim provides specific numbers regarding the reduction in cleaning time from 30 minutes to 15 minutes, but lacks baseline water usage data or KPIs.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "temporality": {
+          "score": 0,
+          "rationale": "There is no temporal reference provided in the claim regarding when the reduction took place.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "evidence": {
+          "score": 1,
+          "rationale": "The claim is self-reported with no supporting methodology or cross-references to other sections for verification.",
+          "all_run_scores": [
+            1,
+            1,
+            1
+          ],
+          "agreement": true
+        },
+        "consistency": {
+          "score": 3,
+          "rationale": "The claim is consistent with other information in the report, particularly the focus on water management and reduction strategies.",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        }
+      },
+      "composite_score": 1.6,
+      "credibility_tier": "partially_substantive",
+      "overall_assessment": "The claim identifies a specific improvement in water management but lacks temporal context and external verification. It is consistent with the report's general water management strategies.",
+      "n_cross_section": 3,
+      "n_same_section": 2,
+      "retrieval_flags": []
+    },
+    {
+      "claim_id": "CLM-0067",
+      "company": "Minor International",
+      "credibility_scores": {
+        "specificity": {
+          "score": 1,
+          "rationale": "The claim is a general statement about non-compliance without detailing specific initiatives or locations.",
+          "all_run_scores": [
+            1,
+            1,
+            2
+          ],
+          "agreement": false
+        },
+        "measurability": {
+          "score": 0,
+          "rationale": "No quantitative metrics or measurements are provided in the claim.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "temporality": {
+          "score": 2,
+          "rationale": "The claim specifies the year 2024 as the timeframe.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "evidence": {
+          "score": 1,
+          "rationale": "The claim is self-reported with no additional methodology or third-party verification provided.",
+          "all_run_scores": [
+            1,
+            1,
+            1
+          ],
+          "agreement": true
+        },
+        "consistency": {
+          "score": 3,
+          "rationale": "The claim is consistent with other similar claims in the report regarding non-compliance in various areas.",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        }
+      },
+      "composite_score": 1.4,
+      "credibility_tier": "partially_substantive",
+      "overall_assessment": "The claim is a general statement about non-compliance in 2024, with a clear timeframe but lacking specific metrics, detailed evidence, and action-level detail.",
+      "n_cross_section": 3,
+      "n_same_section": 2,
+      "retrieval_flags": []
+    },
+    {
+      "claim_id": "CLM-0014",
+      "company": "True Corporation",
+      "credibility_scores": {
+        "specificity": {
+          "score": 2,
+          "rationale": "The claim identifies a specific target area, namely training in intermediate and advanced digital skills, but does not provide detailed action-level information or named initiatives.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "measurability": {
+          "score": 2,
+          "rationale": "The claim provides a specific percentage (68%) of employees trained, but lacks baselines or clear KPIs.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "temporality": {
+          "score": 0,
+          "rationale": "The claim does not provide any temporal reference or timeframe for when the training occurred.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "evidence": {
+          "score": 1,
+          "rationale": "The claim is self-reported with no additional methodology or external verification provided.",
+          "all_run_scores": [
+            1,
+            1,
+            1
+          ],
+          "agreement": true
+        },
+        "consistency": {
+          "score": 0,
+          "rationale": "The claim is inconsistent with other data in the report, which states 54% received intermediate training, and there is no mention of advanced training.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        }
+      },
+      "composite_score": 1.0,
+      "credibility_tier": "partially_substantive",
+      "overall_assessment": "The claim provides specific data on employee training but lacks temporal context, external verification, and is inconsistent with other report data.",
+      "n_cross_section": 3,
+      "n_same_section": 0,
+      "retrieval_flags": [
+        "No other material in section 'Employee Training' met the similarity threshold (0.35)."
+      ]
+    },
+    {
+      "claim_id": "CLM-0246",
+      "company": "TISCO Financial Group",
+      "credibility_scores": {
+        "specificity": {
+          "score": 2,
+          "rationale": "The claim specifies that common stocks and debentures listed on SETESG disclose greenhouse gas emissions data for Scopes 1 and 2, which is a specific target area.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "measurability": {
+          "score": 2,
+          "rationale": "The claim provides a specific data quality score of 1 for the emissions data, but lacks baselines or KPIs.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "temporality": {
+          "score": 0,
+          "rationale": "There is no temporal reference provided in the claim.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "evidence": {
+          "score": 1,
+          "rationale": "The claim is self-reported without any described methodology or external verification.",
+          "all_run_scores": [
+            2,
+            1,
+            1
+          ],
+          "agreement": false
+        },
+        "consistency": {
+          "score": 3,
+          "rationale": "The claim is fully corroborated by the additional context provided in the report, which describes the same data quality score and methodology.",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        }
+      },
+      "composite_score": 1.6,
+      "credibility_tier": "partially_substantive",
+      "overall_assessment": "The claim identifies a specific programme with a clear data quality score, but lacks temporal references and external verification.",
+      "n_cross_section": 3,
+      "n_same_section": 2,
+      "retrieval_flags": []
+    },
+    {
+      "claim_id": "CLM-0086",
+      "company": "Minor International",
+      "credibility_scores": {
+        "specificity": {
+          "score": 2,
+          "rationale": "The claim identifies a specific training programme related to the Code of Conduct and Anti-Fraud and Corruption training.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "measurability": {
+          "score": 2,
+          "rationale": "The claim provides a specific number of employees (>52,000) who completed the training, but lacks baselines or KPIs.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "temporality": {
+          "score": 0,
+          "rationale": "There is no temporal reference or specific year mentioned in the claim.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "evidence": {
+          "score": 1,
+          "rationale": "The claim is self-reported with no methodology or external verification provided.",
+          "all_run_scores": [
+            1,
+            1,
+            1
+          ],
+          "agreement": true
+        },
+        "consistency": {
+          "score": 3,
+          "rationale": "The claim is consistent with the additional context provided, specifically aligning with the data on page 57.",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        }
+      },
+      "composite_score": 1.6,
+      "credibility_tier": "partially_substantive",
+      "overall_assessment": "The claim is specific and consistent with other report sections, but it lacks temporal detail and external verification, limiting its full substantiation.",
+      "n_cross_section": 3,
+      "n_same_section": 2,
+      "retrieval_flags": []
+    },
+    {
+      "claim_id": "CLM-0057",
+      "company": "Siam Commercial Bank",
+      "credibility_scores": {
+        "specificity": {
+          "score": 2,
+          "rationale": "The claim identifies specific areas of improvement in technology and cybersecurity policies and standards, but lacks detailed action-level information such as locations or scope.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "measurability": {
+          "score": 0,
+          "rationale": "There are no quantitative metrics provided in the claim.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "temporality": {
+          "score": 2,
+          "rationale": "The claim mentions the year 2024, providing a specific timeframe for the actions taken.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "evidence": {
+          "score": 1,
+          "rationale": "The claim is self-reported with no external verification or detailed methodology provided.",
+          "all_run_scores": [
+            1,
+            1,
+            1
+          ],
+          "agreement": true
+        },
+        "consistency": {
+          "score": 3,
+          "rationale": "The claim is fully corroborated by additional context from the report, which provides consistent information about the reviewed and updated standards.",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        }
+      },
+      "composite_score": 1.6,
+      "credibility_tier": "partially_substantive",
+      "overall_assessment": "The claim identifies specific areas of improvement in technology and cybersecurity policies and standards, but lacks quantitative metrics and external verification. It is consistent with other information in the report.",
+      "n_cross_section": 3,
+      "n_same_section": 2,
+      "retrieval_flags": []
+    },
+    {
+      "claim_id": "CLM-0130",
+      "company": "Bangchak Corporation",
+      "credibility_scores": {
+        "specificity": {
+          "score": 2,
+          "rationale": "The claim identifies specific actions such as using water-saving sanitary ware, posting conservation signs, and storing rainwater, but lacks detailed information on locations or scope.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "measurability": {
+          "score": 0,
+          "rationale": "The claim does not provide any quantitative metrics or measurements.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "temporality": {
+          "score": 0,
+          "rationale": "There is no temporal reference or timeframe mentioned in the claim.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "evidence": {
+          "score": 1,
+          "rationale": "The claim is self-reported without any supporting methodology or external verification.",
+          "all_run_scores": [
+            1,
+            1,
+            1
+          ],
+          "agreement": true
+        },
+        "consistency": {
+          "score": 3,
+          "rationale": "The claim is consistent with additional context provided in the report, which reiterates the same water conservation actions.",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        }
+      },
+      "composite_score": 1.2,
+      "credibility_tier": "partially_substantive",
+      "overall_assessment": "The claim outlines specific water conservation actions but lacks quantitative metrics, temporal references, and external verification, limiting its substantiation.",
+      "n_cross_section": 3,
+      "n_same_section": 2,
+      "retrieval_flags": []
+    },
+    {
+      "claim_id": "CLM-0084",
+      "company": "Bangkok Dusit Medical Services",
+      "credibility_scores": {
+        "specificity": {
+          "score": 2,
+          "rationale": "The claim identifies specific areas of focus such as security protection, privacy, digital assets, and data integrity, but does not provide detailed action-level information or specific initiatives.",
+          "all_run_scores": [
+            1,
+            2,
+            2
+          ],
+          "agreement": false
+        },
+        "measurability": {
+          "score": 0,
+          "rationale": "There are no quantitative metrics or measurements provided in the claim.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "temporality": {
+          "score": 0,
+          "rationale": "The claim does not include any temporal references or timeframes.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "evidence": {
+          "score": 1,
+          "rationale": "The claim is self-reported without any methodology or external verification.",
+          "all_run_scores": [
+            1,
+            1,
+            1
+          ],
+          "agreement": true
+        },
+        "consistency": {
+          "score": 3,
+          "rationale": "The claim is fully corroborated by additional context provided in the report, which consistently describes the committee's role and responsibilities.",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        }
+      },
+      "composite_score": 1.2,
+      "credibility_tier": "partially_substantive",
+      "overall_assessment": "",
+      "n_cross_section": 3,
+      "n_same_section": 2,
+      "retrieval_flags": []
+    },
+    {
+      "claim_id": "CLM-0030",
+      "company": "Global Power Synergy",
+      "credibility_scores": {
+        "specificity": {
+          "score": 2,
+          "rationale": "The claim identifies a specific target area of achieving Net Zero GHG Emission by 2060, but does not provide detailed action-level information or initiatives.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "measurability": {
+          "score": 0,
+          "rationale": "The claim does not provide any quantitative metrics or numbers related to the target.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "temporality": {
+          "score": 2,
+          "rationale": "The claim provides a specific year, 2060, as the target for achieving Net Zero GHG Emission.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "evidence": {
+          "score": 1,
+          "rationale": "The claim is self-reported with no additional methodology or external verification provided.",
+          "all_run_scores": [
+            1,
+            1,
+            1
+          ],
+          "agreement": true
+        },
+        "consistency": {
+          "score": 3,
+          "rationale": "The claim is fully corroborated by multiple sections of the report, indicating consistent reporting of the target.",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        }
+      },
+      "composite_score": 1.6,
+      "credibility_tier": "partially_substantive",
+      "overall_assessment": "The claim identifies a specific target for Net Zero GHG Emission by 2060, but lacks quantitative metrics, external verification, and detailed action plans needed for full substantiation.",
+      "n_cross_section": 3,
+      "n_same_section": 2,
+      "retrieval_flags": []
+    },
+    {
+      "claim_id": "CLM-0137",
+      "company": "Global Power Synergy",
+      "credibility_scores": {
+        "specificity": {
+          "score": 2,
+          "rationale": "The claim identifies specific areas such as recruitment, career development, and professional advancement but lacks detailed action-level specifics or named initiatives.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "measurability": {
+          "score": 0,
+          "rationale": "There are no quantitative metrics or qualitative measures provided in the claim.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "temporality": {
+          "score": 0,
+          "rationale": "The claim does not include any temporal references or timeframes.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "evidence": {
+          "score": 1,
+          "rationale": "The claim is self-reported with no additional methodology or external verification provided.",
+          "all_run_scores": [
+            1,
+            1,
+            1
+          ],
+          "agreement": true
+        },
+        "consistency": {
+          "score": 3,
+          "rationale": "The claim is fully corroborated by other sections in the report that emphasize non-discrimination and diversity.",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        }
+      },
+      "composite_score": 1.2,
+      "credibility_tier": "partially_substantive",
+      "overall_assessment": "",
+      "n_cross_section": 3,
+      "n_same_section": 2,
+      "retrieval_flags": []
+    },
+    {
+      "claim_id": "CLM-0113",
+      "company": "WHA Corporation",
+      "credibility_scores": {
+        "specificity": {
+          "score": 2,
+          "rationale": "The claim identifies a specific programme, the Customer Relationship Management system, but lacks detailed action-level specifics such as locations or scope.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "measurability": {
+          "score": 0,
+          "rationale": "The claim does not provide any quantitative metrics or measurable outcomes.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "temporality": {
+          "score": 0,
+          "rationale": "There is no temporal reference or timeframe mentioned in the claim.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "evidence": {
+          "score": 1,
+          "rationale": "The claim is self-reported with no external verification or detailed methodology provided.",
+          "all_run_scores": [
+            1,
+            1,
+            1
+          ],
+          "agreement": true
+        },
+        "consistency": {
+          "score": 3,
+          "rationale": "The claim is fully corroborated by additional context in the report, which discusses the CRM system and its role in customer relationship management.",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        }
+      },
+      "composite_score": 1.2,
+      "credibility_tier": "partially_substantive",
+      "overall_assessment": "The claim identifies a specific programme but lacks measurable outcomes, temporal context, and external verification, although it is consistent with other report content.",
+      "n_cross_section": 3,
+      "n_same_section": 2,
+      "retrieval_flags": []
+    },
+    {
+      "claim_id": "CLM-0078",
+      "company": "Bangkok Dusit Medical Services",
+      "credibility_scores": {
+        "specificity": {
+          "score": 2,
+          "rationale": "The claim identifies a specific action related to feedback from a drill being communicated to departments to enhance operational efficiency and preparedness.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "measurability": {
+          "score": 0,
+          "rationale": "The claim lacks any quantitative metrics or specific numbers.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "temporality": {
+          "score": 0,
+          "rationale": "There is no temporal reference or timeframe mentioned in the claim.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "evidence": {
+          "score": 1,
+          "rationale": "The claim is self-reported with no methodology or external verification provided.",
+          "all_run_scores": [
+            1,
+            1,
+            2
+          ],
+          "agreement": false
+        },
+        "consistency": {
+          "score": 3,
+          "rationale": "The claim is consistent with other information in the report, specifically regarding the feedback process from drills.",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        }
+      },
+      "composite_score": 1.2,
+      "credibility_tier": "partially_substantive",
+      "overall_assessment": "",
+      "n_cross_section": 3,
+      "n_same_section": 2,
+      "retrieval_flags": []
+    },
+    {
+      "claim_id": "CLM-0060",
+      "company": "Krungthai Bank",
+      "credibility_scores": {
+        "specificity": {
+          "score": 1,
+          "rationale": "The claim is a vague reference to operating efficiently, transparently, and responsibly without specific programmes or initiatives mentioned.",
+          "all_run_scores": [
+            1,
+            1,
+            1
+          ],
+          "agreement": true
+        },
+        "measurability": {
+          "score": 0,
+          "rationale": "There are no quantitative metrics or qualitative measures provided in the claim.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "temporality": {
+          "score": 0,
+          "rationale": "The claim lacks any temporal reference or timeframe.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "evidence": {
+          "score": 1,
+          "rationale": "The claim is self-reported with no supporting evidence, methodology, or external verification provided.",
+          "all_run_scores": [
+            1,
+            1,
+            1
+          ],
+          "agreement": true
+        },
+        "consistency": {
+          "score": 3,
+          "rationale": "The claim is consistent with other statements in the report about the bank's commitment to responsible and ethical operations.",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        }
+      },
+      "composite_score": 1.0,
+      "credibility_tier": "partially_substantive",
+      "overall_assessment": "",
+      "n_cross_section": 3,
+      "n_same_section": 2,
+      "retrieval_flags": []
+    },
+    {
+      "claim_id": "CLM-0001",
+      "company": "Kasikornbank",
+      "credibility_scores": {
+        "specificity": {
+          "score": 1,
+          "rationale": "The claim is a vague reference to a theme of sustainability without identifying specific programs or target areas.",
+          "all_run_scores": [
+            1,
+            1,
+            1
+          ],
+          "agreement": true
+        },
+        "measurability": {
+          "score": 0,
+          "rationale": "There are no quantitative metrics or measurable outcomes provided in the claim.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "temporality": {
+          "score": 0,
+          "rationale": "The claim lacks any temporal references or timeframes.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "evidence": {
+          "score": 1,
+          "rationale": "The claim is self-reported without any supporting evidence or methodology described.",
+          "all_run_scores": [
+            1,
+            1,
+            1
+          ],
+          "agreement": true
+        },
+        "consistency": {
+          "score": 3,
+          "rationale": "The claim is fully consistent with the additional context provided, which reiterates the commitment to sustainability.",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        }
+      },
+      "composite_score": 1.0,
+      "credibility_tier": "partially_substantive",
+      "overall_assessment": "The claim is a general statement of intent without specific details, metrics, or timeframes, but it is consistent with the overall narrative of the report.",
+      "n_cross_section": 3,
+      "n_same_section": 2,
+      "retrieval_flags": []
+    },
+    {
+      "claim_id": "CLM-0321",
+      "company": "WHA Corporation",
+      "credibility_scores": {
+        "specificity": {
+          "score": 1,
+          "rationale": "The claim refers to balancing business development with social and environmental responsibilities, which is a vague theme without specific details.",
+          "all_run_scores": [
+            1,
+            1,
+            1
+          ],
+          "agreement": true
+        },
+        "measurability": {
+          "score": 0,
+          "rationale": "There are no quantitative metrics or measurements provided in the claim.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "temporality": {
+          "score": 0,
+          "rationale": "The claim lacks any temporal reference or timeframe.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "evidence": {
+          "score": 1,
+          "rationale": "The claim is self-reported without any methodology or external validation.",
+          "all_run_scores": [
+            1,
+            1,
+            0
+          ],
+          "agreement": false
+        },
+        "consistency": {
+          "score": 3,
+          "rationale": "The claim is consistent with other sections of the report, which reiterate the mission and commitment to social and environmental responsibilities.",
+          "all_run_scores": [
+            3,
+            3,
+            2
+          ],
+          "agreement": false
+        }
+      },
+      "composite_score": 1.0,
+      "credibility_tier": "partially_substantive",
+      "overall_assessment": "The claim is broadly aligned with the company's mission but lacks specificity, measurable outcomes, and temporal details to be fully credible.",
+      "n_cross_section": 3,
+      "n_same_section": 2,
+      "retrieval_flags": []
+    },
+    {
+      "claim_id": "CLM-0031",
+      "company": "Asset World Corporation",
+      "credibility_scores": {
+        "specificity": {
+          "score": 1,
+          "rationale": "The claim is a vague/generic theme reference, mentioning a commitment to public responsibility without specifying any particular program or target area.",
+          "all_run_scores": [
+            1,
+            1,
+            1
+          ],
+          "agreement": true
+        },
+        "measurability": {
+          "score": 0,
+          "rationale": "There are no metrics of any kind provided in the claim.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "temporality": {
+          "score": 0,
+          "rationale": "There is no temporal reference in the claim.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "evidence": {
+          "score": 0,
+          "rationale": "No supporting evidence is provided for the claim.",
+          "all_run_scores": [
+            0,
+            0,
+            1
+          ],
+          "agreement": false
+        },
+        "consistency": {
+          "score": 2,
+          "rationale": "The claim is mostly consistent with other information in the report, as it aligns with the general theme of responsibility towards the environment and society, but there is limited context to fully assess consistency.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        }
+      },
+      "composite_score": 0.6,
+      "credibility_tier": "symbolic",
+      "overall_assessment": "The claim is a broad statement of intent without specific details, metrics, or evidence, making it non-substantive.",
+      "n_cross_section": 3,
+      "n_same_section": 0,
+      "retrieval_flags": [
+        "No other material in section 'Core Values' met the similarity threshold (0.35)."
+      ]
+    },
+    {
+      "claim_id": "CLM-0120",
+      "company": "Bangkok Dusit Medical Services",
+      "credibility_scores": {
+        "specificity": {
+          "score": 2,
+          "rationale": "The claim identifies specific target areas, namely promoting access to healthcare services and well-being for disadvantaged and vulnerable groups in Thailand, but lacks detailed action-level specifics such as named initiatives or locations.",
+          "all_run_scores": [
+            1,
+            2,
+            2
+          ],
+          "agreement": false
+        },
+        "measurability": {
+          "score": 0,
+          "rationale": "The claim does not provide any quantitative metrics or measurable outcomes.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "temporality": {
+          "score": 0,
+          "rationale": "There is no temporal reference or timeframe mentioned in the claim.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "evidence": {
+          "score": 1,
+          "rationale": "The claim is self-reported without any supporting evidence or methodology described.",
+          "all_run_scores": [
+            1,
+            1,
+            1
+          ],
+          "agreement": true
+        },
+        "consistency": {
+          "score": 3,
+          "rationale": "The claim is consistent with other information provided in the report, which discusses BDMS's focus on healthcare access for vulnerable groups.",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        }
+      },
+      "composite_score": 1.2,
+      "credibility_tier": "partially_substantive",
+      "overall_assessment": "The claim acknowledges important issues but lacks specificity, measurable outcomes, and temporal context. It is consistent with the report's narrative but lacks substantiation.",
+      "n_cross_section": 3,
+      "n_same_section": 2,
+      "retrieval_flags": []
+    },
+    {
+      "claim_id": "CLM-0112",
+      "company": "CP ALL",
+      "credibility_scores": {
+        "specificity": {
+          "score": 2,
+          "rationale": "The claim identifies a specific target area of reducing electricity consumption in office buildings but lacks detailed action-level specifics such as named initiatives or locations.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "measurability": {
+          "score": 2,
+          "rationale": "The claim provides a specific number (420 MWh per year), but there is no baseline or KPI for comparison.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "temporality": {
+          "score": 0,
+          "rationale": "There is no temporal reference provided in the claim.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "evidence": {
+          "score": 1,
+          "rationale": "The claim is self-reported with no methodology or external verification provided.",
+          "all_run_scores": [
+            2,
+            1,
+            1
+          ],
+          "agreement": false
+        },
+        "consistency": {
+          "score": 3,
+          "rationale": "The claim is fully corroborated by other data in the report, such as the 420 MWh reduction mentioned in the same section.",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        }
+      },
+      "composite_score": 1.6,
+      "credibility_tier": "partially_substantive",
+      "overall_assessment": "The claim identifies a specific reduction in electricity consumption with a measurable figure, but lacks temporal context and external verification. It is consistent with other report data.",
+      "n_cross_section": 3,
+      "n_same_section": 2,
+      "retrieval_flags": []
+    },
+    {
+      "claim_id": "CLM-0227",
+      "company": "TISCO Financial Group",
+      "credibility_scores": {
+        "specificity": {
+          "score": 2,
+          "rationale": "The claim identifies specific targets related to financing for a green economy and achieving net-zero Scope 3 emissions, but lacks detailed action-level specifics such as named initiatives or locations.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "measurability": {
+          "score": 0,
+          "rationale": "The claim does not provide any quantitative metrics or specific numbers related to the targets.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "temporality": {
+          "score": 2,
+          "rationale": "The claim includes a specific year, 2065, for achieving net-zero Scope 3 emissions.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "evidence": {
+          "score": 1,
+          "rationale": "The claim is self-reported with no methodology or external verification provided.",
+          "all_run_scores": [
+            1,
+            1,
+            1
+          ],
+          "agreement": true
+        },
+        "consistency": {
+          "score": 3,
+          "rationale": "The claim is fully corroborated by other sections of the report, which provide consistent information about the targets and timelines.",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        }
+      },
+      "composite_score": 1.6,
+      "credibility_tier": "partially_substantive",
+      "overall_assessment": "",
+      "n_cross_section": 3,
+      "n_same_section": 2,
+      "retrieval_flags": []
+    },
+    {
+      "claim_id": "CLM-0057",
+      "company": "Minor International",
+      "credibility_scores": {
+        "specificity": {
+          "score": 2,
+          "rationale": "The claim identifies a specific target area, which is mitigating biodiversity loss at sensitive sites near operational locations, but lacks detailed action-level information or named initiatives.",
+          "all_run_scores": [
+            1,
+            2,
+            2
+          ],
+          "agreement": false
+        },
+        "measurability": {
+          "score": 0,
+          "rationale": "No quantitative metrics or measures are provided in the claim.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "temporality": {
+          "score": 0,
+          "rationale": "There is no temporal reference or timeframe mentioned in the claim.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "evidence": {
+          "score": 2,
+          "rationale": "The claim is supported by a Biodiversity Risk Assessment Framework mentioned in the context, aligning with TNFD's LEAP methodology.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "consistency": {
+          "score": 3,
+          "rationale": "The claim is fully corroborated by the additional context provided, which aligns with the company's focus on biodiversity.",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        }
+      },
+      "composite_score": 1.4,
+      "credibility_tier": "partially_substantive",
+      "overall_assessment": "The claim is vague and lacks specific details, metrics, and a timeframe, but it is supported by a framework mentioned in the report, ensuring some level of credibility.",
+      "n_cross_section": 3,
+      "n_same_section": 2,
+      "retrieval_flags": []
+    },
+    {
+      "claim_id": "CLM-0108",
+      "company": "True Corporation",
+      "credibility_scores": {
+        "specificity": {
+          "score": 3,
+          "rationale": "The claim identifies a specific program, collaboration with DCY, and details the focus areas such as life skills, vocational skills, and specific activities like scholarships and training.",
+          "all_run_scores": [
+            3,
+            2,
+            3
+          ],
+          "agreement": false
+        },
+        "measurability": {
+          "score": 2,
+          "rationale": "The claim provides specific numbers, stating over 1,390 youths participated, but lacks baselines or KPIs.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "temporality": {
+          "score": 2,
+          "rationale": "The claim references a specific year, 2024, but does not provide dated milestones or interim targets.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "evidence": {
+          "score": 1,
+          "rationale": "The claim is self-reported with no methodology or external verification provided.",
+          "all_run_scores": [
+            1,
+            1,
+            1
+          ],
+          "agreement": true
+        },
+        "consistency": {
+          "score": 3,
+          "rationale": "The claim is fully corroborated by additional context from the report, which provides consistent details about the program and its activities.",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        }
+      },
+      "composite_score": 2.2,
+      "credibility_tier": "substantive",
+      "overall_assessment": "",
+      "n_cross_section": 3,
+      "n_same_section": 1,
+      "retrieval_flags": [
+        "Only 1 of 2 target same-section references met the similarity threshold (0.35)."
+      ]
+    },
+    {
+      "claim_id": "CLM-0177",
+      "company": "Carabao Group",
+      "credibility_scores": {
+        "specificity": {
+          "score": 1,
+          "rationale": "The claim is a generic reference to resource management without specific programmes or initiatives mentioned.",
+          "all_run_scores": [
+            1,
+            1,
+            1
+          ],
+          "agreement": true
+        },
+        "measurability": {
+          "score": 0,
+          "rationale": "There are no quantitative metrics or measurements provided in the claim.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "temporality": {
+          "score": 0,
+          "rationale": "The claim does not include any temporal references or timeframes.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "evidence": {
+          "score": 1,
+          "rationale": "The claim is self-reported with no supporting evidence or methodology described.",
+          "all_run_scores": [
+            1,
+            1,
+            1
+          ],
+          "agreement": true
+        },
+        "consistency": {
+          "score": 2,
+          "rationale": "The claim is mostly consistent with other sections that discuss resource management, though details are limited.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        }
+      },
+      "composite_score": 0.8,
+      "credibility_tier": "symbolic",
+      "overall_assessment": "The claim is a broad statement about resource management without specific details, metrics, or timeframes, limiting its substantiation.",
+      "n_cross_section": 3,
+      "n_same_section": 2,
+      "retrieval_flags": []
+    },
+    {
+      "claim_id": "CLM-0140",
+      "company": "Thai Oil",
+      "credibility_scores": {
+        "specificity": {
+          "score": 1,
+          "rationale": "The claim is vague, mentioning a higher level of customer engagement without specifying any particular program or initiative.",
+          "all_run_scores": [
+            1,
+            1,
+            1
+          ],
+          "agreement": true
+        },
+        "measurability": {
+          "score": 0,
+          "rationale": "There are no quantitative metrics or specific numbers provided in the claim.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "temporality": {
+          "score": 0,
+          "rationale": "The claim does not mention any timeframe or specific period.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "evidence": {
+          "score": 1,
+          "rationale": "The claim is self-reported without any supporting evidence or methodology.",
+          "all_run_scores": [
+            1,
+            1,
+            1
+          ],
+          "agreement": true
+        },
+        "consistency": {
+          "score": 3,
+          "rationale": "The claim is consistent with other information in the report, which emphasizes customer engagement and satisfaction.",
+          "all_run_scores": [
+            3,
+            2,
+            3
+          ],
+          "agreement": false
+        }
+      },
+      "composite_score": 1.0,
+      "credibility_tier": "partially_substantive",
+      "overall_assessment": "",
+      "n_cross_section": 3,
+      "n_same_section": 2,
+      "retrieval_flags": []
+    },
+    {
+      "claim_id": "CLM-0353",
+      "company": "Krungthai Bank",
+      "credibility_scores": {
+        "specificity": {
+          "score": 1,
+          "rationale": "The claim is a vague reference to a theme of sustainable supply chain management without specific programmes or initiatives mentioned.",
+          "all_run_scores": [
+            1,
+            1,
+            1
+          ],
+          "agreement": true
+        },
+        "measurability": {
+          "score": 0,
+          "rationale": "The claim lacks any quantitative metrics or measurable outcomes.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "temporality": {
+          "score": 0,
+          "rationale": "There is no temporal reference or timeframe mentioned in the claim.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "evidence": {
+          "score": 1,
+          "rationale": "The claim is self-reported without any supporting evidence or methodology provided.",
+          "all_run_scores": [
+            1,
+            1,
+            1
+          ],
+          "agreement": true
+        },
+        "consistency": {
+          "score": 3,
+          "rationale": "The claim is consistent with other references to sustainable supply chain management in the report.",
+          "all_run_scores": [
+            3,
+            2,
+            3
+          ],
+          "agreement": false
+        }
+      },
+      "composite_score": 1.0,
+      "credibility_tier": "partially_substantive",
+      "overall_assessment": "",
+      "n_cross_section": 3,
+      "n_same_section": 2,
+      "retrieval_flags": []
+    },
+    {
+      "claim_id": "CLM-0079",
+      "company": "Osotspa",
+      "credibility_scores": {
+        "specificity": {
+          "score": 2,
+          "rationale": "The claim identifies a specific research project on Glycyrrhizic acid in licorice, which is part of a collaboration with Chulalongkorn University. However, it lacks detailed action-level specifics such as locations or scope.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "measurability": {
+          "score": 0,
+          "rationale": "The claim does not provide any quantitative metrics or measurements to support the assertion about Glycyrrhizic acid's properties.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "temporality": {
+          "score": 2,
+          "rationale": "The context mentions the research project was conducted in 2024, providing a specific year for the activity.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "evidence": {
+          "score": 2,
+          "rationale": "The claim is supported by internal data from a research project in collaboration with a university, but lacks third-party verification or detailed methodology.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "consistency": {
+          "score": 3,
+          "rationale": "The claim is consistent with additional context provided in the report, which corroborates the research findings on Glycyrrhizic acid in licorice.",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        }
+      },
+      "composite_score": 1.8,
+      "credibility_tier": "partially_substantive",
+      "overall_assessment": "",
+      "n_cross_section": 2,
+      "n_same_section": 2,
+      "retrieval_flags": [
+        "Only 2 of 3 target cross-section references met the similarity threshold (0.35)."
+      ]
+    },
+    {
+      "claim_id": "CLM-0114",
+      "company": "Krungthai Bank",
+      "credibility_scores": {
+        "specificity": {
+          "score": 1,
+          "rationale": "The claim is a generic statement about reducing funding to high-carbon-emitting sectors without naming specific initiatives or locations.",
+          "all_run_scores": [
+            1,
+            1,
+            1
+          ],
+          "agreement": true
+        },
+        "measurability": {
+          "score": 0,
+          "rationale": "There are no quantitative metrics or specific numbers provided in the claim.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "temporality": {
+          "score": 0,
+          "rationale": "The claim does not include any temporal reference or timeframe.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "evidence": {
+          "score": 1,
+          "rationale": "The claim is self-reported with no methodology or external verification provided.",
+          "all_run_scores": [
+            1,
+            1,
+            1
+          ],
+          "agreement": true
+        },
+        "consistency": {
+          "score": 3,
+          "rationale": "The claim is consistent with other information in the report, which discusses efforts to reduce funding to high-carbon sectors.",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        }
+      },
+      "composite_score": 1.0,
+      "credibility_tier": "partially_substantive",
+      "overall_assessment": "The claim is a general statement about reducing funding to high-carbon sectors, lacking specificity, metrics, and temporal context, but is consistent with the report's overall narrative.",
+      "n_cross_section": 3,
+      "n_same_section": 2,
+      "retrieval_flags": []
+    },
+    {
+      "claim_id": "CLM-0277",
+      "company": "SCG Packaging",
+      "credibility_scores": {
+        "specificity": {
+          "score": 1,
+          "rationale": "The claim is a vague reference to negative environmental impacts and actions taken without detailing specific programs or initiatives.",
+          "all_run_scores": [
+            1,
+            1,
+            1
+          ],
+          "agreement": true
+        },
+        "measurability": {
+          "score": 0,
+          "rationale": "No quantitative metrics or measurements are provided in the claim.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "temporality": {
+          "score": 0,
+          "rationale": "There is no temporal reference or timeframe mentioned in the claim.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "evidence": {
+          "score": 0,
+          "rationale": "No supporting evidence, methodology, or source is provided in the claim.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "consistency": {
+          "score": 1,
+          "rationale": "The claim is internally coherent but lacks sufficient context to assess consistency with other report sections.",
+          "all_run_scores": [
+            1,
+            1,
+            1
+          ],
+          "agreement": true
+        }
+      },
+      "composite_score": 0.4,
+      "credibility_tier": "symbolic",
+      "overall_assessment": "The claim is vague and lacks specificity, measurability, temporal context, and supporting evidence, making it non-substantive.",
+      "n_cross_section": 3,
+      "n_same_section": 1,
+      "retrieval_flags": [
+        "Only 1 of 2 target same-section references met the similarity threshold (0.35)."
+      ]
+    },
+    {
+      "claim_id": "CLM-0262",
+      "company": "CP ALL",
+      "credibility_scores": {
+        "specificity": {
+          "score": 2,
+          "rationale": "Identifies a specific program (long-term incentive program) but lacks detailed action-level specifics such as locations or scope.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "measurability": {
+          "score": 0,
+          "rationale": "No quantitative metrics or numbers are provided in the claim.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "temporality": {
+          "score": 0,
+          "rationale": "No temporal reference is provided in the claim.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "evidence": {
+          "score": 1,
+          "rationale": "The claim is self-reported with no methodology or external verification provided.",
+          "all_run_scores": [
+            1,
+            1,
+            1
+          ],
+          "agreement": true
+        },
+        "consistency": {
+          "score": 3,
+          "rationale": "The claim is fully corroborated by additional context in the report, which provides further details on the program.",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        }
+      },
+      "composite_score": 1.2,
+      "credibility_tier": "partially_substantive",
+      "overall_assessment": "The claim identifies a specific program but lacks quantitative metrics, temporal references, and external verification, limiting its substantiation.",
+      "n_cross_section": 3,
+      "n_same_section": 2,
+      "retrieval_flags": []
+    },
+    {
+      "claim_id": "CLM-0114",
+      "company": "Osotspa",
+      "credibility_scores": {
+        "specificity": {
+          "score": 2,
+          "rationale": "The claim identifies adherence to specific guidelines (WHO principles and Thailand\u2019s guidelines) but lacks detailed action-level specifics such as initiatives or locations.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "measurability": {
+          "score": 0,
+          "rationale": "There are no quantitative metrics or measurable outcomes provided in the claim.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "temporality": {
+          "score": 0,
+          "rationale": "There is no temporal reference or timeframe mentioned in the claim.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "evidence": {
+          "score": 1,
+          "rationale": "The claim is self-reported with no external verification or detailed methodology provided.",
+          "all_run_scores": [
+            1,
+            1,
+            1
+          ],
+          "agreement": true
+        },
+        "consistency": {
+          "score": 3,
+          "rationale": "The claim is consistent with other information provided in the report, specifically the management approach section.",
+          "all_run_scores": [
+            3,
+            3,
+            3
+          ],
+          "agreement": true
+        }
+      },
+      "composite_score": 1.2,
+      "credibility_tier": "partially_substantive",
+      "overall_assessment": "The claim identifies adherence to specific guidelines but lacks measurable outcomes, temporal references, and external verification needed for full substantiation.",
+      "n_cross_section": 3,
+      "n_same_section": 2,
+      "retrieval_flags": []
+    },
+    {
+      "claim_id": "CLM-0186",
+      "company": "Berli Jucker",
+      "credibility_scores": {
+        "specificity": {
+          "score": 1,
+          "rationale": "The claim is vague, mentioning 'agricultural products' without specifying the type of support or any specific initiatives.",
+          "all_run_scores": [
+            1,
+            1,
+            1
+          ],
+          "agreement": true
+        },
+        "measurability": {
+          "score": 2,
+          "rationale": "The claim provides a specific number (150,000 tons) but lacks baselines or KPIs.",
+          "all_run_scores": [
+            2,
+            2,
+            2
+          ],
+          "agreement": true
+        },
+        "temporality": {
+          "score": 0,
+          "rationale": "There is no temporal reference provided in the claim.",
+          "all_run_scores": [
+            0,
+            0,
+            0
+          ],
+          "agreement": true
+        },
+        "evidence": {
+          "score": 1,
+          "rationale": "The claim is self-reported with no supporting evidence or methodology described.",
+          "all_run_scores": [
+            1,
+            1,
+            1
+          ],
+          "agreement": true
+        },
+        "consistency": {
+          "score": 1,
+          "rationale": "There are minor inconsistencies; the claim does not align directly with other data provided in the context.",
+          "all_run_scores": [
+            1,
+            1,
+            1
+          ],
+          "agreement": true
+        }
+      },
+      "composite_score": 1.0,
+      "credibility_tier": "partially_substantive",
+      "overall_assessment": "The claim is somewhat specific and measurable but lacks temporal context, evidence, and consistency with other report sections.",
+      "n_cross_section": 3,
+      "n_same_section": 2,
+      "retrieval_flags": []
+    }
+  ]
+}

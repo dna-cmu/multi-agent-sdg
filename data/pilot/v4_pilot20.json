@@ -1,0 +1,1398 @@
+{
+ "source_form": "../scorer/Pilot20-SMTEC-form-v4-EN.xlsx",
+ "prompt_version": "V4-2026-10-23",
+ "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+ "mock": false,
+ "claims": [
+  {
+   "claim_id": "P01",
+   "report": "advanc-2024-SR-en",
+   "section": "Green Energy Green Network for THAIs",
+   "page": "870",
+   "sdg_targets": "11.2, 11.a, 13.2, 13.3, 9.1, 9.c",
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 3,
+   "S_runs": [
+    3,
+    3,
+    3
+   ],
+   "M": 2,
+   "M_runs": [
+    2,
+    2,
+    2
+   ],
+   "T": 1,
+   "T_runs": [
+    1,
+    1,
+    1
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "None",
+    "X1": "Redundant",
+    "X2": "Related",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": false,
+    "X2": false,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.4,
+   "SMTE": 1.75,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim specifies the action (reduction of travel expenses), the named programme (Green Energy Green Network for THAIs), and a specific value (257,000 baht), which indicates a defined scope.",
+    "M": "The claim provides a quantified figure (257,000 baht) but lacks a baseline or target for comparison.",
+    "T": "The claim mentions a 'preliminary' value, suggesting something has been done, but it does not provide a specific date or time frame.",
+    "E": "The evidence provides figures and mentions the project but does not disclose the method of data collection or any external assurance."
+   },
+   "label_reason": {
+    "S1": "The passage discusses the project's future strategy but does not address the specific claim about travel expense reduction.",
+    "S2": "No passage was retrieved for this slot.",
+    "X1": "This passage repeats the claim about the social return value related to travel expenses without adding new information.",
+    "X2": "The passage discusses the broader scope of the project's operations but does not address the specific claim about travel expenses.",
+    "X3": "The passage mentions the communities benefiting from the project but does not address the specific claim about travel expenses."
+   },
+   "comment": ""
+  },
+  {
+   "claim_id": "P02",
+   "report": "SCC-2024-SR-EN",
+   "section": "Climate Resilience",
+   "page": "631",
+   "sdg_targets": "13.2, 7.3",
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 2,
+   "S_runs": [
+    2,
+    2,
+    2
+   ],
+   "M": 3,
+   "M_runs": [
+    3,
+    3,
+    3
+   ],
+   "T": 3,
+   "T_runs": [
+    3,
+    3,
+    3
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Extend",
+    "X2": "Redundant",
+    "X3": "Unrelated"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": false
+   },
+   "C": 1,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 2.0,
+   "SMTE": 2.25,
+   "tier_SMTEC": "substantiated",
+   "tier_SMTE": "substantiated",
+   "rationale": {
+    "S": "The claim specifies the action (reduction in energy consumption) and provides a defined scope (compared to BAU baseline in 2007), but it does not mention a named programme or specific target area.",
+    "M": "The claim includes a quantifiable KPI with a baseline (BAU baseline in 2007) and a target (13% reduction by 2025).",
+    "T": "The claim provides a base year (2007) and a target year (2025), allowing for progress tracking.",
+    "E": "The evidence provides figures related to energy consumption reduction but lacks details on data collection methods, sources, or external assurance."
+   },
+   "label_reason": {
+    "S1": "The passage discusses GHG emissions reduction, which is related to climate resilience but does not address energy consumption reduction specifically.",
+    "S2": "This passage also discusses GHG emissions reduction, related to the broader topic of climate resilience, but not directly to the energy consumption claim.",
+    "X1": "This passage provides a specific figure (7.91%) for energy consumption reduction compared to the 2007 baseline, which supports the claim.",
+    "X2": "This passage repeats the claim about decreasing energy consumption by 13% by 2025 compared with the 2007 baseline without adding new information.",
+    "X3": "This passage discusses GHG emissions reduction, which does not directly relate to the specific claim about energy consumption reduction."
+   },
+   "comment": ""
+  },
+  {
+   "claim_id": "P03",
+   "report": "advanc-2024-SR-en",
+   "section": "Office Waste Management",
+   "page": "1320",
+   "sdg_targets": "12.5, 12.6",
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 0,
+   "T_runs": [
+    0,
+    0,
+    0
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Redundant",
+    "X2": "Unrelated",
+    "X3": "Extend"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 1,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.6,
+   "SMTE": 0.5,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "unsubstantiated",
+   "rationale": {
+    "S": "The claim names the action of encouraging efficient waste separation but does not specify a named program, a specific site, or a defined scope.",
+    "M": "The claim is a plain statement with no indicators, numbers, or language of change.",
+    "T": "There is no reference to time or period in the claim.",
+    "E": "The evidence provides self-reported information on waste separation efforts but lacks details on data collection methods, sources, or external assurance."
+   },
+   "label_reason": {
+    "S1": "The passage discusses AIS's involvement in a waste separation campaign, which is related to the topic but does not directly substantiate the specific claim about office waste separation.",
+    "S2": "This passage mentions a project converting food waste into fertilizer, which is related to waste management but not directly about office waste separation.",
+    "X1": "This passage repeats the claim about encouraging waste separation and adds context about education and collaboration but does not provide verifiable data.",
+    "X2": "The passage focuses on e-waste management, which is not directly related to the claim about office waste separation.",
+    "X3": "This passage extends the claim by providing details on the implementation of waste segregation with designated containers for different waste types."
+   },
+   "comment": ""
+  },
+  {
+   "claim_id": "P04",
+   "report": "IVL-2024-SR-EN",
+   "section": "Human Rights",
+   "page": "1281",
+   "sdg_targets": "16.3, 16.6, 16.b, 8.5, 8.7, 8.8",
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 0,
+   "T_runs": [
+    0,
+    0,
+    0
+   ],
+   "E": 2,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Related",
+    "X2": "Redundant",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": false,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.6,
+   "SMTE": 0.75,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "unsubstantiated",
+   "rationale": {
+    "S": "The claim names the action of identifying, addressing, and preventing human rights risks and mentions a framework ('Protect, Respect, and Remedy'), but it does not specify a named program, a specific target area, or a defined scope.",
+    "M": "The claim is a plain statement with no indicators or language of change.",
+    "T": "There is no reference to any time point or period in the claim.",
+    "E": "The evidence includes references to internationally recognized human rights frameworks and policies, suggesting a method of data collection or analysis, but there is no mention of external assurance or certification."
+   },
+   "label_reason": {
+    "S1": "The passage discusses the Human Rights Due Diligence framework, which is related to the claim's topic but does not directly address the specifics of the claim.",
+    "S2": "The passage mentions international human rights frameworks, which are related to the claim, but it does not provide specific details about the 'Protect, Respect, and Remedy' framework or its implementation.",
+    "X1": "This passage discusses human rights policies and practices, which are related to the claim's topic but do not address the specific framework or actions mentioned in the claim.",
+    "X2": "This passage repeats the claim almost verbatim, adding no new information or verifiable facts.",
+    "X3": "The passage discusses human rights training and integration into operations, which is related to the claim's topic but does not directly address the specific framework or actions mentioned in the claim."
+   },
+   "comment": ""
+  },
+  {
+   "claim_id": "P05",
+   "report": "advanc-2024-SR-en",
+   "section": "Environmental Data",
+   "page": "1471",
+   "sdg_targets": "12.6, 13.2",
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 2,
+   "S_runs": [
+    2,
+    2,
+    2
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 1,
+   "T_runs": [
+    1,
+    1,
+    1
+   ],
+   "E": 2,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "None",
+    "X1": "Extend",
+    "X2": "Related",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": false
+   },
+   "C": 1,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.2,
+   "SMTE": 1.25,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim specifies the action of emissions reporting and verification by a third-party auditor, and it refers to an expanded reporting scope, which provides a defined scope.",
+    "M": "The claim does not provide any quantifiable data or indicators related to the emissions or their verification.",
+    "T": "The claim states that the emissions have been verified, implying a completed action, but it does not specify when this verification took place.",
+    "E": "The claim mentions independent verification by a third-party auditor, and X1 provides details on the assurance scope, including GRI 305 for emissions, which supports the claim's context."
+   },
+   "label_reason": {
+    "S1": "S1 provides information on GHG data collection and methodology but does not address the verification aspect of the claim.",
+    "S2": "No passage was retrieved for S2.",
+    "X1": "X1 details the assurance scope, including GRI 305 for emissions, which supports the claim about third-party verification.",
+    "X2": "X2 discusses Scope 3 emissions and reduction efforts, which is related to emissions but not the verification claim.",
+    "X3": "X3 mentions the scope of assurance and reporting criteria, which is related to the claim but does not specifically address the verification of emissions."
+   },
+   "comment": ""
+  },
+  {
+   "claim_id": "P06",
+   "report": "advanc-2024-SR-en",
+   "section": "Digital Wellness and Cybersecurity Initiatives",
+   "page": "960",
+   "sdg_targets": "16.3, 16.4, 16.6, 16.a",
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 3,
+   "S_runs": [
+    3,
+    3,
+    3
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 1,
+   "T_runs": [
+    1,
+    1,
+    1
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    2,
+    1
+   ],
+   "labels": {
+    "S1": "None",
+    "S2": "None",
+    "X1": "Redundant",
+    "X2": "Redundant",
+    "X3": "Extend"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": false,
+    "X3": true
+   },
+   "C": 1,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.2,
+   "SMTE": 1.25,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim names the action (launching a service), the named programme (*1185# Aunjai Report End of Scammer service), and the specific scope (forwarding scammer's number to the Central Investigation Bureau).",
+    "M": "The claim does not include any quantifiable data or language of change; it is a plain statement of action.",
+    "T": "The claim mentions that the service was 'launched' but does not provide a specific date or time frame for this action.",
+    "E": "The evidence provided is self-reported and repeats the claim without additional details on data collection methods or external verification."
+   },
+   "label_reason": {
+    "S1": "No passage retrieved.",
+    "S2": "No passage retrieved.",
+    "X1": "This passage repeats the claim verbatim without adding any new information.",
+    "X2": "This passage repeats the claim about launching the service without additional details.",
+    "X3": "This passage provides additional details on how the service functions, including the process for reporting and subsequent actions taken by the Central Investigation Bureau."
+   },
+   "comment": ""
+  },
+  {
+   "claim_id": "P07",
+   "report": "PTT-2024-OR+SR-EN",
+   "section": "Corporate Governance",
+   "page": "10",
+   "sdg_targets": "12.2, 12.6, 12.c, 7.1, 7.b, 8.1, 8.2, 8.3, 8.4",
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 0,
+   "T_runs": [
+    0,
+    0,
+    0
+   ],
+   "E": 0,
+   "E_runs": [
+    0,
+    0,
+    1
+   ],
+   "labels": {
+    "S1": "Redundant",
+    "S2": "Related",
+    "X1": "Related",
+    "X2": "Related",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.2,
+   "SMTE": 0.25,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "unsubstantiated",
+   "rationale": {
+    "S": "The claim names the action of ensuring long-term energy security and providing energy supply at fair prices, but it does not specify a named program, a specific target area, or a defined scope.",
+    "M": "The claim is a plain statement with no indicators, numbers, or language of change.",
+    "T": "There is no time reference or period mentioned in the claim.",
+    "E": "The passages do not provide any supporting information, sources, or methods of data collection that substantiate the claim."
+   },
+   "label_reason": {
+    "S1": "S1 repeats the claim almost verbatim without adding any new information.",
+    "S2": "S2 is related to the topic of energy security and sustainability but does not address the specific content of the claim.",
+    "X1": "X1 discusses the development of future energy solutions, which is related to energy security but does not directly substantiate the claim.",
+    "X2": "X2 is related to maintaining energy supply and security but does not provide specific evidence for the claim.",
+    "X3": "X3 is related to managing energy demand and supply but does not directly support the claim's specifics."
+   },
+   "comment": ""
+  },
+  {
+   "claim_id": "P08",
+   "report": "PTT-2024-OR+SR-EN",
+   "section": "Governance",
+   "page": "131",
+   "sdg_targets": "16.3, 16.5, 16.6",
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 0,
+   "T_runs": [
+    0,
+    0,
+    0
+   ],
+   "E": 2,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "labels": {
+    "S1": "None",
+    "S2": "None",
+    "X1": "Extend",
+    "X2": "Related",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 1,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.8,
+   "SMTE": 0.75,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "unsubstantiated",
+   "rationale": {
+    "S": "The claim names the action of achieving 'zero non-compliance with the law' but does not specify a named program, a specific location, or a defined scope.",
+    "M": "The claim is a plain statement with no indicators or language of change, such as numbers or comparisons.",
+    "T": "There is no time reference in the claim, making it impossible to determine when the zero non-compliance was achieved.",
+    "E": "The evidence includes a description of compliance management processes, goals, and performance indicators, which suggests a method of data collection and analysis, but there is no mention of external assurance or certification."
+   },
+   "label_reason": {
+    "S1": "No passage was retrieved for S1.",
+    "S2": "No passage was retrieved for S2.",
+    "X1": "This passage provides detailed information on compliance management processes and performance indicators, which supports and extends the claim by offering verifiable facts.",
+    "X2": "The passage is related to compliance in terms of human rights violations but does not directly address the claim of zero non-compliance with the law.",
+    "X3": "The passage discusses legal compliance history but does not directly address the specific claim of zero non-compliance with the law."
+   },
+   "comment": ""
+  },
+  {
+   "claim_id": "P09",
+   "report": "advanc-2024-SR-en",
+   "section": "Waste Management",
+   "page": "91",
+   "sdg_targets": "11.6, 12.4, 12.5, 12.a, 9.4, 9.5, 9.b",
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 3,
+   "S_runs": [
+    3,
+    3,
+    3
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 2,
+   "T_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2,
+   "E_runs": [
+    2,
+    2,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Extend",
+    "X2": "Redundant",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 1,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.6,
+   "SMTE": 1.75,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim specifies the action (using blockchain technology to manage e-waste), the named program (AIS E-Waste+ application), and the scope (awarded WSIS Prize 2024 for Action Lines C7 E-Environment).",
+    "M": "The claim does not include any quantitative data or language of change; it is a statement of an award received.",
+    "T": "The claim includes a specific time point, the year 2024, when the WSIS Prize was awarded.",
+    "E": "The evidence provides details about the award and the AIS E-Waste+ application, including the use of blockchain technology and the scope of the project, but lacks external assurance or certification."
+   },
+   "label_reason": {
+    "S1": "The passage discusses e-waste management achievements but does not mention the WSIS Prize or the AIS E-Waste+ application.",
+    "S2": "This passage relates to e-waste management efforts but does not address the specific claim about the WSIS Prize or the AIS E-Waste+ application.",
+    "X1": "This passage provides additional details about the WSIS Prize, the use of blockchain technology, and the AIS E-Waste+ application, supporting the claim.",
+    "X2": "This passage repeats the claim about the WSIS Prize and the AIS E-Waste+ application without adding new information.",
+    "X3": "The passage includes visual elements and mentions the WSIS Prize but does not provide additional verifiable information specific to the claim."
+   },
+   "comment": ""
+  },
+  {
+   "claim_id": "P10",
+   "report": "IVL-2024-SR-EN",
+   "section": "Value Creation",
+   "page": "198",
+   "sdg_targets": "12.2, 12.6, 13.2, 7.3",
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 2,
+   "S_runs": [
+    2,
+    2,
+    2
+   ],
+   "M": 2,
+   "M_runs": [
+    2,
+    2,
+    2
+   ],
+   "T": 2,
+   "T_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Contradicts",
+    "S2": "Contradicts",
+    "X1": "Extend",
+    "X2": "Contradicts",
+    "X3": "Contradicts"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 1,
+   "nothing_to_check": false,
+   "contradicts_slots": [
+    "S1",
+    "S2",
+    "X2",
+    "X3"
+   ],
+   "SMTEC": 1.6,
+   "SMTE": 1.75,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim specifies the action (GHG intensity reduction) and the scope (Scope 1 & 2), but it does not mention a named programme or specific target area.",
+    "M": "The claim provides a specific percentage (4.49%) for the reduction but lacks a baseline or target for comparison.",
+    "T": "The claim refers to a specific time point, 2024, indicating when the progress was measured.",
+    "E": "The evidence pack provides figures and some context but lacks details on the method of data collection, source, or external assurance."
+   },
+   "label_reason": {
+    "S1": "S1 states a 6.44% reduction, which contradicts the claim of a 4.49% reduction.",
+    "S2": "S2 mentions a 4.09% intensity increase, which contradicts the claim of a 4.49% reduction.",
+    "X1": "X1 provides a specific intensity figure (0.5855 tCO₂e/ton) and ties it to the 4.49% reduction, supporting the claim with additional data.",
+    "X2": "X2 projects a 1.09% reduction for 2024, conflicting with the claim of a 4.49% reduction.",
+    "X3": "X3 repeats the 1.09% reduction projection for 2024, contradicting the claim of a 4.49% reduction."
+   },
+   "comment": ""
+  },
+  {
+   "claim_id": "P11",
+   "report": "IVL-2024-SR-EN",
+   "section": "Data Reporting, Verification, and Report Assurance",
+   "page": "2409",
+   "sdg_targets": "12.6, 13.2",
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 2,
+   "S_runs": [
+    2,
+    3,
+    2
+   ],
+   "M": 2,
+   "M_runs": [
+    2,
+    2,
+    2
+   ],
+   "T": 1,
+   "T_runs": [
+    1,
+    1,
+    1
+   ],
+   "E": 3,
+   "E_runs": [
+    3,
+    3,
+    3
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Related",
+    "X2": "Extend",
+    "X3": "Extend"
+   },
+   "label_agreement": {
+    "S1": false,
+    "S2": false,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 2,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 2.0,
+   "SMTE": 2.0,
+   "tier_SMTEC": "substantiated",
+   "tier_SMTE": "substantiated",
+   "rationale": {
+    "S": "The claim specifies the action of GHG accounting, verification, and assurance in accordance with ISO standards, which defines the scope. However, it does not name a specific program or target area.",
+    "M": "The claim includes a quantifiable element, '100% GHG Accounting,' but lacks a baseline or comparator to fully contextualize the measurement.",
+    "T": "The claim states that the action has been completed ('100%'), but it does not provide a specific date or time period for when this was achieved.",
+    "E": "The evidence includes external assurance by TÜV Nord Cert GmbH, verifying the GHG data in accordance with ISO 14064-1 and ISO 14064-3, which directly supports the claim."
+   },
+   "label_reason": {
+    "S1": "This passage discusses reporting certification and assurance in accordance with different standards (GRI, <IR>, AA1000AS), not ISO 14064.",
+    "S2": "This passage describes adherence to GRI standards and the IIRC framework, which are not related to the ISO standards mentioned in the claim.",
+    "X1": "This passage discusses GHG accounting following the GHG Protocol, which is related to the topic but does not address the specific ISO standards or assurance mentioned in the claim.",
+    "X2": "This passage confirms that the GHG statement is prepared in accordance with ISO 14064-1, providing evidence that supports part of the claim.",
+    "X3": "This passage verifies that TÜV Nord Cert GmbH has assured the GHG data in accordance with ISO 14064-1 and ISO 14064-3, directly supporting the claim."
+   },
+   "comment": ""
+  },
+  {
+   "claim_id": "P12",
+   "report": "IVL-2024-SR-EN",
+   "section": "Double Materiality Assessment",
+   "page": "2230",
+   "sdg_targets": "12.6, 17.14, 17.16, 17.17, 17.18",
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 2,
+   "S_runs": [
+    2,
+    2,
+    2
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 2,
+   "T_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 2,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "None",
+    "X1": "Extend",
+    "X2": "Related",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": false,
+    "X2": true,
+    "X3": true
+   },
+   "C": 1,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.4,
+   "SMTE": 1.5,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim specifies the action of conducting an assessment aligned with multiple standards, which defines the scope of the activity, but it does not mention a specific program or target area.",
+    "M": "The claim does not include any quantifiable data or language of change; it is a plain statement about alignment with standards.",
+    "T": "The claim specifies a single time point, 'In 2024,' indicating when the assessment was conducted.",
+    "E": "The passages provide details about the alignment with specific standards and the scope of the assessment, which supports the claim with verifiable information about the standards and scope."
+   },
+   "label_reason": {
+    "S1": "The passage discusses materiality assessments but does not specifically address the alignment with the standards mentioned in the claim.",
+    "S2": "No passage was retrieved for S2.",
+    "X1": "This passage provides additional context about the alignment with the standards and the purpose of the assessment, supporting the claim with verifiable details.",
+    "X2": "The passage discusses alignment with sustainability standards but does not specifically mention the assessment conducted in 2024.",
+    "X3": "The passage mentions alignment with standards but does not specifically address the 2024 assessment or provide additional details about it."
+   },
+   "comment": ""
+  },
+  {
+   "claim_id": "P13",
+   "report": "IVL-2024-SR-EN",
+   "section": "Value Creation",
+   "page": "198",
+   "sdg_targets": "11.6, 12.4, 12.5",
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 2,
+   "M_runs": [
+    2,
+    2,
+    2
+   ],
+   "T": 2,
+   "T_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 0,
+   "E_runs": [
+    0,
+    1,
+    0
+   ],
+   "labels": {
+    "S1": "Unrelated",
+    "S2": "Unrelated",
+    "X1": "Contradicts",
+    "X2": "Related",
+    "X3": "Unrelated"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [
+    "X1"
+   ],
+   "SMTEC": 1.0,
+   "SMTE": 1.25,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim specifies an action (diverting process waste from landfill) but does not name a specific program, place, or defined scope.",
+    "M": "The claim includes a specific percentage (71%) of waste diverted from landfill, but lacks a baseline or target for comparison.",
+    "T": "The claim specifies a single time point, '2024', indicating when the progress was measured.",
+    "E": "None of the passages provide supporting information, a source, or a method of data collection for the specific claim of 71% waste diversion in 2024."
+   },
+   "label_reason": {
+    "S1": "The passage mentions a 6.44% reduction but does not relate to waste diversion from landfill.",
+    "S2": "The passage discusses PET bale input and bottle recycling, not process waste diversion.",
+    "X1": "This passage states 92.51% waste diverted from landfill, conflicting with the claim of 71%.",
+    "X2": "This passage discusses waste diversion percentages but does not directly address the specific claim of 71% process waste diversion.",
+    "X3": "The passage discusses recycled PET feedstock and plastic waste, not process waste diversion."
+   },
+   "comment": ""
+  },
+  {
+   "claim_id": "P14",
+   "report": "PTTGC-2024-IR-EN",
+   "section": "Environmental Performance",
+   "page": "114",
+   "sdg_targets": "12.2, 12.4, 12.5, 12.6, 14.1, 17.16, 17.17",
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 3,
+   "S_runs": [
+    3,
+    3,
+    3
+   ],
+   "M": 2,
+   "M_runs": [
+    2,
+    2,
+    2
+   ],
+   "T": 3,
+   "T_runs": [
+    3,
+    3,
+    3
+   ],
+   "E": 3,
+   "E_runs": [
+    3,
+    3,
+    3
+   ],
+   "labels": {
+    "S1": "Unrelated",
+    "S2": "Unrelated",
+    "X1": "Redundant",
+    "X2": "Extend",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 1,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 2.4,
+   "SMTE": 2.75,
+   "tier_SMTEC": "substantiated",
+   "tier_SMTE": "substantiated",
+   "rationale": {
+    "S": "The claim is specific as it names the action (integrated used plastic management system), the programme ('GC YOUTURN'), and provides a defined scope (280 Drop Points and 1,400 tons of plastic waste managed).",
+    "M": "The claim includes numbers (280 Drop Points, 1,400 tons of plastic waste) but lacks a baseline or target for comparison.",
+    "T": "The claim specifies a time period from 2022 to 2024, allowing for tracking of progress over multiple years.",
+    "E": "The evidence includes a certification (BS 8001:2017) for the GC YOUTURN Platform, which is directly tied to the claim's data, indicating external assurance."
+   },
+   "label_reason": {
+    "S1": "The passage discusses product R&D and innovations, which are not related to the plastic management system claim.",
+    "S2": "This passage focuses on PCR PET projects and market opportunities, unrelated to the specific claim about the GC YOUTURN project.",
+    "X1": "This passage repeats the claim verbatim without adding new information.",
+    "X2": "The passage provides additional information about the certification (BS 8001:2017) and the greenhouse gas reduction, extending the claim.",
+    "X3": "The passage discusses broader sustainability efforts and challenges but does not specifically address the GC YOUTURN project."
+   },
+   "comment": ""
+  },
+  {
+   "claim_id": "P15",
+   "report": "SCC-2024-SR-EN",
+   "section": "Message from President & CEO",
+   "page": "25",
+   "sdg_targets": "11.3, 11.6, 11.b, 13.2, 9.2, 9.4",
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 2,
+   "S_runs": [
+    2,
+    2,
+    2
+   ],
+   "M": 2,
+   "M_runs": [
+    2,
+    2,
+    2
+   ],
+   "T": 2,
+   "T_runs": [
+    2,
+    2,
+    2
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Extend",
+    "S2": "Unrelated",
+    "X1": "Related",
+    "X2": "Related",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.4,
+   "SMTE": 1.75,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim specifies the action of promoting low-carbon cement usage in government construction projects and provides a defined scope with an 80% substitution rate, but it does not name a specific programme.",
+    "M": "The claim includes a quantifiable measure with the 'over 80% substitution rate' but lacks a baseline or target for comparison.",
+    "T": "The claim specifies a time point by stating 'in 2024,' indicating when the accomplishments occurred.",
+    "E": "The evidence is self-reported with figures, but there is no method of collection, source, or external assurance provided for the claim."
+   },
+   "label_reason": {
+    "S1": "S1 provides additional context by confirming the use of low-carbon cement in government projects with over 80% substitution, supporting the claim with more detail.",
+    "S2": "S2 discusses greenhouse gas emissions reduction but does not address the specific claim about low-carbon cement usage.",
+    "X1": "X1 mentions low-carbon cement export markets but does not directly address the claim about government construction projects.",
+    "X2": "X2 mentions low-carbon cement production reducing GHG emissions, which is related to the topic but not specific to the claim's context.",
+    "X3": "X3 discusses the development and promotion of low-carbon cement but does not specifically address the claim about government projects or the 80% substitution rate."
+   },
+   "comment": ""
+  },
+  {
+   "claim_id": "P16",
+   "report": "IVL-2024-SR-EN",
+   "section": "Human Rights",
+   "page": "1284",
+   "sdg_targets": "16.3, 16.6, 16.b, 8.7, 8.8",
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 0,
+   "M_runs": [
+    0,
+    0,
+    0
+   ],
+   "T": 1,
+   "T_runs": [
+    1,
+    1,
+    1
+   ],
+   "E": 2,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "labels": {
+    "S1": "Extend",
+    "S2": "Extend",
+    "X1": "Extend",
+    "X2": "Redundant",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": false,
+    "S2": false,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 1,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.0,
+   "SMTE": 1.0,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim names the issue of human rights violations but does not specify a program, location, or defined scope.",
+    "M": "The claim is a plain statement without any quantification or language of change.",
+    "T": "The claim states that no violations were recorded but does not provide a specific time reference.",
+    "E": "The evidence includes self-reported assessments and risk evaluations, but it lacks details on the methods or external assurance, although it does reference a due diligence report."
+   },
+   "label_reason": {
+    "S1": "Addresses the topic of human rights risks but does not directly support the claim about no significant issues or violations.",
+    "S2": "Mentions human rights risk assessments but does not directly verify the claim of no significant issues or violations.",
+    "X1": "Provides additional information on supplier assessments and the absence of human rights complaints, supporting the claim.",
+    "X2": "Repeats the claim about no significant human rights issues without adding new information.",
+    "X3": "Suggests further reading for comprehensive insights but does not directly support the claim."
+   },
+   "comment": ""
+  },
+  {
+   "claim_id": "P17",
+   "report": "advanc-2024-SR-en",
+   "section": "Office Waste Management",
+   "page": "1320",
+   "sdg_targets": "11.6, 12.4, 12.5",
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 2,
+   "S_runs": [
+    2,
+    2,
+    2
+   ],
+   "M": 2,
+   "M_runs": [
+    2,
+    2,
+    2
+   ],
+   "T": 1,
+   "T_runs": [
+    1,
+    1,
+    1
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Contradicts",
+    "X2": "Related",
+    "X3": "Contradicts"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [
+    "X1",
+    "X3"
+   ],
+   "SMTEC": 1.2,
+   "SMTE": 1.5,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim specifies the action (reduction in e-waste to landfills) and provides a defined scope (98 tons), but it does not name a specific program or project.",
+    "M": "The claim provides a specific quantity (98 tons) but lacks a baseline or target for comparison.",
+    "T": "The claim indicates that the reduction has been achieved but does not specify when this occurred.",
+    "E": "The evidence provides related information but lacks details on the method of data collection or external verification specific to the 98 tons of e-waste reduction."
+   },
+   "label_reason": {
+    "S1": "The passage mentions involvement in a waste separation campaign but does not address the specific claim of reducing e-waste by 98 tons.",
+    "S2": "This passage discusses waste separation efforts but does not provide information specific to the 98 tons of e-waste reduction.",
+    "X1": "This passage states zero e-waste to landfill, which conflicts with the claim of 98 tons of e-waste reduction to landfills.",
+    "X2": "While it discusses e-waste management, it does not specifically address the reduction of 98 tons of e-waste to landfills.",
+    "X3": "This passage maintains zero e-waste to landfill, conflicting with the claim of a 98-ton reduction to landfills."
+   },
+   "comment": ""
+  },
+  {
+   "claim_id": "P18",
+   "report": "PTT-2024-OR+SR-EN",
+   "section": "Corporate Governance",
+   "page": "10",
+   "sdg_targets": "11.3, 11.6, 11.b, 12.2, 12.6, 12.8, 15.1, 15.5",
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 1,
+   "S_runs": [
+    1,
+    1,
+    1
+   ],
+   "M": 1,
+   "M_runs": [
+    1,
+    1,
+    1
+   ],
+   "T": 0,
+   "T_runs": [
+    0,
+    0,
+    0
+   ],
+   "E": 2,
+   "E_runs": [
+    2,
+    2,
+    2
+   ],
+   "labels": {
+    "S1": "Redundant",
+    "S2": "Related",
+    "X1": "Redundant",
+    "X2": "Related",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": false,
+    "X3": true
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 0.8,
+   "SMTE": 1.0,
+   "tier_SMTEC": "unsubstantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim names the actions of exercising environmental stewardship and enhancing quality of life, but it does not specify a named programme, a specific location, or a defined scope.",
+    "M": "The claim uses language of change with words like 'enhancing' and 'exercising,' but it does not provide any numerical indicators or specific measurements.",
+    "T": "The claim does not provide any time reference or period for the actions or achievements mentioned.",
+    "E": "The evidence includes awards and certifications that imply external validation, such as the Carbon Footprint for Organization certification, but does not directly tie these to the specific claim about environmental stewardship and quality of life enhancement."
+   },
+   "label_reason": {
+    "S1": "S1 repeats the claim almost verbatim, adding no new information or verifiable facts.",
+    "S2": "S2 discusses corporate governance and sustainability principles but does not directly address the specific claim about environmental stewardship or quality of life.",
+    "X1": "X1 repeats the claim in a similar manner without adding any new verifiable information.",
+    "X2": "X2 provides information on awards and recognitions related to sustainability but does not directly extend the specific claim about environmental stewardship or quality of life.",
+    "X3": "X3 discusses corporate social responsibility and sustainable development projects, which are related to the claim's themes but do not directly extend or verify the specific claim."
+   },
+   "comment": ""
+  },
+  {
+   "claim_id": "P19",
+   "report": "PTTGC-2024-IR-EN",
+   "section": "Safety and Risk Management",
+   "page": "1321",
+   "sdg_targets": "12.5, 12.6, 8.3, 8.5, 8.8, 9.2, 9.4",
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 2,
+   "S_runs": [
+    1,
+    2,
+    2
+   ],
+   "M": 1,
+   "M_runs": [
+    1,
+    0,
+    1
+   ],
+   "T": 1,
+   "T_runs": [
+    1,
+    1,
+    1
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Redundant",
+    "X2": "Related",
+    "X3": "Related"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": false,
+    "X3": false
+   },
+   "C": 0,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.0,
+   "SMTE": 1.25,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim names the action (transforming into a Zero ICU organization) and includes a specific target area (Zero Incident, Zero Complaint, Zero Unplanned Shutdown), but it does not mention a named program or project.",
+    "M": "The claim uses language of change ('transform'), but it does not provide any numerical indicators or targets.",
+    "T": "The claim uses vague temporal language ('eventually'), indicating a future goal without specifying a time frame.",
+    "E": "The evidence provided is self-reported and includes some figures and achievements, but it lacks a detailed method of data collection, source, or external assurance."
+   },
+   "label_reason": {
+    "S1": "S1 discusses the development of safety standards, which is related to the claim's topic but does not directly address the Zero ICU transformation.",
+    "S2": "S2 mentions strengthening safety culture, which is related to the claim's context but does not provide specific information about the Zero ICU goal.",
+    "X1": "X1 repeats the claim about transforming into a Zero ICU organization without adding new information.",
+    "X2": "X2 provides additional information about past achievements related to safety, which supports the claim by showing progress towards the Zero ICU goal.",
+    "X3": "X3 gives further details on the Zero ICU target and the principles under the B-CARES safety culture, supporting the claim with context and related actions."
+   },
+   "comment": ""
+  },
+  {
+   "claim_id": "P20",
+   "report": "advanc-2024-SR-en",
+   "section": "Green Energy Green Network for THAIs",
+   "page": "870",
+   "sdg_targets": "11.3, 11.a, 11.b, 17.14, 17.16, 17.17, 9.1, 9.2, 9.4, 9.a",
+   "prompt_version": "V4-2026-10-23",
+   "prompt_sha256": "87533a24ad7c3c535fd052eab20b34af4d202eea8ba2b9536ad7bf6e94066f90",
+   "n_runs": 3,
+   "S": 2,
+   "S_runs": [
+    2,
+    2,
+    2
+   ],
+   "M": 1,
+   "M_runs": [
+    1,
+    1,
+    1
+   ],
+   "T": 0,
+   "T_runs": [
+    0,
+    1,
+    0
+   ],
+   "E": 1,
+   "E_runs": [
+    1,
+    1,
+    1
+   ],
+   "labels": {
+    "S1": "Related",
+    "S2": "Related",
+    "X1": "Unrelated",
+    "X2": "Unrelated",
+    "X3": "Extend"
+   },
+   "label_agreement": {
+    "S1": true,
+    "S2": true,
+    "X1": true,
+    "X2": true,
+    "X3": true
+   },
+   "C": 1,
+   "nothing_to_check": false,
+   "contradicts_slots": [],
+   "SMTEC": 1.0,
+   "SMTE": 1.0,
+   "tier_SMTEC": "partially_substantiated",
+   "tier_SMTE": "partially_substantiated",
+   "rationale": {
+    "S": "The claim names an action (develop strategies for expanding) and a named project (Green Energy Green Network for THAIs), but it does not specify a target area or defined scope for the expansion.",
+    "M": "The claim uses language of change ('achieve sustainable change') but provides no numerical indicators or quantifiable targets.",
+    "T": "The claim does not provide any time reference or period for when the strategies will be developed or the sustainable change will be achieved.",
+    "E": "The evidence provides some figures and descriptions related to the project but lacks detailed methods of data collection, sources, or external assurance."
+   },
+   "label_reason": {
+    "S1": "S1 discusses the positive impacts of the project in its first year but does not address the claim about developing strategies for expansion.",
+    "S2": "S2 provides a specific social return value related to the project but does not directly support the claim about strategy development for expansion.",
+    "X1": "X1 talks about a review process for stakeholder feedback, which is not related to the claim about strategy development for expansion.",
+    "X2": "X2 discusses plans for integrating GHG emissions data into decision-making, which is unrelated to the claim about the project strategies.",
+    "X3": "X3 provides detailed information about the project, including its scope and impact, which supports the context of the claim about developing strategies for expansion."
+   },
+   "comment": ""
+  }
+ ]
+}

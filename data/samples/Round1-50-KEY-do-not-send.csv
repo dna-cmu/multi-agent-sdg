@@ -1,0 +1,51 @@
+claim_id,uid,company,sector,report,claim_type,stratum,weight,v7_S,v7_M,v7_T,v7_E,v7_C,v7_tier,absence_flag,phase1_row,phase2_row
+R01,PTTGC-2024-IR-EN::CLM-0094,PTTGC,Energy,PTTGC-2024-IR-EN,achievement,PTTGC|achievement,19.5,2,0,2,1,3,partially_substantive,False,1,3
+R02,IVL-2024-SR-EN::CLM-0048,IVL,Construction Materials,IVL-2024-SR-EN,metric,IVL|metric,26.5,2,2,0,1,3,partially_substantive,False,2,35
+R03,CPN-2024-OR+SR-EN::CLM-0049,CPN,Real Estate,CPN-2024-OR+SR-EN,commitment,CPN|commitment,10.0,2,0,0,1,3,partially_substantive,False,3,1
+R04,IVL-2024-SR-EN::CLM-0209,IVL,Construction Materials,IVL-2024-SR-EN,commitment,IVL|commitment,27.667,2,0,1,1,3,partially_substantive,False,4,38
+R05,PTT-2024-OR+SR-EN::CLM-0114,PTT,Energy,PTT-2024-OR+SR-EN,commitment,PTT|commitment,13.8,1,0,0,1,3,partially_substantive,False,5,36
+R06,CPN-2024-OR+SR-EN::CLM-0050,CPN,Real Estate,CPN-2024-OR+SR-EN,alignment,CPN|alignment,4.0,2,0,0,1,3,partially_substantive,False,6,20
+R07,CPN-2024-OR+SR-EN::CLM-0028,CPN,Real Estate,CPN-2024-OR+SR-EN,commitment,CPN|commitment,10.0,2,2,3,1,3,substantive,True,7,43
+R08,SCC-2024-SR-EN::CLM-0089,SCC,Construction Materials,SCC-2024-SR-EN,achievement,SCC|achievement,12.0,2,0,2,1,3,partially_substantive,False,8,21
+R09,PTT-2024-OR+SR-EN::CLM-0054,PTT,Energy,PTT-2024-OR+SR-EN,metric,PTT|metric,14.0,2,2,2,1,1,partially_substantive,False,9,9
+R10,advanc-2024-SR-en::CLM-0064,ADVANC,Telecommunications,advanc-2024-SR-en,commitment,ADVANC|commitment,20.75,1,0,1,1,3,partially_substantive,True,10,10
+R11,advanc-2024-SR-en::CLM-0144,ADVANC,Telecommunications,advanc-2024-SR-en,achievement,ADVANC|achievement,22.0,3,2,2,1,3,substantive,False,11,18
+R12,IVL-2024-SR-EN::CLM-0056,IVL,Construction Materials,IVL-2024-SR-EN,alignment,IVL|alignment,15.0,2,0,2,1,3,partially_substantive,False,12,12
+R13,advanc-2024-SR-en::CLM-0162,ADVANC,Telecommunications,advanc-2024-SR-en,policy,ADVANC|policy,10.0,1,0,0,1,1,symbolic,True,13,48
+R14,CPN-2024-OR+SR-EN::CLM-0039,CPN,Real Estate,CPN-2024-OR+SR-EN,achievement,CPN|achievement,12.0,2,2,2,3,3,substantive,False,14,16
+R15,advanc-2024-SR-en::CLM-0186,ADVANC,Telecommunications,advanc-2024-SR-en,metric,ADVANC|metric,24.0,2,2,2,1,1,partially_substantive,False,15,34
+R16,IVL-2024-SR-EN::CLM-0156,IVL,Construction Materials,IVL-2024-SR-EN,metric,IVL|metric,26.5,2,2,0,1,3,partially_substantive,False,16,37
+R17,PTT-2024-OR+SR-EN::CLM-0013,PTT,Energy,PTT-2024-OR+SR-EN,achievement,PTT|achievement,10.0,2,2,3,3,3,substantive,False,17,15
+R18,CPN-2024-OR+SR-EN::CLM-0017,CPN,Real Estate,CPN-2024-OR+SR-EN,commitment,CPN|commitment,10.0,1,0,0,1,3,partially_substantive,False,18,14
+R19,SCC-2024-SR-EN::CLM-0073,SCC,Construction Materials,SCC-2024-SR-EN,policy,SCC|policy,13.0,2,0,0,3,3,partially_substantive,True,19,19
+R20,PTT-2024-OR+SR-EN::CLM-0035,PTT,Energy,PTT-2024-OR+SR-EN,commitment,PTT|commitment,13.8,1,0,0,1,3,partially_substantive,False,20,31
+R21,PTTGC-2024-IR-EN::CLM-0108,PTTGC,Energy,PTTGC-2024-IR-EN,commitment,PTTGC|commitment,14.4,2,0,2,1,3,partially_substantive,False,21,45
+R22,PTT-2024-OR+SR-EN::CLM-0108,PTT,Energy,PTT-2024-OR+SR-EN,policy,PTT|policy,6.0,1,0,0,1,3,partially_substantive,False,22,22
+R23,IVL-2024-SR-EN::CLM-0162,IVL,Construction Materials,IVL-2024-SR-EN,commitment,IVL|commitment,27.667,2,0,3,1,3,partially_substantive,False,23,4
+R24,IVL-2024-SR-EN::CLM-0094,IVL,Construction Materials,IVL-2024-SR-EN,achievement,IVL|achievement,26.0,2,2,0,1,1,partially_substantive,False,24,26
+R25,advanc-2024-SR-en::CLM-0173,ADVANC,Telecommunications,advanc-2024-SR-en,alignment,ADVANC|alignment,8.0,2,0,0,3,3,partially_substantive,True,25,23
+R26,PTTGC-2024-IR-EN::CLM-0157,PTTGC,Energy,PTTGC-2024-IR-EN,commitment,PTTGC|commitment,14.4,2,0,0,1,3,partially_substantive,False,26,2
+R27,SCC-2024-SR-EN::CLM-0090,SCC,Construction Materials,SCC-2024-SR-EN,commitment,SCC|commitment,17.25,2,0,2,1,3,partially_substantive,False,27,42
+R28,SCC-2024-SR-EN::CLM-0057,SCC,Construction Materials,SCC-2024-SR-EN,commitment,SCC|commitment,17.25,1,0,0,1,1,symbolic,False,28,5
+R29,IVL-2024-SR-EN::CLM-0255,IVL,Construction Materials,IVL-2024-SR-EN,commitment,IVL|commitment,27.667,1,0,0,1,1,symbolic,True,29,6
+R30,IVL-2024-SR-EN::CLM-0082,IVL,Construction Materials,IVL-2024-SR-EN,policy,IVL|policy,19.0,2,0,0,1,3,partially_substantive,False,30,49
+R31,PTTGC-2024-IR-EN::CLM-0062,PTTGC,Energy,PTTGC-2024-IR-EN,achievement,PTTGC|achievement,19.5,2,0,2,1,3,partially_substantive,False,31,44
+R32,PTT-2024-OR+SR-EN::CLM-0016,PTT,Energy,PTT-2024-OR+SR-EN,commitment,PTT|commitment,13.8,1,0,0,1,3,partially_substantive,False,32,27
+R33,IVL-2024-SR-EN::CLM-0139,IVL,Construction Materials,IVL-2024-SR-EN,achievement,IVL|achievement,26.0,2,0,1,2,3,partially_substantive,False,33,29
+R34,PTTGC-2024-IR-EN::CLM-0086,PTTGC,Energy,PTTGC-2024-IR-EN,policy,PTTGC|policy,11.0,2,2,2,1,3,substantive,True,34,28
+R35,PTTGC-2024-IR-EN::CLM-0144,PTTGC,Energy,PTTGC-2024-IR-EN,commitment,PTTGC|commitment,14.4,2,0,1,1,3,partially_substantive,False,35,24
+R36,SCC-2024-SR-EN::CLM-0081,SCC,Construction Materials,SCC-2024-SR-EN,commitment,SCC|commitment,17.25,2,3,2,1,3,substantive,False,36,30
+R37,PTTGC-2024-IR-EN::CLM-0122,PTTGC,Energy,PTTGC-2024-IR-EN,metric,PTTGC|metric,16.0,2,2,2,1,1,partially_substantive,False,37,47
+R38,CPN-2024-OR+SR-EN::CLM-0069,CPN,Real Estate,CPN-2024-OR+SR-EN,commitment,CPN|commitment,10.0,1,0,3,1,1,partially_substantive,True,38,7
+R39,SCC-2024-SR-EN::CLM-0094,SCC,Construction Materials,SCC-2024-SR-EN,achievement,SCC|achievement,12.0,2,0,2,1,1,partially_substantive,False,39,39
+R40,PTT-2024-OR+SR-EN::CLM-0089,PTT,Energy,PTT-2024-OR+SR-EN,commitment,PTT|commitment,13.8,1,0,0,1,3,partially_substantive,False,40,50
+R41,CPN-2024-OR+SR-EN::CLM-0065,CPN,Real Estate,CPN-2024-OR+SR-EN,policy,CPN|policy,6.0,1,0,0,1,3,partially_substantive,False,41,40
+R42,advanc-2024-SR-en::CLM-0115,ADVANC,Telecommunications,advanc-2024-SR-en,achievement,ADVANC|achievement,22.0,2,0,1,1,3,partially_substantive,False,42,8
+R43,SCC-2024-SR-EN::CLM-0083,SCC,Construction Materials,SCC-2024-SR-EN,commitment,SCC|commitment,17.25,2,2,2,1,3,substantive,True,43,33
+R44,PTTGC-2024-IR-EN::CLM-0135,PTTGC,Energy,PTTGC-2024-IR-EN,commitment,PTTGC|commitment,14.4,3,2,2,1,3,substantive,False,44,13
+R45,PTTGC-2024-IR-EN::CLM-0126,PTTGC,Energy,PTTGC-2024-IR-EN,commitment,PTTGC|commitment,14.4,1,0,0,3,3,partially_substantive,False,45,11
+R46,advanc-2024-SR-en::CLM-0028,ADVANC,Telecommunications,advanc-2024-SR-en,commitment,ADVANC|commitment,20.75,1,0,0,1,3,partially_substantive,True,46,46
+R47,SCC-2024-SR-EN::CLM-0128,SCC,Construction Materials,SCC-2024-SR-EN,metric,SCC|metric,11.0,2,0,0,2,3,partially_substantive,True,47,32
+R48,advanc-2024-SR-en::CLM-0076,ADVANC,Telecommunications,advanc-2024-SR-en,commitment,ADVANC|commitment,20.75,1,0,1,1,3,partially_substantive,False,48,17
+R49,advanc-2024-SR-en::CLM-0070,ADVANC,Telecommunications,advanc-2024-SR-en,commitment,ADVANC|commitment,20.75,2,0,0,1,3,partially_substantive,False,49,25
+R50,PTT-2024-OR+SR-EN::CLM-0019,PTT,Energy,PTT-2024-OR+SR-EN,commitment,PTT|commitment,13.8,1,0,0,1,3,partially_substantive,False,50,41
