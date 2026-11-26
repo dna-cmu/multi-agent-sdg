@@ -25,6 +25,7 @@ Read this first: the held-out evaluation in the paper does **not** validate the 
 | `data/ratings_round1/` | Held-out evaluation: the four raters' ratings (codes A–D), the framework's scores for the same 60 claims, the claim key, and aggregate analysis outputs. |
 | `data/revision/`, `data/validation/`, `data/experiments/` | Tables behind the analyses in the paper and its Supplementary Information. |
 | `audits/` | The authors' audits of the upstream stages (SI §S16): scoring rules fixed in advance, forms, both authors' answers, answer keys, resolution files, results and the audit log. |
+| `audits/extraction_rerun/`, `data/extraction_rerun/`, `code/extraction_rerun/` | Re-run of the extraction step on the full text of all 30 reports (SI §S19): plan fixed before the run, results, scripts, every raw extraction response of both passes, the re-extracted claims, and the mappings and scores of the sampled claims. |
 | `data/manifest_2024.csv` | The 30 reports (company, sector, file name). |
 | `VERSIONS.md` | Model snapshots, library versions and seeds. |
 
@@ -54,7 +55,7 @@ An AI assistant was used in this project to write analysis code, to transcribe o
 The files are copied from the authors' working project by `tools/sync_release.py`, which lists what is released and runs safety checks (no keys, no report PDFs, no rater identifiers).
 
 ## Citing
-The release used for the paper (v1.0.0) is archived at https://doi.org/10.5281/zenodo.24550439.
+All releases are archived on Zenodo (all versions: https://doi.org/10.5281/zenodo.24550438). v1.0.0: https://doi.org/10.5281/zenodo.24550439. v1.1.0 adds the extraction re-run.
 
 ## Licence
 Code: MIT (see `LICENSE`). Data and instrument: CC BY 4.0.

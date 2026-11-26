@@ -35,7 +35,7 @@ ROUND1_CLOSED = True                                # panel closed 16 Nov 2026 (
 import json
 _codes = ROOT / "scorer" / "rater-codes-PRIVATE.json"   # private: nickname -> public code; never released
 CODES = {k: v for k, v in json.loads(_codes.read_text()).items() if not k.startswith("_")} if _codes.exists() else {}
-RECODE_DIRS = ("instrument/protocol", "data/revision", "audits", "data/ratings_round1/analysis", "code/round1_analysis")   # text files here are recoded on copy
+RECODE_DIRS = ("instrument/protocol", "data/revision/v4", "audits", "data/ratings_round1/analysis", "code/round1_analysis")   # text files here are recoded on copy
 def recode(text: str) -> str:
     for k, v in CODES.items(): text = re.sub(r"(?<![A-Za-z])(?:Rater |rater )?" + k + r"(?![A-Za-z])", v, text)
     return text
@@ -148,7 +148,11 @@ LATER = [   # released only when ROUND1_CLOSED is True
     ("revision/round1-analysis/Round1-agreement-CI.md",         "data/ratings_round1/analysis"),
     ("revision/round1-analysis/Round1-agreement-CI.csv",        "data/ratings_round1/analysis"),
     ("revision/round1-analysis/Remaining-analyses-10Nov.md",    "data/ratings_round1/analysis"),
-    ("revision/round1-analysis/Round1-sensitivity-without-*.md",    "data/ratings_round1/analysis", "Round1-sensitivity-without-RaterC.md"),
+    ("revision/round1-analysis/Round1-sensitivity-without-*.md",    "data/ratings_round1/analysis", "Round1-sensitivity-without-RaterC.md"),    # ---- re-run of the extraction step on the full text (SI S19) ----
+    ("revision/extraction-rerun/PRESPEC-extraction-rerun-26Nov2026.md", "audits/extraction_rerun"),
+    ("revision/extraction-rerun/RESULTS-extraction-rerun-PRELIMINARY.md", "audits/extraction_rerun"),
+    ("revision/extraction-rerun/*.py",                          "code/extraction_rerun"),
+    (f"{FW}/data/outputs/revision/extraction_rerun/*",          "data/extraction_rerun"),
 ]
 NEVER = ["*.env", "*/scorer/Pilot-Results/*", "*/scorer/handbooks-as-sent/*", ".env", "*.pdf.part", "*/data/reports/*", "*/chunks/*", "*/embeddings/*", "*reviews*", "*Reviewer*",
          "*Editor-Decision*", "*ERBOON*", "*sdg-credibility-web*", "*__pycache__*", "*.pyc", "*.DS_Store",
